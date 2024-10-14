@@ -1,0 +1,27 @@
+---
+layout: default
+
+---
+<h1>Blog Posts</h1>
+  <div class="blog-list">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% assign current_year_month = "" %}
+
+    {% for post in sorted_posts %}
+      {% capture post_year_month %}{{ post.date | date: "%Y-%m" }}{% endcapture %}
+
+      {% if post_year_month != current_year_month %}
+        {% unless current_year_month == "" %}
+          </ul>
+        {% endunless %}
+        <h2>{{ post.date | date: "%B %Y" }}</h2>
+        <ul>
+        {% assign current_year_month = post_year_month %}
+      {% endif %}
+
+      <li>
+        {{ post.date | date_to_string }} » <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>

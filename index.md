@@ -1,35 +1,45 @@
 ---
+layout: default
 title: Home
-layout: home
+nav_order: 1
+description: "Welcome to ryanstewart.com"
+permalink: /
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Welcome. I'm glad you're here.
+{: .fs-9 }
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+I'm a fellowship-trained pelvic surgeon dedicated to improving quality of life through expert treatment of female pelvic floor disorders.
+{: .fs-6 .fw-300 }
 
-More specifically, the created site:
+### My Expertise
+I specialize in treating:
+- Pelvic Organ Prolapse (POP)
+- Urinary Incontinence
+- Overactive Bladder
+- Fecal Incontinence
+- Vaginal Fistulas
+- Recurrent Urinary Tract Infections
+- Genitourinary Syndrome of Menopause (GSM)
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### About Me
+- Fellowship-trained in Female Pelvic Medicine and Reconstructive Surgery (Urogynecology) at the University of Louisville School of Medicine
+- Completed residency in Obstetrics and Gynecology at the Indiana University School of Medicine
+- Graduated from Via College of Osteopathic Medicine in Blacksburg, Virginia
+- Constantly seeking ways to improve patient education, efficiency, and the patient experience.
+- I like backyard chickens, treehouses, computer programming, tinkering, popcorn, bluegrass music, and playing LEGO with my wife and son.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+### My Approach
+Above all, I want patients to know that, just because these conditions are common doesn't mean they're normal. I divide my time equally between office consultations and surgical procedures, ensuring comprehensive care for all patients. I am committed to advancing the field of pelvic health through ongoing research and application of the latest medical research and technology.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### Schedule an Appointment
+- Now accepting new patients
+- No referral necessary
+- In-person and virtual appointments available
+- Most insurance plans accepted
 
-To get started with creating a site, simply:
+<!--[Link button](https://just-the-docs.com){: .btn .btn-blue } -->
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+---
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+*Empowering Women Through Expert Pelvic Care*
