@@ -52,4 +52,4 @@ nav_order: 5
 
 ## Theses
 
-1. Stewart JR. Detection of PAHs as environmental contaminants using an inexpensive Raman Spectrometer: a report of a Senior Thesis [PhD thesis]. Maryville College; 1998.
+1. Stewart JR. Detection of PAHs as environmental contaminants using an inexpensive Raman Spectrometer: a report of a Senior Thesis. Maryville College; 1998.
