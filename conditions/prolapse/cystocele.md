@@ -1,10 +1,31 @@
 ---
-layout: default
+layout: page
 title: Cystocele
 parent: Pelvic Organ Prolapse
 nav_order: 2
 description: "Cystocele (aka Prolapsed Bladder)"
 permalink: /conditions/cystocele
+faq:
+  - question: "What is a cystocele?"
+    answer: "A cystocele, also known as bladder prolapse or anterior vaginal prolapse, is a condition where the front wall of the vagina bulges down toward the vaginal opening, often accompanied by the bladder."
+
+  - question: "What are the common symptoms of cystocele?"
+    answer: "Common symptoms include leakage of urine, a feeling that the bladder or vaginal area has 'dropped', a visible ball or bulge at the vaginal opening, pelvic pressure, lower back discomfort, and difficulty during intercourse."
+
+  - question: "What are the risk factors for developing a cystocele?"
+    answer: "Risk factors include childbirth, advancing age, pelvic trauma, and chronically elevated abdominal pressure from activities like heavy lifting, smoking (leading to chronic cough), obesity, and straining during bowel movements."
+
+  - question: "How is a cystocele diagnosed?"
+    answer: "A cystocele is diagnosed through a pelvic exam performed by a trained physician or medical provider. The exam may include internal and external evaluations, asking the patient to bear down or cough, and possibly using a speculum to evaluate different parts of the vaginal wall."
+
+  - question: "What are the treatment options for cystocele?"
+    answer: "Treatment options include watchful waiting, physical therapy to strengthen pelvic floor muscles and decrease abdominal pressure, home exercises like Kegel exercises, using a pessary device, and surgery."
+
+  - question: "Is surgery always necessary for cystocele?"
+    answer: "No, surgery is not always necessary. Because cystocele is generally not dangerous, treatment decisions are guided by the patient's goals and preferences. Non-surgical options are often tried first, especially for mild cases."
+
+  - question: "What should I expect during a consultation about cystocele?"
+    answer: "During a consultation, your doctor will ask about your symptoms, perform a pelvic exam, discuss your treatment goals, explain the exam findings (often using drawings), and answer any questions you have about available treatments."
 ---
 
 # Understanding Cystocele (Prolapsed Bladder)

@@ -1,10 +1,31 @@
 ---
-layout: default
+layout: page
 title: Uterine Prolapse
 nav_order: 5
 parent: Pelvic Organ Prolapse
 description: "Complete Guide to Uterine Prolapse"
 permalink: /conditions/uterine-prolapse
+faq:
+  - question: "What is uterine prolapse?"
+    answer: "Uterine prolapse occurs when the pelvic floor muscles and ligaments supporting the uterus stretch and weaken, allowing the uterus to descend into or protrude out of the vagina. It's a type of pelvic organ prolapse that primarily affects women who have given birth or those in their postmenopausal years."
+
+  - question: "What are the common causes and risk factors for uterine prolapse?"
+    answer: "Common causes and risk factors include vaginal childbirth (especially multiple births), age and menopause, obesity, chronic coughing or constipation, heavy lifting over many years, family history of pelvic floor disorders, and hysterectomy or other pelvic surgeries."
+
+  - question: "What are the symptoms of uterine prolapse?"
+    answer: "Symptoms can include a feeling of heaviness or pulling in the pelvis, a bulge or protrusion from the vagina, difficulty urinating or having a bowel movement, lower back pain, discomfort during sexual intercourse, and in advanced cases, the cervix or uterus may protrude outside the vagina. However, some women with mild prolapse may not experience any symptoms."
+
+  - question: "How is uterine prolapse diagnosed?"
+    answer: "Diagnosis typically involves a detailed medical history, a pelvic examination, and possibly imaging tests. Your doctor may also perform tests to assess your bladder and bowel function. It's best to consult a urogynecologist or pelvic floor specialist for accurate diagnosis."
+
+  - question: "What are the treatment options for uterine prolapse?"
+    answer: "Treatment options depend on the severity of the condition and personal preferences. Conservative treatments include pelvic floor muscle exercises (Kegels), pelvic floor physical therapy, pessary devices, and lifestyle changes. For more severe cases, surgical options may include vaginal repair, laparoscopic/robotic mesh sacrocolpopexy, and/or hysterectomy with pelvic floor repair."
+
+  - question: "Can uterine prolapse be prevented?"
+    answer: "While not all cases can be prevented, you can reduce your risk by maintaining a healthy weight, practicing pelvic floor exercises throughout your life, treating and preventing constipation, avoiding heavy lifting or using proper lifting techniques, and quitting smoking."
+
+  - question: "When should I seek medical help for potential uterine prolapse?"
+    answer: "You should consult your healthcare provider if you feel a bulge in your vagina, experience persistent pelvic pressure or discomfort, or have difficulty urinating or with bowel movements. Early intervention can often lead to better outcomes and may help avoid more invasive treatments."
 ---
 
 # Understanding Uterine Prolapse: A Comprehensive Guide

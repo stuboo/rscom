@@ -1,10 +1,37 @@
 ---
-layout: default
+layout: page
 title: Pelvic Organ Prolapse
 nav_order: 1
 parent: Conditions
 has_children: true
 permalink: conditions/pelvic-organ-prolapse
+faq:
+  - question: "What is pelvic organ prolapse (POP)?"
+    answer: "Pelvic organ prolapse (POP) is a common condition in women where pelvic tissues and organs move into spaces they wouldn't normally occupy, essentially a type of hernia involving the pelvic organs."
+
+  - question: "What are the types of pelvic organ prolapse?"
+    answer: "There are several types of POP including cystocele (bladder prolapse), rectocele (rectum prolapse), enterocele (small intestine prolapse), urethrocele (urethra prolapse), uterine prolapse, cervical prolapse, and vaginal vault prolapse."
+
+  - question: "What are the common symptoms of pelvic organ prolapse?"
+    answer: "Common symptoms include feelings of pelvic pressure or fullness, sensation of sitting on an egg or ball, visible or palpable bulge at the vaginal opening, difficulty with vaginal intercourse, urinary symptoms, difficulty with bowel movements, and in some cases, abnormal vaginal bleeding."
+
+  - question: "How is pelvic organ prolapse diagnosed?"
+    answer: "POP is typically diagnosed through a comprehensive pelvic exam, which includes internal and external examination, use of a speculum, and asking the patient to bear down or cough. Doctors often use the POP-Q system to stage the prolapse on a scale from 0 to 4."
+
+  - question: "What are the treatment options for pelvic organ prolapse?"
+    answer: "Treatment options range from conservative management to surgical intervention. They include watch and wait approach, home exercises, pelvic floor physical therapy, use of a pessary device, and surgical options such as vaginal repair and laparoscopic repair with or without mesh/graft augmentation."
+
+  - question: "Can pelvic organ prolapse be treated without surgery?"
+    answer: "Yes, non-surgical treatments such as pelvic floor exercises (Kegels), physical therapy, and the use of a pessary device can often be effective in managing symptoms."
+
+  - question: "What factors are considered when choosing a treatment for POP?"
+    answer: "Factors considered include the severity and type of prolapse, patient's symptoms and their impact on quality of life, overall health and medical history, patient's goals for treatment, and lifestyle and occupation."
+
+  - question: "Is it common to have multiple types of prolapse at once?"
+    answer: "Yes, it's common for patients to experience more than one type of pelvic organ prolapse simultaneously. For example, about 70% of patients with a cystocele also have 'apical' prolapse involving the uterus, cervix, or vaginal cuff."
+
+  - question: "How can I prepare for my initial consultation about pelvic organ prolapse?"
+    answer: "To prepare for your initial consultation, consider the following steps: 1) Keep a symptom diary noting when and how your symptoms affect you. 2) Write down any questions you have about your condition and treatment options. 3) Make a list of your current medications and any previous treatments you've tried. 4) If possible, gather any relevant medical records (such as past surgeries) or test results. 5) Consider bringing a family member or friend for support and to help remember information."
 ---
 
 # Understanding Pelvic Organ Prolapse (POP)

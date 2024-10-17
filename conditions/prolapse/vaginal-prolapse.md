@@ -1,10 +1,31 @@
 ---
-layout: default
+layout: page
 title: Vaginal Prolapse
 parent: Pelvic Organ Prolapse
 nav_order: 6
 description: "Vaginal prolapse after hysterectomy - understanding and managing this common condition."
 permalink: /conditions/vaginal-prolapse
+faq:
+  - question: "What is vaginal prolapse?"
+    answer: "Vaginal prolapse, also known as vaginal vault prolapse, occurs when the upper portion of the vagina loses its normal shape and sags or drops down into the vaginal canal or outside of the vagina. This condition typically happens after a hysterectomy."
+
+  - question: "What are the common causes and risk factors for vaginal prolapse?"
+    answer: "Common causes and risk factors include childbirth (especially multiple vaginal deliveries), menopause and age-related changes, chronic constipation or straining, obesity, heavy lifting over many years, family history of pelvic floor disorders, and connective tissue disorders."
+
+  - question: "What are the symptoms of vaginal prolapse?"
+    answer: "Symptoms can include a feeling of fullness or pressure in the vagina, a bulge at or protruding from the vaginal opening, lower back pain, difficulty with urination or bowel movements, discomfort during sexual intercourse, and in advanced cases, tissue may protrude outside the vagina. However, some women with mild prolapse may not experience noticeable symptoms."
+
+  - question: "How is vaginal prolapse diagnosed?"
+    answer: "Diagnosis typically involves a detailed medical history, a pelvic examination, and possibly imaging tests. Your doctor may also perform tests to assess your bladder and bowel function. It's best to consult a urogynecologist or pelvic floor specialist for accurate diagnosis."
+
+  - question: "What are the treatment options for vaginal prolapse?"
+    answer: "Treatment options depend on the severity of the condition and personal preferences. Conservative treatments include pelvic floor muscle exercises (Kegels), pelvic floor physical therapy, pessary devices, and lifestyle modifications. Surgical options may include vaginal repair surgery, sacrocolpopexy, or vaginal closure procedures (colpocleisis) for women who no longer desire to be sexually active."
+
+  - question: "Can vaginal prolapse be prevented?"
+    answer: "While not all cases can be prevented, you can reduce your risk by maintaining a healthy weight, practicing pelvic floor exercises throughout your life, treating and preventing constipation, avoiding heavy lifting or using proper lifting techniques, and quitting smoking."
+
+  - question: "When should I seek medical help for potential vaginal prolapse?"
+    answer: "You should consult your healthcare provider if you notice a bulge in or protruding from your vagina, experience persistent pelvic pressure or discomfort, or have difficulty with urination or bowel movements. Early intervention can often lead to better outcomes and may help avoid more invasive treatments."
 ---
 
 # Vaginal Prolapse: Understanding and Managing This Common Condition

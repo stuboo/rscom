@@ -1,10 +1,31 @@
 ---
-layout: default
+layout: page
 title: Rectocele
 nav_order: 3
 parent: Pelvic Organ Prolapse
 description: "Complete Guide to Rectocele"
 permalink: /conditions/rectocele
+faq:
+  - question: "What is a rectocele?"
+    answer: "A rectocele, also known as posterior vaginal prolapse, is a type of pelvic organ prolapse where the rectum bulges into the back wall of the vagina due to weakening of the tissue between the rectum and vagina."
+
+  - question: "What are the common risk factors for developing a rectocele?"
+    answer: "Common risk factors include pregnancy and childbirth, chronic constipation, being overweight, chronic cough, repetitive lifting and straining, menopause, and aging."
+
+  - question: "How is a rectocele diagnosed?"
+    answer: "A rectocele is typically diagnosed through a pelvic exam where the doctor evaluates the tissues of the vaginal walls, pelvic floor muscles, and their function. The patient may be asked to cough, strain, or bear down during the exam. In some cases, a special x-ray called defecography may be ordered."
+
+  - question: "What are the treatment options for rectocele?"
+    answer: "Treatment options include active monitoring for asymptomatic cases, lifestyle changes (diet and exercise), treating chronic cough, avoiding heavy lifting, Kegel exercises, vaginal pessary, pelvic floor physical therapy, and surgical repair in severe cases."
+
+  - question: "Can rectocele be prevented?"
+    answer: "While not always preventable, you can reduce the risk by doing regular Kegel exercises, preventing constipation through a high-fiber diet, using good lifting practices, and maintaining a healthy weight."
+
+  - question: "What is a vaginal pessary and how does it help with rectocele?"
+    answer: "A vaginal pessary is a silicone device inserted into the vagina to provide support for the vaginal walls and pelvic organs. It can help reduce or elevate the prolapse, often alleviating symptoms without surgery."
+
+  - question: "How does constipation relate to rectocele?"
+    answer: "Constipation can both cause and be caused by rectocele. Straining during bowel movements can worsen the prolapse, while the prolapse itself can make passing stools difficult. Managing constipation through diet, exercise, and proper bowel habits is crucial in treating rectocele."
 ---
 
 # Understanding Rectocele: A Guide for Patients

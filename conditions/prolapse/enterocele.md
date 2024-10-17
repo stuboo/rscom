@@ -1,10 +1,31 @@
 ---
-layout: default
+layout: page
 title: Enterocele
 nav_order: 4
 parent: Pelvic Organ Prolapse
 description: "Enterocele: A Guide for Patients"
 permalink: /conditions/enterocele
+faq:
+  - question: "What is an enterocele?"
+    answer: "An enterocele, also known as small bowel prolapse, is a type of pelvic organ prolapse where the small intestine descends into the lower pelvic cavity, creating a bulge in the vaginal wall."
+
+  - question: "What are the common causes and risk factors for enterocele?"
+    answer: "Common causes and risk factors include pregnancy and childbirth, menopause and age-related changes, chronic constipation or straining, heavy lifting, obesity, previous pelvic surgeries, and family history of pelvic floor disorders."
+
+  - question: "What are the symptoms of an enterocele?"
+    answer: "Symptoms may include a feeling of fullness or pressure in the vagina, a noticeable bulge at the vaginal opening, difficulty with bowel movements, lower back pain, and discomfort during sexual intercourse. However, symptoms can vary widely between individuals."
+
+  - question: "How is an enterocele diagnosed?"
+    answer: "Diagnosis typically involves a detailed medical history and a physical examination by a urogynecologist or pelvic floor specialist. Additional tests may be recommended to assess pelvic floor function and rule out other conditions."
+
+  - question: "What are the treatment options for enterocele?"
+    answer: "Treatment options depend on the severity of symptoms and overall health. Conservative treatments include pelvic floor physical therapy, pessary devices, and lifestyle modifications. For more severe cases, surgical options such as vaginal approach repairs, abdominal or laparoscopic procedures, and robotic-assisted surgeries may be recommended."
+
+  - question: "Can enterocele be managed without surgery?"
+    answer: "Yes, many women successfully manage their condition through conservative treatments. These include using pessary devices, performing pelvic floor exercises, maintaining a healthy weight, avoiding constipation through diet and hydration, and following activity modifications recommended by their doctor. Pessaries, in particular, can be an effective non-surgical option for enterocele."
+
+  - question: "When should I seek medical help for potential enterocele?"
+    answer: "You should consult a healthcare provider if you notice a bulge in your vagina, experience persistent pelvic pressure or discomfort, or have difficulty with urination or bowel movements. Early intervention can often lead to better outcomes and may help avoid more invasive treatments."
 ---
 # Understanding Enterocele: A Guide for Patients
 
