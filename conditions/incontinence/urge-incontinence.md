@@ -1,11 +1,62 @@
 ---
-layout: default
+layout: page
 title: Urge Incontinence
 nav_order: 2
 parent: Urinary Incontinence
 has_children: false
 description: "Urge Urinary Incontinence"
 permalink: /conditions/urge-urinary-incontinence
+faq:
+- question: "What is Urge Urinary Incontinence (UUI)?"
+  answer: "Urge urinary incontinence is the involuntary loss of urine associated with a sudden, strong desire to urinate. Key characteristics include a sudden, intense urge to urinate and urine leakage before reaching the bathroom."
+
+- question: "How common is Urge Urinary Incontinence?"
+  answer: "UUI affects approximately 17% of women over 40. The incidence increases with age, and it often coexists with stress urinary incontinence (known as mixed incontinence)."
+
+- question: "What causes Urge Urinary Incontinence?"
+  answer: "UUI occurs when the bladder muscle (detrusor) contracts involuntarily. Causes can include neurological disorders, bladder abnormalities, urinary tract infections, hormonal changes, certain medications, excessive caffeine or alcohol intake, obesity, and aging."
+
+- question: "What are the symptoms of Urge Urinary Incontinence?"
+  answer: "The primary symptoms of UUI include:
+    - Sudden, strong urge to urinate that's difficult to control
+    - Involuntary loss of urine immediately following or accompanied by an urgent need to urinate
+    - Leaking large amounts of urine
+    - Frequent urination (more than 8 times in 24 hours)
+    - Nocturia (waking up to urinate at night)"
+
+- question: "How is Urge Urinary Incontinence diagnosed?"
+  answer: "Diagnosis typically involves:
+    1. Medical history review
+    2. Physical examination
+    3. Urinalysis
+    4. Bladder diary
+    5. Urodynamic testing in some cases
+    6. Cystoscopy in some cases"
+
+- question: "What are the treatment options for Urge Urinary Incontinence?"
+  answer: "Treatment options include:
+    1. Conservative treatments: Bladder training, pelvic floor exercises (Kegels), double voiding, and scheduled toilet trips
+    2. Lifestyle changes: Fluid management, weight loss, and dietary modifications
+    3. Medications: Antimuscarinics, Beta-3 agonists, and topical estrogen for postmenopausal women
+    4. Advanced therapies: BOTOX injections, Percutaneous and implantable tibial nerve stimulation (PTNS), and Sacral neuromodulation"
+
+- question: "How can I manage living with Urge Urinary Incontinence?"
+  answer: "Strategies to manage UUI in daily life include:
+    - Locating bathrooms before you need them when out in public
+    - Wearing easily removable clothing for quick bathroom access
+    - Using absorbent products for peace of mind
+    - Practicing relaxation techniques when you feel the urge to urinate
+    - Staying hydrated, but limiting fluids before bedtime"
+
+- question: "Is Urge Urinary Incontinence a normal part of aging?"
+  answer: "No, while UUI is common, it is not a normal part of aging. It's a medical condition that can be managed effectively with proper treatment."
+
+- question: "What should I do if I think I have Urge Urinary Incontinence?"
+  answer: "If you're experiencing symptoms of UUI:
+    1. Don't be embarrassed – it's a common, treatable medical condition
+    2. Keep a bladder diary to share with your healthcare provider
+    3. Schedule an appointment with a urogynecologist or pelvic health specialist
+    4. Be open about your symptoms and how they affect your quality of life"
 ---
 
 # Understanding Urge Urinary Incontinence in Women

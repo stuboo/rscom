@@ -1,11 +1,74 @@
 ---
-layout: default
+layout: page
 title: Urinary Incontinence
 nav_order: 2
 parent: Incontinence
 has_children: true
 description: "Urinary Incontinence"
 permalink: /conditions/urinary-incontinence
+faq:
+- question: "What is urinary incontinence?"
+  answer: "Urinary incontinence is a condition that involves the involuntary leakage of urine. It can significantly impact quality of life and affects millions of people worldwide, particularly women."
+
+- question: "What are the types of urinary incontinence?"
+  answer: "There are several types of urinary incontinence:
+    1. Stress Incontinence: Urine leakage during physical activities that put pressure on the bladder such as laughing, coughing, sneezing, or exercise.
+    2. Urge Incontinence: Sudden, intense urge to urinate followed by involuntary loss of urine.
+    3. Mixed Incontinence: A combination of stress and urge incontinence.
+    4. Overflow Incontinence: Frequent or constant dribbling of urine due to incomplete bladder emptying.
+    5. Functional Incontinence: Physical or mental impairments prevent reaching the toilet in time."
+
+- question: "What causes urinary incontinence?"
+  answer: "Urinary incontinence can be caused by various factors, including:
+    - Weakness in the pelvic floor muscles
+    - Pregnancy and childbirth
+    - Menopause
+    - Neurological disorders
+    - Urinary tract infections
+    - Certain medications
+    - Obesity
+    - Chronic coughing
+    - Age-related changes in the urinary tract"
+
+- question: "What are the symptoms of urinary incontinence?"
+  answer: "Symptoms can vary depending on the type of incontinence but may include:
+    - Leaking urine during physical activities
+    - Sudden, intense urge to urinate
+    - Frequent urination (more than 8 times in 24 hours)
+    - Nighttime urination (nocturia)
+    - Constant dribbling of urine
+    - Inability to empty the bladder completely"
+
+- question: "How is urinary incontinence diagnosed?"
+  answer: "Diagnosis typically involves:
+    1. Medical history review
+    2. Physical examination
+    3. Urinalysis
+    4. Bladder diary
+    5. Urodynamic testing
+    6. Cystoscopy in some cases"
+
+- question: "What are the treatment options for urinary incontinence?"
+  answer: "Treatment options include:
+    1. Conservative treatments: Pelvic floor exercises (Kegels), bladder training, lifestyle changes, and pelvic floor physical therapy
+    2. Medications: Antimuscarinic medications, beta agonists, and topical vaginal estrogen for some women
+    3. Medical devices: Vaginal inserts and pessaries
+    4. Interventional therapies: Botox injections, bulking agents, and sacral nerve stimulation
+    5. Surgical options: Sling procedures and colposuspension for severe cases"
+
+- question: "How is the right treatment for urinary incontinence chosen?"
+  answer: "The choice of treatment depends on various factors, including:
+    - The type and severity of incontinence
+    - The impact on quality of life
+    - Overall health and medical history
+    - Personal preferences and goals
+    Healthcare providers may use decision aids to help patients make informed choices about treatment options."
+
+- question: "Is urinary incontinence a normal part of aging?"
+  answer: "No, while urinary incontinence is common, it is not a normal part of aging and shouldn't be ignored. With proper diagnosis and treatment, many people find significant improvement in their symptoms and quality of life."
+
+- question: "What should I do if I think I have urinary incontinence?"
+  answer: "If you're experiencing symptoms of urinary incontinence, don't hesitate to speak with a healthcare provider. Remember, you're not alone, and effective treatments are available to help you manage this condition."
 ---
 
 # Understanding Urinary Incontinence

@@ -14,3 +14,5 @@ _site/
 .bundle/
 vendor/
 *.sh
+faq+blog_ideas.txt
+.ruby-version

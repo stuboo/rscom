@@ -1,0 +1,12 @@
+<hr>
+<h2>Frequently Asked Questions</h2>
+{% for item in page.faq %}
+<details markdown="block" style="padding: 4px 0">
+<summary class="text-gamma">{{item.question}}</summary>
+<span style="display: block; margin-bottom: 8px">{{item.answer}}</span>
+</details>
+{% endfor %}
+
+
+
+  

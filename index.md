@@ -40,6 +40,7 @@ I divide my time equally between office consultations and surgical procedures, e
 - In-person and virtual appointments available
 - Most insurance plans accepted
 
+
 <!--[Link button](https://just-the-docs.com){: .btn .btn-blue } -->
 
 ---

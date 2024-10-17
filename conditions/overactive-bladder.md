@@ -1,10 +1,38 @@
 ---
-layout: default
+layout: page
 title: Overactive Bladder
 parent: Conditions
 nav_order: 3_
 description: "Overactive Bladder"
 permalink: /conditions/overactive-bladder
+faq:
+- question: "What is Overactive Bladder (OAB)?"
+  answer: "Overactive Bladder is not a disease, but a group of urinary symptoms including urgency, frequency, nocturia, and sometimes urge incontinence. It affects both women and men of all ages and is not simply a result of getting older."
+
+- question: "What are the key symptoms of OAB?"
+  answer: "The key symptoms of OAB include:
+    1. Urgency: A sudden, intense need to urinate that you can't ignore.
+    2. Frequency: Urinating many times during the day (usually more than 7).
+    3. Nocturia: Waking up more than once at night to urinate.
+    4. Urge Incontinence: Sometimes leaking urine when you feel the sudden urge."
+
+- question: "How does a normal bladder work?"
+  answer: "A normal bladder fills with urine from the kidneys, and as it fills, the bladder walls stretch. You start to feel the need to urinate but can hold it. When ready, your brain signals the pelvic muscles and urethral sphincter to relax and the bladder muscle reflexively squeezes, allowing urine to flow out. This typically happens about 4-7 times per day and once at night."
+
+- question: "What causes OAB?"
+  answer: "In OAB, the bladder muscle squeezes to empty without warning and at inappropriate times. Common causes and risk factors include urinary tract infections, bladder stones or growths, neurological conditions, previous surgery for stress incontinence, and certain foods/drinks. However, for many women, the exact cause of OAB is never found."
+
+- question: "How is OAB diagnosed?"
+  answer: "Diagnosis typically involves discussing your bladder habits, fluid intake, and general health with a doctor, a physical examination, urine tests, and filling out a bladder diary. Additional tests might include measuring residual urine, cystoscopy, and urodynamics to examine bladder muscle activity."
+
+- question: "What are the treatment options for OAB?"
+  answer: "Treatment often involves a combination of lifestyle changes and medical interventions. Lifestyle changes include fluid management and bladder training (with or without the help of a pelvic floor physical therapist). Medical treatments can include medications, botulinum toxin injections, and nerve stimulation techniques like tibial nerve stimulation or sacral nerve stimulation."
+
+- question: "Is OAB dangerous?"
+  answer: "While OAB can be frustrating, it's not dangerous. With the right treatment plan, most people can significantly improve their symptoms and quality of life."
+
+- question: "Should I see a doctor if I think I have OAB?"
+  answer: "Yes, if you're experiencing symptoms of OAB, you should speak with a healthcare provider. They can provide a thorough evaluation and discuss treatment options tailored to your needs and goals."
 ---
 
 # Understanding Overactive Bladder (OAB)

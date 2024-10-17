@@ -1,11 +1,78 @@
 ---
-layout: default
+layout: page
 title: Mixed Incontinence
 nav_order: 3
 parent: Urinary Incontinence
 has_children: false
 description: "Mixed Urinary Incontinence"
 permalink: /conditions/mixed-urinary-incontinence
+faq:
+- question: "What is Mixed Urinary Incontinence (MUI)?"
+  answer: "Mixed urinary incontinence is a condition where a person experiences symptoms of both stress urinary incontinence (SUI) and urge urinary incontinence (UUI). This means you may experience urine leakage when physical stress is placed on the bladder (e.g., during coughing, sneezing, laughing, or exercise) and when you feel a sudden, strong urge to urinate that's difficult to control."
+
+- question: "How common is Mixed Urinary Incontinence?"
+  answer: "Mixed incontinence affects approximately 30-40% of women with incontinence. The prevalence increases with age, and it's often underreported due to embarrassment or misconceptions about it being a normal part of aging."
+
+- question: "What causes Mixed Urinary Incontinence?"
+  answer: "The causes of mixed incontinence are a combination of factors that contribute to both stress and urge incontinence, including:
+    - Weakened pelvic floor muscles
+    - Neurological issues
+    - Hormonal changes
+    - Obesity
+    - Chronic conditions
+    - Previous pelvic surgeries
+    - Lifestyle factors"
+
+- question: "What are the symptoms of Mixed Urinary Incontinence?"
+  answer: "The symptoms of mixed incontinence combine those of stress and urge incontinence:
+    - Leaking urine when coughing, sneezing, laughing, or during physical activity
+    - Sudden, strong urges to urinate that are difficult to control
+    - Leaking large amounts of urine before reaching the bathroom
+    - Frequent urination (more than 8 times in 24 hours)
+    - Nocturia (waking up to urinate at night)"
+
+- question: "How is Mixed Urinary Incontinence diagnosed?"
+  answer: "Diagnosis typically involves:
+    1. Medical history review
+    2. Physical examination
+    3. Urinalysis
+    4. Bladder diary
+    5. Urodynamic testing in some cases
+    6. Cystoscopy in some cases"
+
+- question: "What is the treatment approach for Mixed Urinary Incontinence?"
+  answer: "The general strategy is to:
+    1. Identify which type of incontinence (stress or urge) is more bothersome
+    2. Treat the most bothersome type first
+    3. Address the other type of incontinence if symptoms persist
+    In most cases, the urge component is treated first because it often involves large volume leaks and can be more disruptive to daily life."
+
+- question: "What are the treatment options for Mixed Urinary Incontinence?"
+  answer: "Treatment options include:
+    1. Conservative treatments: Pelvic floor exercises, bladder training, biofeedback, and pelvic floor physical therapy
+    2. Lifestyle changes: Weight loss, fluid management, and scheduled toilet trips
+    3. Medications: Anticholinergics or beta-3 agonists for urge symptoms, topical estrogen for postmenopausal women
+    4. Devices and products: Vaginal pessaries, disposable vaginal inserts, and absorbent products
+    5. Advanced therapies: BOTOX injections, nerve stimulation techniques, and bulking agents
+    6. Surgical options: Sling procedures and colposuspension for stress incontinence symptoms"
+
+- question: "How can I manage living with Mixed Urinary Incontinence?"
+  answer: "Strategies to manage mixed incontinence in daily life include:
+    - Using absorbent products for peace of mind
+    - Wearing easily removable clothing for quick bathroom access
+    - Locating bathrooms before you need them when out in public
+    - Practicing both pelvic floor exercises and relaxation techniques
+    - Staying hydrated, but limiting fluids before bedtime and activities"
+
+- question: "Is Mixed Urinary Incontinence a normal part of aging or childbirth?"
+  answer: "No, while mixed incontinence is common, it is not a normal part of aging or an inevitable consequence of childbirth. It's a medical condition that can be managed effectively with proper treatment."
+
+- question: "What should I do if I think I have Mixed Urinary Incontinence?"
+  answer: "If you're experiencing symptoms of mixed urinary incontinence:
+    1. Don't be embarrassed – it's a common, treatable medical condition
+    2. Keep a detailed bladder diary to share with your healthcare provider
+    3. Schedule an appointment with a urogynecologist or pelvic health specialist
+    4. Be open about your symptoms and how they affect your quality of life"
 ---
 
 # Understanding Mixed Urinary Incontinence in Women

@@ -1,11 +1,56 @@
 ---
-layout: default
+layout: page
 title: Stress Incontinence
 nav_order: 1
 parent: Urinary Incontinence
 has_children: false
 description: "Stress Urinary Incontinence"
 permalink: /conditions/stress-urinary-incontinence
+faq:
+- question: "What is Stress Urinary Incontinence (SUI)?"
+  answer: "Stress urinary incontinence is the involuntary leakage of urine during physical activities that increase abdominal pressure, such as coughing, sneezing, laughing, exercising, or lifting heavy objects."
+
+- question: "How common is Stress Urinary Incontinence?"
+  answer: "SUI affects up to 35% of adult women. It can occur at any age, but the risk increases with age. It often develops after pregnancy and childbirth."
+
+- question: "What causes Stress Urinary Incontinence?"
+  answer: "SUI occurs when the pelvic floor muscles and tissues that support the bladder and urethra become weakened or damaged. Common causes include pregnancy and childbirth, menopause, obesity, chronic coughing, high-impact activities, and genetics."
+
+- question: "What are the symptoms of Stress Urinary Incontinence?"
+  answer: "The primary symptom is urine leakage during activities that put pressure on your abdomen. This can include small amounts of urine leaking when you laugh, cough, or sneeze, larger amounts leaking during exercise or when lifting heavy objects, and leakage occurring without any sensation of needing to urinate."
+
+- question: "How is Stress Urinary Incontinence diagnosed?"
+  answer: "Diagnosis typically involves:
+    1. Medical history review
+    2. Physical examination
+    3. Urinalysis
+    4. Bladder stress test
+    5. Urodynamic testing in some cases"
+
+- question: "What are the treatment options for Stress Urinary Incontinence?"
+  answer: "Treatment options include:
+    1. Conservative treatments: Pelvic floor exercises (Kegels), biofeedback, bladder training, and lifestyle changes
+    2. Devices and products: Vaginal pessaries, disposable vaginal inserts, and absorbent products
+    3. Surgical options: Sling procedures, bulking agents, and colposuspension"
+
+- question: "How can I manage living with Stress Urinary Incontinence?"
+  answer: "Strategies to manage SUI in daily life include:
+    - Planning bathroom breaks before physical activities
+    - Avoiding bladder irritants like caffeine and alcohol
+    - Using absorbent products for peace of mind
+    - Using disposable vaginal inserts while doing activities that cause leakage
+    - Practicing pelvic floor exercises regularly
+    - Staying hydrated, but limiting fluids before bedtime"
+
+- question: "Is Stress Urinary Incontinence a normal part of aging or childbirth?"
+  answer: "No, while SUI is common, it is not a normal part of aging or an inevitable consequence of childbirth. It's a medical condition that can be treated effectively."
+
+- question: "What should I do if I think I have Stress Urinary Incontinence?"
+  answer: "If you're experiencing symptoms of SUI:
+    1. Don't be embarrassed – it's a common, treatable medical condition
+    2. Keep a symptom diary to share with your healthcare provider
+    3. Schedule an appointment with a urogynecologist or pelvic health specialist
+    4. Be open about your symptoms and how they affect your quality of life"
 ---
 
 # Understanding Stress Urinary Incontinence in Women
