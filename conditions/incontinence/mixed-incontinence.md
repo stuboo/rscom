@@ -214,14 +214,15 @@ While seeking treatment, there are strategies to manage mixed incontinence in yo
 If you're experiencing symptoms of mixed urinary incontinence:
 
 1. Don't be embarrassed – it's a common, treatable medical condition
-2. Keep a detailed bladder diary to share with your healthcare provider
+2. Keep a detailed [bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf) to share with your healthcare provider
 3. Schedule an appointment with a urogynecologist or pelvic health specialist
 4. Be open about your symptoms and how they affect your quality of life
 
 {: .important-title }
 
-> You're Not Alone
+> 3-day diary
 >
-> Many women have found relief from mixed urinary incontinence. Take the first step towards regaining control and confidence in your daily life by seeking help today.
+> Download and print three copies of [bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf) to bring to your first visit with Dr. Stewart.
+This will help us better understand your symptoms and develop a personalized treatment plan.
 
 Remember, mixed urinary incontinence may be common, but it's not something you have to accept as a normal part of life. With the right care and treatment, you can significantly improve your symptoms and quality of life.

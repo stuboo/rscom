@@ -98,7 +98,7 @@ If you're experiencing symptoms of OAB, your doctor will likely:
 1. Ask about your bladder habits, fluid intake, and general health
 2. Perform a physical examination
 3. Test your urine for infection or blood
-4. Ask you to fill out a bladder diary
+4. Ask you to fill out a [bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf)
 
 Additional tests might include:
 

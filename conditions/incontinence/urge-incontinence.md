@@ -124,7 +124,7 @@ If you're experiencing symptoms of UUI, it's crucial to consult a healthcare pro
 1. **Medical history**: Your doctor will ask about your symptoms, medical background, and lifestyle
 2. **Physical examination**: To check for any physical abnormalities or pelvic organ prolapse
 3. **Urinalysis**: To rule out urinary tract infections or other issues
-4. **Bladder diary**: You may be asked to keep a log of your fluid intake, urination frequency, and incontinence episodes
+4. **[Bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf)**: You may be asked to keep a log of your fluid intake, urination frequency, and incontinence episodes
 5. **Urodynamic testing**: In some cases, to measure bladder pressure and urine flow
 6. **Cystoscopy**: A scope may be used to examine the inside of your bladder and urethra
 
