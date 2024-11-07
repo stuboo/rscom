@@ -46,6 +46,8 @@ nav_order: 5
 
 3. Cope Z, Stewart JR, Meriwether K, et al. Measurement of Preoperative and Postoperative Activity Using Consumer-Grade Fitness Trackers in Women Undergoing Retropubic Midurethral Sling for SUI-A Prospective Observational Study. *International Urogynecology Journal*. 2022;33(SUPPL 2):S279-S279.
 
+4. Lazaro, J., Jansen, S., Johnson, A., & Stewart, J. (2024, March). Rate of unanticipated malignant or pre-malignant vaginal pathology following pelvic organ prolapse surgery. Poster presented at the *Society of Gynecologic Surgeons Annual Scientific Meeting*, Orlando, FL.
+
 ## Book Chapters
 
 1. Stewart JR. Midurethral sling procedures for stress urinary incontinence. In: *Practical Manual of Minimally Invasive Gynecologic and Robotic Surgery*. CRC Press; 2018:217-226.
