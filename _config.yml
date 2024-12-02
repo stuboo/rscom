@@ -2,7 +2,8 @@ title: Ryan Stewart, DO
 description: Green Bay, WI urogynecologist providing expert care for pelvic conditions, including incontinence and prolapse, with personalized treatment options.
 theme: just-the-docs
 
-url: https://stuboo.github.io/rscom
+url: ryanstewart.com
+baseurl: ""
 
 # Aux links for the upper right navigation
 # aux_links:
