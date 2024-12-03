@@ -16,20 +16,20 @@ tags:
 description: "This blog post reflects on my unconventional journey to becoming a urogynecologist and the start of a new chapter in Green Bay, Wisconsin. It highlights the importance of finding professional happiness by aligning passion with purpose and creating meaningful connections with patients and colleagues."
 ---
 
-Sometimes life's most profound paths aren't linear—they're a beautiful, winding road of discovery. As I sit here in my new office in Green Bay, Wisconsin, I can't help but reflect on the journey that brought me to urogynecology, a specialty that chose me as much as I chose it.
+When I reflect on how I became a urogynecologist, I realize my path was never about a straight line, but about discovering where I truly belonged.
 
-My path wasn't traditional. Before medical school, I wore many hats: marketing director, pharmaceutical representative, world traveler, fundraiser, and even a house parent. Each experience was a puzzle piece, slowly revealing a bigger picture of who I was meant to become.
+Ten years after college, I had lived multiple professional lives. I'd been a marketing director, a pharmaceutical representative at Eli Lilly, a traveler in Central America, a college fundraiser, and a house parent. Each role wasn't a detour—it was a step toward understanding myself.
 
-The secret to professional happiness, I've learned, isn't about the most prestigious title or the highest salary. It's about finding your people—those individuals with whom your passion aligns, where your work feels less like a job and more like a calling.
+The recurring question throughout my journey wasn't "What should I do?" but "Who are my people?"
 
-For me, those people are the patients of urogynecology. They're the women seeking to improve their quality of life, to reclaim comfort and confidence. They're the healthcare professionals who approach each day with compassion and precision. They're my people.
+My exposure to OBGYN during my time as a pharmaceutical rep gave me my first glimpse. I noticed how comfortable I felt in those medical offices, how the dynamics and interactions resonated with me. When I entered medical school in my thirties, I was already drawn to this world.
 
-When I first entered medical school, I knew obstetrics and gynecology felt like home. The offices, the practitioners, the environment—it all resonated with me. As I delved deeper, I discovered my true passion: helping post-reproductive women through surgical interventions that enhance their daily lives.
+As I progressed through my training, my understanding refined. I discovered I preferred working with post-reproductive female patients. I enjoyed surgery more than obstetrics. I was drawn to helping healthy patients improve their quality of life rather than managing critical illnesses.
 
-Green Bay has already shown me incredible warmth and generosity. As I begin this new chapter, I'm not just starting a medical practice; I'm building relationships, creating a community of care and understanding.
+Urogynecology wasn't just a specialty—it was a calling.
 
-To my future patients and colleagues: I'm here, I'm ready, and I'm excited to work alongside you. Together, we'll navigate health challenges, celebrate victories, and continuously improve quality of life.
+Now, in Green Bay, Wisconsin, after two months of transition, I feel a profound sense of gratitude. The warmth of this community, their generosity in welcoming my family, reinforces that I'm exactly where I'm meant to be.
 
-This isn't just a job. This is my calling. These are my people.
+My professional journey has never been about achieving a predetermined destination. It's been about listening—to myself, to the patients I serve, to the subtle signals that guide us toward our most authentic work.
 
-Welcome to our journey.
+Today, as I start my new practice, I'm happy to be someone who has found his place, his community, his purpose.
