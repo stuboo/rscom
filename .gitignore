@@ -16,3 +16,4 @@ vendor/
 *.sh
 faq+blog_ideas.txt
 .ruby-version
+faq.md.bak
