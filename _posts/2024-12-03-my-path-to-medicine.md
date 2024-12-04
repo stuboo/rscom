@@ -15,8 +15,6 @@ tags:
 description: "A reflection on my unconventional journey to becoming a physician, shaped by diverse experiences and a deep commitment to patient care."
 ---
 
-# My Path to Medicine: A Personal Story
-
 Patients often ask me about my background, so I thought I'd share how I found my way to medicine. It wasn't a straightforward journey—more of a winding path with some unexpected turns.
 
 I grew up in a small town in Middle Tennessee, playing football until an injury introduced me to Dr. David Schmidt, a hand surgeon who was my first real glimpse into the medical world. That moment sparked something in me—a curiosity about medicine that would eventually become my career.
