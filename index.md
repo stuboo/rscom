@@ -9,7 +9,7 @@ permalink: /
 # Welcome. I'm glad you're here.
 {: .fs-9 }
 
-I'm a fellowship-trained pelvic surgeon dedicated to improving quality of life through expert treatment of female pelvic floor disorders.
+I'm a fellowship-trained pelvic surgeon dedicated to improving quality of life through expert treatment of female pelvic floor disorders. I practice urogynecology and reconstructive pelvic surgery in Green Bay, Wisconsin.
 {: .fs-6 .fw-300 }
 
 ### My Expertise
