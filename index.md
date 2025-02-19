@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Urogynecologist in Green Bay, WI
 nav_order: 1
 description: "Urogynecologist in Green Bay, WI | Dr. Ryan Stewart"
 permalink: /
