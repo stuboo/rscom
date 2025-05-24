@@ -13,7 +13,7 @@ baseurl: ""
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
-footer_content: 'Copyright &copy; 2016-2024 Ryan Stewart, DO. <br /><em>The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for personalized medical guidance.</em>'
+footer_content: 'Copyright &copy; 2016-2025 Ryan Stewart, DO. <br /><em>The information provided is for educational purposes only and should not be considered medical advice. Always consult with a qualified healthcare professional for personalized medical guidance.</em>'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
