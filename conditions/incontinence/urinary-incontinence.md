@@ -6,6 +6,8 @@ parent: Incontinence
 has_children: true
 description: "Urinary Incontinence"
 permalink: /conditions/urinary-incontinence
+redirect_from:
+  - /urinary-incontinence/
 faq:
 - question: "What is urinary incontinence?"
   answer: "Urinary incontinence is a condition that involves the involuntary leakage of urine. It can significantly impact quality of life and affects millions of people worldwide, particularly women."

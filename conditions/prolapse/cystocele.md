@@ -5,6 +5,8 @@ parent: Pelvic Organ Prolapse
 nav_order: 2
 description: "Cystocele (aka Prolapsed Bladder)"
 permalink: /conditions/cystocele
+redirect_from:
+  - /bladder-prolapse-cystocele/
 faq:
   - question: "What is a cystocele?"
     answer: "A cystocele, also known as bladder prolapse or anterior vaginal prolapse, is a condition where the front wall of the vagina bulges down toward the vaginal opening, often accompanied by the bladder."

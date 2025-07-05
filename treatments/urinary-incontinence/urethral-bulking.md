@@ -5,6 +5,8 @@ parent: Urinary Incontinence Treatments
 nav_order: 8
 description: "Urethral Bulking for Stress Incontinence"
 permalink: /treatments/urinary-incontinence/urethral-bulking
+redirect_from:
+  - /urethral-bulking-bulkamid/
 ---
 
 # Urethral Bulking for Stress Urinary Incontinence

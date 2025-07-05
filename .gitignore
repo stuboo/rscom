@@ -17,3 +17,7 @@ vendor/
 faq+blog_ideas.txt
 .ruby-version
 faq.md.bak
+
+# Project documentation and implementation guides
+DOMAIN_REDIRECT_SETUP.md
+REDIRECT_MAPPING.md

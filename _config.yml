@@ -38,3 +38,12 @@ callouts:
   warning:
     title: Warning
     color: red
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+
+# Google Analytics
+ga_tracking: G-1LYFEX7C2D
+ga_tracking_anonymize_ip: true

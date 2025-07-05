@@ -5,6 +5,8 @@ parent: Incontinence
 nav_order: 3
 description: "Understanding Fecal Incontinence"
 permalink: /conditions/fecal-incontinence
+redirect_from:
+  - /fecal-incontinence/
 faq:
 - question: "What is fecal incontinence?"
   answer: "Fecal incontinence, also known as accidental bowel leakage, is the loss of control over bowel movements. This can result in the involuntary leakage of gas or stool through the anus. The severity can range from difficulty controlling gas to complete loss of control over liquid or formed stool."

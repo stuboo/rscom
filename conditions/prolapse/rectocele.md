@@ -5,6 +5,8 @@ nav_order: 3
 parent: Pelvic Organ Prolapse
 description: "Complete Guide to Rectocele"
 permalink: /conditions/rectocele
+redirect_from:
+  - /rectocele/
 faq:
   - question: "What is a rectocele?"
     answer: "A rectocele, also known as posterior vaginal prolapse, is a type of pelvic organ prolapse where the rectum bulges into the back wall of the vagina due to weakening of the tissue between the rectum and vagina."

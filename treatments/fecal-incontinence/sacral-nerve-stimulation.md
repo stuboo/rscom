@@ -5,6 +5,9 @@ parent: Fecal Incontinence Treatments
 nav_order: 6
 description: "Sacral Nerve Stimulation for Bowel Control"
 permalink: /treatments/fecal-incontinence/sacral-nerve-stimulation
+redirect_from:
+  - /sacral-nerve-stimulation-interstim/
+  - /how-long-does-interstim-last/
 ---
 
 # Sacral Neuromodulation for Fecal Incontinence

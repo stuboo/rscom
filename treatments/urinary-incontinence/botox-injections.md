@@ -5,6 +5,8 @@ parent: Urinary Incontinence Treatments
 nav_order: 6
 description: "Botox Injections for Bladder"
 permalink: /treatments/urinary-incontinence/botox-injections
+redirect_from:
+  - /bladder-botox-therapy/
 ---
 
 # BOTOX® Injections for Urinary Incontinence
