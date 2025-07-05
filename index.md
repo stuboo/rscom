@@ -5,6 +5,7 @@ nav_order: 1
 description: "Urogynecologist in Green Bay, WI | Dr. Ryan Stewart"
 permalink: /
 ---
+<img src="/assets/images/ryan-stewart.jpg" alt="Dr. Ryan Stewart" style="float: right; margin: 0 0 1rem 1rem; width: 200px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);" />
 
 # Welcome. I'm glad you're here.
 {: .fs-9 }
