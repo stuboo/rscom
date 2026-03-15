@@ -24,7 +24,7 @@ For women in Sturgeon Bay and the Door County area dealing with accidental bowel
 
 ## Understanding Fecal Incontinence
 
-Fecal incontinence — accidental bowel leakage — affects up to 1 in 5 women but remains severely underreported due to embarrassment. Contributing factors include childbirth injury, nerve damage, muscle weakness, and chronic bowel conditions.
+Fecal incontinence — accidental bowel leakage — affects about 1 in 10 women but remains severely underreported due to embarrassment. Contributing factors include childbirth injury, nerve damage, muscle weakness, and chronic bowel conditions.
 
 Dr. Stewart explains: "Accidental bowel leakage is far more common than you might think, and I treat it regularly. There's no need for embarrassment — only solutions."
 

@@ -24,7 +24,7 @@ If you're dealing with accidental bowel leakage, expert care is right here in Gr
 
 ## Understanding Fecal Incontinence
 
-Fecal incontinence — also called accidental bowel leakage — is the involuntary loss of stool or gas. It’s far more common than most people realize, affecting up to 1 in 5 women, yet it remains one of the most underreported medical conditions because of embarrassment.
+Fecal incontinence — also called accidental bowel leakage — is the involuntary loss of stool or gas. It’s far more common than most people realize, affecting about 1 in 10 women, yet it remains one of the most underreported medical conditions because of embarrassment.
 
 Contributing factors include:
 

@@ -14,7 +14,7 @@ faq:
   - question: "Can childbirth cause fecal incontinence years later?"
     answer: "Yes. A sphincter injury during childbirth may not cause symptoms until years later, when age-related muscle weakening unmasks the injury. This delayed onset is very common."
   - question: "Is fecal incontinence common?"
-    answer: "More common than most people realize — it affects up to 1 in 5 women. Because of embarrassment, it's severely underreported. You are not alone."
+    answer: "More common than most people realize — it affects about 1 in 10 women. Because of embarrassment, it's severely underreported. You are not alone."
   - question: "Can fecal incontinence be treated?"
     answer: "Yes. Multiple effective treatments exist, including dietary management, pelvic floor therapy, medications, and sacral neuromodulation. Most women experience significant improvement."
 ---
