@@ -26,7 +26,7 @@ A **urethral bulking agent** is a gel-like material injected around the urethra 
 
 Stress incontinence occurs when the urethra doesn't seal tightly enough during moments of physical pressure. Bulking agents add volume to the tissue around the urethra, improving the seal and reducing leakage.
 
-Dr. Stewart explains: "Think of it as adding a gasket around a pipe that's not sealing properly. The bulking material helps the urethra close more completely, so urine stays where it should when you cough, laugh, or exercise."
+Think of it as adding a gasket around a pipe that's not sealing properly. The bulking material helps the urethra close more completely, so urine stays where it should when you cough, laugh, or exercise.
 
 ## The Procedure
 
@@ -64,5 +64,5 @@ Bulking agents are a good option for women who:
 - Less effective for severe stress incontinence
 - Works best as part of a comprehensive treatment plan
 
-Dr. Stewart notes: "Bulking agents fill an important gap — they're more effective than pelvic floor exercises alone for some women, but far less invasive than a sling. For the right patient, they offer meaningful improvement with minimal disruption to daily life."
+Bulking agents fill an important gap — they're more effective than pelvic floor exercises alone for some women, but far less invasive than a sling. For the right patient, they offer meaningful improvement with minimal disruption to daily life.
 

@@ -34,7 +34,7 @@ The confusion is understandable. Incontinence is more common in older women, and
 
 But these are contributing factors, not inevitable outcomes. Many women live into their 80s and 90s without incontinence, while some women in their 20s experience significant leaking.
 
-Dr. Stewart explains: "Aging changes the landscape, but it doesn't determine the outcome. I've treated women in their 70s and 80s who are now dry and active. Age is never a reason to accept incontinence."
+Aging changes the landscape, but it doesn't determine the outcome. I've treated women in their 70s and 80s who are now dry and active. Age is never a reason to accept incontinence.
 
 ## The Real Cost of Accepting It
 
@@ -55,5 +55,5 @@ Every treatment option available to younger women is also available to older wom
 - **Medications** — appropriate options exist for all age groups
 - **Minimally invasive procedures** — Botox, nerve stimulation, and slings can all be performed safely in older patients with appropriate evaluation
 
-Dr. Stewart notes: "I never let age alone determine what treatments we consider. What matters is your overall health, your goals, and what's affecting your quality of life. Every woman deserves to be continent."
+I never let age alone determine what treatments we consider. What matters is your overall health, your goals, and what's affecting your quality of life. Every woman deserves to be continent.
 

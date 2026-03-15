@@ -27,7 +27,7 @@ Leaking urine after having a baby is **very common** — but "common" doesn't me
 
 Pregnancy and delivery place tremendous strain on the pelvic floor — the muscles, ligaments, and connective tissue that support the bladder, uterus, and rectum. During pregnancy, the growing baby's weight presses on the pelvic floor for months. During vaginal delivery, these tissues stretch dramatically, and in some cases, nerves that control bladder function can be temporarily affected.
 
-Dr. Stewart explains: "The pelvic floor does remarkable work during pregnancy and delivery. It's designed to stretch and recover, but sometimes it needs help getting back to full function — just like any other muscle group after an injury."
+The pelvic floor does remarkable work during pregnancy and delivery. It's designed to stretch and recover, but sometimes it needs help getting back to full function — just like any other muscle group after an injury.
 
 ## When It's Expected vs. When to Worry
 
@@ -46,5 +46,5 @@ Dr. Stewart explains: "The pelvic floor does remarkable work during pregnancy an
 - **Time and patience** — tissue healing continues for up to a year after delivery
 - **Specialist evaluation** — if conservative measures aren't enough, a urogynecologist can discuss additional options
 
-Dr. Stewart notes: "I encourage new mothers not to dismiss ongoing leaking as just 'part of having kids.' Yes, it's common, but it's also very treatable. You shouldn't have to plan your life around pads and extra clothing."
+I encourage new mothers not to dismiss ongoing leaking as just "part of having kids." Yes, it's common, but it's also very treatable. You shouldn't have to plan your life around pads and extra clothing.
 

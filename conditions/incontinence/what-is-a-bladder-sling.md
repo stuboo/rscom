@@ -16,7 +16,7 @@ faq:
   - question: "Is a bladder sling the same as mesh for prolapse?"
     answer: "No. The midurethral sling for incontinence is a narrow strip of mesh placed under the urethra — it's fundamentally different from the transvaginal mesh products that were used for prolapse and generated safety concerns. Midurethral slings have an excellent long-term safety record."
   - question: "How long does recovery take after a sling procedure?"
-    answer: "Most women return to normal daily activities within 1-2 weeks and can resume exercise and heavy lifting after 4-6 weeks. Full healing typically takes about 6 weeks."
+    answer: "Most women return to normal daily activities within a few weeks. I tell patients to let their body be their guide — if it hurts, don't do it. Full healing takes about 6 weeks."
 ---
 
 # What Is a Bladder Sling Procedure?
@@ -29,7 +29,7 @@ During the procedure, a small synthetic mesh tape is placed under the mid-urethr
 
 The surgery typically takes about 30 minutes and is performed under anesthesia. Most patients go home the same day.
 
-Dr. Stewart explains: "The midurethral sling is the gold standard for surgical treatment of stress incontinence. It's been performed millions of times worldwide with consistently excellent results. I like to think of it as rebuilding the platform that keeps the urethra supported."
+The midurethral sling is the most commonly performed and well-studied surgery for stress incontinence. It's been done millions of times worldwide with consistently strong results. I like to think of it as rebuilding the platform that keeps the urethra supported.
 
 ## An Important Distinction
 
@@ -37,16 +37,14 @@ You may have heard concerns about "mesh" in pelvic surgery. It's important to un
 
 ## Recovery
 
-- **First 1-2 weeks**: Light activity, no heavy lifting, some mild discomfort managed with over-the-counter pain medication
-- **Weeks 2-4**: Gradual return to normal activities
-- **After 6 weeks**: Full activity including exercise, lifting, and intercourse
+Most women are back to their normal routine within a few weeks. I tell patients to let their body be their guide — if it hurts, don't do it. Full healing takes about 6 weeks.
 
 ## Who Is a Candidate?
 
 A sling may be recommended if:
 - You have stress urinary incontinence that bothers you
-- Conservative treatments (physical therapy, lifestyle changes) haven't provided sufficient improvement
+- You want a durable, long-term surgical solution
 - You're looking for a long-lasting solution
 
-Dr. Stewart notes: "Surgery isn't the first option I recommend, but when it's the right choice, the results can be life-changing. I've had patients tell me they forgot what it was like to sneeze without worrying."
+Surgery is one of several options, and whether it makes sense depends on your symptoms and goals. I've had patients tell me they forgot what it was like to sneeze without worrying.
 

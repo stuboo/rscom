@@ -31,7 +31,7 @@ faq:
 - Over-the-counter remedies aren't providing adequate control
 - You also have urinary incontinence or pelvic organ prolapse
 
-Dr. Stewart explains: "The patients I wish I could reach sooner are the ones suffering in silence. By the time they come to see me, many have been dealing with this for years. I always tell them — I wish you'd come sooner, because we have so many ways to help."
+The patients I wish I could reach sooner are the ones suffering in silence. By the time they come to see me, many have been dealing with this for years. I always tell them — I wish you'd come sooner, because we have so many ways to help.
 
 ## What to Expect at Your First Visit
 
@@ -63,5 +63,5 @@ Most women experience significant improvement with treatment. Options include:
 - Sacral neuromodulation for refractory cases
 - Surgical sphincter repair when appropriate
 
-Dr. Stewart notes: "Fecal incontinence is one of the most undertreated conditions I see. Not because we lack treatments — we have excellent options — but because people don't come in. If this is affecting your life, please make the appointment. You deserve better."
+Fecal incontinence is one of the most undertreated conditions I see. Not because we lack treatments — we have excellent options — but because people don't come in. If this is affecting your life, please make the appointment. You deserve better.
 

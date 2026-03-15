@@ -31,7 +31,7 @@ Fecal incontinence is easier to manage when stool is **formed but soft** — not
 - **Gas production** — excess gas increases urgency and can cause leakage
 - **Rectal irritation** — certain foods irritate the bowel lining
 
-Dr. Stewart explains: "When I see a patient with fecal incontinence, diet is one of the first things we address. Sometimes simple changes — like reducing caffeine or adding a fiber supplement — make a dramatic difference."
+When I see a patient with fecal incontinence, diet is one of the first things we address. Sometimes simple changes — like reducing caffeine or adding a fiber supplement — make a dramatic difference.
 
 ## Foods That Often Worsen Symptoms
 
@@ -55,5 +55,5 @@ Dr. Stewart explains: "When I see a patient with fecal incontinence, diet is one
 
 **Make changes gradually:** Sudden dietary changes can temporarily worsen symptoms.
 
-Dr. Stewart notes: "I recommend starting with a food diary before making changes. Once we identify your personal triggers, targeted adjustments are more effective and easier to sustain than a restrictive diet."
+I recommend starting with a food diary before making changes. Once we identify your personal triggers, targeted adjustments are more effective and easier to sustain than a restrictive diet.
 

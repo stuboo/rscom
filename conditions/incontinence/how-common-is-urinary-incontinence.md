@@ -37,13 +37,13 @@ These numbers likely undercount the true prevalence, because many women never me
 
 The female pelvic floor faces unique challenges throughout life. Pregnancy places months of increasing weight on these structures. Vaginal delivery stretches muscles and can injure nerves. Menopause reduces the hormones that maintain tissue strength. Each of these transitions can contribute to weakening the support system that keeps the bladder sealed.
 
-Dr. Stewart explains: "When I tell patients how common incontinence is, there's often a visible sense of relief. They've been suffering alone, not realizing that millions of other women are dealing with the exact same thing — and that we have great ways to help."
+When I tell patients how common incontinence is, there's often a visible sense of relief. They've been suffering alone, not realizing that millions of other women are dealing with the exact same thing — and that we have great ways to help.
 
 ## Common but Not Normal
 
 There's an important distinction between "common" and "normal." Just because a condition is widespread doesn't mean you should accept it. Urinary incontinence is a medical condition with effective treatments, not an inevitable consequence of being a woman or getting older.
 
-Dr. Stewart notes: "I see women every week who tell me they waited years to make an appointment because they thought nothing could be done. That's the biggest myth we need to dispel — incontinence is treatable, and in many cases, curable."
+I see women every week who tell me they waited years to make an appointment because they thought nothing could be done. That's the biggest myth we need to dispel — incontinence is treatable, and in many cases, curable.
 
 ## You Don't Have to Wait
 

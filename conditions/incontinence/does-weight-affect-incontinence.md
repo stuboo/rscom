@@ -32,7 +32,7 @@ Extra weight in the abdomen presses down on the bladder and pelvic floor continu
 - Increases bladder pressure, contributing to urgency and frequency
 - Can accelerate the progression of incontinence over time
 
-Dr. Stewart explains: "Think of the pelvic floor like a trampoline. It's designed to support a certain amount of weight. When there's more weight pressing down than it was built for, the springs stretch out — and things start to sag and leak."
+Think of the pelvic floor like a trampoline. It's designed to support a certain amount of weight. When there's more weight pressing down than it was built for, the springs stretch out — and things start to sag and leak.
 
 ## The Evidence for Weight Loss
 
@@ -53,5 +53,5 @@ Weight management is most effective when treated as one part of a comprehensive 
 - **Sustainable changes** — crash diets don't lead to lasting improvement
 - **Not a prerequisite** — weight loss shouldn't delay other needed treatments
 
-Dr. Stewart notes: "I never tell a patient she has to lose weight before I'll help her. We address all the contributing factors simultaneously. But I do want patients to understand that weight management is one of the most powerful tools in our toolkit — and it's something you can start working on today."
+I never tell a patient she has to lose weight before I'll help her. We address all the contributing factors simultaneously. But I do want patients to understand that weight management is one of the most powerful tools in our toolkit — and it's something you can start working on today.
 

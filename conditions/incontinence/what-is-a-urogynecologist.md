@@ -35,7 +35,7 @@ The additional fellowship training gives urogynecologists expertise in:
 - **Advanced pelvic surgery** — including minimally invasive and robotic approaches
 - **Urodynamic testing** — specialized bladder function testing
 
-Dr. Stewart explains: "My fellowship at the University of Louisville was three years of intensive focus on the pelvic floor — surgery, diagnostics, research, and patient care. That depth of training means I've seen the full spectrum of pelvic floor conditions and have the tools to address them."
+My fellowship at the University of Louisville was three years of intensive focus on the pelvic floor — surgery, diagnostics, research, and patient care. That depth of training means I've seen the full spectrum of pelvic floor conditions and have the tools to address them.
 
 ## When to See a Urogynecologist
 
@@ -53,5 +53,5 @@ You might benefit from seeing a urogynecologist if:
 
 A urogynecologist visit is similar to a gynecology visit — thorough but respectful. You'll discuss your symptoms in detail, have a focused physical examination, and develop a treatment plan together. The goal is always to find the approach that best fits your needs and goals.
 
-Dr. Stewart notes: "The word 'doctor' comes from the Latin word 'docere,' meaning 'to teach.' I want every patient to leave understanding their condition better than when they arrived. When you understand what's happening and why, you can make informed decisions about your care."
+The word "doctor" comes from the Latin word "docere," meaning "to teach." I want every patient to leave understanding their condition better than when they arrived. When you understand what's happening and why, you can make informed decisions about your care.
 

@@ -31,11 +31,11 @@ Accidental bowel leakage after childbirth is **more common than most women reali
 
 Risk factors for sphincter injury include forceps delivery, prolonged pushing, large baby, and first vaginal delivery.
 
-Dr. Stewart explains: "Many women who develop fecal incontinence after childbirth had a sphincter injury that either wasn't recognized or was repaired but didn't heal completely. The symptoms may not appear until years later when natural aging further weakens the muscles."
+Many women who develop fecal incontinence after childbirth had a sphincter injury that either wasn't recognized or was repaired but didn't heal completely. The symptoms may not appear until years later when natural aging further weakens the muscles.
 
 ## When to Seek Help
 
 If you're experiencing any accidental leakage of stool or gas — whether it started right after delivery or developed years later — it's worth evaluation. This is a treatable condition, and there's no need to suffer in silence.
 
-Dr. Stewart notes: "I understand the courage it takes to bring up this topic. I want every patient to know that I treat fecal incontinence regularly, I take it seriously, and I can help."
+I understand the courage it takes to bring up this topic. I want every patient to know that I treat fecal incontinence regularly, I take it seriously, and I can help.
 

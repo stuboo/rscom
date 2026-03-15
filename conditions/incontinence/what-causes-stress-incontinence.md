@@ -27,7 +27,7 @@ Stress urinary incontinence — the type that causes leaking when you cough, sne
 
 Your urethra is held closed by a combination of muscles, ligaments, and connective tissue that form a hammock-like support underneath it. When this support is strong, your urethra stays sealed even when sudden pressure is applied to your abdomen. When it's weakened, urine can escape during moments of increased pressure.
 
-Dr. Stewart explains: "The urethra is like a valve, and the pelvic floor provides the backstop that keeps it shut. When the backstop weakens, the valve can't do its job under pressure — literally."
+The urethra is like a valve, and the pelvic floor provides the backstop that keeps it shut. When the backstop weakens, the valve can't do its job under pressure — literally.
 
 ## Common Causes and Risk Factors
 
@@ -43,7 +43,7 @@ Dr. Stewart explains: "The urethra is like a valve, and the pelvic floor provide
 
 Most women don't develop stress incontinence from a single cause. It's usually a combination of factors — perhaps childbirth weakened the foundation, and then hormonal changes after menopause further reduced tissue support, and a chronic cough from allergies added ongoing strain.
 
-Dr. Stewart notes: "Understanding the contributing factors helps us build a better treatment plan. If we can address modifiable risk factors — like optimizing weight or treating a chronic cough — that often enhances the results of other treatments."
+Understanding the contributing factors helps us build a better treatment plan. If we can address modifiable risk factors — like optimizing weight or treating a chronic cough — that often enhances the results of other treatments.
 
 ## What You Can Do
 

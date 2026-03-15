@@ -224,6 +224,6 @@ If you're experiencing symptoms of mixed urinary incontinence:
 > 3-day diary
 >
 > Download and print three copies of [bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf) to bring to your first visit with Dr. Stewart.
-This will help us better understand your symptoms and develop a personalized treatment plan.
+This will help us better understand your symptoms and develop a treatment plan that works for you.
 
 Remember, mixed urinary incontinence may be common, but it's not something you have to accept as a normal part of life. With the right care and treatment, you can significantly improve your symptoms and quality of life.

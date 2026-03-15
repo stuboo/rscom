@@ -38,7 +38,7 @@ The simplest answer: **if bladder leakage is bothering you, it's worth discussin
 
 Many women wait 6-8 years before seeking treatment for incontinence. During that time, symptoms typically worsen. Pelvic floor muscles continue to weaken, and the condition that might have responded to physical therapy alone may eventually require more involved treatment.
 
-Dr. Stewart explains: "The earlier we evaluate incontinence, the more options we have. I've had patients tell me they wish they'd come in years ago — not because they needed surgery, but because a few sessions of physical therapy made a dramatic difference that could have improved years of their life."
+The earlier we evaluate incontinence, the more options we have. I've had patients tell me they wish they'd come in years ago — not because they needed surgery, but because a few sessions of physical therapy made a dramatic difference that could have improved years of their life.
 
 ## What Kind of Doctor Should You See?
 
@@ -53,7 +53,7 @@ There's nothing to be nervous about. Your first appointment will include:
 - Possibly a urine test
 - Discussion of initial treatment options
 
-Dr. Stewart notes: "I know it takes courage to make that first call. Many of my patients tell me they're relieved once they're here — they finally feel heard, and they learn that real solutions exist."
+I know it takes courage to make that first call. Many of my patients tell me they're relieved once they're here — they finally feel heard, and they learn that real solutions exist.
 
 No referral is needed. You can schedule directly.
 

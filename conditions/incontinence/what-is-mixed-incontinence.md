@@ -34,7 +34,7 @@ Women with mixed incontinence often describe a combination of:
 
 One component is usually more bothersome than the other — this is called the "predominant" type and often guides initial treatment.
 
-Dr. Stewart explains: "Mixed incontinence is actually the most common pattern I see in my practice. The good news is that we don't have to fix everything at once. We start with the component that's bothering you most, and often, improving one makes the other better too."
+Mixed incontinence is actually the most common pattern I see in my practice. The good news is that we don't have to fix everything at once. We start with the component that's bothering you most, and often, improving one makes the other better too.
 
 ## Treatment Approach
 
@@ -60,5 +60,5 @@ The key to treating mixed incontinence is a **staged approach**:
 
 Understanding that you have mixed incontinence — rather than just one type — helps set realistic expectations. Treating the stress component alone may not fully resolve your symptoms if urgency is also contributing, and vice versa. A comprehensive evaluation ensures both components are addressed.
 
-Dr. Stewart notes: "I'm always transparent with patients about mixed incontinence. If we do a sling for the stress component, you'll likely see a big improvement — but you may still have some urgency that needs separate treatment. Having that conversation upfront leads to better outcomes and greater satisfaction."
+I'm always transparent with patients about mixed incontinence. If we do a sling for the stress component, you'll likely see a big improvement — but you may still have some urgency that needs separate treatment. Having that conversation upfront leads to better outcomes and greater satisfaction.
 

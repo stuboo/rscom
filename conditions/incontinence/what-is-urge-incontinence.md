@@ -33,7 +33,7 @@ Women with urge incontinence often describe:
 - Needing to urinate frequently (more than 7-8 times a day)
 - Waking up multiple times at night to urinate
 
-Dr. Stewart explains: "Urge incontinence can be particularly frustrating because it feels unpredictable. You might be fine one moment and suddenly desperate the next. But it's important to know that this isn't a weakness — it's a medical condition caused by involuntary bladder muscle activity."
+Urge incontinence can be particularly frustrating because it feels unpredictable. You might be fine one moment and suddenly desperate the next. But it's important to know that this isn't a weakness — it's a medical condition caused by involuntary bladder muscle activity.
 
 ## What Causes It
 
@@ -56,5 +56,5 @@ In many cases, no specific cause is identified — but treatment is still effect
 - **Botox injections** — injected into the bladder muscle to reduce involuntary contractions
 - **Sacral neuromodulation** — a small implanted device that regulates bladder nerve signals
 
-Dr. Stewart notes: "We typically start with behavioral approaches and add medications if needed. For women who don't respond to those, Botox and nerve stimulation offer excellent results. There's always something more we can try."
+We typically start with behavioral approaches and add medications if needed. For women who don't respond to those, Botox and nerve stimulation offer excellent results. There's always something more we can try.
 

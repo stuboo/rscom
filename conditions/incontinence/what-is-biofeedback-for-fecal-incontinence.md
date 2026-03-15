@@ -31,7 +31,7 @@ During a biofeedback session:
 3. A trained therapist coaches you to improve strength, timing, and endurance
 4. You practice squeezing and relaxing with visual guidance
 
-Dr. Stewart explains: "Many women with fecal incontinence have the muscles — they've just lost the coordination. Biofeedback helps reconnect the brain-muscle pathway so you can respond to rectal signals before it's too late."
+Many women with fecal incontinence have the muscles — they've just lost the coordination. Biofeedback helps reconnect the brain-muscle pathway so you can respond to rectal signals before it's too late.
 
 ## What Makes It Effective
 
@@ -58,5 +58,5 @@ Biofeedback works best for women who:
 - No side effects or risks
 - Can be combined with other treatments
 
-Dr. Stewart notes: "I recommend biofeedback to nearly every patient with fecal incontinence as a starting point. It's effective, it has no downside, and the skills you learn are yours to keep. Even if you eventually need additional treatment, biofeedback gives you a stronger foundation."
+I recommend biofeedback to nearly every patient with fecal incontinence as a starting point. It's effective, it has no downside, and the skills you learn are yours to keep. Even if you eventually need additional treatment, biofeedback gives you a stronger foundation.
 

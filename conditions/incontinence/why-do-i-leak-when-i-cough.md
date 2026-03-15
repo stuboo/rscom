@@ -14,7 +14,7 @@ faq:
   - question: "Is it normal to leak urine when coughing?"
     answer: "While very common — affecting up to 1 in 3 women — leaking urine when you cough is not something you have to accept as normal. It is a treatable medical condition called stress urinary incontinence."
   - question: "Can stress incontinence be fixed without surgery?"
-    answer: "Yes. Many women improve significantly with pelvic floor physical therapy, lifestyle modifications, and behavioral techniques. Surgery is typically reserved for cases that don't respond to conservative treatment."
+    answer: "Yes. Many women improve significantly with pelvic floor physical therapy, lifestyle modifications, and behavioral techniques. Surgery is also an option for women who want a more definitive fix — it depends on your goals and how much the leaking bothers you."
   - question: "What type of doctor treats urine leakage?"
     answer: "A urogynecologist is a specialist with fellowship training in female pelvic medicine. They have the most advanced training in diagnosing and treating all types of urinary incontinence."
 ---
@@ -27,7 +27,7 @@ If you've experienced a small leak of urine when you cough, sneeze, laugh, or ex
 
 Your urethra — the tube that carries urine out of your body — is normally held closed by a combination of muscles, ligaments, and connective tissue. When you cough, sneeze, laugh, jump, or lift something heavy, the pressure inside your abdomen increases suddenly. In a well-supported system, that pressure is transmitted equally and your urethra stays shut. But when the support has weakened, the urethra can't resist that burst of pressure, and a small amount of urine escapes.
 
-Dr. Stewart explains: "Think of it like a garden hose. If you step on the hose firmly, water can't get through even if someone turns up the pressure. But if your foot isn't pressing down firmly enough, water leaks out. The pelvic floor muscles and ligaments are like your foot — when they're weakened, they can't keep the urethra closed under pressure."
+Think of it like a garden hose. If you step on the hose firmly, water can't get through even if someone turns up the pressure. But if your foot isn't pressing down firmly enough, water leaks out. The pelvic floor muscles and ligaments are like your foot — when they're weakened, they can't keep the urethra closed under pressure.
 
 ## Why Does This Happen?
 
@@ -50,7 +50,7 @@ This is a highly treatable condition. Depending on the severity, treatment optio
 - **Pessary devices** — a removable support device that can reduce leaking during physical activity
 - **Surgical options** — procedures like a midurethral sling offer high success rates (85-95%) when conservative measures aren't enough
 
-Dr. Stewart notes: "I want patients to know about all of their options, from pelvic floor therapy to surgery, so they can decide what makes sense for them. Many are surprised by how much improvement they see with PT alone. But for those who want a more definitive fix, surgical options like the midurethral sling have very high success rates."
+I want patients to know about all of their options, from pelvic floor therapy to surgery, so they can decide what makes sense for them. Many are surprised by how much improvement they see with PT alone. But for those who want a more definitive fix, surgical options like the midurethral sling have very high success rates.
 
 ## When to See a Specialist
 

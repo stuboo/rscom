@@ -32,11 +32,11 @@ Fecal incontinence — accidental bowel leakage — has several possible causes,
 - **Rectal prolapse** — the rectum descends, disrupting normal closure
 - **IBS and inflammatory bowel disease** — chronic bowel conditions that affect stool consistency and urgency
 
-Dr. Stewart explains: "Many women with fecal incontinence had a sphincter injury during childbirth years or even decades ago. The injury may not have caused problems at the time, but as the muscles weaken with age or hormonal changes, symptoms emerge."
+Many women with fecal incontinence had a sphincter injury during childbirth years or even decades ago. The injury may not have caused problems at the time, but as the muscles weaken with age or hormonal changes, symptoms emerge.
 
 ## Getting Help
 
 If you're experiencing accidental bowel leakage, a urogynecologist can evaluate the cause and develop a targeted treatment plan. The conversation may feel difficult to start, but Dr. Stewart creates a compassionate, judgment-free environment.
 
-Dr. Stewart notes: "I bring up bowel symptoms proactively because I know how hard it is for patients to raise the topic. You'd be surprised how many women are quietly dealing with this — and how much better they feel once treatment begins."
+I bring up bowel symptoms proactively because I know how hard it is for patients to raise the topic. You'd be surprised how many women are quietly dealing with this — and how much better they feel once treatment begins.
 

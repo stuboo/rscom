@@ -35,7 +35,7 @@ Diagnosing urinary incontinence is usually straightforward and doesn't require i
 - Medications you take
 - How symptoms affect your daily life
 
-Dr. Stewart explains: "A detailed conversation tells me more than almost any test. By the time we've talked through your symptoms, I usually have a very good idea of what type of incontinence we're dealing with and what the best treatment approach will be."
+A detailed conversation tells me more than almost any test. By the time we've talked through your symptoms, I usually have a very good idea of what type of incontinence we're dealing with and what the best treatment approach will be.
 
 ## Physical Examination
 
@@ -61,5 +61,5 @@ Most women can be diagnosed and begin treatment without advanced testing. Howeve
 - Surgery is being considered
 - You have neurological conditions affecting bladder function
 
-Dr. Stewart notes: "I try to keep the evaluation as simple as possible. For most women, we can make an accurate diagnosis and start treatment based on our conversation, the exam, and basic tests. I only recommend urodynamics when it will genuinely change our treatment approach."
+I try to keep the evaluation as simple as possible. For most women, we can make an accurate diagnosis and start treatment based on our conversation, the exam, and basic tests. I only recommend urodynamics when it will genuinely change our treatment approach.
 

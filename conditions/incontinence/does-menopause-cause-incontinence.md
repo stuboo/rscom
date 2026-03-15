@@ -32,7 +32,7 @@ Estrogen plays a crucial role in maintaining the health of pelvic tissues. It ke
 - Blood flow to the area decreases
 - The pelvic floor muscles may weaken more quickly
 
-Dr. Stewart explains: "Estrogen is like fertilizer for the pelvic floor tissues. When it's present, everything stays healthy and strong. When it declines, those tissues become more vulnerable — especially if there was already some weakness from childbirth or other factors."
+Estrogen is like fertilizer for the pelvic floor tissues. When it's present, everything stays healthy and strong. When it declines, those tissues become more vulnerable — especially if there was already some weakness from childbirth or other factors.
 
 ## How It Shows Up
 
@@ -54,5 +54,5 @@ The good news is that menopause-related bladder changes respond well to treatmen
 - **Medications** — for urgency and overactive bladder symptoms
 - **Procedures** — when conservative approaches aren't sufficient
 
-Dr. Stewart notes: "Many of my menopausal patients are pleasantly surprised by how much improvement they see with vaginal estrogen alone. It's a simple, low-risk treatment that addresses the root cause of their tissue changes."
+Many of my menopausal patients are pleasantly surprised by how much improvement they see with vaginal estrogen alone. It's a simple, low-risk treatment that addresses the root cause of their tissue changes.
 

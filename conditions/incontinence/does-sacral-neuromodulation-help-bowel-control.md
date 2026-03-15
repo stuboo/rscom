@@ -32,7 +32,7 @@ SNM modulates the sacral nerves that control the muscles and sensation of the re
 - Improve anal sphincter function
 - Reduce urgency and the need to rush to the bathroom
 
-Dr. Stewart explains: "Sacral neuromodulation is particularly valuable because it treats fecal incontinence through a different pathway than muscle strengthening. Even when the muscles are damaged, improving the nerve signals can restore functional control."
+Sacral neuromodulation is particularly valuable because it treats fecal incontinence through a different pathway than muscle strengthening. Even when the muscles are damaged, improving the nerve signals can restore functional control.
 
 ## The Trial Period
 
@@ -44,5 +44,5 @@ Just like with bladder applications, SNM for fecal incontinence includes a trial
 - Many patients achieve complete continence
 - Benefits extend to quality of life, confidence, and social activity
 
-Dr. Stewart notes: "For women dealing with both bladder and bowel incontinence, SNM is uniquely valuable — one device can treat both conditions. It's one of the most rewarding treatments I perform."
+For women dealing with both bladder and bowel incontinence, SNM is uniquely valuable — one device can treat both conditions. It's one of the most rewarding treatments I perform.
 
