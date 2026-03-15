@@ -21,121 +21,113 @@ faq:
   answer: "A normal bladder fills with urine from the kidneys, and as it fills, the bladder walls stretch. You start to feel the need to urinate but can hold it. When ready, your brain signals the pelvic muscles and urethral sphincter to relax and the bladder muscle reflexively squeezes, allowing urine to flow out. This typically happens about 4-7 times per day and once at night."
 
 - question: "What causes OAB?"
-  answer: "In OAB, the bladder muscle squeezes to empty without warning and at inappropriate times. Common causes and risk factors include urinary tract infections, bladder stones or growths, neurological conditions, previous surgery for stress incontinence, and certain foods/drinks. However, for many women, the exact cause of OAB is never found."
+  answer: "In OAB, the bladder muscle contracts when it shouldn't — before the bladder is full or at inappropriate times. Contributing factors include urinary tract infections, bladder stones or growths, neurological conditions, constipation, pelvic floor dysfunction, obesity, and caffeine or alcohol intake. For many patients, no single cause is identified, but effective treatments are still available."
 
 - question: "How is OAB diagnosed?"
   answer: "Diagnosis typically involves discussing your bladder habits, fluid intake, and general health with a doctor, a physical examination, urine tests, and filling out a bladder diary. Additional tests might include measuring residual urine, cystoscopy, and urodynamics to examine bladder muscle activity."
 
 - question: "What are the treatment options for OAB?"
-  answer: "Treatment often involves a combination of lifestyle changes and medical interventions. Lifestyle changes include fluid management and bladder training (with or without the help of a pelvic floor physical therapist). Medical treatments can include medications, botulinum toxin injections, and nerve stimulation techniques like tibial nerve stimulation or sacral nerve stimulation."
+  answer: "Treatment is personalized based on your goals and preferences. Options include lifestyle changes (fluid management, bladder training), pelvic floor physical therapy, medications (beta-3 agonists like mirabegron or vibegron, or antimuscarinics), BOTOX® injections into the bladder, and nerve stimulation techniques like tibial nerve stimulation or sacral neuromodulation."
 
 - question: "Is OAB dangerous?"
   answer: "While OAB can be frustrating, it's not dangerous. With the right treatment plan, most people can significantly improve their symptoms and quality of life."
 
 - question: "Should I see a doctor if I think I have OAB?"
-  answer: "Yes, if you're experiencing symptoms of OAB, you should speak with a healthcare provider. They can provide a thorough evaluation and discuss treatment options tailored to your needs and goals."
+  answer: "Yes. OAB is very treatable, and a specialist can evaluate your symptoms, identify contributing factors, and work with you to build a treatment plan that fits your life and goals."
 last_modified_date: 2026-03-15
-last_reviewed_date: 2016-01-01
+last_reviewed_date: 2026-03-15
 ---
 
 # Understanding Overactive Bladder (OAB)
 
-Do you find yourself:
+Overactive bladder is one of the most common conditions I treat. Patients describe it in different ways: rushing to the bathroom all day, not making it in time, mapping out every restroom before leaving the house. Whatever it looks like for you, the pattern is the same. Your bladder is calling the shots, and it's running your life.
 
-* Rushing to the bathroom frequently during the day and night?
-* Experiencing a sudden, intense urge to urinate that's hard to control?
-* Sometimes leaking urine before reaching the toilet?
-* Waking up more than once at night to urinate?
+OAB isn't a disease. It's a group of urinary symptoms, and it's **not just a normal part of aging**. It's also very treatable.
 
-If so, you might be dealing with Overactive Bladder (OAB), a common condition that can cause distressing and inconvenient symptoms. This article explains what OAB is, how it's diagnosed, and the treatments available to help manage your symptoms.
+## What are the Symptoms?
 
-## What is Overactive Bladder?
+The main symptoms are:
 
-Overactive Bladder is the name given to a group of urinary symptoms. It's not a disease, but rather a collection of symptoms that can significantly impact your quality of life. OAB affects both women and men of all ages and is **not simply a result of getting older**.
+1. **Urgency**: a sudden, strong need to urinate that's hard to put off, even when your bladder isn't full.
+2. **Frequency**: going to the bathroom more than about 7 times during the day.
+3. **Nocturia**: waking up more than once at night to urinate.
+4. **Urge incontinence**: leaking urine when that sudden urge hits before you can get to the bathroom.
 
-The key symptoms of OAB include:
-
-1. **Urgency**: A sudden, intense need to urinate that you can't ignore. This can happen even when your bladder isn't full.
-2. **Frequency**: Urinating many times during the day (usually more than 7).
-3. **Nocturia**: Waking up more than once at night to urinate.
-4. **Urge Incontinence**: Sometimes leaking urine when you feel the sudden urge.
-
-{: .important-title }
-> It's not just you...
->
-> OAB is very common and affects millions of people worldwide. You're not alone, and there are treatments available.
+Not everyone with OAB has all four symptoms. Some patients have urgency and frequency without any leaking. Others wake up multiple times at night but do fine during the day.
 
 ## How Does a Normal Bladder Work?
 
-To understand OAB, it's helpful to know how a normal bladder functions:
+It helps to understand what's supposed to happen:
 
-1. Your bladder fills with urine from the kidneys.
-2. As it fills, the bladder walls stretch.
-3. You start to feel the need to urinate but can hold it.
-4. When you're ready, your brain signals the bladder muscle to squeeze.
-5. At the same time, the bladder valve and pelvic floor muscles relax.
-6. This allows urine to flow out.
+1. Your kidneys produce urine, which drains into the bladder.
+2. As the bladder fills, the walls stretch, and you gradually become aware that you need to go.
+3. You can hold it until it's convenient.
+4. When you're ready, your brain signals the pelvic floor muscles and urethral sphincter to relax, and the bladder muscle contracts to push urine out.
 
-Typically, this process happens about 4-7 times per day and once at night.
-
-![The Urinary Tract](https://www.yourpelvicfloor.org/media/Figure-1_The-Urinary-Tract-1.png)
+Most people urinate about 4–7 times per day and no more than once at night.
 
 ## What Causes OAB?
 
-In OAB, the bladder muscle squeezes to empty without warning and at inappropriate times. This often happens without warning and when you don't want it to.
+In OAB, the bladder muscle contracts when it shouldn't, before the bladder is full or at times when you're not ready. That's what creates the urgency.
 
 Common causes and risk factors include:
 
 * Urinary tract infections
 * Bladder stones or growths
-* Neurological conditions
-* Previous surgery for stress incontinence
-* Certain drinks (especially those containing caffeine)
+* Neurological conditions (stroke, Parkinson's, MS)
+* Constipation and pelvic floor dysfunction
+* Obesity
+* Caffeine and alcohol intake
+* Previous pelvic surgery
 
-However, for many women, the exact cause of OAB is never found. Despite this, there are many treatments available to help manage your symptoms.
+For many patients, though, we don't find a single identifiable cause. That doesn't mean we can't treat it effectively. It just means the workup may not point to one specific thing.
 
-## Diagnosis of OAB
+## How is OAB Diagnosed?
 
-If you're experiencing symptoms of OAB, your doctor will likely:
+When I evaluate a patient for OAB, I start with a conversation about your symptoms, fluid intake, medical history, and how your bladder is affecting your daily life. From there, the workup typically includes:
 
-1. Ask about your bladder habits, fluid intake, and general health
-2. Perform a physical examination
-3. Test your urine for infection or blood
-4. Ask you to fill out a [bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf)
+1. A physical examination
+2. A urine test to rule out infection or blood
+3. A [bladder diary](https://www.niddk.nih.gov/-/media/Files/Urologic-Diseases/diary_508.pdf), a simple log of when and how much you drink and urinate over a few days
 
-Additional tests might include:
-
-* Measuring your residual urine (how much is left after you urinate)
-* Urodynamics, a test that examines bladder muscle activity
+Sometimes I'll also check a post-void residual (how much urine is left in the bladder after you go) or recommend urodynamic testing to get a more detailed picture of how the bladder is functioning. Not every patient needs these. It depends on what we find initially.
 
 ## Treatment Options
 
-The good news is that there are many ways to manage OAB symptoms. Treatment often involves a combination of lifestyle changes and medical interventions.
+I approach OAB treatment as a conversation, not a checklist. The 2024 AUA/SUFU guideline moved away from a rigid stepwise approach and toward shared decision-making, which fits how I like to practice. We talk through your goals, your preferences, and what fits your life, and build a plan together.
 
-### Lifestyle Changes
+### Behavioral and lifestyle changes
 
-1. **Fluid Management**: Reduce caffeine, alcohol, and carbonated drinks. Aim for 1.5 to 2 liters of fluid per day.
-2. **Bladder Training**: Gradually increase the time between toilet visits to help your bladder hold more urine.
+For many patients, these are enough on their own.
 
-### Medical Treatments
+**Fluid management** means cutting back on caffeine, alcohol, and carbonated drinks, and aiming for a reasonable daily fluid intake (typically 1.5–2 liters).
 
-1. **Medications**: Various drugs can help reduce urgency and frequency. Your doctor can help find the right one for you.
-2. **Botulinum Toxin**: In some cases, this can be injected into the bladder to help relax the muscles.
-3. **Nerve Stimulation**: Techniques like tibial nerve stimulation or sacral nerve stimulation can help retrain the nerves controlling bladder function.
+**Bladder training** involves gradually increasing the time between bathroom visits to retrain your bladder to hold more comfortably.
 
-{: .important-title }
-> Remember...
->
-> While OAB can be frustrating, it's not dangerous. With the right treatment plan, most people can significantly improve their symptoms and quality of life.
+**Pelvic floor physical therapy** is about strengthening and coordinating the muscles that support bladder control. This goes well beyond Kegels. I have pelvic floor PTs in my office, and I refer to a network of therapists across the region.
 
-## Next Steps
+### Medications
 
-If you're experiencing symptoms of OAB, don't hesitate to speak with a healthcare provider. They can provide a thorough evaluation and discuss treatment options tailored to your needs and goals.
+There are two main classes of medications for OAB.
 
-Remember, you're not alone in dealing with OAB. With proper care and management, you can take control of your bladder symptoms and improve your quality of life.
+**Beta-3 agonists** (mirabegron, vibegron) relax the bladder muscle during filling. They tend to be well tolerated and are often my first choice for medication.
+
+**Antimuscarinics** (oxybutynin, tolterodine, solifenacin, and others) block the nerve signals that cause the bladder to contract. They can be effective, but side effects like dry mouth and constipation are common. There's also growing evidence linking long-term antimuscarinic use to cognitive risks, particularly in older adults, so I discuss this carefully with each patient.
+
+### Advanced treatments
+
+When behavioral changes and medications aren't enough, there are other options.
+
+**Botulinum toxin (BOTOX®) injections** are injected directly into the bladder muscle in the office to reduce involuntary contractions. Effects typically last 6–9 months.
+
+**Tibial nerve stimulation** uses electrical stimulation to modulate the nerve signals controlling the bladder. It's minimally invasive and done in the office.
+
+**Sacral neuromodulation** is a small implanted device that continuously modulates the sacral nerves. Think of it like a pacemaker for the bladder.
+
+Which option makes sense depends on your symptoms, what you've already tried, and what matters most to you. OAB isn't dangerous, but it can take a real toll on daily life.
 
 ## References
 
-1. Gormley EA, Lightner DJ, Burgio KL, et al. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline. *J Urol*. 2012;188(6 Suppl):2455-2463. [doi:10.1016/j.juro.2012.09.079](https://doi.org/10.1016/j.juro.2012.09.079)
+1. Cameron AP, Engel WJ, Engel CJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 2. Coyne KS, Sexton CC, Vats V, Thompson CL, Kopp ZS, Milsom I. National community prevalence of overactive bladder in the United States stratified by sex and age. *Urology*. 2011;77(5):1081-1087. [doi:10.1016/j.urology.2010.08.039](https://doi.org/10.1016/j.urology.2010.08.039)
 3. National Institute of Diabetes and Digestive and Kidney Diseases. [Bladder Control Problems (Urinary Incontinence)](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems). Accessed 2026.
