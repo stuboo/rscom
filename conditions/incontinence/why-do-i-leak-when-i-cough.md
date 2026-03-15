@@ -50,7 +50,7 @@ This is a highly treatable condition. Depending on the severity, treatment optio
 - **Pessary devices** — a removable support device that can reduce leaking during physical activity
 - **Surgical options** — procedures like a midurethral sling offer high success rates (85-95%) when conservative measures aren't enough
 
-Dr. Stewart notes: "I always start with the least invasive approach. Many of my patients are surprised by how much improvement they see with pelvic floor therapy alone. But for those who need more, we have excellent surgical options with very high success rates."
+Dr. Stewart notes: "I want patients to know about all of their options, from pelvic floor therapy to surgery, so they can decide what makes sense for them. Many are surprised by how much improvement they see with PT alone. But for those who want a more definitive fix, surgical options like the midurethral sling have very high success rates."
 
 ## When to See a Specialist
 

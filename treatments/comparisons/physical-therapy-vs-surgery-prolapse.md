@@ -88,7 +88,7 @@ Many women benefit from a staged approach:
 2. **Add a pessary if helpful** — additional support while continuing PT
 3. **Consider surgery if needed** — with the benefit of an optimized pelvic floor for better outcomes
 
-Dr. Stewart explains: "This stepwise approach ensures we're not jumping to surgery when simpler options might work. And if surgery does become the right choice, a pelvic floor that's been conditioned through PT heals and functions better after the procedure." 
+Dr. Stewart explains: "I want patients to understand what PT can and can't do, and what surgery can and can't do, so they can decide what makes sense. And if surgery is the right choice, a pelvic floor that's been conditioned through PT tends to heal and function better afterward."
 
 ## Making Your Decision
 

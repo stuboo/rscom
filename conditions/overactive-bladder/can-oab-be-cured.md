@@ -16,7 +16,7 @@ faq:
   - question: "Do OAB medications work long-term?"
     answer: "Medications can be effective long-term, but some women experience decreasing benefit or bothersome side effects over time. Fortunately, there are multiple medication options and alternative treatments if one approach stops working."
   - question: "What's the most effective OAB treatment?"
-    answer: "There's no single best treatment — it depends on the individual. Behavioral therapy is always the foundation. Beyond that, medications, Botox, and sacral neuromodulation each work well for different patients. A stepwise approach helps identify what works best for you."
+    answer: "There's no single best treatment — it depends on the individual. Behavioral therapy, medications, Botox, and sacral neuromodulation each work well for different patients. I present all the options so you can decide what's right for you."
 ---
 # Can Overactive Bladder Be Cured?
 
@@ -26,26 +26,24 @@ faq:
 
 Dr. Stewart explains: "I'm honest with patients — I can't promise a cure in the way you'd cure an infection. But I can tell you that most women with OAB can get to a place where their bladder doesn't run their life. That's a meaningful outcome."
 
-## The Treatment Ladder
+## Treatment Options
 
-OAB treatment follows a stepwise approach, and many women find relief at the first or second step:
+There are several effective treatments for OAB, and the right choice depends on your symptoms, preferences, and goals. Consistent with current AUA/SUFU guidelines, I present all options so you can make an informed decision about what fits your life.
 
-**Step 1: Behavioral therapy**
+**Behavioral therapy**
 - Bladder training and timed voiding
 - Fluid management
 - Pelvic floor exercises
 - Urge suppression techniques
-- *Effective for 50-80% of women as first-line therapy*
+- *Effective for 50-80% of women*
 
-**Step 2: Medications**
+**Medications**
 - Anticholinergics or beta-3 agonists
 - Can be combined with behavioral therapy
-- *Additional improvement in most women who need this step*
 
-**Step 3: Advanced therapies**
+**Interventional therapies**
 - Botox bladder injections
 - Sacral neuromodulation (InterStim)
-- *Reserved for women who haven't responded adequately to Steps 1-2*
 
 ## Long-Term Management
 
