@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Robotic Sacrocolpopexy
 parent: Prolapse Treatments
 nav_order: 5
@@ -8,6 +8,8 @@ permalink: /treatments/prolapse/robotic-sacrocolpopexy
 published: false
 redirect_from:
   - /da-vinci-robotic-sacrocolpopexy/
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Robotic Sacrocolpopexy for Pelvic Organ Prolapse
@@ -123,3 +125,9 @@ Choosing the right treatment for pelvic organ prolapse depends on many factors i
 We believe in shared decision-making and will work with you to develop a personalized treatment plan that aligns with your goals and preferences.
 
 If you're experiencing symptoms of pelvic organ prolapse, don't hesitate to seek evaluation. Early intervention can often lead to better outcomes and may help you avoid more complex treatments in the future.
+
+## References
+
+1. Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. *JAMA*. 2013;309(19):2016-2024. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919)
+2. Anger JT, Mueller ER, Tarnay C, et al. Robotic compared with laparoscopic sacrocolpopexy: a randomized controlled trial. *Obstet Gynecol*. 2014;123(1):5-12. [doi:10.1097/AOG.0000000000000006](https://doi.org/10.1097/AOG.0000000000000006)
+3. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)

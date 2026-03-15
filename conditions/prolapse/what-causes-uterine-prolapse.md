@@ -10,6 +10,7 @@ nav_exclude: true
 redirect_from:
   - /what-causes-uterine-prolapse/
   - /how-to-avoid-uterine-prolapse/
+last_modified_date: 2026-03-15
 ---
 
 # What Causes Uterine Prolapse?

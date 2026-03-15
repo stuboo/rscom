@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Pelvic Floor Physical Therapy
 parent: Prolapse Treatments
 nav_order: 3
 description: "Pelvic Floor PT for Prolapse"
 permalink: /treatments/prolapse/pelvic-floor-physical-therapy
+last_modified_date: 2026-03-15
 ---
 
 # Pelvic Floor Physical Therapy for Prolapse

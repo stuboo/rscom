@@ -29,6 +29,7 @@ faq:
 
   - question: "When should I seek medical help for potential enterocele?"
     answer: "You should consult a healthcare provider if you notice a bulge in your vagina, experience persistent pelvic pressure or discomfort, or have difficulty with urination or bowel movements. Early intervention can often lead to better outcomes and may help avoid more invasive treatments."
+last_modified_date: 2026-03-15
 ---
 # Understanding Enterocele: A Guide for Patients
 

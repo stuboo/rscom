@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Lifestyle and Behavioral Modifications
 parent: Urinary Incontinence Treatments
 nav_order: 2
 description: "Lifestyle and Behavior Changes for UI"
 permalink: /treatments/urinary-incontinence/lifestyle-and-behavioral-modifications
+last_modified_date: 2026-03-15
 ---
 
 # Lifestyle and Behavioral Modifications for Urinary Incontinence

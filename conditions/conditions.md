@@ -32,7 +32,7 @@ faq:
 
 - question: "Can pelvic floor disorders be treated?"
   answer: "Yes, with proper diagnosis and treatment, many patients experience substantial improvement in their condition and quality of life. It's important to schedule an appointment for a thorough evaluation and personalized treatment plan."
-
+last_modified_date: 2026-03-15
 ---
 
 # Urogynecological Conditions

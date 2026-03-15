@@ -28,6 +28,7 @@ faq:
 
   - question: "How does constipation relate to rectocele?"
     answer: "Constipation can both cause and be caused by rectocele. Straining during bowel movements can worsen the prolapse, while the prolapse itself can make passing stools difficult. Managing constipation through diet, exercise, and proper bowel habits is crucial in treating rectocele."
+last_modified_date: 2026-03-15
 ---
 
 # Understanding Rectocele: A Guide for Patients

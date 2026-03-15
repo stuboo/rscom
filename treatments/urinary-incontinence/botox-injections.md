@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: BOTOX® Injections
 parent: Urinary Incontinence Treatments
 nav_order: 6
@@ -7,6 +7,8 @@ description: "Botox Injections for Bladder"
 permalink: /treatments/urinary-incontinence/botox-injections
 redirect_from:
   - /bladder-botox-therapy/
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # BOTOX® Injections for Urinary Incontinence
@@ -63,3 +65,9 @@ BOTOX® may be an option if you:
 We'll discuss your specific situation, symptoms, and treatment history to determine if BOTOX® injections could be a good fit for your bladder control needs.
 
 Remember, while BOTOX® can be very effective, it's just one of several advanced treatment options available for managing urinary incontinence. We'll work together to find the best approach for your individual case.
+
+## References
+
+1. Nitti VW, Dmochowski R, Herschorn S, et al. OnabotulinumtoxinA for the treatment of patients with overactive bladder and urinary incontinence: results of a phase 3, randomized, placebo controlled trial. *J Urol*. 2013;189(6):2186-2193. [doi:10.1016/j.juro.2012.12.022](https://doi.org/10.1016/j.juro.2012.12.022)
+2. Chapple C, Sievert KD, MacDiarmid S, et al. OnabotulinumtoxinA 100 U significantly improves all idiopathic overactive bladder symptoms and quality of life in patients with overactive bladder and urinary incontinence: a randomised, double-blind, placebo-controlled trial. *Eur Urol*. 2013;64(2):249-256. [doi:10.1016/j.eururo.2013.04.001](https://doi.org/10.1016/j.eururo.2013.04.001)
+3. American Urological Association/Society of Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction. [Diagnosis and Treatment of Non-Neurogenic Overactive Bladder in Adults: AUA/SUFU Guideline](https://www.auanet.org/guidelines-and-quality/guidelines/overactive-bladder-(oab)-guideline). 2019 (amended 2023).

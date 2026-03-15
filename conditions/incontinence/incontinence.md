@@ -48,6 +48,8 @@ faq:
     2. Keep a symptom diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open and honest about your symptoms during your consultation"
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Understanding Incontinence in Women
@@ -126,3 +128,9 @@ If you're experiencing symptoms of incontinence:
 > Millions of women have found relief from incontinence. Take the first step towards reclaiming your quality of life by seeking help today.
 
 Remember, incontinence may be common, but it's not something you have to accept as normal. With the right care and treatment, you can regain control and confidence in your daily life.
+
+## References
+
+1. Aoki Y, Brown HW, Brubaker L, Cornu JN, Daly JO, Cartwright R. Urinary incontinence in women. *Nat Rev Dis Primers*. 2017;3:17042. [doi:10.1038/nrdp.2017.42](https://doi.org/10.1038/nrdp.2017.42)
+2. Whitehead WE, Borrud L, Goode PS, et al. Fecal incontinence in US adults: epidemiology and risk factors. *Gastroenterology*. 2009;137(2):512-517. [doi:10.1053/j.gastro.2009.04.054](https://doi.org/10.1053/j.gastro.2009.04.054)
+3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)

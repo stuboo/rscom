@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% if page.url contains '/conditions/' or page.url contains '/treatments/' %}
+{% include author-card.html %}
+{% endif %}
+
 {{ content }}
 {% if page.faq %}
 {% include faq-schema-content.html %}

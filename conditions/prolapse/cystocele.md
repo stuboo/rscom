@@ -28,6 +28,7 @@ faq:
 
   - question: "What should I expect during a consultation about cystocele?"
     answer: "During a consultation, your doctor will ask about your symptoms, perform a pelvic exam, discuss your treatment goals, explain the exam findings (often using drawings), and answer any questions you have about available treatments."
+last_modified_date: 2026-03-15
 ---
 
 # Understanding Cystocele (Prolapsed Bladder)

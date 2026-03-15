@@ -34,6 +34,8 @@ faq:
 
 - question: "Should I see a doctor if I think I have OAB?"
   answer: "Yes, if you're experiencing symptoms of OAB, you should speak with a healthcare provider. They can provide a thorough evaluation and discuss treatment options tailored to your needs and goals."
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Understanding Overactive Bladder (OAB)
@@ -131,3 +133,9 @@ The good news is that there are many ways to manage OAB symptoms. Treatment ofte
 If you're experiencing symptoms of OAB, don't hesitate to speak with a healthcare provider. They can provide a thorough evaluation and discuss treatment options tailored to your needs and goals.
 
 Remember, you're not alone in dealing with OAB. With proper care and management, you can take control of your bladder symptoms and improve your quality of life.
+
+## References
+
+1. Gormley EA, Lightner DJ, Burgio KL, et al. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline. *J Urol*. 2012;188(6 Suppl):2455-2463. [doi:10.1016/j.juro.2012.09.079](https://doi.org/10.1016/j.juro.2012.09.079)
+2. Coyne KS, Sexton CC, Vats V, Thompson CL, Kopp ZS, Milsom I. National community prevalence of overactive bladder in the United States stratified by sex and age. *Urology*. 2011;77(5):1081-1087. [doi:10.1016/j.urology.2010.08.039](https://doi.org/10.1016/j.urology.2010.08.039)
+3. National Institute of Diabetes and Digestive and Kidney Diseases. [Bladder Control Problems (Urinary Incontinence)](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems). Accessed 2026.

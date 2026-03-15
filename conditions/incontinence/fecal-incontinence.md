@@ -57,6 +57,8 @@ faq:
 
 - question: "When should I see a doctor about fecal incontinence?"
   answer: "If you're experiencing any loss of bowel control, don't hesitate to speak with your healthcare provider. Many effective treatments are available, and early intervention can significantly improve your quality of life."
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Understanding Fecal Incontinence
@@ -132,3 +134,9 @@ Treatment depends on the cause and severity but may include:
 If you're experiencing any loss of bowel control, don't hesitate to speak with your healthcare provider. Many effective treatments are available, and early intervention can significantly improve your quality of life.
 
 Remember, fecal incontinence is a medical condition, not something to be embarrassed about. With proper care and management, most people can significantly improve their symptoms and quality of life.
+
+## References
+
+1. Whitehead WE, Borrud L, Goode PS, et al. Fecal incontinence in US adults: epidemiology and risk factors. *Gastroenterology*. 2009;137(2):512-517. [doi:10.1053/j.gastro.2009.04.054](https://doi.org/10.1053/j.gastro.2009.04.054)
+2. Bharucha AE, Dunivan G, Goode PS, et al. Epidemiology, pathophysiology, and classification of fecal incontinence: state of the science summary for the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) workshop. *Am J Gastroenterol*. 2015;110(1):127-136. [doi:10.1038/ajg.2014.396](https://doi.org/10.1038/ajg.2014.396)
+3. Paquette IM, Varma MG, Kaiser AM, Steele SR, Rafferty JF. The American Society of Colon and Rectal Surgeons' clinical practice guideline for the treatment of fecal incontinence. *Dis Colon Rectum*. 2015;58(7):623-636. [doi:10.1097/DCR.0000000000000397](https://doi.org/10.1097/DCR.0000000000000397)

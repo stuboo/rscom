@@ -33,6 +33,8 @@ faq:
 
   - question: "How can I prepare for my initial consultation about pelvic organ prolapse?"
     answer: "To prepare for your initial consultation, consider the following steps: 1) Keep a symptom diary noting when and how your symptoms affect you. 2) Write down any questions you have about your condition and treatment options. 3) Make a list of your current medications and any previous treatments you've tried. 4) If possible, gather any relevant medical records (such as past surgeries) or test results. 5) Consider bringing a family member or friend for support and to help remember information."
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Understanding Pelvic Organ Prolapse (POP)
@@ -147,3 +149,9 @@ Take the time to go through these materials carefully, and don't hesitate to dis
 Pelvic organ prolapse is a common condition that can significantly impact a woman's quality of life. However, with proper diagnosis and a range of treatment options available, many women find relief from their symptoms. If you're experiencing symptoms of POP, it's important to consult with a healthcare provider to discuss your options and develop a personalized treatment plan.
 
 Remember, you're not alone in dealing with POP, and help is available. With the right care and management, you can improve your pelvic health and overall well-being.
+
+## References
+
+1. Barber MD, Maher C. Epidemiology and outcome assessment of pelvic organ prolapse. *Int Urogynecol J*. 2013;24(11):1783-1790. [doi:10.1007/s00192-013-2169-9](https://doi.org/10.1007/s00192-013-2169-9)
+2. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
+3. Hagen S, Stark D. Conservative prevention and management of pelvic organ prolapse in women. *Cochrane Database Syst Rev*. 2011;(12):CD003882. [doi:10.1002/14651858.CD003882.pub4](https://doi.org/10.1002/14651858.CD003882.pub4)

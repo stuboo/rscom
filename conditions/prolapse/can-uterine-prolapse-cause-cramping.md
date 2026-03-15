@@ -9,6 +9,7 @@ published: false
 nav_exclude: true
 redirect_from:
   - /can-uterine-prolapse-cause-cramping/
+last_modified_date: 2026-03-15
 ---
 
 # Can Uterine Prolapse Cause Cramping?

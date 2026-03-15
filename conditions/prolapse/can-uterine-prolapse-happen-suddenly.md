@@ -9,6 +9,7 @@ published: true
 nav_exclude: true
 redirect_from:
   - /can-uterine-prolapse-happen-suddenly/
+last_modified_date: 2026-03-15
 ---
 
 # Can Uterine Prolapse Happen Suddenly?

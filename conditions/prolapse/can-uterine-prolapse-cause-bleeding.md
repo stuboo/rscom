@@ -10,6 +10,7 @@ nav_exclude: true
 redirect_from:
   - /can-uterine-prolapse-cause-bleeding/
   - /can-uterine-prolapse-cause-heavy-periods/
+last_modified_date: 2026-03-15
 ---
 
 # Can Uterine Prolapse Cause Bleeding?

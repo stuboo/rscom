@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Sacral Nerve Stimulation
 parent: Fecal Incontinence Treatments
 nav_order: 6
@@ -8,6 +8,7 @@ permalink: /treatments/fecal-incontinence/sacral-nerve-stimulation
 redirect_from:
   - /sacral-nerve-stimulation-interstim/
   - /how-long-does-interstim-last/
+last_modified_date: 2026-03-15
 ---
 
 # Sacral Neuromodulation for Fecal Incontinence

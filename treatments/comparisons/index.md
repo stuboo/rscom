@@ -6,6 +6,7 @@ nav_order: 10
 has_children: true
 description: "Compare urogynecology treatment options side by side. Dr. Ryan Stewart explains the pros, cons, and best candidates for each approach."
 permalink: /treatments/comparisons
+last_modified_date: 2026-03-15
 ---
 
 # Treatment Comparisons

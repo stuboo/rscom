@@ -5,5 +5,9 @@
     <span style="color: #555;">Fellowship-Trained Urogynecologist</span><br>
     <span style="color: #555;">Urogynecology &amp; Reconstructive Pelvic Surgery</span><br>
     <span style="color: #555;">Green Bay, Wisconsin</span>
+    {% assign review_date = page.last_reviewed_date | default: page.last_modified_date %}
+    {% if review_date %}<br>
+    <span style="color: #888; font-size: 0.85em;">✓ Medically reviewed {{ review_date | date: "%B %Y" }}</span>
+    {% endif %}
   </div>
 </div>
