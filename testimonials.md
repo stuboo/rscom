@@ -4,7 +4,7 @@ title: Patient Testimonials
 nav_order: 10
 description: "Patient Testimonials and Reviews"
 permalink: /testimonials
-published: false
+published: true
 redirect_from:
   - /testimonials/
 ---

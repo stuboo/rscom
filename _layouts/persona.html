@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include physician-schema.html %}
+{% include medical-page-schema.html condition_name=page.condition_name %}
+{% include faq-schema-jsonld.html %}
+
+{% include author-card.html %}
+
+{{ content }}
+
+{% include testimonial-snippet.html index=page.testimonial_index %}
+
+<div style="padding: 1.5rem; margin: 2rem 0; background: #f0f4ff; border-radius: 8px; border: 1px solid #d0ddf7;">
+  <h2 style="margin-top: 0;">Schedule Your Appointment</h2>
+  <p>Dr. Stewart understands the unique challenges you're facing and is here to help.</p>
+  <ul>
+    <li>No referral necessary</li>
+    <li>Now accepting new patients</li>
+    <li>In-person and virtual appointments available</li>
+    <li>Most insurance plans accepted</li>
+  </ul>
+</div>
+
+{% if page.faq %}
+{% include faq-schema-content.html %}
+{% endif %}

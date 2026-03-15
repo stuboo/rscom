@@ -1,0 +1,17 @@
+<div style="padding: 1.5rem; margin: 2rem 0; background: #f0f4ff; border-radius: 8px; border: 1px solid #d0ddf7;">
+  <h2 style="margin-top: 0;">Schedule Your Appointment</h2>
+  {% if include.city %}
+  {% if include.city.distance_miles > 0 %}
+  <p><strong>{{ include.city.drive_time }}</strong> from {{ include.city.name }}{{ include.city.state | prepend: ", " }}</p>
+  {% endif %}
+  {% if include.city.telehealth %}
+  <p>Telehealth consultations available — start your care from home in {{ include.city.name }}.</p>
+  {% endif %}
+  {% endif %}
+  <ul>
+    <li>No referral necessary</li>
+    <li>Now accepting new patients</li>
+    {% if include.city %}<li>{{ include.city.insurance_notes }}</li>{% endif %}
+    <li>In-person and virtual appointments available</li>
+  </ul>
+</div>

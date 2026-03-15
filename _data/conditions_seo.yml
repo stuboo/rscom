@@ -1,0 +1,42 @@
+- name: "Urinary Incontinence"
+  slug: "urinary-incontinence"
+  short_desc: "involuntary leakage of urine"
+  parent_url: "/conditions/urinary-incontinence"
+  title_phrase: "Urinary Incontinence Treatment"
+  keywords:
+    - "urine leakage"
+    - "bladder control"
+    - "stress incontinence"
+    - "urge incontinence"
+
+- name: "Pelvic Organ Prolapse"
+  slug: "pelvic-organ-prolapse"
+  short_desc: "descent of pelvic organs from their normal position"
+  parent_url: "/conditions/pelvic-organ-prolapse"
+  title_phrase: "Pelvic Organ Prolapse Treatment"
+  keywords:
+    - "prolapse"
+    - "pelvic pressure"
+    - "vaginal bulge"
+    - "uterine prolapse"
+
+- name: "Overactive Bladder"
+  slug: "overactive-bladder"
+  short_desc: "urgency, frequency, and sometimes leakage caused by involuntary bladder contractions"
+  parent_url: "/conditions/overactive-bladder"
+  title_phrase: "Overactive Bladder Treatment"
+  keywords:
+    - "OAB"
+    - "bladder urgency"
+    - "frequent urination"
+    - "nocturia"
+
+- name: "Fecal Incontinence"
+  slug: "fecal-incontinence"
+  short_desc: "involuntary loss of bowel control"
+  parent_url: "/conditions/fecal-incontinence"
+  title_phrase: "Fecal Incontinence Treatment"
+  keywords:
+    - "bowel leakage"
+    - "accidental bowel leakage"
+    - "bowel control"

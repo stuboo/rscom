@@ -1,0 +1,19 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "{{ page.title }}",
+  "description": "{{ page.description }}",
+  "url": "{{ page.url | absolute_url }}",
+  "lastReviewed": "{{ page.last_modified_date | default: site.time | date: '%Y-%m-%d' }}",
+  "reviewedBy": {
+    "@type": "Physician",
+    "name": "Ryan Stewart, DO",
+    "url": "https://ryanstewart.com"
+  }{% if include.condition_name %},
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "{{ include.condition_name }}"
+  }{% endif %}
+}
+</script>

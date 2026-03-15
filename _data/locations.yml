@@ -1,0 +1,341 @@
+# Top 10 cities (Phase 1)
+- name: "Green Bay"
+  slug: "green-bay"
+  state: "WI"
+  drive_time: "In Green Bay"
+  distance_miles: 0
+  context: "As Dr. Stewart's home practice location, Green Bay patients have direct access to in-person consultations, procedures, and follow-up care without any travel."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Valley"
+
+- name: "Appleton"
+  slug: "appleton"
+  state: "WI"
+  drive_time: "30 minutes"
+  distance_miles: 30
+  context: "Fox Cities residents in Appleton are a short 30-minute drive from expert urogynecological care in Green Bay, making regular appointments convenient."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Cities"
+
+- name: "Oshkosh"
+  slug: "oshkosh"
+  state: "WI"
+  drive_time: "50 minutes"
+  distance_miles: 50
+  context: "Oshkosh patients travel less than an hour on Highway 41 to reach specialized pelvic care that may not be available locally."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Valley"
+
+- name: "Fond du Lac"
+  slug: "fond-du-lac"
+  state: "WI"
+  drive_time: "1 hour"
+  distance_miles: 65
+  context: "Fond du Lac residents can combine a visit to Green Bay with an appointment, with initial consultations available via telehealth to minimize trips."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fond du Lac County"
+
+- name: "Manitowoc"
+  slug: "manitowoc"
+  state: "WI"
+  drive_time: "45 minutes"
+  distance_miles: 40
+  context: "Manitowoc and Two Rivers area patients have a straightforward drive up I-43 to access fellowship-trained urogynecological expertise."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Lakeshore"
+
+- name: "Sheboygan"
+  slug: "sheboygan"
+  state: "WI"
+  drive_time: "1 hour"
+  distance_miles: 60
+  context: "Sheboygan County residents travel about an hour north on I-43, with telehealth consultations available for follow-up visits to reduce travel."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Lakeshore"
+
+- name: "Marquette"
+  slug: "marquette"
+  state: "MI"
+  drive_time: "3 hours"
+  distance_miles: 175
+  context: "Upper Peninsula residents in the Marquette area often lack access to fellowship-trained urogynecologists. Dr. Stewart offers telehealth consultations to minimize travel, with in-person visits reserved for examinations and procedures."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+- name: "Escanaba"
+  slug: "escanaba"
+  state: "MI"
+  drive_time: "2 hours"
+  distance_miles: 115
+  context: "Delta County residents in Escanaba and Gladstone can reach Green Bay in about two hours via US-41, with telehealth available for many appointment types."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+- name: "Menominee"
+  slug: "menominee"
+  state: "MI"
+  drive_time: "1 hour 15 minutes"
+  distance_miles: 60
+  context: "Just across the state line from Marinette, Menominee residents are among the closest Michigan patients to Dr. Stewart's Green Bay practice."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+- name: "Iron Mountain"
+  slug: "iron-mountain"
+  state: "MI"
+  drive_time: "2 hours"
+  distance_miles: 120
+  context: "Dickinson County residents in Iron Mountain and Kingsford have limited local urogynecology options. Dr. Stewart provides telehealth consultations for initial evaluations and follow-ups."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+# Phase 4 cities (remaining)
+- name: "Sturgeon Bay"
+  slug: "sturgeon-bay"
+  state: "WI"
+  drive_time: "50 minutes"
+  distance_miles: 45
+  context: "Door County residents in Sturgeon Bay can reach Green Bay in under an hour, making specialist care easily accessible."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Door County"
+
+- name: "Marinette"
+  slug: "marinette"
+  state: "WI"
+  drive_time: "1 hour"
+  distance_miles: 60
+  context: "Marinette residents on the Wisconsin-Michigan border travel about an hour south on Highway 41 to reach specialized pelvic care."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Marinette County"
+
+- name: "Oconto"
+  slug: "oconto"
+  state: "WI"
+  drive_time: "35 minutes"
+  distance_miles: 30
+  context: "Oconto County patients are among the closest to Dr. Stewart's practice, with a short drive down Highway 41."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Oconto County"
+
+- name: "Kewaunee"
+  slug: "kewaunee"
+  state: "WI"
+  drive_time: "35 minutes"
+  distance_miles: 30
+  context: "Kewaunee County residents enjoy a short commute to Green Bay for specialized urogynecological care."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Kewaunee County"
+
+- name: "Two Rivers"
+  slug: "two-rivers"
+  state: "WI"
+  drive_time: "50 minutes"
+  distance_miles: 45
+  context: "Two Rivers patients travel north on I-43, often combining appointments with Manitowoc-area errands."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Lakeshore"
+
+- name: "De Pere"
+  slug: "de-pere"
+  state: "WI"
+  drive_time: "10 minutes"
+  distance_miles: 5
+  context: "De Pere is immediately adjacent to Green Bay, making Dr. Stewart's practice virtually a local provider for De Pere residents."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Valley"
+
+- name: "Neenah"
+  slug: "neenah"
+  state: "WI"
+  drive_time: "40 minutes"
+  distance_miles: 35
+  context: "Neenah and the greater Fox Cities area are well-connected to Green Bay via Highway 41 for convenient specialist access."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Cities"
+
+- name: "Menasha"
+  slug: "menasha"
+  state: "WI"
+  drive_time: "40 minutes"
+  distance_miles: 35
+  context: "Menasha residents benefit from the Highway 41 corridor for a quick trip to fellowship-trained urogynecological care."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Cities"
+
+- name: "Kaukauna"
+  slug: "kaukauna"
+  state: "WI"
+  drive_time: "25 minutes"
+  distance_miles: 22
+  context: "Kaukauna patients are just a short drive north on Highway 41 from expert pelvic care in Green Bay."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Fox Cities"
+
+- name: "Clintonville"
+  slug: "clintonville"
+  state: "WI"
+  drive_time: "1 hour"
+  distance_miles: 55
+  context: "Clintonville residents in Waupaca County travel about an hour east to access specialized pelvic medicine in Green Bay."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Central Wisconsin"
+
+- name: "Waupaca"
+  slug: "waupaca"
+  state: "WI"
+  drive_time: "1 hour 10 minutes"
+  distance_miles: 65
+  context: "Waupaca area residents can access fellowship-trained pelvic care with a manageable drive to Green Bay, or start with a telehealth consultation."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Central Wisconsin"
+
+- name: "New London"
+  slug: "new-london"
+  state: "WI"
+  drive_time: "50 minutes"
+  distance_miles: 45
+  context: "New London patients have a straightforward route to Green Bay for urogynecological expertise not typically available in smaller communities."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Central Wisconsin"
+
+- name: "Brillion"
+  slug: "brillion"
+  state: "WI"
+  drive_time: "30 minutes"
+  distance_miles: 25
+  context: "Brillion residents enjoy a short commute to Green Bay for specialized pelvic floor care."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Calumet County"
+
+- name: "Chilton"
+  slug: "chilton"
+  state: "WI"
+  drive_time: "35 minutes"
+  distance_miles: 30
+  context: "Calumet County residents in Chilton can reach Dr. Stewart's practice in about 35 minutes."
+  insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+  telehealth: true
+  region: "Calumet County"
+
+- name: "Sault Ste. Marie"
+  slug: "sault-ste-marie"
+  state: "MI"
+  drive_time: "4 hours 30 minutes"
+  distance_miles: 300
+  context: "Eastern Upper Peninsula residents have very limited access to urogynecology specialists. Telehealth consultations help bridge the distance, with in-person visits planned efficiently."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Eastern Upper Peninsula"
+
+- name: "Houghton"
+  slug: "houghton"
+  state: "MI"
+  drive_time: "5 hours"
+  distance_miles: 320
+  context: "Keweenaw Peninsula residents face significant travel for specialist care. Dr. Stewart offers telehealth consultations to evaluate your condition before planning any necessary in-person visits."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Western Upper Peninsula"
+
+- name: "Hancock"
+  slug: "hancock"
+  state: "MI"
+  drive_time: "5 hours"
+  distance_miles: 320
+  context: "Located near Houghton in the Keweenaw Peninsula, Hancock residents can begin their care journey with telehealth before traveling for procedures."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Western Upper Peninsula"
+
+- name: "Manistique"
+  slug: "manistique"
+  state: "MI"
+  drive_time: "3 hours"
+  distance_miles: 190
+  context: "Schoolcraft County residents can access specialized pelvic care through telehealth, reducing the need for the 3-hour drive except for examinations."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Central Upper Peninsula"
+
+- name: "Munising"
+  slug: "munising"
+  state: "MI"
+  drive_time: "3 hours 30 minutes"
+  distance_miles: 210
+  context: "Alger County residents near Pictured Rocks have limited local specialty care. Telehealth consultations make initial evaluations convenient."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Central Upper Peninsula"
+
+- name: "Gladstone"
+  slug: "gladstone"
+  state: "MI"
+  drive_time: "2 hours"
+  distance_miles: 115
+  context: "Located near Escanaba, Gladstone residents travel about two hours to Green Bay for specialized pelvic care."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+- name: "Negaunee"
+  slug: "negaunee"
+  state: "MI"
+  drive_time: "3 hours"
+  distance_miles: 175
+  context: "Iron Range residents in Negaunee can begin care with telehealth, traveling to Green Bay only when in-person evaluation is needed."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+- name: "Ishpeming"
+  slug: "ishpeming"
+  state: "MI"
+  drive_time: "3 hours"
+  distance_miles: 175
+  context: "Ishpeming residents near Marquette have access to Dr. Stewart through telehealth for initial consultations and follow-up care."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Upper Peninsula"
+
+- name: "Iron River"
+  slug: "iron-river"
+  state: "MI"
+  drive_time: "2 hours 30 minutes"
+  distance_miles: 150
+  context: "Iron County residents can access expert urogynecological care via telehealth, with in-person visits available in Green Bay."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Western Upper Peninsula"
+
+- name: "Crystal Falls"
+  slug: "crystal-falls"
+  state: "MI"
+  drive_time: "2 hours 15 minutes"
+  distance_miles: 135
+  context: "Iron County residents in Crystal Falls can reach Green Bay in about two hours, or begin with a telehealth consultation."
+  insurance_notes: "Most Michigan insurance plans accepted, including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren Health Plan."
+  telehealth: true
+  region: "Western Upper Peninsula"
