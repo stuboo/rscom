@@ -10,6 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-03-15
 faq:
   - question: "How much weight loss is needed to improve incontinence?"
     answer: "Research shows that losing just 5-10% of body weight can reduce stress incontinence episodes by up to 50% or more, and overall incontinence by roughly 40-50%. For a 200-pound woman, that's just 10-20 pounds — a realistic and achievable goal."

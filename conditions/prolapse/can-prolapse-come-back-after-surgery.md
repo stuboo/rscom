@@ -10,6 +10,7 @@ parent_condition_url: /conditions/prolapse
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-03-15
 faq:
   - question: "What is the recurrence rate after prolapse surgery?"
     answer: "Anatomic recurrence (detectable on exam) occurs in about 30-40% of patients over time, but symptomatic recurrence requiring retreatment is much lower — roughly 10-15%. Many women with mild anatomic recurrence have no symptoms at all."

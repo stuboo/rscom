@@ -10,6 +10,7 @@ parent_condition_url: /conditions/incontinence
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-03-15
 faq:
   - question: "How long do bulking agents last?"
     answer: "With the current generation of bulking agents (polyacrylamide hydrogel), studies show that women who respond well often maintain their improvement for years — with data out to 5 and 7 years. Some women do need a repeat injection over time, but the durability is much better than older agents."

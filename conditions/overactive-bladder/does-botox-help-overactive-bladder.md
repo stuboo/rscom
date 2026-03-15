@@ -10,6 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-03-15
 faq:
   - question: "How long does Botox last for OAB?"
     answer: "Botox effects typically last 6-9 months. When symptoms return, the procedure can be repeated. Many patients develop a regular schedule of injections that keeps their symptoms well-controlled."
