@@ -19,34 +19,36 @@ faq:
     answer: "If properly performed Kegel exercises and pelvic floor therapy haven't improved your symptoms after 3-6 months, it's time to discuss additional options with a specialist, such as a pessary, medications, or surgical procedures."
 ---
 
-# Do Kegel Exercises Help with Urinary Incontinence?
+# Do Kegel exercises help with urinary incontinence?
 
-**Yes — when done correctly.** Kegel exercises strengthen the pelvic floor muscles that support your bladder and urethra. For mild to moderate stress incontinence especially, they can make a meaningful difference. The key is proper technique, because studies show that up to half of women perform Kegels incorrectly when relying on written or verbal instructions alone.
+Yes, when done correctly. Kegel exercises strengthen the pelvic floor muscles that support your bladder and urethra. For mild to moderate stress incontinence especially, they can make a meaningful difference. The key is proper technique, because studies show that up to half of women perform Kegels incorrectly when relying on written or verbal instructions alone.
 
-## How Kegels Help
+## How Kegels help
 
 The pelvic floor muscles wrap around the urethra and vagina like a sling. When these muscles are strong and well-coordinated, they help keep the urethra sealed during coughing, sneezing, and physical activity. Kegel exercises train these muscles to contract more effectively and with better timing.
 
-Dr. Stewart explains: "Kegels are a great starting point, and they work well for many women. But I always recommend working with a pelvic floor physical therapist at least initially. They can confirm you're using the right muscles and develop a program tailored to your specific situation."
-
-## Getting the Technique Right
+## Getting the technique right
 
 The most common mistakes with Kegels:
 
-- **Bearing down instead of lifting** — you should feel a lift and squeeze, not a pushing sensation
-- **Using the wrong muscles** — squeezing your buttocks, thighs, or abdomen instead of the pelvic floor
-- **Holding your breath** — you should breathe normally throughout the exercise
-- **Only doing quick squeezes** — you need both quick contractions and sustained holds
+- Bearing down instead of lifting. You should feel a lift and squeeze, not a pushing sensation.
+- Using the wrong muscles, like squeezing your buttocks, thighs, or abdomen instead of the pelvic floor.
+- Holding your breath. You should breathe normally throughout the exercise.
+- Only doing quick squeezes. You need both quick contractions and sustained holds.
 
 A pelvic floor physical therapist can use biofeedback to show you exactly which muscles to engage and track your progress objectively.
 
-## When Kegels Aren't Enough
+## When Kegels aren't enough
 
 Kegel exercises work best for mild to moderate stress incontinence. They may be less effective for:
 
-- **Severe stress incontinence** — where significant structural support has been lost
-- **Urge incontinence** — which involves involuntary bladder muscle contractions (though pelvic floor therapy can still help as part of a broader treatment plan)
-- **Pelvic floor muscle tension** — some women have overactive pelvic floor muscles that need to learn to relax before strengthening
+- Severe stress incontinence, where significant structural support has been lost
+- Urge incontinence, which involves involuntary bladder muscle contractions (though pelvic floor therapy can still help as part of a broader treatment plan)
+- Pelvic floor muscle tension. Some women have overactive pelvic floor muscles that need to learn to relax before strengthening.
 
-Dr. Stewart notes: "If you've been doing Kegels faithfully for three months and aren't seeing improvement, don't get discouraged. It doesn't mean nothing will work — it means we need to explore other options. There's a whole toolkit available beyond Kegels."
+## Dr. Stewart's perspective
+
+"Dr. Kegel didn't just get famous because he invented an exercise — he also invented a device to let women know if they were doing it correctly. That's why I recommend working with a pelvic floor physical therapist. They can confirm you're using the right muscles, and just as importantly, Kegel exercises are only part of the picture. A good PT will also work on core, breathing, bracing, and improving function of the surrounding structures like your hips, buttocks, and thighs. All of that is critical."
+
+"If you've been doing Kegels faithfully for three months and aren't seeing improvement, don't get discouraged. It doesn't mean nothing will work — it means we need to explore other options."
 

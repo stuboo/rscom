@@ -19,39 +19,32 @@ faq:
     answer: "Yes. Early intervention — especially pelvic floor therapy — can strengthen the support structures and slow or stop progression. Addressing modifiable risk factors like weight and chronic cough also helps."
 ---
 
-# Can Urinary Incontinence Get Worse Over Time?
+# Can urinary incontinence get worse over time?
 
-**Yes, it often does.** Without treatment, urinary incontinence tends to progress gradually. What starts as an occasional leak during a hard sneeze can slowly become more frequent leaking during lighter activities — walking, standing up, or even just bending over. This progression isn't inevitable, but it is common when the underlying causes aren't addressed.
+Yes, it often does. Without treatment, urinary incontinence tends to progress gradually. What starts as an occasional leak during a hard sneeze can slowly become more frequent leaking during lighter activities like walking, standing up, or bending over. This progression isn't inevitable, but it's common when the underlying causes aren't addressed.
 
-## Why It Progresses
+## Why it progresses
 
 The factors that cause incontinence don't usually stop on their own:
 
-- **Pelvic floor muscles continue to weaken** without targeted exercise
-- **Hormonal changes accelerate** during and after menopause, thinning the tissues that support the urethra
-- **Weight gain** over time adds more chronic pressure to the pelvic floor
-- **Chronic conditions** like coughing from allergies or asthma add ongoing strain
-- **Natural aging** reduces muscle mass and connective tissue strength
+- Pelvic floor muscles continue to weaken without targeted exercise
+- Hormonal changes during and after menopause thin the tissues that support the urethra
+- Weight gain adds more chronic pressure to the pelvic floor
+- Chronic coughing from allergies or asthma adds ongoing strain
+- Natural aging reduces muscle mass and connective tissue strength
 
-Dr. Stewart explains: "I think of pelvic floor health like any other aspect of fitness. Without attention, things tend to decline over time. The good news is that with the right interventions, we can not only stop the decline but actually reverse it in many cases."
+"I think of pelvic floor health like any other aspect of fitness. Without attention, things tend to decline over time. The good news is that with the right interventions, we can not only stop the decline but actually reverse it in many cases."
 
-## The Cost of Waiting
+## The cost of waiting
 
-On average, women wait 6-8 years before seeking treatment for incontinence. During that time:
+On average, women wait 6-8 years before seeking treatment for incontinence. During that time, symptoms typically worsen, treatment options may become more involved, and coping strategies like limiting fluids, avoiding activities, and wearing pads become ingrained habits.
 
-- Symptoms typically worsen
-- Treatment options may become more involved
-- Quality of life continues to suffer — socially, physically, and emotionally
-- Coping strategies (limiting fluids, avoiding activities, wearing pads) become ingrained habits
+## What you can do now
 
-## What You Can Do Now
+- Start pelvic floor exercises, ideally with guidance from a physical therapist
+- Maintain a healthy weight; even modest weight loss can improve symptoms
+- Address chronic cough or constipation to reduce repeated strain on the pelvic floor
+- See a specialist. A urogynecologist can establish a baseline and create a plan.
 
-The most effective way to prevent worsening is to take action:
-
-- **Start pelvic floor exercises** — ideally with guidance from a physical therapist
-- **Maintain a healthy weight** — even modest weight loss can improve symptoms
-- **Address chronic cough or constipation** — reducing repeated strain on the pelvic floor
-- **See a specialist** — a urogynecologist can establish a baseline and create a plan
-
-Dr. Stewart notes: "Early treatment almost always means simpler treatment. I'd rather see a patient when their symptoms are mild and we can make a big impact with physical therapy, than years later when we're discussing surgical options."
+"Early treatment almost always means simpler treatment. I'd rather see a patient when their symptoms are mild and we can make a big impact with physical therapy, than years later when we're discussing surgical options."
 
