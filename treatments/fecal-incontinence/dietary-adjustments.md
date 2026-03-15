@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Dietary Adjustments
 parent: Fecal Incontinence Treatments
 nav_order: 2
 description: "Diet Changes for Fecal Incontinence"
 permalink: /treatments/fecal-incontinence/dietary-adjustments
+last_modified_date: 2026-03-15
 ---
 
 # Dietary Adjustments for Fecal Incontinence

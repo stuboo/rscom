@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Watch and Wait
 parent: Prolapse Treatments
 nav_order: 2
 description: "Watchful Waiting for Prolapse"
 permalink: /treatments/prolapse/watch-and-wait
+last_modified_date: 2026-03-15
 ---
 
 # Watch and Wait for Prolapse

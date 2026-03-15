@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Mesh Augmented Repair
 parent: Prolapse Treatments
 nav_order: 6
 description: "Mesh Augmentation for Prolapse Repair"
 permalink: /treatments/prolapse/mesh-augmented-repair
+last_modified_date: 2026-03-15
 ---
 
 # Mesh Augmented Prolapse Repair

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Sling Procedures
 parent: Urinary Incontinence Treatments
 nav_order: 7
@@ -7,6 +7,8 @@ description: "Sling Procedures for Incontinence"
 permalink: /treatments/urinary-incontinence/sling-procedures
 redirect_from:
   - /mesh-sling-procedures/
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Sling Procedures for Urinary Incontinence
@@ -90,3 +92,9 @@ Most patients can return to light activities within 1-2 weeks and full activitie
 Remember, while sling procedures are highly effective for stress incontinence, they may not address other types of incontinence, such as urge incontinence. In some cases, combination treatments might be necessary for optimal results.
 
 We'll thoroughly discuss whether a sling procedure is the right choice for you based on your specific symptoms, medical history, and treatment goals.
+
+## References
+
+1. Ford AA, Rogerson L, Cody JD, Aluko P. Mid-urethral sling operations for stress urinary incontinence in women. *Cochrane Database Syst Rev*. 2017;7(7):CD006375. [doi:10.1002/14651858.CD006375.pub4](https://doi.org/10.1002/14651858.CD006375.pub4)
+2. Brubaker L, Norton PA, Albo ME, et al. Adverse events over two years after retropubic or transobturator midurethral sling surgery: findings from the Trial of Midurethral Slings (TOMUS) study. *Am J Obstet Gynecol*. 2011;205(5):498.e1-6. [doi:10.1016/j.ajog.2011.07.011](https://doi.org/10.1016/j.ajog.2011.07.011)
+3. American Urological Association/Society of Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction. [Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline](https://www.auanet.org/guidelines-and-quality/guidelines/stress-urinary-incontinence-(sui)-guideline). 2017.

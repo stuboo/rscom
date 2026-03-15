@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Pessary
 parent: Prolapse Treatments
 nav_order: 4
 description: "Pessary Use for Prolapse"
 permalink: /treatments/prolapse/pessary
+last_modified_date: 2026-03-15
 ---
 
 # Pessary for Prolapse Treatment

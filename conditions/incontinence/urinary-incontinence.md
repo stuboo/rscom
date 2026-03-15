@@ -71,6 +71,8 @@ faq:
 
 - question: "What should I do if I think I have urinary incontinence?"
   answer: "If you're experiencing symptoms of urinary incontinence, don't hesitate to speak with a healthcare provider. Remember, you're not alone, and effective treatments are available to help you manage this condition."
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Understanding Urinary Incontinence
@@ -194,3 +196,10 @@ Using a decision aid before your consultation can help you better understand you
 ## Conclusion
 
 Urinary incontinence, while common, is not a normal part of aging and shouldn't be ignored. With proper diagnosis and treatment, many people find significant improvement in their symptoms and quality of life. If you're experiencing symptoms of urinary incontinence, don't hesitate to speak with a healthcare provider. Remember, you're not alone, and effective treatments are available to help you manage this condition.
+
+## References
+
+1. Aoki Y, Brown HW, Brubaker L, Cornu JN, Daly JO, Cartwright R. Urinary incontinence in women. *Nat Rev Dis Primers*. 2017;3:17042. [doi:10.1038/nrdp.2017.42](https://doi.org/10.1038/nrdp.2017.42)
+2. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+3. Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic floor muscle training versus no treatment, or inactive control treatments, for urinary incontinence in women. *Cochrane Database Syst Rev*. 2018;10(10):CD005654. [doi:10.1002/14651858.CD005654.pub4](https://doi.org/10.1002/14651858.CD005654.pub4)
+4. American Urological Association/Society of Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction. [Diagnosis and Treatment of Non-Neurogenic Overactive Bladder in Adults: AUA/SUFU Guideline](https://www.auanet.org/guidelines-and-quality/guidelines/overactive-bladder-(oab)-guideline). 2019 (amended 2023).

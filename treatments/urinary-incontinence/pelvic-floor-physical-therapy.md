@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
 title: Pelvic Floor Physical Therapy
 parent: Urinary Incontinence Treatments
 nav_order: 3
 description: "Pelvic Floor PT for Incontinence"
 permalink: /treatments/urinary-incontinence/pelvic-floor-physical-therapy
+last_modified_date: 2026-03-15
 ---
 
 # Pelvic Floor Physical Therapy for Urinary Incontinence

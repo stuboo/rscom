@@ -51,6 +51,8 @@ faq:
     2. Keep a symptom diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open about your symptoms and how they affect your quality of life"
+last_modified_date: 2026-03-15
+last_reviewed_date: 2016-01-01
 ---
 
 # Understanding Stress Urinary Incontinence in Women
@@ -170,3 +172,9 @@ If you're experiencing symptoms of stress urinary incontinence:
 > Millions of women have found relief from stress urinary incontinence. Take the first step towards regaining control and confidence in your daily life by seeking help today.
 
 Remember, stress urinary incontinence may be common, but it's not something you have to accept as a normal part of life. With the right care and treatment, you can significantly improve your symptoms and quality of life.
+
+## References
+
+1. Luber KM. The definition, prevalence, and risk factors for stress urinary incontinence. *Rev Urol*. 2004;6(Suppl 3):S3-S9. [PMID: 16985863](https://pubmed.ncbi.nlm.nih.gov/16985863/)
+2. Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic floor muscle training versus no treatment, or inactive control treatments, for urinary incontinence in women. *Cochrane Database Syst Rev*. 2018;10(10):CD005654. [doi:10.1002/14651858.CD005654.pub4](https://doi.org/10.1002/14651858.CD005654.pub4)
+3. American Urological Association/Society of Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction. [Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline](https://www.auanet.org/guidelines-and-quality/guidelines/stress-urinary-incontinence-(sui)-guideline). 2017.

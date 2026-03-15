@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Vaginal Prolapse Repair
 parent: Prolapse Treatments
 nav_order: 6
@@ -9,6 +9,7 @@ published: false
 redirect_from:
   - /vaginal-prolapse-repair/
   - /vaginal-prolapse-symptoms-diagnosis-treatment/
+last_modified_date: 2026-03-15
 ---
 
 # Vaginal Prolapse Repair Surgery
