@@ -19,41 +19,41 @@ faq:
     answer: "Many women see improvement within 6-12 weeks of targeted pelvic floor therapy. The timeline depends on severity, consistency with exercises, and the type of activity."
 ---
 
-# Bladder Leakage During Exercise
+# Bladder leakage during exercise
 
-Running, jumping, high-intensity intervals, dance fitness, tennis — if any of these trigger bladder leakage, you're far from alone. Exercise-related incontinence is one of the most common pelvic floor complaints, and it's one of the most treatable. The answer is never to stop exercising — it's to get your pelvic floor support where it needs to be.
+Running, jumping, HIIT, dance fitness, tennis — if any of these trigger bladder leakage, you're far from alone. Exercise-related leaking is one of the most common pelvic floor problems, and one of the most fixable. The answer is never to stop exercising. It's to get your pelvic floor where it needs to be.
 
-## Why This Happens
+## Why it happens
 
-Exercise-related leaking is almost always stress incontinence — the pelvic floor can't fully resist the spikes in abdominal pressure created by impact and exertion. The activities most commonly associated with leaking are:
+Exercise-related leaking is almost always stress incontinence — your pelvic floor can't fully resist the spikes in abdominal pressure that come with impact and exertion. The activities that cause the most trouble:
 
-- **Running and jogging** — repetitive impact
-- **Jumping** (box jumps, jump rope, double-unders) — high-force impact
-- **HIIT and CrossFit** — combination of impact and exertion
-- **Aerobics and dance fitness** — jumping and bouncing movements
-- **Tennis and pickleball** — sudden directional changes with impact
+- Running and jogging — repetitive impact
+- Jumping (box jumps, jump rope, double-unders) — high-force impact
+- HIIT and CrossFit — combination of impact and exertion
+- Aerobics and dance fitness — jumping and bouncing movements
+- Tennis and pickleball — sudden directional changes with impact
 
-Dr. Stewart explains: "Exercise-related leaking is essentially a mismatch between the demands of the activity and the capacity of the pelvic floor. The fix is increasing the pelvic floor's capacity — not decreasing the demand."
+"Exercise-related leaking is a mismatch between the demands of the activity and the capacity of the pelvic floor. The fix is increasing the pelvic floor's capacity — not decreasing the demand."
 
-## Signs You Should Seek Help
+## Signs you should get help
 
-- Any leaking during exercise, even if it's 'just a few drops'
+- Any leaking during exercise, even if it's "just a few drops"
 - Wearing pads, dark clothing, or extra layers during workouts
 - Avoiding certain exercises or movements
-- Reducing intensity or frequency of workouts because of leaking
+- Cutting back on intensity or skipping workouts because of leaking
 
-## Treatment Options
+## Treatment options
 
-- **Sport-specific pelvic floor training** — learning to activate your pelvic floor during dynamic movements
-- **Breathing coordination** — exhale on exertion to engage the pelvic floor at the right moment
-- **Graduated return** — building back up to high-impact activities as pelvic floor strength improves
-- **Pessary** — a support device that can be worn during exercise
-- **Specialist evaluation** — if therapy isn't enough, a urogynecologist can discuss additional options
+- Sport-specific pelvic floor training — learning to activate your pelvic floor during dynamic movements
+- Breathing coordination — exhaling on exertion to engage the pelvic floor at the right moment
+- Graduated return — building back to high-impact activities as pelvic floor strength improves
+- Pessary — a support device that can be worn during exercise
+- Specialist evaluation — if therapy isn't enough, a urogynecologist can discuss additional options
 
-Dr. Stewart notes: "I get it — you love your workout and you don't want to give it up. You shouldn't have to. Let's fix the problem instead of avoiding it."
+We have pelvic floor physical therapists in our office, and we work closely with dozens more throughout northeast Wisconsin and Michigan's Upper Peninsula. Between physical therapy and our other treatment options, we can almost always get you back to exercising without leakage.
 
-## Your Next Steps
+"I get it — you love your workout and you don't want to give it up. You shouldn't have to. Let's fix the problem instead of avoiding it."
 
-Exercise is essential for your health — don't let leakage take it away from you. A pelvic floor therapist experienced with active women can get you back to full activity, dry and confident.
+## Next step
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)
+Don't let leakage take exercise away from you. Whether you start with pelvic floor therapy or come in for an evaluation, we can figure out the right plan to get you back to full activity.

@@ -46,4 +46,3 @@ Just like with bladder applications, SNM for fecal incontinence includes a trial
 
 Dr. Stewart notes: "For women dealing with both bladder and bowel incontinence, SNM is uniquely valuable — one device can treat both conditions. It's one of the most rewarding treatments I perform."
 
-[Learn more about fecal incontinence](/conditions/fecal-incontinence)

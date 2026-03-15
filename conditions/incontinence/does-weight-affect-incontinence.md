@@ -55,4 +55,3 @@ Weight management is most effective when treated as one part of a comprehensive 
 
 Dr. Stewart notes: "I never tell a patient she has to lose weight before I'll help her. We address all the contributing factors simultaneously. But I do want patients to understand that weight management is one of the most powerful tools in our toolkit — and it's something you can start working on today."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

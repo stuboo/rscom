@@ -53,4 +53,3 @@ The overall picture is encouraging. Studies show that 60-80% of women experience
 
 Dr. Stewart notes: "I've rarely met a patient whose OAB I couldn't meaningfully improve. The key is patience and willingness to work through the treatment options systematically. We almost always find something that works."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

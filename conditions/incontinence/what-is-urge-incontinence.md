@@ -58,4 +58,3 @@ In many cases, no specific cause is identified — but treatment is still effect
 
 Dr. Stewart notes: "We typically start with behavioral approaches and add medications if needed. For women who don't respond to those, Botox and nerve stimulation offer excellent results. There's always something more we can try."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

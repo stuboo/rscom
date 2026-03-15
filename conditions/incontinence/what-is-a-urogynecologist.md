@@ -12,7 +12,7 @@ published: true
 last_modified_date: 2026-03-14
 faq:
   - question: "How is a urogynecologist different from an OB/GYN?"
-    answer: "An OB/GYN completes a 4-year residency in general obstetrics and gynecology. A urogynecologist completes that same training plus an additional 3-year fellowship specifically focused on pelvic floor disorders, incontinence, and reconstructive surgery."
+    answer: "An OB/GYN completes a 4-year residency in general obstetrics and gynecology. A urogynecologist goes further — completing either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused specifically on pelvic floor disorders, incontinence, and reconstructive surgery."
   - question: "Do I need a referral to see a urogynecologist?"
     answer: "In most cases, no. Many urogynecologists accept self-referrals. Dr. Stewart welcomes patients directly — no referral is needed."
   - question: "What conditions does a urogynecologist treat?"
@@ -21,7 +21,7 @@ faq:
 
 # What Is a Urogynecologist?
 
-A urogynecologist is a physician who specializes in **Female Pelvic Medicine and Reconstructive Surgery (FPMRS)**. After completing medical school and a 4-year OB/GYN residency, urogynecologists undergo an additional **3-year fellowship** focused entirely on diagnosing and treating pelvic floor disorders. This makes them the most extensively trained specialists in conditions like urinary incontinence, pelvic organ prolapse, and overactive bladder.
+A urogynecologist is a physician who specializes in **Urogynecology & Reconstructive Pelvic Surgery**. After completing medical school and residency, urogynecologists complete an additional fellowship focused entirely on diagnosing and treating pelvic floor disorders — either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency. This makes them the most extensively trained specialists in conditions like urinary incontinence, pelvic organ prolapse, and overactive bladder.
 
 ## What Sets Them Apart
 
@@ -55,4 +55,3 @@ A urogynecologist visit is similar to a gynecology visit — thorough but respec
 
 Dr. Stewart notes: "The word 'doctor' comes from the Latin word 'docere,' meaning 'to teach.' I want every patient to leave understanding their condition better than when they arrived. When you understand what's happening and why, you can make informed decisions about your care."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

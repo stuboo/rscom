@@ -32,7 +32,7 @@ Dr. Stewart explains: "With the right approach, most women with OAB regain contr
 
 ## Why See a Urogynecology Specialist?
 
-A urogynecologist completes an additional three-year fellowship focused entirely on pelvic floor disorders after a four-year OB/GYN residency. This gives them the deepest expertise in conditions like overactive bladder — from conservative management to advanced surgical techniques.
+Depending on their background, a urogynecologist completes either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders. This gives them the deepest expertise in conditions like overactive bladder — from conservative management to advanced surgical techniques.
 
 ## Dr. Stewart's Approach
 

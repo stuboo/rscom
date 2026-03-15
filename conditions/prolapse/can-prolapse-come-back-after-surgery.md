@@ -62,4 +62,3 @@ Recurrence doesn't necessarily mean another surgery. Options include:
 
 Dr. Stewart notes: "I always discuss recurrence honestly before surgery. But I also reassure patients that the majority do well long-term, and even if there's some recurrence, it's usually manageable. The goal is significant improvement — and most women achieve that."
 
-[Learn more about pelvic organ prolapse](/conditions/prolapse)

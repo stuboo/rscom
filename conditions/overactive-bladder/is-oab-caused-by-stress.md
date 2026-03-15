@@ -59,4 +59,3 @@ Breaking this cycle requires addressing both the bladder and the emotional compo
 
 Dr. Stewart notes: "When I see a patient whose symptoms are clearly worse during stressful periods, I make sure we address that component alongside the bladder treatment. A calm nervous system supports a calm bladder."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

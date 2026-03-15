@@ -13,7 +13,7 @@ faq:
   - question: "Is there a urogynecologist near Brillion, WI?"
     answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Brillion. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
-    answer: "Yes. Most Wisconsin insurance plans accepted including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+    answer: "Yes. Most major insurance plans accepted, including Medicare and Medicaid."
   - question: "Do I need a referral to see Dr. Stewart?"
     answer: "No referral is necessary. You can schedule an appointment directly."
 ---
@@ -32,7 +32,7 @@ Dr. Stewart explains: "Prolapse is very common and very treatable. My goal is to
 
 ## Why See a Urogynecology Specialist?
 
-A urogynecologist completes an additional three-year fellowship focused entirely on pelvic floor disorders after a four-year OB/GYN residency. This gives them the deepest expertise in conditions like pelvic organ prolapse — from conservative management to advanced surgical techniques.
+Depending on their background, a urogynecologist completes either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders. This gives them the deepest expertise in conditions like pelvic organ prolapse — from conservative management to advanced surgical techniques.
 
 ## Dr. Stewart's Approach
 

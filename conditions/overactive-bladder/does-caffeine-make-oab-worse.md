@@ -60,4 +60,3 @@ You don't have to quit cold turkey (and doing so can cause headaches). Instead:
 
 Dr. Stewart notes: "I never ask patients to eliminate everything they enjoy. But caffeine is one of those triggers where a small change can make a meaningful difference. I suggest trying two weeks with reduced caffeine and seeing how you feel."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

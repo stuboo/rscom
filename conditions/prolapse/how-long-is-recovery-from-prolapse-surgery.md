@@ -62,4 +62,3 @@ Full tissue healing takes approximately 3 months. After this point:
 
 Dr. Stewart notes: "I tell my patients that the 6-week mark is a turning point, but the full benefit of surgery really shows at 3 months. Being patient with recovery pays off — the women who follow their restrictions have the best long-term outcomes."
 
-[Learn more about pelvic organ prolapse](/conditions/prolapse)

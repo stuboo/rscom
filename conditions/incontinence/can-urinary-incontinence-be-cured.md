@@ -51,4 +51,3 @@ Incontinence tends to worsen over time without treatment. The muscles and tissue
 
 Dr. Stewart notes: "The biggest barrier to treatment is the belief that nothing can be done, or that leaking is just a normal part of aging. It's neither. We have excellent tools to help, and the sooner you seek evaluation, the more options we have."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

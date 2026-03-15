@@ -60,4 +60,3 @@ Bladder training works on multiple levels:
 
 Dr. Stewart notes: "Bladder training requires patience, but the results are worth it. I've seen patients go from 15 bathroom trips a day to 6-7, all without medication. That's a life-changing difference."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

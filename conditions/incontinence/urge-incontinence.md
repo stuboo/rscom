@@ -155,7 +155,7 @@ There are many effective treatments for urge urinary incontinence, ranging from 
 
 1. **BOTOX injections**: Injections of botulinum toxin into the bladder muscle, causing it to relax and reducing involuntary contractions, thus improving symptoms of overactive bladder and urge urinary incontinence.
 2. **Percutaneous and implantable tibial nerve stimulation (PTNS)**: A minimally invasive treatment that uses electrical pulses to stimulate nerves in the ankle, which can improve bladder control by modulating the neural pathways that control bladder function.
-3. **Sacral neuromodulation**: a therapy that uses a small implanted device to send mild electrical pulses to the sacral nerves, which help control bladder and bowel function, to improve symptoms of overactive bladder and urinary retention.
+3. **Sacral neuromodulation**: a therapy that uses a small implanted device to send mild electrical pulses to the sacral nerves, which help control bladder and bowel function, to improve symptoms of overactive bladder and difficulty emptying the bladder.
 
 {: .important-title }
 

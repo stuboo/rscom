@@ -43,4 +43,3 @@ Dr. Stewart explains: "Enteroceles are most common after hysterectomy, when the 
 
 Dr. Stewart notes: "Enteroceles rarely occur in isolation. They're usually part of a bigger picture of pelvic support loss, and we address them as part of a comprehensive prolapse repair."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

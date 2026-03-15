@@ -13,7 +13,7 @@ faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
     answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist practicing in Green Bay. He specializes in fecal incontinence and other pelvic floor conditions."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
-    answer: "Yes. Dr. Stewart accepts most Wisconsin insurance plans including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+    answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Do I need a referral to see Dr. Stewart for fecal incontinence?"
     answer: "No referral is necessary. You can schedule an appointment directly with Dr. Stewart's office."
 ---
@@ -39,7 +39,7 @@ Dr. Stewart explains: "I know this is one of the hardest conditions to talk abou
 
 ## Why See a Urogynecology Specialist?
 
-While many healthcare providers can discuss fecal incontinence, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. After completing a four-year OB/GYN residency, urogynecologists undergo an additional three-year fellowship focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like fecal incontinence.
+While many healthcare providers can discuss fecal incontinence, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. Depending on their background, urogynecologists complete either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like fecal incontinence.
 
 ## Dr. Stewart's Approach
 

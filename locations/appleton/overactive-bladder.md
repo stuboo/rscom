@@ -11,9 +11,9 @@ last_modified_date: 2026-03-14
 testimonial_index: 6
 faq:
   - question: "Is there a urogynecologist near Appleton, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Appleton. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 45 minutes from Appleton. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
-    answer: "Yes. Dr. Stewart accepts most Wisconsin insurance plans including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
+    answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for overactive bladder from Appleton?"
     answer: "Yes. Initial consultations and many follow-up visits can be conducted via telehealth from Appleton. This reduces the need for in-person trips."
   - question: "Do I need a referral to see Dr. Stewart for overactive bladder?"
@@ -22,7 +22,7 @@ faq:
 
 # Overactive Bladder Treatment Near Appleton, WI
 
-For women in Appleton and the Fox Cities area dealing with urgency, frequency, and bladder control issues, expert care is available just 30 minutes away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+For women in Appleton and the Fox Cities area dealing with urgency, frequency, and bladder control issues, expert care is available just 45 minutes away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
 
 ## Understanding Overactive Bladder
 
@@ -41,7 +41,7 @@ Dr. Stewart explains: "Overactive bladder can feel like your life revolves aroun
 
 ## Why See a Urogynecology Specialist?
 
-While many healthcare providers can discuss overactive bladder, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. After completing a four-year OB/GYN residency, urogynecologists undergo an additional three-year fellowship focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like overactive bladder.
+While many healthcare providers can discuss overactive bladder, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. Depending on their background, urogynecologists complete either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like overactive bladder.
 
 ## Dr. Stewart's Approach
 
@@ -51,7 +51,7 @@ Dr. Stewart notes: "I like to start with the least invasive options and build fr
 
 ## Convenient Access from Appleton
 
-Appleton residents are just **30 minutes** from expert urogynecological care in Green Bay:
+Appleton residents are just **45 minutes** from expert urogynecological care in Green Bay:
 
 - **Easy commute** — a straightforward drive for appointments
 - **Telehealth available** — virtual visits for consultations and follow-ups

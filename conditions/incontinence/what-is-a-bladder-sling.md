@@ -50,4 +50,3 @@ A sling may be recommended if:
 
 Dr. Stewart notes: "Surgery isn't the first option I recommend, but when it's the right choice, the results can be life-changing. I've had patients tell me they forgot what it was like to sneeze without worrying."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

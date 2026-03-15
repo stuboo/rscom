@@ -54,4 +54,3 @@ For women who don't get adequate relief from behavioral therapy and medications:
 
 Dr. Stewart notes: "I walk patients through each option, explaining what to expect and what the evidence shows. The decision is always shared — your preferences and lifestyle matter just as much as the clinical data."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

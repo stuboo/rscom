@@ -49,4 +49,3 @@ Dr. Stewart notes: "I see women every week who tell me they waited years to make
 
 If you're experiencing bladder leakage of any kind, there's no reason to wait years before seeking help. Early treatment often means simpler solutions. A urogynecologist can evaluate your specific situation and discuss options ranging from physical therapy to minimally invasive procedures.
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

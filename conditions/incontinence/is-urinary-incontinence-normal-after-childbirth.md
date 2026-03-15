@@ -48,4 +48,3 @@ Dr. Stewart explains: "The pelvic floor does remarkable work during pregnancy an
 
 Dr. Stewart notes: "I encourage new mothers not to dismiss ongoing leaking as just 'part of having kids.' Yes, it's common, but it's also very treatable. You shouldn't have to plan your life around pads and extra clothing."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

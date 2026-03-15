@@ -56,4 +56,3 @@ Dr. Stewart notes: "I always start with the least invasive approach. Many of my 
 
 If leaking is affecting your daily life — whether it's changing what you wear, avoiding exercise, or carrying extra pads "just in case" — it's time to talk to a specialist. A urogynecologist can determine the exact type and cause of your incontinence and develop a treatment plan tailored to your goals.
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

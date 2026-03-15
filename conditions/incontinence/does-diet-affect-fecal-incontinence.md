@@ -57,4 +57,3 @@ Dr. Stewart explains: "When I see a patient with fecal incontinence, diet is one
 
 Dr. Stewart notes: "I recommend starting with a food diary before making changes. Once we identify your personal triggers, targeted adjustments are more effective and easier to sustain than a restrictive diet."
 
-[Learn more about fecal incontinence](/conditions/incontinence/fecal-incontinence)

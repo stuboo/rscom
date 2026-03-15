@@ -38,4 +38,3 @@ If you feel a bulge that's new, growing, or causing symptoms (pressure, difficul
 
 Dr. Stewart notes: "I never want a patient to feel embarrassed about noticing changes in her body. Being aware of your anatomy is a good thing — it helps you seek care early when effective treatment is most straightforward."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

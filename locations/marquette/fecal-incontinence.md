@@ -41,7 +41,7 @@ Dr. Stewart explains: "I know this is one of the hardest conditions to talk abou
 
 ## Why See a Urogynecology Specialist?
 
-While many healthcare providers can discuss fecal incontinence, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. After completing a four-year OB/GYN residency, urogynecologists undergo an additional three-year fellowship focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like fecal incontinence.
+While many healthcare providers can discuss fecal incontinence, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. Depending on their background, urogynecologists complete either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like fecal incontinence.
 
 ## Dr. Stewart's Approach
 

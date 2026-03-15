@@ -39,4 +39,3 @@ If you're experiencing any accidental leakage of stool or gas — whether it sta
 
 Dr. Stewart notes: "I understand the courage it takes to bring up this topic. I want every patient to know that I treat fecal incontinence regularly, I take it seriously, and I can help."
 
-[Learn more about fecal incontinence](/conditions/fecal-incontinence)

@@ -15,70 +15,61 @@ faq:
   - question: "What happens when Botox wears off?"
     answer: "Symptoms gradually return over weeks to months. When they become bothersome again, you can schedule another injection. Many patients develop a regular schedule."
   - question: "Are there long-term risks with OAB medications?"
-    answer: "Older anticholinergic medications have been associated with cognitive effects in elderly patients with long-term use. Newer beta-3 agonists don't carry this risk. Discuss concerns with your doctor."
+    answer: "Older anticholinergic medications have been linked to memory problems with long-term use, especially in older patients. Newer beta-3 agonists don't carry this risk. Discuss concerns with your doctor."
   - question: "How do I know if Botox is working?"
     answer: "Most patients notice reduced urgency and fewer bathroom trips within 1-2 weeks. Keeping a bladder diary before and after helps objectively measure improvement."
 ---
 
-# Botox vs Medication for Overactive Bladder
+# Botox vs. medication for overactive bladder
 
-When behavioral therapy alone isn't enough to control overactive bladder symptoms, two main medical options are available: daily oral medications and periodic Botox injections into the bladder. Both effectively reduce urgency, frequency, and urge incontinence — but they work differently and suit different patients.
+When behavioral therapy alone isn't enough to control overactive bladder symptoms, there are several medical options available. Two of the most common are daily oral medications and periodic Botox injections into the bladder. Both reduce urgency, frequency, and leakage episodes, but they work differently and suit different patients.
 
-## Understanding OAB Medications
+## OAB medications
 
-Oral medications for OAB come in two main classes:
-- **Anticholinergics** (oxybutynin, tolterodine, solifenacin) — block nerve signals causing involuntary contractions
-- **Beta-3 agonists** (mirabegron, vibegron) — relax the bladder muscle through a different pathway
+Oral medications for OAB come in two classes:
+- Anticholinergics (oxybutynin, tolterodine, solifenacin) — block the nerve signals that cause involuntary bladder contractions
+- Beta-3 agonists (mirabegron, vibegron) — relax the bladder muscle through a different pathway
 
-**Key features:**
+What to expect:
 - Daily pill or patch
-- Effects begin within 2-4 weeks
-- Continuous therapy — must take regularly
-- Various options if one doesn't work well
+- Takes about 2-4 weeks to start working
+- You need to take it every day for it to work
+- If one medication doesn't help, there are others to try
 
-## Understanding Bladder Botox
+## Bladder Botox
 
-OnabotulinumtoxinA (Botox) is injected directly into the bladder muscle during a brief office procedure using a cystoscope.
+OnabotulinumtoxinA (Botox) is injected directly into the bladder muscle during a brief office procedure using a cystoscope (a small camera placed into the bladder).
 
-**Key features:**
+What to expect:
 - 10-15 minute office procedure
 - Effects last 6-9 months
 - Can be repeated when symptoms return
 - No daily medication needed between treatments
 
-## Side-by-Side Comparison
+## Side-by-side comparison
 
-| Factor | Medications | Botox Injections |
+| Factor | Medications | Botox injections |
 |--------|-------------|------------------|
-| **Administration** | Daily pill or patch | Office procedure every 6-9 months |
-| **Onset** | 2-4 weeks | 1-2 weeks |
-| **Effectiveness** | 50-60% improvement | 60-80% improvement |
-| **Common side effects** | Dry mouth, constipation, cognitive effects (anticholinergics) | Temporary urinary retention (5-10%), UTI |
-| **Convenience** | Daily medication routine | Periodic office visits |
-| **Reversibility** | Stop anytime | Effects wear off naturally |
-| **Cost considerations** | Ongoing prescription | Periodic procedure cost |
+| How it's given | Daily pill or patch | Office procedure every 6-9 months |
+| How fast it works | 2-4 weeks | 1-2 weeks |
+| How well it works | 50-60% improvement | 60-80% improvement |
+| Common side effects | Dry mouth, constipation, memory problems (anticholinergics) | Difficulty emptying the bladder completely (5-10%), UTI |
+| Convenience | Daily medication routine | Periodic office visits |
+| Reversibility | Stop anytime | Effects wear off on their own |
+| Cost | Ongoing prescription | Periodic procedure cost |
 
-## Dr. Stewart's Perspective
+## Dr. Stewart's perspective
 
-Dr. Stewart explains: "Medications are the logical first step for most patients — they're easy to start and easy to stop if they don't work. But when medications cause bothersome side effects or don't provide enough relief, Botox is an excellent next step with higher efficacy."
+"I usually start with medications. They're easy to try and easy to stop if they're not working or the side effects are too much. But when that's the case, Botox is a great next step — it actually works better for most patients who get it."
 
-Dr. Stewart notes: "One concern with older anticholinergic medications is potential cognitive effects in older women. The newer beta-3 agonists avoid this issue, and Botox avoids systemic side effects entirely since it works locally in the bladder."
+"One thing I talk to patients about is that the older anticholinergic medications have been linked to memory problems, especially in older women. The newer beta-3 agonists don't have that issue. And Botox avoids whole-body side effects entirely because it stays in the bladder."
 
-## Who Is the Best Candidate for Each?
+## Which is right for you?
 
-**Medications may be ideal if you:**
-- Are just starting treatment beyond behavioral therapy
-- Prefer the convenience of a daily pill
-- Want to avoid procedures
-- Haven't experienced significant medication side effects
+Medications might make sense if you're just getting started with treatment beyond behavioral therapy, you'd rather take a pill than have a procedure, or you haven't had trouble with medication side effects.
 
-**Botox may be ideal if you:**
-- Haven't responded adequately to medications
-- Can't tolerate medication side effects
-- Prefer periodic treatment over daily pills
-- Want the higher efficacy rate
-- Are concerned about cognitive effects of anticholinergics
+Botox might be worth considering if medications haven't worked well enough, the side effects bother you, you'd rather not take a daily pill, or you're concerned about the memory risks of anticholinergics.
 
-## Making Your Decision
+## Next step
 
-The best treatment is the one that aligns with your symptoms, values, and life. Dr. Stewart will walk you through both options in detail during your consultation, answer all your questions, and help you feel confident in whatever path you choose.
+Dr. Stewart will walk you through both options during your visit and help you figure out which makes the most sense for your situation.

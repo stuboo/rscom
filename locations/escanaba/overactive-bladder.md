@@ -41,7 +41,7 @@ Dr. Stewart explains: "Overactive bladder can feel like your life revolves aroun
 
 ## Why See a Urogynecology Specialist?
 
-While many healthcare providers can discuss overactive bladder, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. After completing a four-year OB/GYN residency, urogynecologists undergo an additional three-year fellowship focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like overactive bladder.
+While many healthcare providers can discuss overactive bladder, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. Depending on their background, urogynecologists complete either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like overactive bladder.
 
 ## Dr. Stewart's Approach
 

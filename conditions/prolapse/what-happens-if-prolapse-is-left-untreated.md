@@ -58,4 +58,3 @@ The right time for treatment is when prolapse affects your quality of life. Ther
 
 Dr. Stewart notes: "I see women who've had prolapse for 20 years and are doing fine with no treatment. I see others who want treatment right away. Both are reasonable. My role is to make sure you know your options and feel empowered to choose what's right for you."
 
-[Learn more about pelvic organ prolapse](/conditions/prolapse)

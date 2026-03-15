@@ -60,4 +60,3 @@ Biofeedback works best for women who:
 
 Dr. Stewart notes: "I recommend biofeedback to nearly every patient with fecal incontinence as a starting point. It's effective, it has no downside, and the skills you learn are yours to keep. Even if you eventually need additional treatment, biofeedback gives you a stronger foundation."
 
-[Learn more about fecal incontinence](/conditions/incontinence/fecal-incontinence)
