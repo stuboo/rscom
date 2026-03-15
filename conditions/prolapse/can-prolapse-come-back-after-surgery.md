@@ -26,7 +26,7 @@ faq:
 
 There's an important distinction:
 
-- **Anatomic recurrence** (visible on exam): ~30-40% over many years
+- **Anatomic recurrence** (visible on exam): ~30-40% over many years, depending on the procedure performed
 - **Symptomatic recurrence** (bothersome enough to need treatment): ~10-15%
 
 When I discuss recurrence with patients, I always clarify this distinction. Many women have some mild descent on exam years later but feel perfectly fine. If it's not bothering you, it doesn't need treatment.
@@ -61,4 +61,11 @@ Recurrence doesn't necessarily mean another surgery. Options include:
 - Repeat surgery if symptoms are significantly bothersome
 
 I always discuss recurrence honestly before surgery. But I also reassure patients that the majority do well long-term, and even if there's some recurrence, it's usually manageable. The goal is significant improvement — and most women achieve that.
+
+## References
+
+- Barber MD, Brubaker L, Nygaard I, et al. Defining success after surgery for pelvic organ prolapse. *Obstet Gynecol*. 2009;114(3):600-609. PMID: 19701038
+- Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. *JAMA*. 2013;309(19):2016-2024. PMID: 23677313
+- Barber MD, Brubaker L, Burgio KL, et al. Comparison of 2 transvaginal surgical approaches and perioperative behavioral therapy for apical vaginal prolapse: the OPTIMAL randomized trial. *JAMA*. 2014;311(10):1023-1034. PMID: 24618964
+- Jelovsek JE, Barber MD, Brubaker L, et al. Effect of uterosacral ligament suspension vs sacrospinous ligament fixation with or without perioperative behavioral therapy for pelvic organ prolapse on surgical outcomes and prolapse symptoms at 5 years in the OPTIMAL randomized clinical trial. *JAMA*. 2018;319(15):1554-1565. PMID: 29677302
 

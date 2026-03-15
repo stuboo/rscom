@@ -12,7 +12,7 @@ published: true
 last_modified_date: 2026-03-14
 faq:
   - question: "How much weight loss is needed to improve incontinence?"
-    answer: "Research shows that losing just 5-10% of body weight can reduce incontinence episodes by 50% or more. For a 200-pound woman, that's just 10-20 pounds — a realistic and achievable goal."
+    answer: "Research shows that losing just 5-10% of body weight can reduce stress incontinence episodes by up to 50% or more, and overall incontinence by roughly 40-50%. For a 200-pound woman, that's just 10-20 pounds — a realistic and achievable goal."
   - question: "Does weight loss help all types of incontinence?"
     answer: "Weight loss is most effective for stress incontinence, but it can also improve urge incontinence and overactive bladder symptoms. Reducing abdominal pressure benefits the entire pelvic floor."
   - question: "Should I lose weight before considering surgery for incontinence?"
@@ -38,7 +38,7 @@ Think of the pelvic floor like a trampoline. It's designed to support a certain 
 
 The research is compelling:
 
-- **A 5-10% reduction in body weight** can decrease incontinence episodes by **50% or more**
+- **A 5-10% reduction in body weight** can reduce stress incontinence episodes by **up to 50% or more**, and overall incontinence by roughly **40-50%**
 - For a 200-pound woman, that's just 10-20 pounds
 - Weight loss improves both stress and urge incontinence
 - Benefits persist as long as the weight stays off
@@ -54,4 +54,9 @@ Weight management is most effective when treated as one part of a comprehensive 
 - **Not a prerequisite** — weight loss shouldn't delay other needed treatments
 
 I never tell a patient she has to lose weight before I'll help her. We address all the contributing factors simultaneously. But I do want patients to understand that weight management is one of the most powerful tools in our toolkit — and it's something you can start working on today.
+
+## References
+
+- Subak LE, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. *N Engl J Med*. 2009;360(5):481-490. PMID: 19179316
+- Muñoz-Lievano ME, Rosenberg KB, Arya LA, et al. The impact of weight loss intervention on lower urinary tract symptoms and urinary incontinence in overweight and obese women. *Female Pelvic Med Reconstr Surg*. 2020;26(10):e44-e53.
 
