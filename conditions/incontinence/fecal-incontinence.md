@@ -86,7 +86,7 @@ Both are done in the office and help me figure out what's going on so we can pic
 
 ## Treatment Options
 
-Most women with fecal incontinence improve with treatment. I start with the least invasive options and move forward from there based on how you respond.
+Most women with fecal incontinence improve with treatment. I go through all the options with my patients so we can figure out the right approach together.
 
 ### Lifestyle and dietary changes
 This is where I start for almost everyone. Adjusting your diet to improve stool consistency makes a bigger difference than most people expect. I'll also talk with you about regular bowel habits and toilet positioning.

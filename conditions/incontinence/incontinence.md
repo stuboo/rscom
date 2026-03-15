@@ -69,7 +69,7 @@ I hear from patients all the time about how incontinence changes their routine. 
 
 ## Treatment options
 
-I treat both urinary and fecal incontinence, and I always start with the least invasive approach. Depending on your situation, treatment might include:
+I treat both urinary and fecal incontinence. I walk through all the options with my patients so we can decide together what makes sense. Depending on your situation, treatment might include:
 
 * Lifestyle and dietary changes
 * Pelvic floor physical therapy

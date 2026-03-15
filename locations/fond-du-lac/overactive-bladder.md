@@ -47,7 +47,7 @@ While many healthcare providers can discuss overactive bladder, a urogynecologis
 
 Dr. Stewart's care philosophy centers on education and shared decision-making. The word "doctor" comes from the Latin *docere* — to teach — and this guides every patient interaction.
 
-Dr. Stewart notes: "I like to start with the least invasive options and build from there. Many of my OAB patients are surprised by how much improvement they see with bladder training and dietary changes alone."
+Dr. Stewart notes: "I walk through all the options with my patients so we can figure out what makes the most sense for them. A lot of my OAB patients are surprised by how much improvement they see with bladder training and dietary changes alone."
 
 ## Convenient Access from Fond du Lac
 
