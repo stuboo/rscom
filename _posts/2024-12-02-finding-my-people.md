@@ -16,6 +16,7 @@ tags:
   - whoami
   - career
 description: "This blog post reflects on my unconventional journey to becoming a urogynecologist and the start of a new chapter in Green Bay, Wisconsin. It highlights the importance of finding professional happiness by aligning passion with purpose and creating meaningful connections with patients and colleagues."
+last_reviewed_date: 2024-12-02
 ---
 
 When I reflect on how I became a urogynecologist, I realize my path was never about a straight line, but about discovering where I truly belonged.

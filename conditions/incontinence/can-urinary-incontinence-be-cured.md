@@ -16,7 +16,7 @@ faq:
   - question: "How long does it take to see improvement?"
     answer: "With pelvic floor physical therapy, many women notice improvement within 6-12 weeks. Medications for urgency may show results within 2-4 weeks. Surgical procedures typically have immediate improvement with full recovery in 2-6 weeks."
   - question: "Will my incontinence come back after treatment?"
-    answer: "Most treatments provide long-lasting relief. Midurethral slings have 85-95% success rates that hold up over many years. Urethral bulking has been shown to be effective for at least 7 years, likely longer. Botox typically lasts 6-9 months and is repeated as needed. Sacral neuromodulation often requires battery replacement after 10-15 years. Maintaining a healthy weight and continuing pelvic floor exercises help preserve results."
+    answer: "Most treatments provide long-lasting relief. Midurethral slings have 85-95% success rates that hold up over many years. Urethral bulking has 7-year data showing about two-thirds of women maintain improvement or cure. Botox typically lasts 6-9 months and is repeated as needed. Sacral neuromodulation often requires battery replacement after 10-15 years. Maintaining a healthy weight and continuing pelvic floor exercises help preserve results."
 ---
 
 # Can urinary incontinence be cured?

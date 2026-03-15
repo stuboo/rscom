@@ -1,7 +1,7 @@
 ---
 layout: blogindex
 title: Blog
-description: "Read the latest insights on pelvic health, urogynecology tips, and women's wellness from Dr. Ryan Stewart, urogynecologist in Green Bay, WI."
+description: "Articles on pelvic floor health, treatment options, and my perspective on urogynecology — from Dr. Ryan Stewart in Green Bay, WI."
 nav_order: 6
 permalink: blog
 ---

@@ -18,6 +18,7 @@ tags:
   - storytelling
   - doctor-patient relationship
 description: "A reflection on the profound lessons learned during my first geriatrics rotation at the VA hospital, and how they shaped my approach to medicine."
+last_reviewed_date: 2024-12-05
 ---
 
 Fourteen years ago, I began my clinical rotations fresh out of the classroom, bright-eyed and, frankly, clueless. Two years of medical school had filled my brain with the foundational sciences - anatomy, physiology, pathology, pharmacology. I could recite pathways, recognize slides of disease processes, and rattle off mechanisms of action. But stepping into the real world of patient care, I quickly realized how little I knew about what truly mattered.

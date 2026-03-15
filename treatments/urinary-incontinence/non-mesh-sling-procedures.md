@@ -86,7 +86,7 @@ Dr. Stewart notes: "Non-mesh slings have stood the test of time. They offer pred
 - **Hospital stay**: Usually same-day or overnight
 - **Catheter**: Temporary catheter for 1-2 days
 - **Pain management**: Managed with medications
-- **Activity restrictions**: No heavy lifting for 6 weeks
+- **Activity**: Let your body be your guide — if it hurts, don't do it
 
 ### Long-term Recovery
 - **Full healing**: 6-8 weeks for complete recovery
@@ -169,7 +169,7 @@ We believe in shared decision-making and will work with you to determine the bes
 To optimize your recovery:
 
 - Follow all post-operative instructions carefully
-- Avoid heavy lifting and strenuous activities
+- Let your body guide your return to activity — if it hurts, don't do it
 - Stay hydrated and maintain good nutrition
 - Attend all follow-up appointments
 - Report any concerning symptoms promptly

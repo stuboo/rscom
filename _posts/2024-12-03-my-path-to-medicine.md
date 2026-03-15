@@ -15,6 +15,7 @@ tags:
   - Green Bay
   - personal growth
 description: "A reflection on my unconventional journey to becoming a physician, shaped by diverse experiences and a deep commitment to patient care."
+last_reviewed_date: 2024-12-03
 ---
 
 Patients often ask me about my background, so I thought I'd share how I found my way to medicine. It wasn't a straightforward journey—more of a winding path with some unexpected turns.

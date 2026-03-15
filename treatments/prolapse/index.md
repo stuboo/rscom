@@ -39,7 +39,7 @@ Many women find relief through non-surgical options:
 
 ### Lifestyle Modifications
 - Weight management to reduce pressure on pelvic organs
-- Avoiding heavy lifting and high-impact activities
+- Using good body mechanics when lifting
 - Treating chronic cough or constipation
 
 ## Surgical Treatments

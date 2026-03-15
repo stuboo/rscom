@@ -16,6 +16,7 @@ tags:
   - prolapse
   - women's health
 description: "Explore how diet and nutrition can impact pelvic floor health, focusing on fiber intake, hydration, and weight management as methods to manage pelvic floor disorders."
+last_reviewed_date: 2024-10-28
 ---
 
 # The Role of Diet and Nutrition in Managing Pelvic Floor Disorders

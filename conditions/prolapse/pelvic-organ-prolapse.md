@@ -20,7 +20,7 @@ faq:
     answer: "POP is typically diagnosed through a comprehensive pelvic exam, which includes internal and external examination, use of a speculum, and asking the patient to bear down or cough. Doctors often use the POP-Q system to stage the prolapse on a scale from 0 to 4."
 
   - question: "What are the treatment options for pelvic organ prolapse?"
-    answer: "Treatment options range from conservative management to surgical intervention. They include watch and wait approach, home exercises, pelvic floor physical therapy, use of a pessary device, and surgical options such as vaginal repair and laparoscopic repair with or without mesh/graft augmentation."
+    answer: "Treatment options include observation, home exercises, pelvic floor physical therapy, pessary devices, and surgical options such as vaginal repair, robotic-assisted laparoscopic sacrocolpopexy, and colpocleisis. The right approach depends on your symptoms, goals, and overall health — we'll discuss all the options together so you can make the best decision for you."
 
   - question: "Can pelvic organ prolapse be treated without surgery?"
     answer: "Yes, non-surgical treatments such as pelvic floor exercises (Kegels), physical therapy, and the use of a pessary device can often be effective in managing symptoms."
@@ -39,11 +39,11 @@ last_reviewed_date: 2016-01-01
 
 # Understanding Pelvic Organ Prolapse (POP)
 
-Pelvic organ prolapse (POP) is a common condition that affects many women. It's a type of hernia involving the pelvic organs, where tissues and organs move into spaces they wouldn't normally occupy. This article will help you understand the types of prolapse, symptoms, diagnosis, and treatment options available.
+Pelvic organ prolapse (POP) is a common condition in women where pelvic organs shift into spaces they wouldn't normally occupy — essentially a hernia of the pelvic floor. Below, I'll walk through the types of prolapse, what symptoms to look for, how we diagnose it, and what your treatment options are.
 
 ## Types of Pelvic Organ Prolapse
 
-POP is a general term that encompasses several specific types of prolapse:
+POP is a general term that covers several specific types:
 
 1. **Cystocele**: Prolapse of the bladder
 2. **Rectocele**: Prolapse of the rectum
@@ -59,14 +59,12 @@ POP is a general term that encompasses several specific types of prolapse:
 > It's common for patients to experience more than one type of pelvic organ prolapse simultaneously. For instance:
 > 
 > - About 70% of patients with a cystocele (bladder prolapse) also have 'apical' prolapse involving the uterus, cervix, or vaginal cuff.
-> - The combination of different types of prolapse can affect symptoms and treatment approaches.
-> - A comprehensive evaluation by a urogynecologist is crucial to identify all affected areas and develop an effective treatment plan.
->
-> Understanding the full extent of your prolapse is key to ensuring that all issues are addressed in your treatment strategy.
+> - Having more than one type of prolapse can change which symptoms you notice and which treatments make sense.
+> - This is why a thorough evaluation matters — we need to know what's going on in each compartment before recommending a plan.
 
 ## Symptoms of Pelvic Organ Prolapse
 
-While POP is not typically dangerous, it can cause considerable discomfort and bothersome symptoms, including:
+POP isn't dangerous, but it can be really bothersome. Common symptoms include:
 
 - Feelings of pelvic pressure, fullness, pulling, or tugging (especially with heavy lifting)
 - Sensation of sitting on an egg or ball
@@ -79,79 +77,71 @@ While POP is not typically dangerous, it can cause considerable discomfort and b
 
 ## Diagnosis of Pelvic Organ Prolapse
 
-Diagnosis of POP is typically made through a comprehensive pelvic exam, which includes:
+We diagnose POP with a pelvic exam, which includes:
 
 1. Internal and external examination
 2. Use of a speculum
 3. Asking the patient to bear down, push, or cough to make the prolapse more pronounced
 
-Doctors often use the POP-Q (Pelvic Organ Prolapse Quantification) system to stage the prolapse on a scale from 0 to 4, where 0 is no prolapse and 4 is complete prolapse.
-
-![POP-Q Staging](https://www.midwestpelvis.com/wp-content/uploads/2022/01/Vaginal-Prolapse-1-300x300.jpg)
+I use the POP-Q (Pelvic Organ Prolapse Quantification) system to stage prolapse on a scale from 0 to 4, where 0 is no prolapse and 4 is complete prolapse.
 
 ## Treatment Options for Pelvic Organ Prolapse
 
-Treatment for POP ranges from conservative management to surgical intervention. The choice of treatment depends on the severity of symptoms, the degree of prolapse, and the patient's preferences.
+There are several effective treatment options for POP, and the right approach depends on your symptoms, your goals, and what matters most to you. During your consultation, we'll talk through all of the options so you can make an informed decision about your care. Not everyone needs surgery, and not everyone needs to start with conservative treatment first — it really depends on your situation.
 
-### 1. Watch and Wait (Expectant Management)
+### Observation (Expectant Management)
 
-For mild cases with minimal symptoms, observing the condition over time may be appropriate.
+If your prolapse isn't causing bothersome symptoms, it's perfectly reasonable to monitor it over time. Prolapse often remains stable, and not every prolapse requires treatment.
 
-### 2. Home Exercises
+### Home Exercises
 
 Kegel exercises to strengthen pelvic floor muscles, often combined with core strengthening and postural changes, can help alleviate symptoms.
 
-### 3. Pelvic Floor Physical Therapy
+### Pelvic Floor Physical Therapy
 
-Specialized physical therapists can provide targeted exercises, hands-on therapy, and support for managing POP.
+Working with a pelvic floor physical therapist gives you supervised, hands-on treatment that goes well beyond what you can do on your own at home. Studies show this can improve symptoms in women with mild to moderate prolapse.
 
-### 4. Pessary
+### Pessary
 
-A pessary is a device worn inside the vagina to support the pelvic organs. It's a non-surgical option that can be managed either by the patient at home or by a healthcare provider in the office.
+A pessary is a device worn inside the vagina to support the pelvic organs. It's a non-surgical option that can be managed either by the patient at home or by a healthcare provider in the office. Up to 92% of women can be successfully fitted with a pessary, and many find it makes a real difference in their day-to-day comfort.
 
-### 5. Surgical Options
+### Surgical Options
 
-When conservative treatments aren't effective, surgery may be considered. Surgical options include:
+For women with bothersome symptoms who want a more definitive solution, surgery can be very effective. The best surgical approach depends on the type and severity of prolapse, your overall health, and your goals. Options include:
 
 - **Vaginal Repair**
-This involves surgery performed entirely through the vagina, using the patient's own tissues and sutures to restore normal vaginal support.
+Surgery performed entirely through the vagina, using the patient's own tissues and sutures to restore normal vaginal support.
 
-- **Laparoscopic Repair**
-This minimally invasive approach uses small abdominal incisions to access and support the vagina, either using the patient's own tissues or synthetic mesh.
+- **Robotic-Assisted Laparoscopic Sacrocolpopexy**
+A minimally invasive approach using small abdominal incisions and robotic assistance to attach a lightweight mesh to the vagina and sacrum, providing durable support. Learn more about [robotic sacrocolpopexy](/treatments/prolapse/robotic-sacrocolpopexy).
 
-## Choosing the Right Treatment
+- **Colpocleisis (Obliterative Repair)**
+An option for women who do not desire future vaginal intercourse. This procedure has high success rates and shorter recovery times.
 
-The choice of treatment depends on various factors, including:
+## Making a Decision About Treatment
+
+The right treatment depends on several factors that are unique to you:
 
 - The severity and type of prolapse
-- The patient's symptoms and how they affect quality of life
-- The patient's overall health and medical history
-- The patient's goals for treatment (e.g., preserving sexual function)
-- The patient's lifestyle and occupation
+- How your symptoms affect your daily life
+- Your overall health and medical history
+- Your goals for treatment (e.g., preserving sexual function, avoiding surgery)
+- Your lifestyle and occupation
 
-### Using Decision Aids
+### Decision Aids
 
-One of the best ways to help you decide if you need or want surgery for pelvic organ prolapse is to use a decision aid. These tools, such as the "[Should I Have Surgery](https://www.healthwise.net/ohridecisionaid/Content/StdDocument.aspx?DOCHWID=av1031)?" guide, provide detailed information about the condition, treatment options, and potential outcomes. They typically include:
+One helpful tool is the "[Should I Have Surgery](https://www.healthwise.net/ohridecisionaid/Content/StdDocument.aspx?DOCHWID=av1031)?" decision aid, which walks through the condition, treatment options, and potential outcomes. It includes comparisons of surgical and non-surgical options, personal stories from other patients, and questions to help you think about what matters most to you.
 
-- Key points to remember about the condition
-- Frequently asked questions about prolapse and its treatments
-- Comparisons of surgical and non-surgical options
-- Personal stories from other patients
-- Questions to help you reflect on what matters most to you
-- Facts about the risks and benefits of different treatments
+Reviewing something like this before your consultation can help you come in with a clearer sense of your priorities, which makes our conversation more productive.
 
-Considering this information before your initial consultation can help streamline the process and expedite treatment. It allows you to come to your appointment better informed and with a clearer idea of your preferences and concerns. This can lead to more productive discussions with your healthcare provider and ultimately a treatment decision that aligns well with your values and goals.
+## Next Steps
 
-Take the time to go through these materials carefully, and don't hesitate to discuss any questions or concerns that arise with your doctor.
+If you're dealing with symptoms of pelvic organ prolapse, you don't have to just live with it. There are real options — and the first step is getting a thorough evaluation so we can figure out what's going on and what makes sense for you.
 
-## Conclusion
-
-Pelvic organ prolapse is a common condition that can significantly impact a woman's quality of life. However, with proper diagnosis and a range of treatment options available, many women find relief from their symptoms. If you're experiencing symptoms of POP, it's important to consult with a healthcare provider to discuss your options and develop a personalized treatment plan.
-
-Remember, you're not alone in dealing with POP, and help is available. With the right care and management, you can improve your pelvic health and overall well-being.
+If you'd like to learn more, I encourage you to schedule an appointment for a thorough evaluation and personalized treatment plan.
 
 ## References
 
 1. Barber MD, Maher C. Epidemiology and outcome assessment of pelvic organ prolapse. *Int Urogynecol J*. 2013;24(11):1783-1790. [doi:10.1007/s00192-013-2169-9](https://doi.org/10.1007/s00192-013-2169-9)
-2. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
+2. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. Reaffirmed 2024. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
 3. Hagen S, Stark D. Conservative prevention and management of pelvic organ prolapse in women. *Cochrane Database Syst Rev*. 2011;(12):CD003882. [doi:10.1002/14651858.CD003882.pub4](https://doi.org/10.1002/14651858.CD003882.pub4)

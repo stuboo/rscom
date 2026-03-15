@@ -19,6 +19,7 @@ tags:
   - narrative medicine
   - shared decision making
 description: "Reflections on how AI is transforming medicine and why doubling down on human connection might be our greatest opportunity as physicians."
+last_reviewed_date: 2025-05-24
 ---
 
 Over dinner last week, I was telling my wife about a patient I'd taken to the OR for a uterine biopsy. It's a procedure I don't do as often as I did during residency, so I didn't have my standard postoperative instructions ready.

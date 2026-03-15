@@ -16,6 +16,7 @@ tags:
   - prolapse
   - chronic pain
 description: "Discover how pelvic floor physical therapy goes beyond Kegel exercises to address posture, breathing, and overall body mechanics for comprehensive pelvic health."
+last_reviewed_date: 2024-10-15
 ---
 
 # Pelvic Floor Physical Therapy: It's More Than Just Kegels

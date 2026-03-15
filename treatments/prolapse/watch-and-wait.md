@@ -57,7 +57,7 @@ While monitoring your prolapse, consider these self-care strategies:
 
 - Practice pelvic floor exercises regularly
 - Maintain a healthy weight
-- Avoid heavy lifting or straining
+- Use good body mechanics when lifting
 - Treat chronic cough or constipation
 - Stay physically active with low-impact exercises
 

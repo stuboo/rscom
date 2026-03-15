@@ -223,7 +223,7 @@ Other treatment options for pelvic organ prolapse include:
 ### Prevention Strategies
 - **Maintain healthy weight** throughout life
 - **Practice pelvic floor exercises** regularly
-- **Avoid heavy lifting** and high-impact activities
+- **Use good body mechanics** when lifting
 - **Treat constipation** promptly and effectively
 
 ## Patient Education and Support
