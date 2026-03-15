@@ -73,4 +73,3 @@ Pessaries are less suitable for women who:
 
 Dr. Stewart notes: "Some of my happiest patients are pessary users. They get relief without surgery, without recovery time, and without risk. It's not the right choice for everyone, but it deserves serious consideration."
 
-[Learn more about pelvic organ prolapse](/conditions/prolapse)

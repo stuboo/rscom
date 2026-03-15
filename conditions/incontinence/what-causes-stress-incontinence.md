@@ -49,4 +49,3 @@ Dr. Stewart notes: "Understanding the contributing factors helps us build a bett
 
 Knowing the causes also points toward solutions. Pelvic floor physical therapy directly strengthens the weakened support. Estrogen therapy can restore tissue health. Weight management reduces ongoing strain. And for women who need more, surgical options like the midurethral sling replace the weakened support with excellent long-term results.
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

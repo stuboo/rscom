@@ -23,7 +23,7 @@ I specialize in treating:
 - Genitourinary Syndrome of Menopause (GSM)
 
 ### About Me
-- Fellowship-trained in Female Pelvic Medicine and Reconstructive Surgery (Urogynecology) at the University of Louisville School of Medicine
+- Fellowship-trained in Urogynecology & Reconstructive Pelvic Surgery at the University of Louisville School of Medicine
 - Completed residency in Obstetrics and Gynecology at the Indiana University School of Medicine
 - Graduated from Via College of Osteopathic Medicine in Blacksburg, Virginia
 - Constantly seeking ways to improve patient education, efficiency, and the patient experience.

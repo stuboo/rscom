@@ -51,4 +51,3 @@ Dr. Stewart explains: "Pelvic floor physical therapy is my first recommendation 
 
 Dr. Stewart notes: "I encourage patients to look for a therapist who specializes in pelvic floor rehabilitation — not all physical therapists have this training. The difference in expertise makes a significant difference in outcomes."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

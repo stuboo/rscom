@@ -40,4 +40,3 @@ If you're experiencing accidental bowel leakage, a urogynecologist can evaluate 
 
 Dr. Stewart notes: "I bring up bowel symptoms proactively because I know how hard it is for patients to raise the topic. You'd be surprised how many women are quietly dealing with this — and how much better they feel once treatment begins."
 
-[Learn more about fecal incontinence](/conditions/fecal-incontinence)

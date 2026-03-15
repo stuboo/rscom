@@ -38,4 +38,3 @@ If you have low back pain along with pelvic pressure, vaginal bulging, or bladde
 
 Dr. Stewart notes: "I always ask about back pain when evaluating prolapse. When we support the prolapsed organs — whether with a pessary or surgery — many women tell me their back pain improves as well."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

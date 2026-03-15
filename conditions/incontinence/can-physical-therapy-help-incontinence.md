@@ -59,4 +59,3 @@ Research consistently shows that pelvic floor therapy:
 
 Dr. Stewart notes: "I always tell patients that physical therapy is an investment in your pelvic floor, regardless of what other treatments we pursue. Even if you eventually need surgery, a strong, well-coordinated pelvic floor leads to better surgical outcomes."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

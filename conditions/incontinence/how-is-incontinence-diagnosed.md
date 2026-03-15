@@ -63,4 +63,3 @@ Most women can be diagnosed and begin treatment without advanced testing. Howeve
 
 Dr. Stewart notes: "I try to keep the evaluation as simple as possible. For most women, we can make an accurate diagnosis and start treatment based on our conversation, the exam, and basic tests. I only recommend urodynamics when it will genuinely change our treatment approach."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

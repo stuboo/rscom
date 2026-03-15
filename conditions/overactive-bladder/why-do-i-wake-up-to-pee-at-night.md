@@ -55,4 +55,3 @@ Dr. Stewart explains: "Nocturia is often multifactorial — it's not just one th
 
 Dr. Stewart notes: "Sleep disruption from nocturia has real consequences — fatigue, mood changes, difficulty concentrating. When I help a patient reduce their nighttime trips from four to one, they often tell me they feel like a different person because they're finally sleeping through the night."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

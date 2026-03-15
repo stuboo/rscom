@@ -41,7 +41,7 @@ Dr. Stewart explains: "Prolapse can feel alarming when you first notice it, but 
 
 ## Why See a Urogynecology Specialist?
 
-While many healthcare providers can discuss pelvic organ prolapse, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. After completing a four-year OB/GYN residency, urogynecologists undergo an additional three-year fellowship focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like pelvic organ prolapse.
+While many healthcare providers can discuss pelvic organ prolapse, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. Depending on their background, urogynecologists complete either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like pelvic organ prolapse.
 
 ## Dr. Stewart's Approach
 

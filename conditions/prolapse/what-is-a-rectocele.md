@@ -46,4 +46,3 @@ Dr. Stewart explains: "Rectoceles are more common than most women realize. They 
 
 Dr. Stewart notes: "Many women with rectoceles have been struggling with constipation for years without realizing there's a structural cause. Once we identify the rectocele, treatment can be very effective."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

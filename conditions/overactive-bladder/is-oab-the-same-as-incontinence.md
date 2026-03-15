@@ -46,4 +46,3 @@ If you have both — which is common — we address each component with targeted
 
 Dr. Stewart notes: "A thorough evaluation helps us sort out exactly what's going on. Once we understand the picture, we can create a treatment plan that addresses your specific symptoms rather than taking a one-size-fits-all approach."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

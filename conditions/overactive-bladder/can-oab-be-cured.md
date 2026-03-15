@@ -65,4 +65,3 @@ Some women do experience lasting resolution, particularly when:
 
 Dr. Stewart notes: "The women who do best are the ones who engage actively with treatment — especially the behavioral components. Medications and procedures are powerful tools, but the daily habits you build around bladder health make the biggest long-term difference."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

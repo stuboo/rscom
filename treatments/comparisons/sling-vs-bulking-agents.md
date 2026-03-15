@@ -36,7 +36,7 @@ The midurethral sling is the gold standard surgical treatment for stress inconti
 
 ## Understanding Urethral Bulking Agents
 
-Bulking agents are injectable materials placed around the urethra to improve its closure. The procedure is performed in the office with local anesthesia using a cystoscope.
+Bulking agents are injectable materials placed around the urethra to improve its closure. The procedure is performed in the office with local anesthesia using a cystoscope (a small camera placed into the bladder).
 
 **Key features:**
 - 10-15 minute office procedure
@@ -53,7 +53,7 @@ Bulking agents are injectable materials placed around the urethra to improve its
 | **Duration of effect** | 10+ years | May diminish; repeat injections needed |
 | **Recovery** | 2-4 weeks limited activity | Resume activities same day |
 | **Invasiveness** | Small incisions, mesh implant | Injection only, no implant |
-| **Risks** | Mesh-related (rare), urinary retention | Temporary discomfort, UTI, partial improvement |
+| **Risks** | Mesh-related (rare), difficulty emptying the bladder | Temporary discomfort, UTI, partial improvement |
 | **Best for** | Moderate-severe SUI, want durable fix | Mild SUI, poor surgical candidates, want minimal intervention |
 
 ## Dr. Stewart's Perspective

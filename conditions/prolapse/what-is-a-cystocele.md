@@ -46,4 +46,3 @@ Dr. Stewart explains: "A cystocele is essentially the bladder losing its backsto
 
 Dr. Stewart notes: "Not every cystocele needs treatment. If it's not bothering you, we can simply monitor it. But if it's affecting your quality of life, we have a range of effective solutions."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

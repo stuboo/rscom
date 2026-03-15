@@ -46,7 +46,7 @@ Sacral neuromodulation is typically recommended for women who:
 - Haven't responded adequately to behavioral therapy and medications
 - Can't tolerate medication side effects
 - Prefer a long-term solution over repeated Botox injections
-- Have urge incontinence, OAB, or certain types of urinary retention
+- Have urge incontinence, OAB, or difficulty emptying the bladder
 
 ## Results
 
@@ -57,4 +57,3 @@ Sacral neuromodulation is typically recommended for women who:
 
 Dr. Stewart notes: "What I love about sacral neuromodulation is the trial period. You get to experience the therapy before committing to anything permanent. If it works — and for most patients who go to trial, it does — it provides continuous, long-term relief."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

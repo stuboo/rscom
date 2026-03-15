@@ -56,4 +56,3 @@ The good news is that menopause-related bladder changes respond well to treatmen
 
 Dr. Stewart notes: "Many of my menopausal patients are pleasantly surprised by how much improvement they see with vaginal estrogen alone. It's a simple, low-risk treatment that addresses the root cause of their tissue changes."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

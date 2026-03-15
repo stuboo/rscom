@@ -14,7 +14,7 @@ faq:
   - question: "How long does Botox last for OAB?"
     answer: "Botox effects typically last 6-9 months. When symptoms return, the procedure can be repeated. Many patients develop a regular schedule of injections that keeps their symptoms well-controlled."
   - question: "Is the Botox injection painful?"
-    answer: "Most women report mild discomfort rather than significant pain. The procedure is performed in the office using local anesthesia and a cystoscope. It takes about 10-15 minutes and most patients return to normal activities immediately."
+    answer: "Most women report mild discomfort rather than significant pain. The procedure is performed in the office using local anesthesia and a cystoscope (a small camera placed into the bladder). It takes about 10-15 minutes and most patients return to normal activities immediately."
   - question: "What are the risks of bladder Botox?"
     answer: "The main risk is temporary difficulty emptying the bladder completely, which affects about 5-10% of patients. This is usually mild and resolves as the Botox wears off. Urinary tract infections can also occur."
 ---
@@ -39,7 +39,7 @@ Dr. Stewart explains: "Botox is a game-changer for patients who haven't gotten e
 The injection is performed in the office and takes about 10-15 minutes:
 
 1. The bladder is numbed with a local anesthetic instilled through a small catheter
-2. A thin cystoscope (camera) is inserted into the bladder
+2. A cystoscope (a small camera placed into the bladder) is used to see inside the bladder
 3. Botox is injected into about 20 spots in the bladder wall using a tiny needle
 4. The cystoscope is removed and you can go home
 
@@ -59,4 +59,3 @@ The main potential side effect is **temporary difficulty emptying the bladder**,
 
 Dr. Stewart notes: "I discuss all the pros and cons before recommending Botox. For the right patient, it offers dramatic improvement with minimal disruption to daily life. The brief office procedure is well worth it for the months of relief that follow."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

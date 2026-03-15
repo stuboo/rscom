@@ -65,4 +65,3 @@ Most women experience significant improvement with treatment. Options include:
 
 Dr. Stewart notes: "Fecal incontinence is one of the most undertreated conditions I see. Not because we lack treatments — we have excellent options — but because people don't come in. If this is affecting your life, please make the appointment. You deserve better."
 
-[Learn more about fecal incontinence](/conditions/incontinence/fecal-incontinence)

@@ -28,7 +28,7 @@ Dr. Stewart says: "BOTOX® injections can provide significant relief for many pa
 The procedure is relatively quick and can usually be performed in the office:
 
 1. Your bladder is numbed with a local anesthetic.
-2. A thin scope (cystoscope) is inserted through the urethra into your bladder.
+2. A cystoscope (a small camera placed into the bladder) is inserted through the urethra into your bladder.
 3. Using the scope, your doctor injects small amounts of BOTOX® into multiple areas of your bladder muscle.
 4. The entire procedure typically takes about 30 minutes.
 

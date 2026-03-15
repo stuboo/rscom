@@ -57,4 +57,3 @@ Every treatment option available to younger women is also available to older wom
 
 Dr. Stewart notes: "I never let age alone determine what treatments we consider. What matters is your overall health, your goals, and what's affecting your quality of life. Every woman deserves to be continent."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

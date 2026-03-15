@@ -42,4 +42,3 @@ Dr. Stewart explains: "I compare prolapse progression to a slow leak in a tire. 
 
 Dr. Stewart notes: "Not every prolapse needs immediate treatment, but every prolapse deserves a plan — even if that plan is 'watch and wait with regular check-ups.' Knowing your baseline helps us track any changes."
 
-[Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

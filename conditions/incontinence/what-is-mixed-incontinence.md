@@ -62,4 +62,3 @@ Understanding that you have mixed incontinence — rather than just one type —
 
 Dr. Stewart notes: "I'm always transparent with patients about mixed incontinence. If we do a sling for the stress component, you'll likely see a big improvement — but you may still have some urgency that needs separate treatment. Having that conversation upfront leads to better outcomes and greater satisfaction."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

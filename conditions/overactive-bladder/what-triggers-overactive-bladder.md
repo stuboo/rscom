@@ -55,4 +55,3 @@ Dr. Stewart explains: "Many patients are relieved to learn that these triggers a
 
 Dr. Stewart notes: "Trigger management is one of the most empowering aspects of OAB treatment. When you understand what's happening and have strategies to respond, you regain a sense of control over your bladder."
 
-[Learn more about overactive bladder](/conditions/overactive-bladder)

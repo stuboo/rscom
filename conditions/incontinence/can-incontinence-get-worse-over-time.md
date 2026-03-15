@@ -55,4 +55,3 @@ The most effective way to prevent worsening is to take action:
 
 Dr. Stewart notes: "Early treatment almost always means simpler treatment. I'd rather see a patient when their symptoms are mild and we can make a big impact with physical therapy, than years later when we're discussing surgical options."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

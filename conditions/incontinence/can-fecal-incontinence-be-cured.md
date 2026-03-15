@@ -39,4 +39,3 @@ Dr. Stewart explains: "The approach depends on what's causing the problem. If it
 
 Dr. Stewart notes: "I've seen sacral neuromodulation transform lives for patients with fecal incontinence. It's one of the most satisfying treatments I offer, because the improvement is often dramatic."
 
-[Learn more about fecal incontinence](/conditions/fecal-incontinence)

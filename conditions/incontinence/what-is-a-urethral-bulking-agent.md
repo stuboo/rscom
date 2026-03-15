@@ -33,7 +33,7 @@ Dr. Stewart explains: "Think of it as adding a gasket around a pipe that's not s
 The injection is performed in the office:
 
 1. Local anesthesia numbs the area
-2. A small cystoscope is used to visualize the urethra
+2. A cystoscope (a small camera placed into the bladder) is used to see the urethra
 3. The bulking agent is injected at specific points around the urethra
 4. The procedure takes about 15 minutes
 
@@ -66,4 +66,3 @@ Bulking agents are a good option for women who:
 
 Dr. Stewart notes: "Bulking agents fill an important gap — they're more effective than pelvic floor exercises alone for some women, but far less invasive than a sling. For the right patient, they offer meaningful improvement with minimal disruption to daily life."
 
-[Learn more about urinary incontinence](/conditions/incontinence)

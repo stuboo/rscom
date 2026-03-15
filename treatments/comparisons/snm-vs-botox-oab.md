@@ -14,8 +14,8 @@ faq:
     answer: "Yes. Many patients try Botox first since it's less invasive. If Botox works well but the repeat injections are inconvenient, SNM offers a more permanent solution."
   - question: "Does sacral neuromodulation hurt?"
     answer: "Most patients describe the stimulation as a gentle tingling or fluttering. The trial procedure involves mild discomfort, and the permanent implant is placed under brief anesthesia."
-  - question: "What if Botox causes urinary retention?"
-    answer: "Temporary retention (difficulty emptying completely) affects about 5-10% of patients. It's usually mild and resolves as Botox wears off. Self-catheterization is rarely needed."
+  - question: "What if Botox makes it hard to empty my bladder?"
+    answer: "Temporary difficulty emptying the bladder completely affects about 5-10% of patients. It's usually mild and resolves as Botox wears off. Self-catheterization is rarely needed."
   - question: "Can SNM affect other functions?"
     answer: "SNM can improve fecal incontinence in addition to OAB — it's actually FDA-approved for both conditions. It does not affect sexual function or other bodily functions."
 ---
@@ -55,7 +55,7 @@ Botox (onabotulinumtoxinA) is injected into the bladder muscle during a brief of
 | **Onset** | Immediate during trial | 1-2 weeks |
 | **Duration** | Continuous (battery: ~15 years) | 6-9 months per injection |
 | **Adjustability** | Yes — patient-controlled settings | No — fixed until effects wear off |
-| **Main risk** | Infection, lead migration, need for revision | Urinary retention (5-10%), UTI |
+| **Main risk** | Infection, lead migration, need for revision | Difficulty emptying the bladder (5-10%), UTI |
 | **Reversibility** | Fully reversible (remove device) | Effects wear off naturally |
 | **Maintenance** | Battery replacement every ~15 years | Repeat injections every 6-9 months |
 

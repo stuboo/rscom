@@ -57,4 +57,3 @@ Dr. Stewart notes: "I know it takes courage to make that first call. Many of my 
 
 No referral is needed. You can schedule directly.
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)

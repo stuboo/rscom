@@ -50,4 +50,3 @@ Kegel exercises work best for mild to moderate stress incontinence. They may be 
 
 Dr. Stewart notes: "If you've been doing Kegels faithfully for three months and aren't seeing improvement, don't get discouraged. It doesn't mean nothing will work — it means we need to explore other options. There's a whole toolkit available beyond Kegels."
 
-[Learn more about urinary incontinence](/conditions/urinary-incontinence)
