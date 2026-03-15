@@ -18,9 +18,7 @@ Mesh augmented repair involves using a synthetic, lightweight polypropylene mesh
 
 ## Why Consider Mesh Augmentation?
 
-Dr. Stewart explains the rationale for using mesh:
-
-> "Sometimes we use mesh for prolapse repair because the tissue has already failed us once and we would like to use something more durable. Mesh works for this approach and it lasts forever. Failure rates are low because the mesh is durable."
+Sometimes we use mesh for prolapse repair because the tissue has already failed us once and we would like to use something more durable. Mesh works for this approach and it lasts forever. Failure rates are low because the mesh is durable.
 
 ## Types of Mesh Augmented Repairs
 
@@ -45,9 +43,7 @@ Dr. Stewart trusts the science that led to the FDA's decision and does not place
 
 ## Potential Risks and Complications
 
-While mesh offers durability, it also comes with specific risks. Dr. Stewart emphasizes:
-
-> "We use mesh because it's durable. For that durability, though, we trade some risk. The biggest risk we worry about is that the mesh could work its way through the skin of the vagina. This is called exposure or erosion and happens 2-5% of the time."
+While mesh offers durability, it also comes with specific risks. We use mesh because it's durable. For that durability, though, we trade some risk. The biggest risk we worry about is that the mesh could work its way through the skin of the vagina. This is called exposure or erosion and happens 2-5% of the time.
 
 Other potential risks include:
 
@@ -91,7 +87,7 @@ Recovery from mesh augmented repair is similar to other prolapse surgeries:
 - Full recovery takes about 6-8 weeks
 - Pelvic rest (no intercourse or tampon use) is recommended for 6-8 weeks
 
-Dr. Stewart advises a common-sense approach to post-operative activity: "If it hurts, don't do it."
+A common-sense approach to post-operative activity applies here: if it hurts, don't do it.
 
 ## Is Mesh Augmented Repair Right for You?
 

@@ -24,7 +24,7 @@ faq:
 
 ## A Realistic Perspective
 
-Dr. Stewart explains: "I'm honest with patients — I can't promise a cure in the way you'd cure an infection. But I can tell you that most women with OAB can get to a place where their bladder doesn't run their life. That's a meaningful outcome."
+I'm honest with patients — I can't promise a cure in the way you'd cure an infection. But I can tell you that most women with OAB can get to a place where their bladder doesn't run their life. That's a meaningful outcome.
 
 ## Treatment Options
 
@@ -61,5 +61,5 @@ Some women do experience lasting resolution, particularly when:
 - Weight loss reduces pressure on the bladder
 - Behavioral strategies create lasting change in bladder habits
 
-Dr. Stewart notes: "The women who do best are the ones who engage actively with treatment — especially the behavioral components. Medications and procedures are powerful tools, but the daily habits you build around bladder health make the biggest long-term difference."
+The women who do best are the ones who engage actively with treatment — especially the behavioral components. Medications and procedures are powerful tools, but the daily habits you build around bladder health make the biggest long-term difference.
 

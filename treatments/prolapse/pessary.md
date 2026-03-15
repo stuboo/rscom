@@ -74,17 +74,13 @@ Once fitted with a pessary:
 
 ### What Does It Feel Like?
 
-A properly fitted pessary should be comfortable and barely noticeable in your daily life. As Dr. Stewart often explains:
-
-> "A good-fitting pessary wears like a pair of glasses or a wristwatch. If you think about it, you know it's there, but you shouldn't notice it otherwise. It should do its job without any discomfort or irritation."
+A properly fitted pessary should be comfortable and barely noticeable in your daily life. A good-fitting pessary wears like a pair of glasses or a wristwatch. If you think about it, you know it's there, but you shouldn't notice it otherwise. It should do its job without any discomfort or irritation.
 
 If you experience any persistent discomfort or irritation, it's important to contact your healthcare provider, as this may indicate that an adjustment or re-fitting is needed.
 
 ## Caring for Your Pessary
 
-Proper care is essential for comfort and hygiene. The care routine for your pessary will depend on its shape, size, and your personal preferences. Dr. Stewart explains:
-
-> "How a pessary is cared for depends on the shape, the size, and the patient's preference. Some pessaries can be managed by the patient (remove and clean weekly) while others are managed by the doctor's office (remove, examine, and clean approximately every 3 months)."
+Proper care is essential for comfort and hygiene. The care routine for your pessary will depend on its shape, size, and your personal preferences. How a pessary is cared for depends on the shape, the size, and the patient's preference. Some pessaries can be managed by the patient (remove and clean weekly) while others are managed by the doctor's office (remove, examine, and clean approximately every 3 months).
 
 Your care routine may involve:
 
@@ -121,9 +117,7 @@ A pessary can be an excellent option if:
 - You want a reversible treatment option
 - Your symptoms may not be clearly related to prolapse
 
-Dr. Stewart often recommends a trial of a pessary in cases where the link between symptoms and prolapse is unclear:
-
-> "I will often recommend a trial of a pessary to patients who have symptoms that I'm not sure are prolapse related. In other words, it is not wise to undergo a surgery if I don't have good reason to believe it will improve symptoms. Sometimes a short trial of a pessary, even for a few weeks, is enough to tell what symptom relief (if any) we should expect from surgery."
+I will often recommend a trial of a pessary to patients who have symptoms that I'm not sure are prolapse related. In other words, it is not wise to undergo a surgery if I don't have good reason to believe it will improve symptoms. Sometimes a short trial of a pessary, even for a few weeks, is enough to tell what symptom relief (if any) we should expect from surgery.
 
 This approach can help:
 

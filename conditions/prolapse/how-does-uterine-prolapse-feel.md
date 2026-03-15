@@ -28,7 +28,7 @@ Understanding the sensations and symptoms of uterine prolapse can help you recog
 - **Heaviness** that seems to worsen throughout the day
 - **Pulling sensation** in the lower pelvis
 
-Dr. Stewart explains: "Many women describe it as feeling like something is 'falling out' or that they're carrying extra weight in their pelvis. This pressure sensation is often the first sign women notice."
+Many women describe it as feeling like something is 'falling out' or that they're carrying extra weight in their pelvis. This pressure sensation is often the first sign women notice.
 
 ### The "Something's Not Right" Feeling
 - **Awareness of tissue** where it shouldn't be
@@ -59,7 +59,7 @@ Dr. Stewart explains: "Many women describe it as feeling like something is 'fall
 - **Pain that improves with rest**
 - **Worsening with prolonged standing**
 
-Dr. Stewart notes: "The back pain associated with prolapse is different from typical back pain. It's often described as a pulling or straining sensation that's related to the altered pelvic anatomy."
+The back pain associated with prolapse is different from typical back pain. It's often described as a pulling or straining sensation that's related to the altered pelvic anatomy.
 
 ## Sexual and Intimate Effects
 
@@ -178,7 +178,7 @@ Many women also experience:
 - **Self-consciousness** about their condition
 - **Relief** when they understand what's happening
 
-Dr. Stewart emphasizes: "It's completely normal to feel worried or upset about prolapse symptoms. Understanding what you're experiencing is often the first step toward feeling better about the condition and your treatment options."
+It's completely normal to feel worried or upset about prolapse symptoms. Understanding what you're experiencing is often the first step toward feeling better about the condition and your treatment options.
 
 ## Describing Your Symptoms
 

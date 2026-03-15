@@ -61,9 +61,9 @@ Robotic prolapse repair (typically sacrocolpopexy) uses the da Vinci surgical sy
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "Both approaches are excellent, and I perform both regularly. The choice isn't about which surgery is 'better' — it's about which is better for you. Your anatomy, the type of prolapse, and your priorities all factor into my recommendation."
+Both approaches are excellent, and I perform both regularly. The choice isn't about which surgery is 'better' — it's about which is better for you. Your anatomy, the type of prolapse, and your priorities all factor into my recommendation.
 
-Dr. Stewart notes: "I find that robotic surgery excels for apical prolapse where I need the precision and visualization to attach mesh to the sacrum. Vaginal surgery is often ideal when multiple compartments need repair and the patient wants to avoid mesh. Many repairs combine elements of both approaches."
+I find that robotic surgery excels for apical prolapse where I need the precision and visualization to attach mesh to the sacrum. Vaginal surgery is often ideal when multiple compartments need repair and the patient wants to avoid mesh. Many repairs combine elements of both approaches.
 
 ## Who Is the Best Candidate for Each?
 

@@ -30,7 +30,7 @@ Prolapse can progress over time, but it doesn't always. Some women have stable, 
 - **Age** — natural loss of connective tissue strength
 - **Pelvic floor health** — women who maintain pelvic floor strength tend to have slower progression
 
-Dr. Stewart explains: "I compare prolapse progression to a slow leak in a tire. If you keep driving on rough roads without fixing the tire, it gets worse. If you address the contributing factors and support the pelvic floor, you can slow or stop the progression."
+I compare prolapse progression to a slow leak in a tire. If you keep driving on rough roads without fixing the tire, it gets worse. If you address the contributing factors and support the pelvic floor, you can slow or stop the progression.
 
 ## Preventing Worsening
 
@@ -40,5 +40,5 @@ Dr. Stewart explains: "I compare prolapse progression to a slow leak in a tire. 
 - **Proper lifting technique** — protecting the pelvic floor
 - **Regular monitoring** — catching changes early
 
-Dr. Stewart notes: "Not every prolapse needs immediate treatment, but every prolapse deserves a plan — even if that plan is 'watch and wait with regular check-ups.' Knowing your baseline helps us track any changes."
+Not every prolapse needs immediate treatment, but every prolapse deserves a plan — even if that plan is 'watch and wait with regular check-ups.' Knowing your baseline helps us track any changes.
 

@@ -60,9 +60,9 @@ Prolapse surgery aims to restore pelvic support through structural repair. Optio
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "Physical therapy is always my first recommendation for mild to moderate prolapse. The evidence shows that a strong, well-coordinated pelvic floor can meaningfully reduce prolapse symptoms — and sometimes improve the prolapse itself. Even women with more advanced prolapse benefit from PT, because it optimizes the pelvic floor regardless of whether surgery follows."
+Physical therapy is always my first recommendation for mild to moderate prolapse. The evidence shows that a strong, well-coordinated pelvic floor can meaningfully reduce prolapse symptoms — and sometimes improve the prolapse itself. Even women with more advanced prolapse benefit from PT, because it optimizes the pelvic floor regardless of whether surgery follows.
 
-Dr. Stewart notes: "I view physical therapy and surgery not as competing options but as complementary tools. PT before surgery creates a stronger foundation for repair. PT after surgery helps maintain results. Many women start with PT, and a good number find it's all they need."
+I view physical therapy and surgery not as competing options but as complementary tools. PT before surgery creates a stronger foundation for repair. PT after surgery helps maintain results. Many women start with PT, and a good number find it's all they need.
 
 ## Who Is the Best Candidate for Each?
 
@@ -88,7 +88,7 @@ Many women benefit from a staged approach:
 2. **Add a pessary if helpful** — additional support while continuing PT
 3. **Consider surgery if needed** — with the benefit of an optimized pelvic floor for better outcomes
 
-Dr. Stewart explains: "I want patients to understand what PT can and can't do, and what surgery can and can't do, so they can decide what makes sense. And if surgery is the right choice, a pelvic floor that's been conditioned through PT tends to heal and function better afterward."
+I want patients to understand what PT can and can't do, and what surgery can and can't do, so they can decide what makes sense. And if surgery is the right choice, a pelvic floor that's been conditioned through PT tends to heal and function better afterward.
 
 ## Making Your Decision
 

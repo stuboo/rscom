@@ -32,7 +32,7 @@ OnabotulinumtoxinA (Botox) temporarily blocks the nerve signals that cause the b
 - Reduces or eliminates urge incontinence
 - Increases the amount your bladder can hold comfortably
 
-Dr. Stewart explains: "Botox is a game-changer for patients who haven't gotten enough relief from medications. It works directly where the problem is — in the bladder muscle itself. I've seen patients go from 15 urgency episodes a day to 2-3."
+Botox is a game-changer for patients who haven't gotten enough relief from medications. It works directly where the problem is — in the bladder muscle itself. I've seen patients go from 15 urgency episodes a day to 2-3.
 
 ## The Procedure
 
@@ -57,5 +57,5 @@ Most women describe the discomfort as mild — less than they expected. You can 
 
 The main potential side effect is **temporary difficulty emptying the bladder**, which occurs in about 5-10% of patients. This typically resolves on its own as the Botox gradually wears off. Your doctor will check your bladder emptying after the procedure.
 
-Dr. Stewart notes: "I discuss all the pros and cons before recommending Botox. For the right patient, it offers dramatic improvement with minimal disruption to daily life. The brief office procedure is well worth it for the months of relief that follow."
+I discuss all the pros and cons before recommending Botox. For the right patient, it offers dramatic improvement with minimal disruption to daily life. The brief office procedure is well worth it for the months of relief that follow.
 

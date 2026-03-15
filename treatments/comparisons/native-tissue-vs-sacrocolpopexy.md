@@ -60,9 +60,9 @@ Sacrocolpopexy attaches a synthetic mesh graft from the top of the vagina to the
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "This is one of the most nuanced decisions in urogynecology. Both operations are excellent. The sacrocolpopexy has a modest durability advantage, but native tissue repair avoids mesh entirely and offers a faster recovery. I consider each patient's anatomy, age, activity level, and preferences before making a recommendation."
+This is one of the most nuanced decisions in urogynecology. Both operations are excellent. The sacrocolpopexy has a modest durability advantage, but native tissue repair avoids mesh entirely and offers a faster recovery. I consider each patient's anatomy, age, activity level, and preferences before making a recommendation.
 
-Dr. Stewart notes: "It's important to understand that the mesh used in sacrocolpopexy is placed abdominally, attached to strong structures — it's fundamentally different from the transvaginal mesh products that caused problems. Abdominal mesh for prolapse has a long, well-established safety record."
+It's important to understand that the mesh used in sacrocolpopexy is placed abdominally, attached to strong structures — it's fundamentally different from the transvaginal mesh products that caused problems. Abdominal mesh for prolapse has a long, well-established safety record.
 
 ## Who Is the Best Candidate for Each?
 

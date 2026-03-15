@@ -31,7 +31,7 @@ The first few days are typically the most uncomfortable. You can expect:
 - Fatigue — your body is using energy to heal
 - Constipation from anesthesia and pain medications
 
-Dr. Stewart advises: "The first week is about rest. Your only job is to let your body heal. Walking short distances is great — everything else can wait."
+The first week is about rest. Your only job is to let your body heal. Walking short distances is great — everything else can wait.
 
 ## Weeks 2-4
 
@@ -60,5 +60,5 @@ Full tissue healing takes approximately 3 months. After this point:
 - Sexual activity is typically comfortable
 - Final surgical results are apparent
 
-Dr. Stewart notes: "I tell my patients that the 6-week mark is a turning point, but the full benefit of surgery really shows at 3 months. Being patient with recovery pays off — the women who follow their restrictions have the best long-term outcomes."
+I tell my patients that the 6-week mark is a turning point, but the full benefit of surgery really shows at 3 months. Being patient with recovery pays off — the women who follow their restrictions have the best long-term outcomes.
 

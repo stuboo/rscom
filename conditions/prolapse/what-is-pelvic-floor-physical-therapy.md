@@ -47,7 +47,7 @@ Pelvic floor physical therapy is specialized rehabilitation for the muscles, con
 - Biofeedback training
 - Behavioral strategies for bladder and bowel management
 
-Dr. Stewart explains: "Pelvic floor physical therapy is my first recommendation for almost every pelvic floor condition. The evidence supporting it is strong, the risks are essentially zero, and the results are often remarkable. I wish more women knew about it."
+Pelvic floor physical therapy is my first recommendation for almost every pelvic floor condition. The evidence supporting it is strong, the risks are essentially zero, and the results are often remarkable. I wish more women knew about it.
 
-Dr. Stewart notes: "I encourage patients to look for a therapist who specializes in pelvic floor rehabilitation — not all physical therapists have this training. The difference in expertise makes a significant difference in outcomes."
+I encourage patients to look for a therapist who specializes in pelvic floor rehabilitation — not all physical therapists have this training. The difference in expertise makes a significant difference in outcomes.
 

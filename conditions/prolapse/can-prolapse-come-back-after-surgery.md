@@ -29,7 +29,7 @@ There's an important distinction:
 - **Anatomic recurrence** (visible on exam): ~30-40% over many years
 - **Symptomatic recurrence** (bothersome enough to need treatment): ~10-15%
 
-Dr. Stewart explains: "When I discuss recurrence with patients, I always clarify this distinction. Many women have some mild descent on exam years later but feel perfectly fine. If it's not bothering you, it doesn't need treatment."
+When I discuss recurrence with patients, I always clarify this distinction. Many women have some mild descent on exam years later but feel perfectly fine. If it's not bothering you, it doesn't need treatment.
 
 ## Risk Factors for Recurrence
 
@@ -60,5 +60,5 @@ Recurrence doesn't necessarily mean another surgery. Options include:
 - Pelvic floor physical therapy
 - Repeat surgery if symptoms are significantly bothersome
 
-Dr. Stewart notes: "I always discuss recurrence honestly before surgery. But I also reassure patients that the majority do well long-term, and even if there's some recurrence, it's usually manageable. The goal is significant improvement — and most women achieve that."
+I always discuss recurrence honestly before surgery. But I also reassure patients that the majority do well long-term, and even if there's some recurrence, it's usually manageable. The goal is significant improvement — and most women achieve that.
 

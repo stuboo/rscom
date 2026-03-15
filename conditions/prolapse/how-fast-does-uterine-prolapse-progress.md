@@ -26,7 +26,7 @@ Doctors use **four defined stages** to assess prolapse progression, based on the
 - **Stage 3**: Partial protrusion beyond the vaginal opening
 - **Stage 4**: Complete protrusion of the uterus
 
-Dr. Stewart explains: "Progression through these stages is highly individual. Some women may remain at Stage 1 for years, while others might progress more quickly. There's no way to predict exactly how fast any individual's prolapse will progress."
+Progression through these stages is highly individual. Some women may remain at Stage 1 for years, while others might progress more quickly. There's no way to predict exactly how fast any individual's prolapse will progress.
 
 ## Typical Progression Patterns
 
@@ -121,7 +121,7 @@ Signs that prolapse isn't progressing:
 - **Maintained activity levels** without increased difficulty
 - **Stable findings** on medical examinations
 
-Dr. Stewart notes: "Regular monitoring helps us track any changes and adjust treatment plans accordingly. Many women remain stable for years with appropriate management."
+Regular monitoring helps us track any changes and adjust treatment plans accordingly. Many women remain stable for years with appropriate management.
 
 ## The Role of Treatment in Progression
 
@@ -227,7 +227,7 @@ Progressive treatment might include:
 - **Research advances** offer new possibilities
 - **Individual outcomes** are often better than feared
 
-Dr. Stewart emphasizes: "While we can't predict exactly how fast your prolapse will progress, we can work together to monitor it, slow it down when possible, and treat it effectively at any stage. The goal is to keep you comfortable and active regardless of progression."
+While we can't predict exactly how fast your prolapse will progress, we can work together to monitor it, slow it down when possible, and treat it effectively at any stage. The goal is to keep you comfortable and active regardless of progression.
 
 ## The Bottom Line
 

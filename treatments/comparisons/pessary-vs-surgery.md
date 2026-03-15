@@ -61,9 +61,9 @@ Surgical options for prolapse aim to permanently restore pelvic support. Approac
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "I never view pessary and surgery as competitors — they're complementary tools. A pessary is an excellent first step for many women. It gives you immediate relief while you take time to decide if surgery is right for you. Some women use a pessary for years and are perfectly happy. Others try it and decide they want a permanent fix."
+I never view pessary and surgery as competitors — they're complementary tools. A pessary is an excellent first step for many women. It gives you immediate relief while you take time to decide if surgery is right for you. Some women use a pessary for years and are perfectly happy. Others try it and decide they want a permanent fix.
 
-Dr. Stewart notes: "I also use pessaries diagnostically. If a pessary significantly improves your symptoms, that tells me surgery is likely to give you a great result too. It's a low-risk way to preview the potential benefit of surgical repair."
+I also use pessaries diagnostically. If a pessary significantly improves your symptoms, that tells me surgery is likely to give you a great result too. It's a low-risk way to preview the potential benefit of surgical repair.
 
 ## Who Is the Best Candidate for Each?
 

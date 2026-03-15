@@ -26,7 +26,7 @@ When the **pelvic floor muscles and connective tissues weaken**, several factors
 - **Pressure on nerves** from displaced pelvic organs
 - **Muscular compensation** patterns that lead to fatigue and cramping
 
-Dr. Stewart explains: "Cramping from prolapse often occurs because the body is trying to compensate for weakened support structures. The muscles that are still functioning may work overtime, leading to cramping and discomfort."
+Cramping from prolapse often occurs because the body is trying to compensate for weakened support structures. The muscles that are still functioning may work overtime, leading to cramping and discomfort.
 
 ## Types of Cramping Associated with Prolapse
 
@@ -138,7 +138,7 @@ Watch for signs that prolapse may be worsening:
 - **New associated symptoms** like incontinence
 - **Visible tissue** protruding from the vagina
 
-Dr. Stewart notes: "Cramping that significantly impacts your quality of life shouldn't be ignored. There are many effective treatments available that can provide relief."
+Cramping that significantly impacts your quality of life shouldn't be ignored. There are many effective treatments available that can provide relief.
 
 ## Treatment Options for Cramping Relief
 

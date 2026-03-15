@@ -20,7 +20,7 @@ Vaginal prolapse repair is a surgical procedure designed to restore the normal a
 
 Pelvic organ prolapse is a condition where pelvic organs shift out of place and drop down due to weakening of the pelvic floor muscles and supporting tissues. This condition affects approximately 33% of women, with the highest prevalence among those who have given birth vaginally.
 
-Dr. Stewart explains: "Vaginal prolapse repair offers excellent outcomes for many women with pelvic organ prolapse. The advantage of the vaginal approach is that it's minimally invasive while providing effective restoration of normal anatomy."
+Vaginal prolapse repair offers excellent outcomes for many women with pelvic organ prolapse. The advantage of the vaginal approach is that it's minimally invasive while providing effective restoration of normal anatomy.
 
 ## Types of Prolapse Addressed
 
@@ -136,7 +136,7 @@ Vaginal prolapse repair encompasses several surgical techniques:
 - **6-8 weeks**: Full recovery and return to normal activities
 - **3-6 months**: Complete healing and optimal results
 
-Dr. Stewart notes: "Recovery from vaginal prolapse repair is generally well-tolerated. Most patients are surprised by how quickly they feel improvement in their symptoms."
+Recovery from vaginal prolapse repair is generally well-tolerated. Most patients are surprised by how quickly they feel improvement in their symptoms.
 
 ## Benefits of Vaginal Approach
 
@@ -240,7 +240,7 @@ Other treatment options for pelvic organ prolapse include:
 - **Gradual return** to normal activities and exercise
 - **Long-term follow-up** to ensure continued success
 
-Dr. Stewart emphasizes: "Vaginal prolapse repair is a highly effective treatment for women with symptomatic pelvic organ prolapse. The key to success is proper patient selection, meticulous surgical technique, and comprehensive post-operative care."
+Vaginal prolapse repair is a highly effective treatment for women with symptomatic pelvic organ prolapse. The key to success is proper patient selection, meticulous surgical technique, and comprehensive post-operative care.
 
 ## Making the Decision
 

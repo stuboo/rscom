@@ -30,7 +30,7 @@ Without treatment, prolapse generally follows one of three patterns:
 - **Progresses slowly** — gradual worsening over months to years
 - **Fluctuates** — symptoms vary with activity level, time of day, and hormonal changes
 
-Dr. Stewart explains: "Prolapse isn't like cancer — it doesn't spread or become dangerous. The question isn't whether you need to treat it, but whether it's bothering you enough to want treatment."
+Prolapse isn't like cancer — it doesn't spread or become dangerous. The question isn't whether you need to treat it, but whether it's bothering you enough to want treatment.
 
 ## Potential Consequences of Untreated Prolapse
 
@@ -56,5 +56,5 @@ These complications are uncommon and almost always occur with prolapse that has 
 
 The right time for treatment is when prolapse affects your quality of life. There is no medical timeline — the decision is based on your symptoms and preferences.
 
-Dr. Stewart notes: "I see women who've had prolapse for 20 years and are doing fine with no treatment. I see others who want treatment right away. Both are reasonable. My role is to make sure you know your options and feel empowered to choose what's right for you."
+I see women who've had prolapse for 20 years and are doing fine with no treatment. I see others who want treatment right away. Both are reasonable. My role is to make sure you know your options and feel empowered to choose what's right for you.
 

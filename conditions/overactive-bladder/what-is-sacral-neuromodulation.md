@@ -27,7 +27,7 @@ Sacral neuromodulation (commonly known by the brand name InterStim) is an advanc
 
 The sacral nerves (specifically S3) carry signals between the brain and the bladder. In OAB, these signals are overactive — they tell the bladder to contract when it shouldn't. Sacral neuromodulation modulates these signals, restoring more normal communication and reducing urgency, frequency, and urge incontinence.
 
-Dr. Stewart explains: "Think of it as resetting the thermostat for your bladder. The signals telling your bladder to squeeze are set too low — the device adjusts them to a more appropriate level."
+Think of it as resetting the thermostat for your bladder. The signals telling your bladder to squeeze are set too low — the device adjusts them to a more appropriate level.
 
 ## The "Try Before You Buy" Approach
 
@@ -55,5 +55,5 @@ Sacral neuromodulation is typically recommended for women who:
 - Battery life of approximately 15 years with newer rechargeable models
 - Fully reversible — the device can be removed if desired
 
-Dr. Stewart notes: "What I love about sacral neuromodulation is the trial period. You get to experience the therapy before committing to anything permanent. If it works — and for most patients who go to trial, it does — it provides continuous, long-term relief."
+What I love about sacral neuromodulation is the trial period. You get to experience the therapy before committing to anything permanent. If it works — and for most patients who go to trial, it does — it provides continuous, long-term relief.
 

@@ -63,9 +63,9 @@ Media coverage of "mesh complications" primarily involved **transvaginal mesh fo
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "I understand why patients have concerns about mesh — the media coverage was alarming. But it's crucial to distinguish between the mesh sling for incontinence and the transvaginal mesh for prolapse. They're different products used in different ways. The midurethral sling has an outstanding safety record that I'm very comfortable with."
+I understand why patients have concerns about mesh — the media coverage was alarming. But it's crucial to distinguish between the mesh sling for incontinence and the transvaginal mesh for prolapse. They're different products used in different ways. The midurethral sling has an outstanding safety record that I'm very comfortable with.
 
-Dr. Stewart notes: "For patients who strongly prefer to avoid any synthetic material, the autologous fascial sling is an excellent alternative. The success rates are similar, though the procedure is longer and recovery involves healing the tissue harvest site."
+For patients who strongly prefer to avoid any synthetic material, the autologous fascial sling is an excellent alternative. The success rates are similar, though the procedure is longer and recovery involves healing the tissue harvest site.
 
 ## Who Is the Best Candidate for Each?
 

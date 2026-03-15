@@ -33,7 +33,7 @@ These approaches are effective, have no side effects, and can be started immedia
 - **Pelvic floor exercises** — learning to contract pelvic floor muscles to suppress urgency waves
 - **Urge suppression techniques** — stopping when urgency hits, breathing deeply, doing quick pelvic floor contractions until the urge passes
 
-Dr. Stewart explains: "Behavioral therapy is the foundation of OAB treatment. Even patients who eventually need medication or procedures benefit from these strategies. I find that many women underestimate how effective these changes can be."
+Behavioral therapy is the foundation of OAB treatment. Even patients who eventually need medication or procedures benefit from these strategies. I find that many women underestimate how effective these changes can be.
 
 ## Second Line: Medications
 
@@ -52,5 +52,5 @@ For women who don't get adequate relief from behavioral therapy and medications:
 - **Sacral neuromodulation** — a small device implanted near the tailbone that modulates nerve signals controlling the bladder. Tested with a trial period before permanent placement
 - **Tibial nerve stimulation** — gentle electrical stimulation of the tibial nerve (at the ankle), performed in the office weekly for 12 weeks, then monthly for maintenance
 
-Dr. Stewart notes: "I walk patients through each option, explaining what to expect and what the evidence shows. The decision is always shared — your preferences and lifestyle matter just as much as the clinical data."
+I walk patients through each option, explaining what to expect and what the evidence shows. The decision is always shared — your preferences and lifestyle matter just as much as the clinical data.
 

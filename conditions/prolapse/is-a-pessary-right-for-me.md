@@ -32,7 +32,7 @@ Pessaries are an excellent option for women who:
 - **Want immediate relief** — a pessary works the day it's fitted
 - **Have mild to moderate prolapse** — though they can work for advanced prolapse too
 
-Dr. Stewart explains: "I offer a pessary to almost every prolapse patient as a first option. There's no downside to trying — if it works, you've avoided surgery entirely. If it doesn't, surgery is still available."
+I offer a pessary to almost every prolapse patient as a first option. There's no downside to trying — if it works, you've avoided surgery entirely. If it doesn't, surgery is still available.
 
 ## What to Expect at a Fitting
 
@@ -71,5 +71,5 @@ Pessaries are less suitable for women who:
 - Have significant vaginal narrowing or shortening
 - Prefer a definitive, one-time solution
 
-Dr. Stewart notes: "Some of my happiest patients are pessary users. They get relief without surgery, without recovery time, and without risk. It's not the right choice for everyone, but it deserves serious consideration."
+Some of my happiest patients are pessary users. They get relief without surgery, without recovery time, and without risk. It's not the right choice for everyone, but it deserves serious consideration.
 

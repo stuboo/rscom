@@ -58,9 +58,9 @@ Bulking agents are injectable materials placed around the urethra to improve its
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "The sling is my recommendation when a patient wants the most effective, durable solution. But bulking agents have an important role — they're ideal for women who aren't good surgical candidates, who have mild symptoms, or who want to try something less invasive first."
+The sling is my recommendation when a patient wants the most effective, durable solution. But bulking agents have an important role — they're ideal for women who aren't good surgical candidates, who have mild symptoms, or who want to try something less invasive first.
 
-Dr. Stewart notes: "I always present both options honestly. The sling has a higher success rate, but it's a surgical procedure. Bulking agents can be done in the office with virtually no downtime. Your priorities help determine which is right."
+I always present both options honestly. The sling has a higher success rate, but it's a surgical procedure. Bulking agents can be done in the office with virtually no downtime. Your priorities help determine which is right.
 
 ## Who Is the Best Candidate for Each?
 

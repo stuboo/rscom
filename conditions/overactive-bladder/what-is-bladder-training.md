@@ -27,7 +27,7 @@ Bladder training is a **behavioral technique** that gradually teaches your bladd
 
 When you have OAB, your bladder has essentially learned bad habits — sending urgency signals too early and too often. Bladder training reverses this by gradually extending the time between bathroom visits, teaching your bladder to tolerate larger volumes of urine comfortably.
 
-Dr. Stewart explains: "Your bladder is a muscle that can be retrained, much like any other muscle. When you've been going to the bathroom every hour 'just in case,' your bladder adapts to that small volume. Bladder training gradually convinces it to hold more."
+Your bladder is a muscle that can be retrained, much like any other muscle. When you've been going to the bathroom every hour 'just in case,' your bladder adapts to that small volume. Bladder training gradually convinces it to hold more.
 
 ## The Process
 
@@ -58,5 +58,5 @@ Bladder training works on multiple levels:
 - **Builds confidence** — proving to yourself that you can wait reduces anxiety
 - **Breaks the cycle** — frequent voiding reinforces OAB; extending intervals reverses it
 
-Dr. Stewart notes: "Bladder training requires patience, but the results are worth it. I've seen patients go from 15 bathroom trips a day to 6-7, all without medication. That's a life-changing difference."
+Bladder training requires patience, but the results are worth it. I've seen patients go from 15 bathroom trips a day to 6-7, all without medication. That's a life-changing difference.
 

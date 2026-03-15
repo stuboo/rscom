@@ -61,9 +61,9 @@ Botox (onabotulinumtoxinA) is injected into the bladder muscle during a brief of
 
 ## Dr. Stewart's Perspective
 
-Dr. Stewart explains: "Both SNM and Botox are excellent treatments for OAB that hasn't responded to medications. The decision often comes down to lifestyle preferences. Some women prefer the 'set it and forget it' nature of SNM. Others prefer Botox because there's no implant and they're comfortable with periodic office visits."
+Both SNM and Botox are excellent treatments for OAB that hasn't responded to medications. The decision often comes down to lifestyle preferences. Some women prefer the 'set it and forget it' nature of SNM. Others prefer Botox because there's no implant and they're comfortable with periodic office visits.
 
-Dr. Stewart notes: "What I appreciate about SNM is the trial period — you get to experience the therapy for two weeks before deciding on the permanent implant. And with Botox, if you don't like it, you simply don't repeat the injection. Both options give you an exit ramp."
+What I appreciate about SNM is the trial period — you get to experience the therapy for two weeks before deciding on the permanent implant. And with Botox, if you don't like it, you simply don't repeat the injection. Both options give you an exit ramp.
 
 ## Who Is the Best Candidate for Each?
 

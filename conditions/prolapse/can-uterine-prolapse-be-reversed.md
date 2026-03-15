@@ -24,7 +24,7 @@ When we talk about reversing uterine prolapse, it's important to understand what
 - **Symptom reversal**: Eliminating or significantly reducing symptoms
 - **Functional reversal**: Restoring normal pelvic function
 
-Dr. Stewart explains: "While we may not always achieve perfect anatomical restoration, we can often dramatically improve symptoms and quality of life. The goal is to help you feel normal again."
+While we may not always achieve perfect anatomical restoration, we can often dramatically improve symptoms and quality of life. The goal is to help you feel normal again.
 
 ## Treatment Success by Prolapse Severity
 
@@ -44,7 +44,7 @@ For early-stage prolapse, **conservative treatments can be highly effective**:
 - **Addresses contributing factors** like posture and breathing
 - **Can significantly improve symptoms** in mild to moderate cases
 
-Dr. Stewart notes: "Physical therapy is often underutilized but can be remarkably effective. A specialized pelvic floor therapist can make a tremendous difference."
+Physical therapy is often underutilized but can be remarkably effective. A specialized pelvic floor therapist can make a tremendous difference.
 
 ### Advanced Prolapse
 
@@ -95,7 +95,7 @@ For more severe prolapse, **other treatments become necessary**:
 - **Proper lifting techniques** to protect pelvic floor
 - **Smoking cessation** to reduce chronic coughing
 
-Dr. Stewart emphasizes: "The key to success with conservative treatment is early intervention and consistency. The longer you wait, the more challenging it becomes to achieve reversal."
+The key to success with conservative treatment is early intervention and consistency. The longer you wait, the more challenging it becomes to achieve reversal.
 
 ## When Surgery Becomes Necessary
 
@@ -195,7 +195,7 @@ Even if complete reversal isn't possible, **treatment can prevent worsening**:
 - **Staged treatment approach** starting with conservative options
 - **Regular monitoring** to assess progress
 
-Dr. Stewart concludes: "While we can't promise complete reversal in every case, we can almost always significantly improve symptoms and quality of life. The key is finding the right treatment approach for your individual situation."
+While we can't promise complete reversal in every case, we can almost always significantly improve symptoms and quality of life. The key is finding the right treatment approach for your individual situation.
 
 ## The Bottom Line
 

@@ -26,7 +26,7 @@ Sacral neuromodulation involves implanting a small device that sends mild electr
 - Medtronic InterStim™ System
 - Axonics® Sacral Neuromodulation System
 
-Dr. Stewart says: "Sacral neuromodulation can be a game-changer for patients with refractory overactive bladder or urge incontinence. The ability to test the therapy before committing to the implant is a significant advantage."
+Sacral neuromodulation can be a game-changer for patients with refractory overactive bladder or urge incontinence. The ability to test the therapy before committing to the implant is a significant advantage.
 
 ## 2. Percutaneous Tibial Nerve Stimulation (PTNS)
 
@@ -42,7 +42,7 @@ PTNS is a non-surgical, office-based treatment that stimulates the tibial nerve 
 - Medtronic NURO™ System
 - Laborie Urgent® PC
 
-Dr. Stewart says: "PTNS is an excellent option for patients who want to try neuromodulation without surgery. It requires a time commitment for the treatments, but many patients find significant relief with minimal risk."
+PTNS is an excellent option for patients who want to try neuromodulation without surgery. It requires a time commitment for the treatments, but many patients find significant relief with minimal risk.
 
 ## 3. Implanted Tibial Nerve Stimulation
 
@@ -58,7 +58,7 @@ This newer form of neuromodulation involves a small implanted device that stimul
 - BlueWind Revi™ System
 - Valencia Technologies eCoin®
 
-Dr. Stewart says: "Implanted tibial nerve stimulation offers an interesting middle ground between PTNS and sacral neuromodulation. It provides continuous therapy like SNM but with a less invasive procedure. It's an exciting new option in our neuromodulation toolkit."
+Implanted tibial nerve stimulation offers an interesting middle ground between PTNS and sacral neuromodulation. It provides continuous therapy like SNM but with a less invasive procedure. It's an exciting new option in our neuromodulation toolkit.
 
 ## Choosing the Right Neuromodulation Therapy
 

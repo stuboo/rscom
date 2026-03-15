@@ -30,11 +30,11 @@ Yes — many women first discover prolapse by feeling a bulge at or near the vag
 - A bulge that may reduce or disappear when you lie down
 - Something that feels different from what you're used to
 
-Dr. Stewart explains: "Many of my patients tell me they discovered their prolapse in the shower or while inserting a tampon. Feeling a bulge doesn't mean it's severe or requires immediate surgery — it simply means it's time for an evaluation so we can determine the type and degree of prolapse."
+Many of my patients tell me they discovered their prolapse in the shower or while inserting a tampon. Feeling a bulge doesn't mean it's severe or requires immediate surgery — it simply means it's time for an evaluation so we can determine the type and degree of prolapse.
 
 ## When to See a Doctor
 
 If you feel a bulge that's new, growing, or causing symptoms (pressure, difficulty with bladder or bowel function, discomfort), schedule an evaluation. Prolapse isn't an emergency, but getting a baseline assessment helps guide appropriate monitoring or treatment.
 
-Dr. Stewart notes: "I never want a patient to feel embarrassed about noticing changes in her body. Being aware of your anatomy is a good thing — it helps you seek care early when effective treatment is most straightforward."
+I never want a patient to feel embarrassed about noticing changes in her body. Being aware of your anatomy is a good thing — it helps you seek care early when effective treatment is most straightforward.
 

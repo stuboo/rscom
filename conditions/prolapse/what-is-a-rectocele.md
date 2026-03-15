@@ -27,7 +27,7 @@ A rectocele occurs when the wall between the rectum and vagina weakens, allowing
 
 The back wall of the vagina separates the vaginal canal from the rectum. Childbirth, aging, chronic constipation, and heavy lifting can weaken this wall, allowing the rectum to push forward into the vaginal space.
 
-Dr. Stewart explains: "Rectoceles are more common than most women realize. They often develop gradually and may not cause symptoms until they reach a certain size. The hallmark symptom is difficulty completing a bowel movement."
+Rectoceles are more common than most women realize. They often develop gradually and may not cause symptoms until they reach a certain size. The hallmark symptom is difficulty completing a bowel movement.
 
 ## Symptoms
 
@@ -44,5 +44,5 @@ Dr. Stewart explains: "Rectoceles are more common than most women realize. They 
 - **Pessary** — supports the back vaginal wall
 - **Surgical repair** — posterior colporrhaphy (back wall repair)
 
-Dr. Stewart notes: "Many women with rectoceles have been struggling with constipation for years without realizing there's a structural cause. Once we identify the rectocele, treatment can be very effective."
+Many women with rectoceles have been struggling with constipation for years without realizing there's a structural cause. Once we identify the rectocele, treatment can be very effective.
 

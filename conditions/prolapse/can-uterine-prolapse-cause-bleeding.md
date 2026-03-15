@@ -21,7 +21,7 @@ This is an important question that many women have when they notice vaginal blee
 
 **Uterine prolapse itself rarely causes vaginal bleeding.** While prolapse can cause many uncomfortable symptoms, bleeding is not typically one of them.
 
-Dr. Stewart explains: "It's important to understand that bleeding and prolapse, while they may occur together, usually have different causes. We never want to assume bleeding is just from prolapse without proper evaluation."
+It's important to understand that bleeding and prolapse, while they may occur together, usually have different causes. We never want to assume bleeding is just from prolapse without proper evaluation.
 
 ## Typical Prolapse Symptoms (Not Including Bleeding)
 
@@ -56,7 +56,7 @@ In very specific situations, prolapse may be associated with bleeding:
 - **Small ulcers** that may bleed lightly
 - **Infection** of exposed tissue
 
-Dr. Stewart notes: "Even in severe cases, significant bleeding from prolapse alone is uncommon. Any bleeding should be properly evaluated to determine the actual cause."
+Even in severe cases, significant bleeding from prolapse alone is uncommon. Any bleeding should be properly evaluated to determine the actual cause.
 
 ## Important Warning Signs
 
@@ -139,7 +139,7 @@ Your healthcare provider may recommend:
 - **Hysteroscopy** to look inside the uterus
 - **Additional imaging** if needed
 
-Dr. Stewart emphasizes: "We take all vaginal bleeding seriously, regardless of whether prolapse is present. Proper evaluation ensures we don't miss anything important."
+We take all vaginal bleeding seriously, regardless of whether prolapse is present. Proper evaluation ensures we don't miss anything important.
 
 ## Treatment Considerations
 

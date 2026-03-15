@@ -44,7 +44,7 @@ If you have overactive bladder, you've probably noticed that certain situations 
 - **Sudden position changes** — standing up quickly
 - **Physical activity** — walking, transitioning between activities
 
-Dr. Stewart explains: "Many patients are relieved to learn that these triggers are real and recognized — they're not imagining things. The brain and bladder communicate constantly, and certain inputs can send the wrong signals. The good news is that we can retrain those pathways."
+Many patients are relieved to learn that these triggers are real and recognized — they're not imagining things. The brain and bladder communicate constantly, and certain inputs can send the wrong signals. The good news is that we can retrain those pathways.
 
 ## Managing Your Triggers
 
@@ -53,5 +53,5 @@ Dr. Stewart explains: "Many patients are relieved to learn that these triggers a
 - **Practice urge suppression** — when a trigger hits, stop, breathe, and do 5 quick pelvic floor contractions. The urge usually passes within 30-60 seconds
 - **Bladder training** — gradually increasing time between bathroom visits weakens the trigger-response cycle
 
-Dr. Stewart notes: "Trigger management is one of the most empowering aspects of OAB treatment. When you understand what's happening and have strategies to respond, you regain a sense of control over your bladder."
+Trigger management is one of the most empowering aspects of OAB treatment. When you understand what's happening and have strategies to respond, you regain a sense of control over your bladder.
 

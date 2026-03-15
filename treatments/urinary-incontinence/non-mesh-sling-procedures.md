@@ -23,7 +23,7 @@ Non-mesh sling procedures involve creating a supportive "hammock" under the uret
 - **Fascia lata**: Tissue from the thigh
 - **Vaginal wall tissue**: In some cases
 
-Dr. Stewart explains: "Non-mesh slings offer excellent long-term results for stress incontinence while eliminating concerns about synthetic materials. They're particularly valuable for patients who want to avoid mesh or have had previous mesh complications."
+Non-mesh slings offer excellent long-term results for stress incontinence while eliminating concerns about synthetic materials. They're particularly valuable for patients who want to avoid mesh or have had previous mesh complications.
 
 ## How Non-Mesh Slings Work
 
@@ -78,7 +78,7 @@ The procedure works by:
 - **Customizable**: Can be tailored to individual anatomy
 - **No contraindications**: Safe for most patients
 
-Dr. Stewart notes: "Non-mesh slings have stood the test of time. They offer predictable, durable results and are particularly valuable for patients who want to avoid synthetic materials."
+Non-mesh slings have stood the test of time. They offer predictable, durable results and are particularly valuable for patients who want to avoid synthetic materials.
 
 ## Recovery and Expectations
 
@@ -150,7 +150,7 @@ Non-mesh sling procedures have excellent success rates:
 - **Patient satisfaction**: High satisfaction scores
 - **Quality of life**: Significant improvement in quality of life
 
-Dr. Stewart emphasizes: "Non-mesh slings remain the gold standard for patients who want to avoid synthetic materials. The long-term results are excellent, and patient satisfaction is very high."
+Non-mesh slings remain the gold standard for patients who want to avoid synthetic materials. The long-term results are excellent, and patient satisfaction is very high.
 
 ## Making the Decision
 

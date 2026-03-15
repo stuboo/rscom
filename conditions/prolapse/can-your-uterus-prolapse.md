@@ -20,7 +20,7 @@ Yes, your uterus can prolapse, and it's more common than many women realize. Ute
 
 Uterine prolapse occurs when **the supporting structures of the pelvic floor weaken over time**, allowing the uterus and upper vagina to move toward the vaginal opening. This condition can range from very mild cases that cause no symptoms to more severe cases that significantly impact daily life.
 
-Dr. Stewart explains: "Uterine prolapse is a common condition that can affect women of any age, though it's most frequently seen in women who have had children or are postmenopausal. The important thing to know is that it's treatable."
+Uterine prolapse is a common condition that can affect women of any age, though it's most frequently seen in women who have had children or are postmenopausal. The important thing to know is that it's treatable.
 
 ## Who Can Experience Uterine Prolapse?
 
@@ -84,7 +84,7 @@ As prolapse progresses, symptoms may include:
 ### Individual Variation
 **Important to note**: Some women with significant anatomical changes experience minimal symptoms, while others with mild prolapse may have bothersome symptoms.
 
-Dr. Stewart notes: "The degree of prolapse doesn't always correlate with symptom severity. This is why individual evaluation and personalized treatment plans are so important."
+The degree of prolapse doesn't always correlate with symptom severity. This is why individual evaluation and personalized treatment plans are so important.
 
 ## Types of Uterine Prolapse
 
@@ -167,7 +167,7 @@ During evaluation:
 - **Discussion of treatment options** based on your individual needs
 - **Development of a personalized plan** that meets your goals
 
-Dr. Stewart emphasizes: "The sooner you seek evaluation, the more treatment options you typically have. Early intervention can often prevent progression and maintain your quality of life."
+The sooner you seek evaluation, the more treatment options you typically have. Early intervention can often prevent progression and maintain your quality of life.
 
 ## Living with the Knowledge
 

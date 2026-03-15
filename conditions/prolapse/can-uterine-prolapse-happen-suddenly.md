@@ -25,7 +25,7 @@ Most uterine prolapse develops through:
 - **Slowly increasing symptoms** that may initially be subtle
 - **Often unnoticeable** changes in early stages
 
-Dr. Stewart explains: "Uterine prolapse is usually a gradual process. Think of it like a slow leak in a tire - the changes happen incrementally, and you may not notice them until they become more significant."
+Uterine prolapse is usually a gradual process. Think of it like a slow leak in a tire - the changes happen incrementally, and you may not notice them until they become more significant.
 
 ### Why It's Often Unnoticed Initially
 - **Mild prolapse** may cause no symptoms at all
@@ -56,7 +56,7 @@ While the prolapse itself developed gradually, you might suddenly notice it afte
 - **Hormonal changes** from medical treatments
 - **Other medical conditions** impacting pelvic floor
 
-Dr. Stewart notes: "What patients often experience as 'sudden' prolapse is usually the sudden awareness of a condition that has been developing gradually. A triggering event makes them notice what was already there."
+What patients often experience as 'sudden' prolapse is usually the sudden awareness of a condition that has been developing gradually. A triggering event makes them notice what was already there.
 
 ## True Sudden Onset Scenarios
 
@@ -153,7 +153,7 @@ Signs that symptoms are worsening:
 - **New symptoms** appearing
 - **Greater impact** on daily activities
 
-Dr. Stewart emphasizes: "The key is paying attention to your body. Even subtle changes that persist deserve evaluation, especially if you have risk factors for prolapse."
+The key is paying attention to your body. Even subtle changes that persist deserve evaluation, especially if you have risk factors for prolapse.
 
 ## The Importance of Not Delaying Care
 

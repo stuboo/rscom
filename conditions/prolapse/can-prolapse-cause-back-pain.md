@@ -30,11 +30,11 @@ Prolapse can contribute to low back discomfort through:
 - **Postural compensation** — women with prolapse may unconsciously change their posture or movement patterns, leading to back strain
 - **Pelvic floor dysfunction** — the pelvic floor works closely with the core and back muscles. Weakness in one area affects the others
 
-Dr. Stewart explains: "Back pain with prolapse is usually more of a dragging or aching sensation in the low back, different from typical back pain. It tends to worsen through the day and improve when lying down — which matches the pattern of prolapse symptoms."
+Back pain with prolapse is usually more of a dragging or aching sensation in the low back, different from typical back pain. It tends to worsen through the day and improve when lying down — which matches the pattern of prolapse symptoms.
 
 ## When to Seek Help
 
 If you have low back pain along with pelvic pressure, vaginal bulging, or bladder/bowel changes, it's worth getting evaluated for prolapse. Treating the prolapse often helps the back symptoms too.
 
-Dr. Stewart notes: "I always ask about back pain when evaluating prolapse. When we support the prolapsed organs — whether with a pessary or surgery — many women tell me their back pain improves as well."
+I always ask about back pain when evaluating prolapse. When we support the prolapsed organs — whether with a pessary or surgery — many women tell me their back pain improves as well.
 

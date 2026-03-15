@@ -34,7 +34,7 @@ Caffeine impacts the bladder in multiple ways:
 
 This triple effect — more urine, more contractions, and more sensitivity — is why caffeine is often the first thing urogynecologists ask about.
 
-Dr. Stewart explains: "When I see a patient with OAB who's drinking three cups of coffee a day, I know we have a quick win available. Reducing caffeine doesn't fix everything, but it often reduces the number and intensity of urgency episodes noticeably within the first week."
+When I see a patient with OAB who's drinking three cups of coffee a day, I know we have a quick win available. Reducing caffeine doesn't fix everything, but it often reduces the number and intensity of urgency episodes noticeably within the first week.
 
 ## Where Caffeine Hides
 
@@ -58,5 +58,5 @@ You don't have to quit cold turkey (and doing so can cause headaches). Instead:
 - **Consider timing** — having caffeine earlier in the day may reduce nighttime symptoms
 - **Substitute thoughtfully** — herbal tea, water with fruit, or warm water with lemon
 
-Dr. Stewart notes: "I never ask patients to eliminate everything they enjoy. But caffeine is one of those triggers where a small change can make a meaningful difference. I suggest trying two weeks with reduced caffeine and seeing how you feel."
+I never ask patients to eliminate everything they enjoy. But caffeine is one of those triggers where a small change can make a meaningful difference. I suggest trying two weeks with reduced caffeine and seeing how you feel.
 

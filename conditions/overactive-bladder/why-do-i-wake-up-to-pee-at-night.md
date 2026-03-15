@@ -37,7 +37,7 @@ Nocturia can have several contributing factors, sometimes more than one at once:
 
 **Medications** — some blood pressure and heart medications are diuretics that increase urine production.
 
-Dr. Stewart explains: "Nocturia is often multifactorial — it's not just one thing. That's actually good news, because addressing even one contributing factor can significantly reduce nighttime trips."
+Nocturia is often multifactorial — it's not just one thing. That's actually good news, because addressing even one contributing factor can significantly reduce nighttime trips.
 
 ## What You Can Do
 
@@ -53,5 +53,5 @@ Dr. Stewart explains: "Nocturia is often multifactorial — it's not just one th
 - You also have urgency, frequency, or leaking during the day
 - Simple fluid management changes haven't helped
 
-Dr. Stewart notes: "Sleep disruption from nocturia has real consequences — fatigue, mood changes, difficulty concentrating. When I help a patient reduce their nighttime trips from four to one, they often tell me they feel like a different person because they're finally sleeping through the night."
+Sleep disruption from nocturia has real consequences — fatigue, mood changes, difficulty concentrating. When I help a patient reduce their nighttime trips from four to one, they often tell me they feel like a different person because they're finally sleeping through the night.
 

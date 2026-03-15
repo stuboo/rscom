@@ -27,7 +27,7 @@ An enterocele is a type of pelvic organ prolapse where the small intestine pushe
 
 The space between the vagina and rectum (the cul-de-sac or pouch of Douglas) is normally a closed space. When the tissue separating the vaginal wall from this space weakens — often after hysterectomy — the small intestine can herniate into it.
 
-Dr. Stewart explains: "Enteroceles are most common after hysterectomy, when the support at the top of the vagina is disrupted. They often occur alongside vaginal vault prolapse."
+Enteroceles are most common after hysterectomy, when the support at the top of the vagina is disrupted. They often occur alongside vaginal vault prolapse.
 
 ## Symptoms
 
@@ -41,5 +41,5 @@ Dr. Stewart explains: "Enteroceles are most common after hysterectomy, when the 
 - **Pessary** — supports the vaginal vault and reduces herniation
 - **Surgical repair** — often addressed during a larger prolapse repair, closing the defect and reinforcing the area
 
-Dr. Stewart notes: "Enteroceles rarely occur in isolation. They're usually part of a bigger picture of pelvic support loss, and we address them as part of a comprehensive prolapse repair."
+Enteroceles rarely occur in isolation. They're usually part of a bigger picture of pelvic support loss, and we address them as part of a comprehensive prolapse repair.
 

@@ -32,7 +32,7 @@ faq:
 - **Stress incontinence** — leaking triggered by physical pressure (coughing, sneezing)
 - **Mixed incontinence** — a combination of both
 
-Dr. Stewart explains: "I find that many patients use the terms interchangeably, which is completely understandable. The distinction matters clinically because the treatments are quite different. Knowing which condition — or combination — you have helps us choose the right approach."
+I find that many patients use the terms interchangeably, which is completely understandable. The distinction matters clinically because the treatments are quite different. Knowing which condition — or combination — you have helps us choose the right approach.
 
 ## Why It Matters
 
@@ -44,5 +44,5 @@ The treatment approach depends on which condition you have:
 
 If you have both — which is common — we address each component with targeted treatments.
 
-Dr. Stewart notes: "A thorough evaluation helps us sort out exactly what's going on. Once we understand the picture, we can create a treatment plan that addresses your specific symptoms rather than taking a one-size-fits-all approach."
+A thorough evaluation helps us sort out exactly what's going on. Once we understand the picture, we can create a treatment plan that addresses your specific symptoms rather than taking a one-size-fits-all approach.
 

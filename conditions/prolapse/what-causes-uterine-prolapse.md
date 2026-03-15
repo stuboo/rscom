@@ -21,7 +21,7 @@ Uterine prolapse occurs when the tissues and muscles supporting the uterus and u
 
 Uterine prolapse is essentially **a hernia of the pelvic organs**. When the supporting tissues deteriorate over time, they become unable to support the weight of the uterus and the upper vagina, which allows these organs to move toward the vaginal opening.
 
-Dr. Stewart explains: "Think of the pelvic floor as a hammock that supports your pelvic organs. When this support system weakens, gravity takes over and organs can descend."
+Think of the pelvic floor as a hammock that supports your pelvic organs. When this support system weakens, gravity takes over and organs can descend.
 
 ## Primary Risk Factors
 
@@ -36,7 +36,7 @@ Dr. Stewart explains: "Think of the pelvic floor as a hammock that supports your
 - **Large babies** or prolonged labor can cause more tissue damage
 - **Traumatic deliveries** with instruments (forceps, vacuum) increase risk
 
-Dr. Stewart notes: "While vaginal delivery is a major risk factor, it's important to remember that many women who have had children never develop prolapse. The body is remarkably resilient."
+While vaginal delivery is a major risk factor, it's important to remember that many women who have had children never develop prolapse. The body is remarkably resilient.
 
 ### Smoking
 - **Chronic coughing** from smoking increases abdominal pressure
@@ -134,7 +134,7 @@ Consider evaluation if you have:
 - Changes in bladder or bowel function
 - Concerns about your pelvic floor health
 
-Dr. Stewart emphasizes: "Understanding your risk factors empowers you to take preventive action. Even if you have multiple risk factors, there are many things we can do to maintain your pelvic health."
+Understanding your risk factors empowers you to take preventive action. Even if you have multiple risk factors, there are many things we can do to maintain your pelvic health.
 
 ## The Bottom Line
 

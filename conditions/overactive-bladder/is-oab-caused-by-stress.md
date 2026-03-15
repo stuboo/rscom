@@ -32,7 +32,7 @@ Your bladder is controlled by the autonomic nervous system — the same system t
 - Muscle tension in the pelvic floor can worsen symptoms
 - Anxiety about finding a bathroom creates a self-reinforcing cycle
 
-Dr. Stewart explains: "I think of it as the volume knob on bladder signals. When you're calm and relaxed, the volume is at a manageable level. When you're stressed, it gets turned up — the same bladder sensations feel more urgent and harder to ignore."
+I think of it as the volume knob on bladder signals. When you're calm and relaxed, the volume is at a manageable level. When you're stressed, it gets turned up — the same bladder sensations feel more urgent and harder to ignore.
 
 ## The Vicious Cycle
 
@@ -57,5 +57,5 @@ Breaking this cycle requires addressing both the bladder and the emotional compo
 
 **The combination** is often more effective than addressing either one alone.
 
-Dr. Stewart notes: "When I see a patient whose symptoms are clearly worse during stressful periods, I make sure we address that component alongside the bladder treatment. A calm nervous system supports a calm bladder."
+When I see a patient whose symptoms are clearly worse during stressful periods, I make sure we address that component alongside the bladder treatment. A calm nervous system supports a calm bladder.
 

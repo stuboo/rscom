@@ -27,7 +27,7 @@ A cystocele — commonly called a "dropped bladder" or "bladder prolapse" — oc
 
 The front wall of the vagina supports the bladder. When this support weakens — from childbirth, aging, hormonal changes, or chronic straining — the bladder can push downward into the vagina. You may feel pressure, fullness, or notice a bulge at the vaginal opening.
 
-Dr. Stewart explains: "A cystocele is essentially the bladder losing its backstop. The vaginal wall that normally holds it in place stretches and thins, and the bladder gradually descends. The good news is we have excellent options to restore that support."
+A cystocele is essentially the bladder losing its backstop. The vaginal wall that normally holds it in place stretches and thins, and the bladder gradually descends. The good news is we have excellent options to restore that support.
 
 ## Symptoms
 
@@ -44,5 +44,5 @@ Dr. Stewart explains: "A cystocele is essentially the bladder losing its backsto
 - **Surgical repair** — anterior colporrhaphy (front vaginal wall repair) or more extensive reconstructive surgery
 - **Vaginal estrogen** — helps maintain tissue health, especially after menopause
 
-Dr. Stewart notes: "Not every cystocele needs treatment. If it's not bothering you, we can simply monitor it. But if it's affecting your quality of life, we have a range of effective solutions."
+Not every cystocele needs treatment. If it's not bothering you, we can simply monitor it. But if it's affecting your quality of life, we have a range of effective solutions.
 

@@ -27,7 +27,7 @@ Overactive bladder is best thought of as a condition that can be **very effectiv
 
 OAB involves the way your bladder muscle and nervous system communicate. Unlike a broken bone that heals or an infection that clears, the underlying tendency toward involuntary bladder contractions may persist. However, treatments can reduce or eliminate the symptoms so effectively that the distinction between "managed" and "cured" becomes largely academic.
 
-Dr. Stewart explains: "I tell my patients that the goal isn't a perfect bladder — it's a bladder that doesn't run your life. Most women reach that goal. Some achieve complete resolution of symptoms, while others have occasional urgency that's mild and manageable."
+I tell my patients that the goal isn't a perfect bladder — it's a bladder that doesn't run your life. Most women reach that goal. Some achieve complete resolution of symptoms, while others have occasional urgency that's mild and manageable.
 
 ## The Treatment Spectrum
 
@@ -51,5 +51,5 @@ Treatments build on each other, moving from simple to more advanced:
 
 The overall picture is encouraging. Studies show that 60-80% of women experience significant improvement with first-line treatments, and those who need escalation to advanced therapies see high success rates as well.
 
-Dr. Stewart notes: "I've rarely met a patient whose OAB I couldn't meaningfully improve. The key is patience and willingness to work through the treatment options systematically. We almost always find something that works."
+I've rarely met a patient whose OAB I couldn't meaningfully improve. The key is patience and willingness to work through the treatment options systematically. We almost always find something that works.
 
