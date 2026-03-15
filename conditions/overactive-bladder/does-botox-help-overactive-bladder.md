@@ -51,11 +51,15 @@ Most women describe the discomfort as mild — less than they expected. You can 
 - **Peak effect**: Reached by 4-6 weeks
 - **Duration**: Effects typically last 6-9 months
 - **Repeat treatments**: When symptoms return, Botox can be re-injected
-- **Success rate**: 60-80% of patients experience significant improvement
+- **Success rate**: In the largest trial of Botox for OAB, 83% of patients achieved a greater than 50% reduction in urgency incontinence episodes at one month
 
 ## Considerations
 
 The main potential side effect is **temporary difficulty emptying the bladder**, which occurs in about 5-10% of patients. This typically resolves on its own as the Botox gradually wears off. Your doctor will check your bladder emptying after the procedure.
 
 I discuss all the pros and cons before recommending Botox. For the right patient, it offers dramatic improvement with minimal disruption to daily life. The brief office procedure is well worth it for the months of relief that follow.
+
+## References
+
+- Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs sacral neuromodulation on refractory urgency urinary incontinence in women: a randomized clinical trial. *JAMA*. 2016;316(13):1366-1374. PMID: 27701661
 
