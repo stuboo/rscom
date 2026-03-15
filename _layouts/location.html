@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% assign city = nil %}
+{% for loc in site.data.locations %}
+  {% if loc.slug == page.location_slug %}
+    {% assign city = loc %}
+  {% endif %}
+{% endfor %}
+
+{% assign condition = nil %}
+{% for cond in site.data.conditions_seo %}
+  {% if cond.slug == page.condition_slug %}
+    {% assign condition = cond %}
+  {% endif %}
+{% endfor %}
+
+{% include physician-schema.html %}
+{% include medical-page-schema.html condition_name=condition.name %}
+{% include faq-schema-jsonld.html %}
+
+{% include author-card.html %}
+
+{{ content }}
+
+{% include testimonial-snippet.html index=page.testimonial_index %}
+
+{% include location-cta.html city=city %}
+
+{% if page.faq %}
+{% include faq-schema-content.html %}
+{% endif %}

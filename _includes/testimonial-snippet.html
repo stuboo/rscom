@@ -1,0 +1,8 @@
+{% assign testimonials = site.data.testimonials %}
+{% assign snippet = testimonials[include.index | default: 0] %}
+{% if snippet %}
+<blockquote style="border-left: 4px solid #2869e6; padding: 0.75rem 1rem; margin: 1.5rem 0; background: #f8f9fa; border-radius: 0 8px 8px 0;">
+  <p style="margin: 0; font-style: italic;">"{{ snippet.quote }}"</p>
+  {% if snippet.context %}<cite style="display: block; margin-top: 0.5rem; color: #666; font-size: 0.9em;">— {{ snippet.context }}</cite>{% endif %}
+</blockquote>
+{% endif %}

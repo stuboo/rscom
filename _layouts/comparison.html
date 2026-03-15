@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+{% include physician-schema.html %}
+{% include medical-page-schema.html %}
+{% include faq-schema-jsonld.html %}
+
+{% include author-card.html %}
+
+{{ content }}
+
+{% include testimonial-snippet.html index=page.testimonial_index %}
+
+{% if page.faq %}
+{% include faq-schema-content.html %}
+{% endif %}

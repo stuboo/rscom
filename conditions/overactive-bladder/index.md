@@ -3,6 +3,7 @@ layout: page
 title: Overactive Bladder
 parent: Conditions
 nav_order: 3_
+has_children: true
 description: "Overactive Bladder"
 permalink: /conditions/overactive-bladder
 faq:
