@@ -6,6 +6,8 @@ author: Dr. Ryan Stewart
 categories: 
   - Pelvic Health
   - Physical Therapy
+redirect_from:
+  - /pelvic%20health/physical%20therapy/2024/10/15/pelvic-floor-physical-therapy-more-than-kegels
 tags:
   - pelvic floor
   - physical therapy

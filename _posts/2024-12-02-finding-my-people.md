@@ -7,6 +7,8 @@ categories:
   - Career
   - Urogynecology
   - WhoAmI
+redirect_from:
+  - /career/urogynecology/whoami/2024/12/02/finding-my-people
 tags:
   - calling
   - urogynecology

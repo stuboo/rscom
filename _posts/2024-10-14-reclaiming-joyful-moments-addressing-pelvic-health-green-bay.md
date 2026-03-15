@@ -4,7 +4,9 @@ layout: post
 date: 2024-10-14
 categories: [Pelvic Health, Urogynecology, Women's Health]
 nav_exclude: true
-permalink: 
+description: "Don't let urinary incontinence keep you from Lambeau Field. Learn how Dr. Stewart helps Green Bay women reclaim life's joyful moments."
+redirect_from:
+  - /pelvic%20health/urogynecology/women's%20health/2024/10/14/reclaiming-joyful-moments-addressing-pelvic-health-green-bay
 ---
 
 # Reclaiming Joyful Moments: Addressing Pelvic Health Concerns in Green Bay

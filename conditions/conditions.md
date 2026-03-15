@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conditions
+description: "Learn about pelvic floor conditions treated by Dr. Ryan Stewart in Green Bay, WI, including prolapse, incontinence, and overactive bladder."
 nav_order: 2
 has_children: true
 permalink: conditions
