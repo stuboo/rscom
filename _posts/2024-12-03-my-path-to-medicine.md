@@ -6,6 +6,8 @@ author: Dr. Ryan Stewart
 categories: 
   - Personal Reflections
   - Career Journey
+redirect_from:
+  - /personal%20reflections/career%20journey/2024/12/03/my-path-to-medicine
 tags:
   - medicine
   - career journey

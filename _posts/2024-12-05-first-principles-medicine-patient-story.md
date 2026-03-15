@@ -6,6 +6,8 @@ author: Dr. Ryan Stewart
 categories: 
   - Medical Journey
   - Patient Care
+redirect_from:
+  - /medical%20journey/patient%20care/2024/12/05/first-principles-medicine-patient-story
 tags:
   - geriatrics
   - patient stories

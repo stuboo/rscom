@@ -6,6 +6,8 @@ author: Dr. Ryan Stewart
 categories: 
   - Nutrition
   - Pelvic Health
+redirect_from:
+  - /nutrition/pelvic%20health/2024/10/28/diet-nutrition-pelvic-floor-disorders
 tags:
   - diet
   - nutrition

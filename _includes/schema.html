@@ -1,0 +1,98 @@
+<!-- Physician (Person) Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Physician",
+  "@id": "{{ site.url }}/#physician",
+  "name": "Ryan Stewart",
+  "honorificSuffix": "DO",
+  "jobTitle": "Urogynecologist",
+  "description": "Fellowship-trained urogynecologist specializing in female pelvic medicine and reconstructive surgery in Green Bay, Wisconsin.",
+  "medicalSpecialty": "https://schema.org/Gynecologic",
+  "knowsAbout": [
+    "Pelvic Organ Prolapse",
+    "Urinary Incontinence",
+    "Overactive Bladder",
+    "Fecal Incontinence",
+    "Vaginal Fistulas",
+    "Recurrent Urinary Tract Infections",
+    "Genitourinary Syndrome of Menopause"
+  ],
+  "alumniOf": [
+    {
+      "@type": "EducationalOrganization",
+      "name": "Via College of Osteopathic Medicine",
+      "description": "Medical school"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "Indiana University School of Medicine",
+      "description": "Residency in Obstetrics and Gynecology"
+    },
+    {
+      "@type": "EducationalOrganization",
+      "name": "University of Louisville School of Medicine",
+      "description": "Fellowship in Female Pelvic Medicine and Reconstructive Surgery"
+    }
+  ],
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/assets/images/ryan-stewart.jpg"
+}
+</script>
+
+<!-- MedicalBusiness Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "@id": "{{ site.url }}/#practice",
+  "name": "Ryan Stewart, DO — Urogynecology",
+  "description": "{{ site.description }}",
+  "url": "{{ site.url }}",
+  "image": "{{ site.url }}/assets/images/ryan-stewart.jpg",
+  "medicalSpecialty": "https://schema.org/Gynecologic",
+  "areaServed": {
+    "@type": "City",
+    "name": "Green Bay",
+    "containedInPlace": {
+      "@type": "State",
+      "name": "Wisconsin"
+    }
+  },
+  "hasMap": "https://www.google.com/maps/search/urogynecologist+Green+Bay+WI",
+  "isAcceptingNewPatients": true,
+  "availableService": [
+    { "@type": "MedicalProcedure", "name": "Pelvic Organ Prolapse Treatment" },
+    { "@type": "MedicalProcedure", "name": "Urinary Incontinence Treatment" },
+    { "@type": "MedicalProcedure", "name": "Overactive Bladder Treatment" },
+    { "@type": "MedicalProcedure", "name": "Fecal Incontinence Treatment" },
+    { "@type": "MedicalProcedure", "name": "Vaginal Fistula Repair" },
+    { "@type": "MedicalProcedure", "name": "Recurrent UTI Treatment" }
+  ],
+  "founder": { "@id": "{{ site.url }}/#physician" }
+}
+</script>
+
+{% if page.url contains '/conditions/' or page.url contains '/treatments/' %}
+<!-- MedicalWebPage Schema for condition/treatment pages -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "{{ page.title }}",
+  "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
+  "url": "{{ site.url }}{{ page.url }}",
+  "lastReviewed": "{{ page.last_modified_date | default: site.time | date: '%Y-%m-%d' }}",
+  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
+  "about": {
+    "@type": "MedicalCondition",
+    "name": "{{ page.title }}"
+  },
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}"
+  }
+}
+</script>
+{% endif %}

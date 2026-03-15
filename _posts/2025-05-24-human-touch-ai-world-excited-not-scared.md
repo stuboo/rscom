@@ -6,6 +6,8 @@ author: Dr. Ryan Stewart
 categories: 
   - Medical Journey
   - Technology
+redirect_from:
+  - /medical%20journey/technology/2025/05/24/human-touch-ai-world-excited-not-scared
 tags:
   - artificial intelligence
   - patient care
