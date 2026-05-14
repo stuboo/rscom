@@ -70,7 +70,7 @@
         "Responsive within the sidebar width (~400px)"
       ],
       "priority": 4,
-      "passes": false,
+      "passes": true,
       "notes": "Files: sidepanel.html and sidepanel.css in pseo-review-pipeline/extension/. Use a dark color scheme (dark background, light text). Diff rendering: split each change's before/after into a simple red/green block — no need for a full diff algorithm, just show the old and new text. The evidence summary is a paragraph of text. References are a numbered list."
     },
     {
@@ -89,7 +89,7 @@
         "Error states handled (server down, fetch failures)"
       ],
       "priority": 5,
-      "passes": false,
+      "passes": true,
       "notes": "File: sidepanel.js in pseo-review-pipeline/extension/. Keep it simple — vanilla JS, fetch API, DOM manipulation. Poll interval: 3 seconds when waiting for a proposal. The feedback textarea is only required when clicking Revise. Clear the textarea after each decision."
     },
     {

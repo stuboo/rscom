@@ -12,6 +12,8 @@ Started: 2026-05-14
 - Both pseo-review-pipeline/ and scripts/ralph/ are gitignored — use `git add -f` to track files
 - Chrome MV3 extension: sidepanel.html is referenced in manifest.json side_panel.default_path
 - Message relay pattern: sidepanel → background.js → content script via chrome.tabs.sendMessage
+- Sidebar state views: toggle `hidden` attribute on #state-disconnected, #state-loading, #state-idle, #state-proposal
+- Sidebar DOM IDs for JS: #page-name, #progress-fill, #progress-text, #evidence-summary, #changes-list, #references-list, #feedback, #btn-approve, #btn-revise, #btn-skip
 
 ---
 
@@ -56,4 +58,19 @@ Started: 2026-05-14
   - Chrome MV3 side_panel requires sidePanel permission (camelCase in permissions array)
   - Content scripts scoped to `http://127.0.0.1:4000/*` only run on Jekyll preview
   - Message flow for highlights: sidepanel → background → content script via chrome.tabs.sendMessage
+---
+
+## 2026-05-14 - PSEO-004
+- Implemented full sidebar HTML and CSS with dark theme
+- Files changed: pseo-review-pipeline/extension/sidepanel.html, sidepanel.css (also copied to ~/.claude/skills/pseo-review/extension/)
+- HTML has all sections: header with progress bar, evidence summary, change cards with diff blocks, numbered references, feedback textarea, action buttons (Approve/Revise/Skip)
+- Four state views: disconnected (server down), loading/researching (spinner), idle (complete), proposal (full review UI)
+- Dark color scheme (#121220 bg, indigo accents, green/red/amber buttons)
+- Diff rendering: .diff-removed (red bg + red left border), .diff-added (green bg + green left border)
+- Sticky action buttons at bottom, responsive within ~400px sidebar width
+- **Learnings for future iterations:**
+  - CSS state views use `hidden` attribute for toggling — JS just sets/removes `hidden` on the state divs
+  - Change cards use `.change-card` class with `.change-section-name`, `.change-reason`, `.diff-block.diff-removed`, `.diff-block.diff-added` structure
+  - References use `<ol id="references-list">` with `<li class="reference-item">` containing `.ref-author`, `.ref-title`, `.ref-journal` spans
+  - The #actions div is sticky at bottom so buttons are always visible while scrolling changes
 ---
