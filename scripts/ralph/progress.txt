@@ -14,6 +14,8 @@ Started: 2026-05-14
 - Message relay pattern: sidepanel → background.js → content script via chrome.tabs.sendMessage
 - Sidebar state views: toggle `hidden` attribute on #state-disconnected, #state-loading, #state-idle, #state-proposal
 - Sidebar DOM IDs for JS: #page-name, #progress-fill, #progress-text, #evidence-summary, #changes-list, #references-list, #feedback, #btn-approve, #btn-revise, #btn-skip
+- Proposal JSON shape: { pagePath, evidenceSummary, changes: [{section, reason, before, after}], references: [{author, title, journal, year, doi}], timestamp? }
+- Health endpoint returns: { status, queue_length, reviewed_count, current_page }
 
 ---
 
@@ -73,4 +75,34 @@ Started: 2026-05-14
   - Change cards use `.change-card` class with `.change-section-name`, `.change-reason`, `.diff-block.diff-removed`, `.diff-block.diff-added` structure
   - References use `<ol id="references-list">` with `<li class="reference-item">` containing `.ref-author`, `.ref-title`, `.ref-journal` spans
   - The #actions div is sticky at bottom so buttons are always visible while scrolling changes
+---
+
+## 2026-05-14 - PSEO-005
+- Implemented full sidebar JavaScript: polling, proposal rendering, decision flow
+- Files changed: pseo-review-pipeline/extension/sidepanel.js, pseo-review-pipeline/server/index.ts (added reviewed_count to /health)
+- Polls /health every 3s, renders proposals with change cards + diff blocks + references
+- Approve/Revise/Skip buttons POST to /decide; Revise requires feedback text
+- Sends highlightSections messages to background.js for content script highlighting
+- Progress bar driven by reviewed_count/total from health endpoint
+- Deduplicates proposal renders using pagePath+timestamp composite ID
+- **Learnings for future iterations:**
+  - Health endpoint needed reviewed_count added to drive progress bar — original only had queue_length (pending count)
+  - Proposal JSON expected shape: { pagePath, evidenceSummary, changes: [{section, reason, before, after}], references: [{author, title, journal, year, doi}] }
+  - Use AbortSignal.timeout(5000) for fetch calls to avoid hanging on server issues
+  - Revise button validates feedback textarea is non-empty before sending — highlights border amber on empty
+  - `esc()` helper uses DOM textContent→innerHTML for safe HTML escaping of reference fields
+---
+
+## 2026-05-14 - PSEO-006
+- Implemented content script for highlighting proposed change sections on Jekyll preview pages
+- Files changed: pseo-review-pipeline/extension/content.js, content.css (also copied to ~/.claude/skills/pseo-review/extension/)
+- Content script listens for highlightSections/clearHighlights messages from background.js
+- Matches h2/h3 heading text against section names (case-insensitive contains)
+- Applies 3px yellow (#eab308) left border via .pseo-highlight class
+- Clears all highlights before applying new ones (handles page/proposal changes)
+- Does not interfere with Jekyll livereload — only adds/removes CSS class on headings
+- **Learnings for future iterations:**
+  - Content script is very simple — just class toggling on headings, no DOM mutation needed
+  - The full message relay chain was already built in PSEO-003/005: sidepanel → background → content script
+  - Using `!important` on the CSS border/padding ensures it overrides Jekyll theme styles
 ---

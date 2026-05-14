@@ -104,7 +104,7 @@
         "Does not interfere with Jekyll's livereload"
       ],
       "priority": 6,
-      "passes": false,
+      "passes": true,
       "notes": "Files: content.js and content.css in pseo-review-pipeline/extension/. This is a nice-to-have visual aid. Keep it minimal — just a 3px yellow left border on matched headings. Match by checking if the heading text contains the section name from the change. Message flow: sidepanel.js gets proposal → sends section names to background.js → background.js forwards to content.js via chrome.tabs.sendMessage."
     },
     {
@@ -121,7 +121,7 @@
         "trigger field updated to include 'pseo review', 'review pages', 'start review pipeline'"
       ],
       "priority": 7,
-      "passes": false,
+      "passes": true,
       "notes": "File: pseo-review-pipeline/SKILL.md. Read existing clinical rules from ~/.claude/skills/pseo-review/SKILL.md and preserve them. The research agent prompt is critical — it must instruct the agent to: (1) read wiki/INDEX.md, (2) find relevant concepts, (3) read source files for citations, (4) compare against the page, (5) generate structured Proposal JSON, (6) POST to http://127.0.0.1:19600/propose. The agent should use the wiki's /query pattern (read indexes first, drill into articles). After Ralph completes, the user will move pseo-review-pipeline/ to ~/.claude/skills/pseo-review/."
     }
   ]
