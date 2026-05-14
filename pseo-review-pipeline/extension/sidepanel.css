@@ -1,0 +1,12 @@
+/* Stub — PSEO-004 will implement full styles */
+body {
+  margin: 0;
+  padding: 16px;
+  background: #1a1a2e;
+  color: #e0e0e0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  font-size: 14px;
+}
+#status {
+  color: #9ca3af;
+}

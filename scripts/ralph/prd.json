@@ -51,7 +51,7 @@
         "Typecheck passes (N/A for raw JS — no syntax errors)"
       ],
       "priority": 3,
-      "passes": false,
+      "passes": true,
       "notes": "Files live at pseo-review-pipeline/extension/. Raw JS, no build step. Reference gstack extension at ~/.claude/skills/gstack/extension/ for patterns (health polling, badge state, connection management). Server port is 19600. Keep background.js minimal — just health polling and badge updates."
     },
     {

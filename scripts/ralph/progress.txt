@@ -9,6 +9,9 @@ Started: 2026-05-14
 - pseo-review-pipeline/ in repo root is gitignored build dir; final destination is ~/.claude/skills/pseo-review/
 - Bun.serve() for HTTP servers — no frameworks needed; URL pattern matching on `url.pathname`
 - CORS for chrome extensions: match `origin.startsWith("chrome-extension://")` since extension ID varies per install
+- Both pseo-review-pipeline/ and scripts/ralph/ are gitignored — use `git add -f` to track files
+- Chrome MV3 extension: sidepanel.html is referenced in manifest.json side_panel.default_path
+- Message relay pattern: sidepanel → background.js → content script via chrome.tabs.sendMessage
 
 ---
 
@@ -37,4 +40,20 @@ Started: 2026-05-14
   - Bun.serve() is the idiomatic way to create HTTP servers in Bun — no express/hono needed
   - CORS for chrome extensions: check `origin.startsWith("chrome-extension://")` since the extension ID varies
   - The /decide "approve" flow: markReviewed → get proposal → next() → return proposal
+---
+
+## 2026-05-14 - PSEO-003
+- Implemented Chrome extension manifest and background service worker
+- Files changed: pseo-review-pipeline/extension/manifest.json, background.js, sidepanel.html, sidepanel.css, sidepanel.js, content.js, content.css, icons/
+- Manifest V3 with sidePanel, storage, activeTab permissions; host_permissions for localhost
+- Background worker polls /health every 3s, sets green badge when proposal ready
+- Extension icon click opens side panel via setPanelBehavior
+- Stub files created for sidepanel and content script (PSEO-004/005/006 will fill in)
+- Placeholder icons generated (solid indigo PNGs)
+- **Learnings for future iterations:**
+  - Extension files in gitignored pseo-review-pipeline/ must be `git add -f` to track
+  - scripts/ralph/ is also gitignored — use `git add -f` for prd.json and progress.txt
+  - Chrome MV3 side_panel requires sidePanel permission (camelCase in permissions array)
+  - Content scripts scoped to `http://127.0.0.1:4000/*` only run on Jekyll preview
+  - Message flow for highlights: sidepanel → background → content script via chrome.tabs.sendMessage
 ---
