@@ -1,0 +1,128 @@
+{
+  "project": "pSEO Review Pipeline",
+  "branchName": "main",
+  "description": "Chrome extension + Bun server + Claude Code skill for reviewing programmatic SEO pages. Agents pre-research pages against a medical wiki, propose edits, and a Chrome sidebar lets the physician approve/revise/skip. Plan: ~/.claude/plans/delegated-bubbling-lerdorf.md. All code builds into pseo-review-pipeline/ in the repo root (gitignored). After Ralph finishes, move to ~/.claude/skills/pseo-review/.",
+  "userStories": [
+    {
+      "id": "PSEO-001",
+      "title": "Tracker parser and in-memory state",
+      "description": "As a developer, I want a module that parses pseo-review-tracker.md into a queue of unreviewed pages so the server knows what to serve next.",
+      "acceptanceCriteria": [
+        "Reads pseo-review-tracker.md from the repo root path (passed as config)",
+        "Extracts all lines matching '- [ ]' as unreviewed pages with their file paths",
+        "Extracts all lines matching '- [x]' as completed pages",
+        "Returns a ReviewState object with queue, current (null initially), proposals (empty Map), and status 'idle'",
+        "Exports TypeScript interfaces: ReviewState, Proposal, Change, Reference",
+        "Typecheck passes"
+      ],
+      "priority": 1,
+      "passes": true,
+      "notes": "File lives at pseo-review-pipeline/server/state.ts (in repo root, gitignored). The tracker file path is pseo-review-tracker.md in the repo root. Tracker format uses '- [ ] path/to/file.md' and '- [x] [H] path/to/file.md'. Location pages are grouped by city (e.g., '- [ ] locations/appleton/ (4 pages)') — expand these into individual file paths by reading the directory."
+    },
+    {
+      "id": "PSEO-002",
+      "title": "Bun HTTP server with API routes",
+      "description": "As a developer, I want a Bun server on port 19600 that exposes the API routes for the review pipeline so the extension and agents can communicate.",
+      "acceptanceCriteria": [
+        "GET /health returns { status, queue_length, current_page }",
+        "GET /current returns the current Proposal object or 404 if none",
+        "POST /propose accepts a Proposal JSON body and stores it, sets status to 'ready'",
+        "POST /decide accepts { decision: 'approve'|'revise'|'skip', feedback?: string } and returns the proposal data on approve",
+        "GET /queue returns array of { path, status } for all pages",
+        "POST /next advances current to next unreviewed page, sets status to 'researching'",
+        "CORS headers allow requests from http://127.0.0.1:4000 and chrome-extension://*",
+        "Server starts and logs port to stderr",
+        "Typecheck passes"
+      ],
+      "priority": 2,
+      "passes": true,
+      "notes": "File lives at pseo-review-pipeline/server/index.ts. Imports state from ./state.ts. Use Bun.serve(). Keep it simple — no auth needed (single user, localhost only). On /decide with 'approve', return the full proposal so the caller can apply edits. On 'skip', call next() internally. On 'revise', store the feedback in the proposal and set status back to 'researching'."
+    },
+    {
+      "id": "PSEO-003",
+      "title": "Chrome extension manifest and background worker",
+      "description": "As a user, I want a Chrome extension that connects to the review server so I can see when proposals are ready.",
+      "acceptanceCriteria": [
+        "manifest.json is Manifest V3 with sidePanel, storage, activeTab permissions",
+        "host_permissions scoped to http://127.0.0.1:*/",
+        "Background service worker polls /health every 3 seconds",
+        "Badge shows green dot when connected and a proposal is ready, gray when disconnected",
+        "Extension icon click opens the side panel",
+        "Typecheck passes (N/A for raw JS — no syntax errors)"
+      ],
+      "priority": 3,
+      "passes": false,
+      "notes": "Files live at pseo-review-pipeline/extension/. Raw JS, no build step. Reference gstack extension at ~/.claude/skills/gstack/extension/ for patterns (health polling, badge state, connection management). Server port is 19600. Keep background.js minimal — just health polling and badge updates."
+    },
+    {
+      "id": "PSEO-004",
+      "title": "Sidebar HTML and CSS",
+      "description": "As a physician, I want a clean sidebar UI that shows proposed changes, evidence summary, references, and action buttons so I can review pages efficiently.",
+      "acceptanceCriteria": [
+        "sidepanel.html has sections: header (page name + progress), evidence summary, changes list, references, feedback textarea, action buttons",
+        "Diff display shows removed text in red background and added text in green background",
+        "Each change card shows: section name, before/after diff, reason",
+        "References section shows numbered citations with author, title, journal, year, DOI link",
+        "Three action buttons: Approve, Revise, Skip",
+        "Loading state shown while waiting for proposal",
+        "Disconnected state shown when server is unreachable",
+        "Dark theme matching the physician's terminal preference",
+        "Responsive within the sidebar width (~400px)"
+      ],
+      "priority": 4,
+      "passes": false,
+      "notes": "Files: sidepanel.html and sidepanel.css in pseo-review-pipeline/extension/. Use a dark color scheme (dark background, light text). Diff rendering: split each change's before/after into a simple red/green block — no need for a full diff algorithm, just show the old and new text. The evidence summary is a paragraph of text. References are a numbered list."
+    },
+    {
+      "id": "PSEO-005",
+      "title": "Sidebar JavaScript — fetch, render, decide",
+      "description": "As a physician, I want the sidebar to fetch proposals from the server and submit my decisions so the review loop works end-to-end.",
+      "acceptanceCriteria": [
+        "On load, polls /health to establish connection state",
+        "When status is 'ready', fetches /current and renders the proposal",
+        "Approve button POSTs to /decide with {decision: 'approve'}",
+        "Revise button POSTs to /decide with {decision: 'revise', feedback: textareaValue}",
+        "Skip button POSTs to /decide with {decision: 'skip'}",
+        "After any decision, shows 'Processing...' state then polls for next proposal",
+        "When status is 'researching', shows 'Researching next page...' with the page name",
+        "When status is 'idle', shows 'Review session complete' or queue empty message",
+        "Error states handled (server down, fetch failures)"
+      ],
+      "priority": 5,
+      "passes": false,
+      "notes": "File: sidepanel.js in pseo-review-pipeline/extension/. Keep it simple — vanilla JS, fetch API, DOM manipulation. Poll interval: 3 seconds when waiting for a proposal. The feedback textarea is only required when clicking Revise. Clear the textarea after each decision."
+    },
+    {
+      "id": "PSEO-006",
+      "title": "Content script for page highlights",
+      "description": "As a physician, I want changed sections on the Jekyll preview to be visually highlighted so I can see what's being proposed while reading the actual page.",
+      "acceptanceCriteria": [
+        "Content script runs only on http://127.0.0.1:4000/* pages",
+        "Listens for messages from the background script with change section names",
+        "Highlights headings (h2, h3) that match change section names with a subtle yellow left border",
+        "Clears highlights when a new page loads or proposal changes",
+        "Does not interfere with Jekyll's livereload"
+      ],
+      "priority": 6,
+      "passes": false,
+      "notes": "Files: content.js and content.css in pseo-review-pipeline/extension/. This is a nice-to-have visual aid. Keep it minimal — just a 3px yellow left border on matched headings. Match by checking if the heading text contains the section name from the change. Message flow: sidepanel.js gets proposal → sends section names to background.js → background.js forwards to content.js via chrome.tabs.sendMessage."
+    },
+    {
+      "id": "PSEO-007",
+      "title": "Updated SKILL.md with orchestration workflow",
+      "description": "As a developer, I want the pseo-review skill updated with the full orchestration workflow so Claude Code can run the review pipeline end-to-end.",
+      "acceptanceCriteria": [
+        "SKILL.md is written to pseo-review-pipeline/SKILL.md",
+        "Documents the full workflow: start server, ensure Jekyll, launch Chrome, research loop, decision handling",
+        "Includes the research agent prompt template with wiki path, clinical rules, and Proposal JSON schema",
+        "Documents how to start/stop the server",
+        "Documents the Chrome launch command",
+        "Includes the established clinical patterns (from current skill at ~/.claude/skills/pseo-review/SKILL.md)",
+        "trigger field updated to include 'pseo review', 'review pages', 'start review pipeline'"
+      ],
+      "priority": 7,
+      "passes": false,
+      "notes": "File: pseo-review-pipeline/SKILL.md. Read existing clinical rules from ~/.claude/skills/pseo-review/SKILL.md and preserve them. The research agent prompt is critical — it must instruct the agent to: (1) read wiki/INDEX.md, (2) find relevant concepts, (3) read source files for citations, (4) compare against the page, (5) generate structured Proposal JSON, (6) POST to http://127.0.0.1:19600/propose. The agent should use the wiki's /query pattern (read indexes first, drill into articles). After Ralph completes, the user will move pseo-review-pipeline/ to ~/.claude/skills/pseo-review/."
+    }
+  ]
+}

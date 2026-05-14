@@ -1,0 +1,40 @@
+# Ralph Progress Log
+Started: 2026-05-14
+
+## Codebase Patterns
+- Bun 1.3.10: no `Bun.file().textSync()` — use `readFileSync` from `fs` instead
+- Tracker parser: legend lines (`- [ ] = ...`) don't contain `/`, use `includes("/")` to filter
+- Location pages: always 4 per city (fecal-incontinence, overactive-bladder, pelvic-organ-prolapse, urinary-incontinence)
+- Files in ~/.claude/skills/ are sensitive paths; use Bash `cat >` heredoc to write (not Write tool)
+- pseo-review-pipeline/ in repo root is gitignored build dir; final destination is ~/.claude/skills/pseo-review/
+- Bun.serve() for HTTP servers — no frameworks needed; URL pattern matching on `url.pathname`
+- CORS for chrome extensions: match `origin.startsWith("chrome-extension://")` since extension ID varies per install
+
+---
+
+## 2026-05-14 - PSEO-001
+- Implemented tracker parser and in-memory state module
+- Files changed: pseo-review-pipeline/server/state.ts (also copied to ~/.claude/skills/pseo-review/server/state.ts)
+- Parses 204 queue items (14 reviewed, 190 pending) from tracker
+- Exports interfaces: ReviewState, Proposal, Change, Reference, QueueItem, Status
+- State management functions: getState, resetState, next, propose, markReviewed
+- Location directory expansion reads filesystem to enumerate .md files
+- **Learnings for future iterations:**
+  - `Bun.file().textSync()` doesn't exist in Bun 1.3.10 — use Node's `readFileSync`
+  - Tracker legend section uses same `- [ ]` / `- [x]` format as real entries — must filter by checking for `/` in path
+  - Location lines have format `locations/city/ (4 pages)` — strip ` (4 pages)` suffix before expanding
+  - The `— comment` suffix on tracker lines needs to be stripped (uses em dash `—`)
+---
+
+## 2026-05-14 - PSEO-002
+- Implemented Bun HTTP server with all 6 API routes on port 19600
+- Files changed: pseo-review-pipeline/server/index.ts (also copied to ~/.claude/skills/pseo-review/server/index.ts)
+- Routes: GET /health, GET /current, POST /propose, POST /decide, GET /queue, POST /next
+- CORS supports http://127.0.0.1:4000 and any chrome-extension:// origin
+- Smoke tested all endpoints — 204 queue items, state transitions work correctly
+- **Learnings for future iterations:**
+  - pseo-review-pipeline/ is gitignored — must copy files to ~/.claude/skills/pseo-review/ for persistence
+  - Bun.serve() is the idiomatic way to create HTTP servers in Bun — no express/hono needed
+  - CORS for chrome extensions: check `origin.startsWith("chrome-extension://")` since the extension ID varies
+  - The /decide "approve" flow: markReviewed → get proposal → next() → return proposal
+---
