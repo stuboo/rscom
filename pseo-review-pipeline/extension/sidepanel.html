@@ -8,8 +8,74 @@
 </head>
 <body>
   <div id="app">
-    <div id="status">Connecting...</div>
+
+    <!-- Disconnected state -->
+    <div id="state-disconnected" class="state-view">
+      <div class="state-icon">⚡</div>
+      <div class="state-label">Server Disconnected</div>
+      <p class="state-hint">Start the review server on port 19600</p>
+    </div>
+
+    <!-- Loading / researching state -->
+    <div id="state-loading" class="state-view" hidden>
+      <div class="spinner"></div>
+      <div class="state-label" id="loading-label">Connecting...</div>
+      <p class="state-hint" id="loading-page"></p>
+    </div>
+
+    <!-- Idle / complete state -->
+    <div id="state-idle" class="state-view" hidden>
+      <div class="state-icon">✓</div>
+      <div class="state-label">Review Session Complete</div>
+      <p class="state-hint">All pages have been reviewed.</p>
+    </div>
+
+    <!-- Proposal review state -->
+    <div id="state-proposal" hidden>
+
+      <!-- Header: page name + progress -->
+      <header id="header">
+        <h1 id="page-name"></h1>
+        <div id="progress-bar">
+          <div id="progress-fill"></div>
+        </div>
+        <div id="progress-text"></div>
+      </header>
+
+      <!-- Evidence summary -->
+      <section id="evidence-section">
+        <h2 class="section-title">Evidence Summary</h2>
+        <p id="evidence-summary"></p>
+      </section>
+
+      <!-- Changes list -->
+      <section id="changes-section">
+        <h2 class="section-title">Proposed Changes</h2>
+        <div id="changes-list"></div>
+      </section>
+
+      <!-- References -->
+      <section id="references-section">
+        <h2 class="section-title">References</h2>
+        <ol id="references-list"></ol>
+      </section>
+
+      <!-- Feedback textarea -->
+      <section id="feedback-section">
+        <label for="feedback" class="section-title">Feedback (for revisions)</label>
+        <textarea id="feedback" rows="3" placeholder="Describe what should change..."></textarea>
+      </section>
+
+      <!-- Action buttons -->
+      <div id="actions">
+        <button id="btn-approve" class="btn btn-approve">Approve</button>
+        <button id="btn-revise" class="btn btn-revise">Revise</button>
+        <button id="btn-skip" class="btn btn-skip">Skip</button>
+      </div>
+
+    </div>
   </div>
+
   <script src="sidepanel.js"></script>
 </body>
 </html>
