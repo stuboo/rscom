@@ -8,7 +8,7 @@ permalink: /conditions/prolapse/can-prolapse-come-back-after-surgery
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-03-15
 faq:

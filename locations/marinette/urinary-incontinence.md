@@ -6,7 +6,7 @@ permalink: /locations/marinette/urinary-incontinence
 location_slug: marinette
 condition_slug: urinary-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 4
 faq:

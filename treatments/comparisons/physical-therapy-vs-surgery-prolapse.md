@@ -6,7 +6,7 @@ nav_order: 8
 description: "Compare pelvic floor physical therapy and surgical repair for prolapse. Learn when conservative treatment is enough and when surgery is needed."
 permalink: /treatments/comparisons/physical-therapy-vs-surgery-prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 7
 faq:

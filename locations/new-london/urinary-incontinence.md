@@ -6,7 +6,7 @@ permalink: /locations/new-london/urinary-incontinence
 location_slug: new-london
 condition_slug: urinary-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 8
 faq:

@@ -6,7 +6,7 @@ nav_order: 7
 description: "Compare sacral neuromodulation (InterStim) and Botox for OAB. Learn about efficacy, convenience, reversibility, and which fits your lifestyle."
 permalink: /treatments/comparisons/snm-vs-botox-oab
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 6
 faq:

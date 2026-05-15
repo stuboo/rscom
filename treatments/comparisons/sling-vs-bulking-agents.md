@@ -6,7 +6,7 @@ nav_order: 2
 description: "Compare midurethral sling surgery and urethral bulking agents for stress urinary incontinence. Learn about success rates, recovery, and candidacy."
 permalink: /treatments/comparisons/sling-vs-bulking-agents
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 1
 faq:

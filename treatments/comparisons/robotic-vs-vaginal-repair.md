@@ -6,7 +6,7 @@ nav_order: 5
 description: "Compare robotic and vaginal surgical approaches for pelvic organ prolapse repair. Learn about outcomes, recovery, and which approach fits you."
 permalink: /treatments/comparisons/robotic-vs-vaginal-repair
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 4
 faq:

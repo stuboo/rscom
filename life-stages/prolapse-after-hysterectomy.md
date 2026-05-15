@@ -7,7 +7,7 @@ description: "Prolapse can develop after hysterectomy when the top of the vagina
 permalink: /life-stages/prolapse-after-hysterectomy
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 0
 faq:

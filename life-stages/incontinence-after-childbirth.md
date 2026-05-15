@@ -7,7 +7,7 @@ description: "Postpartum urinary leakage is common but treatable. Learn when it 
 permalink: /life-stages/incontinence-after-childbirth
 condition_name: Urinary Incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 1
 faq:

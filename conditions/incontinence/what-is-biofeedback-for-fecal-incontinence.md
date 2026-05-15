@@ -8,7 +8,7 @@ permalink: /conditions/incontinence/what-is-biofeedback-for-fecal-incontinence
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/incontinence/fecal-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "How many biofeedback sessions will I need?"

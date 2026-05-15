@@ -6,7 +6,7 @@ permalink: /locations/iron-mountain/pelvic-organ-prolapse
 location_slug: iron-mountain
 condition_slug: pelvic-organ-prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 1
 faq:

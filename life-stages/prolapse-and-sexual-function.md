@@ -7,7 +7,7 @@ description: "Prolapse can affect intimacy, but treatment often improves sexual 
 permalink: /life-stages/prolapse-and-sexual-function
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 8
 faq:

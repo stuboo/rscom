@@ -6,7 +6,7 @@ permalink: /locations/houghton/urinary-incontinence
 location_slug: houghton
 condition_slug: urinary-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 6
 faq:

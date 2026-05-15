@@ -7,7 +7,7 @@ description: "Pregnancy changes your pelvic floor. Learn what's normal, what's n
 permalink: /life-stages/prolapse-after-pregnancy
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 4
 faq:

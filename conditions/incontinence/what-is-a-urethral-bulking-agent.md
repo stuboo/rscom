@@ -8,7 +8,7 @@ permalink: /conditions/incontinence/what-is-a-urethral-bulking-agent
 condition_name: Urinary Incontinence
 parent_condition_url: /conditions/incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-03-15
 faq:

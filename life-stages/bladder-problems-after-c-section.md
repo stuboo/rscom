@@ -7,7 +7,7 @@ description: "C-section doesn't prevent pelvic floor problems. Pregnancy itself 
 permalink: /life-stages/bladder-problems-after-c-section
 condition_name: Urinary Incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 7
 faq:

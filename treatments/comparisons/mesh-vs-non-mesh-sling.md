@@ -6,7 +6,7 @@ nav_order: 6
 description: "Compare mesh midurethral slings and non-mesh alternatives for stress incontinence. Get the facts on safety, effectiveness, and candidacy."
 permalink: /treatments/comparisons/mesh-vs-non-mesh-sling
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 5
 faq:

@@ -6,7 +6,7 @@ permalink: /locations/neenah/overactive-bladder
 location_slug: neenah
 condition_slug: overactive-bladder
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 8
 faq:

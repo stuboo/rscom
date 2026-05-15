@@ -7,7 +7,7 @@ description: "Hormonal changes during menopause can worsen bladder control. Lear
 permalink: /life-stages/incontinence-during-menopause
 condition_name: Urinary Incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 2
 faq:

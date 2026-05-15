@@ -6,7 +6,7 @@ permalink: /locations/escanaba/pelvic-organ-prolapse
 location_slug: escanaba
 condition_slug: pelvic-organ-prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 2
 faq:

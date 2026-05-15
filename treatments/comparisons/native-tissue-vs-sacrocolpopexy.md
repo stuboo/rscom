@@ -6,7 +6,7 @@ nav_order: 4
 description: "Compare vaginal native tissue repair and abdominal sacrocolpopexy for pelvic organ prolapse. Learn about durability, recovery, and candidacy."
 permalink: /treatments/comparisons/native-tissue-vs-sacrocolpopexy
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 3
 faq:

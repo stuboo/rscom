@@ -8,7 +8,7 @@ permalink: /conditions/overactive-bladder/does-botox-help-overactive-bladder
 condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-03-15
 faq:

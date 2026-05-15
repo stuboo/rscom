@@ -6,7 +6,7 @@ nav_order: 1
 description: "Compare pessary and surgical options for pelvic organ prolapse. Understand the pros, cons, recovery, and best candidates for each approach."
 permalink: /treatments/comparisons/pessary-vs-surgery
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 0
 faq:

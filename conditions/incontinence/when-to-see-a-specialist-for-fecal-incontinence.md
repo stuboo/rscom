@@ -8,7 +8,7 @@ permalink: /conditions/incontinence/when-to-see-a-specialist-for-fecal-incontine
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/incontinence/fecal-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "What kind of doctor treats fecal incontinence?"

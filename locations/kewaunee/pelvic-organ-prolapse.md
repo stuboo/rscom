@@ -6,7 +6,7 @@ permalink: /locations/kewaunee/pelvic-organ-prolapse
 location_slug: kewaunee
 condition_slug: pelvic-organ-prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 4
 faq:

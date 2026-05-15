@@ -6,7 +6,7 @@ permalink: /locations/iron-river/overactive-bladder
 location_slug: iron-river
 condition_slug: overactive-bladder
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 0
 faq:

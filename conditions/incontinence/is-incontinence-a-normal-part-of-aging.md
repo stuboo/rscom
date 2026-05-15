@@ -8,7 +8,7 @@ permalink: /conditions/incontinence/is-incontinence-a-normal-part-of-aging
 condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "At what age does incontinence typically start?"

@@ -8,7 +8,7 @@ permalink: /conditions/incontinence/what-is-a-bladder-sling
 condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "How long does a bladder sling procedure take?"

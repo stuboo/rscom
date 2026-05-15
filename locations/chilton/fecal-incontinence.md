@@ -6,7 +6,7 @@ permalink: /locations/chilton/fecal-incontinence
 location_slug: chilton
 condition_slug: fecal-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 testimonial_index: 1
 faq:

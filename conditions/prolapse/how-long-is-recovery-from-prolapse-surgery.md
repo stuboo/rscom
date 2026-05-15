@@ -8,7 +8,7 @@ permalink: /conditions/prolapse/how-long-is-recovery-from-prolapse-surgery
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "How soon can I drive after prolapse surgery?"

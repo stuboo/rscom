@@ -8,7 +8,7 @@ permalink: /conditions/incontinence/when-should-i-see-a-doctor-for-incontinence
 condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "Do I need a referral to see a urogynecologist?"

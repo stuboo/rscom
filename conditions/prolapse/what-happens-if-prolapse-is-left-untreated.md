@@ -8,7 +8,7 @@ permalink: /conditions/prolapse/what-happens-if-prolapse-is-left-untreated
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/prolapse
 nav_exclude: true
-published: true
+published: false
 last_modified_date: 2026-03-14
 faq:
   - question: "Is untreated prolapse dangerous?"
