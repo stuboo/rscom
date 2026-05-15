@@ -8,50 +8,59 @@ permalink: /conditions/overactive-bladder/why-do-i-wake-up-to-pee-at-night
 condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-15
 faq:
   - question: "How many times is normal to urinate at night?"
-    answer: "Once per night is generally considered normal, especially as you get older. Waking twice or more regularly to urinate — called nocturia — deserves evaluation, particularly if it disrupts your sleep quality."
+    answer: "Once per night is generally considered normal, especially as you get older. Waking twice or more to urinate on a regular basis deserves evaluation, particularly if it affects your sleep."
   - question: "Can nocturia be treated?"
-    answer: "Yes. Treatment depends on the cause and may include fluid timing adjustments, medication, treating underlying conditions, or addressing OAB. Many patients see significant improvement with straightforward changes."
+    answer: "Yes. Treatment depends on the cause. Options include fluid timing changes, medication, treating underlying conditions like sleep apnea, or addressing overactive bladder. Many people improve with straightforward changes."
   - question: "Is waking up to pee a sign of a serious problem?"
-    answer: "Usually not. The most common causes are benign — OAB, fluid timing, or normal aging. However, nocturia can occasionally signal other conditions like diabetes or heart issues, so it's worth mentioning to your doctor."
+    answer: "Usually not. The most common causes are overactive bladder, fluid timing, or normal aging. Nocturia can sometimes point to other conditions like diabetes or heart problems, so it's worth bringing up with your doctor."
 ---
 
-# Why Do I Wake Up to Pee at Night?
+# Why do I wake up to pee at night?
 
-Waking up to urinate during the night — called **nocturia** — is one of the most disruptive bladder symptoms. It fragments your sleep, affects your energy during the day, and can even increase fall risk when navigating to the bathroom in the dark. While it's common, it's not something you simply have to accept.
+Waking up to urinate during the night is called nocturia. It breaks up your sleep, drains your energy during the day, and can raise your fall risk when you're walking to the bathroom in the dark. It's common, but it's not something you have to live with.
 
-## Common Causes
+## Common causes
 
-Nocturia can have several contributing factors, sometimes more than one at once:
+Nocturia usually has more than one cause at the same time. That's actually helpful to know, because fixing even one factor can cut down your nighttime trips.
 
-**Overactive bladder** — involuntary bladder contractions don't stop at bedtime. If you also experience urgency and frequency during the day, OAB is a likely contributor.
+Overactive bladder (OAB) is one of the most common reasons. Your bladder contracts when it shouldn't, and that doesn't stop at bedtime. If you also feel urgency and go often during the day, OAB is a likely contributor.
 
-**Evening fluid intake** — drinking too much in the hours before bed means your bladder fills during the night. This includes water, tea, alcohol, and other beverages.
+Your body may also be making too much urine at night. This is called nocturnal polyuria. It can happen with aging, heart conditions, sleep apnea, or changes in a hormone called vasopressin. In OAB, nighttime voids tend to be small. With nocturnal polyuria, they're normal or large volume. A bladder diary helps us tell the difference.
 
-**Nocturnal polyuria** — your body produces more urine at night than it should. This can be related to age, heart conditions, sleep apnea, or hormonal changes.
+Evening fluid intake matters too. Drinking a lot in the hours before bed fills your bladder overnight. This includes water, tea, and alcohol.
 
-**Reduced bladder capacity** — as we age, the bladder may hold less comfortably, leading to more frequent filling.
+As we age, the bladder may hold less, which leads to more frequent filling. Some medications also play a role. Blood pressure pills, SGLT2 inhibitors for diabetes, and other drugs can increase urine output.
 
-**Medications** — some blood pressure and heart medications are diuretics that increase urine production.
+## What you can do
 
-Nocturia is often multifactorial — it's not just one thing. That's actually good news, because addressing even one contributing factor can significantly reduce nighttime trips.
+Simple changes that often help:
 
-## What You Can Do
+- Stop drinking fluids 2 to 3 hours before bedtime
+- Cut back on caffeine and alcohol in the afternoon and evening
+- Elevate your legs for 1 to 2 hours before bed so your body processes fluid earlier
+- Empty your bladder twice before bed, once during your routine and again right before lying down
 
-**Simple changes that often help:**
-- Stop drinking fluids 2-3 hours before bedtime
-- Reduce caffeine and alcohol, especially in the afternoon and evening
-- Elevate your legs for 1-2 hours before bed (helps your body process fluid earlier)
-- Empty your bladder twice before bed — once during your bedtime routine and again right before lying down
+## When to see a specialist
 
-**When to see a specialist:**
-- You're waking 3 or more times per night regularly
-- Nocturia is significantly affecting your sleep quality and daytime function
+- You wake 3 or more times per night on a regular basis
+- Nocturia is affecting your sleep and how you function during the day
 - You also have urgency, frequency, or leaking during the day
-- Simple fluid management changes haven't helped
+- Fluid changes haven't helped
 
-Sleep disruption from nocturia has real consequences — fatigue, mood changes, difficulty concentrating. When I help a patient reduce their nighttime trips from four to one, they often tell me they feel like a different person because they're finally sleeping through the night.
+I often start with a bladder diary. You track what you drink, when you go, and how much you go for 3 days. This tells us whether the problem is too much urine at night, a bladder that's overactive, or both.
+
+From there, we talk about what matters most to you and build a plan together. That might include pelvic floor therapy with one of our in-office physical therapists, medication, or treatment for an underlying cause like sleep apnea. There's no single path that's right for everyone.
+
+Sleep disruption from nocturia has real consequences: fatigue, mood changes, trouble concentrating. When I help a patient go from waking four times a night to once, they often tell me they feel like a different person.
+
+## References
+
+1. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. *Neurourol Urodyn*. 2019;38(2):499-508. [doi:10.1002/nau.23917](https://doi.org/10.1002/nau.23917)
+2. Everaert K, Herve F, Bosch R, et al. International Continence Society consensus on the diagnosis and treatment of nocturia. *Neurourol Urodyn*. 2019;38(2):478-498. [doi:10.1002/nau.23939](https://doi.org/10.1002/nau.23939)
+3. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
 

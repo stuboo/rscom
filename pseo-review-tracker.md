@@ -47,14 +47,14 @@ Last updated: 2026-03-15
 - [x] [H] conditions/overactive-bladder/how-is-overactive-bladder-treated.md
 - [x] [H] conditions/overactive-bladder/is-oab-caused-by-stress.md
 - [x] [H] conditions/overactive-bladder/is-oab-the-same-as-incontinence.md
-- [ ] conditions/overactive-bladder/what-is-bladder-training.md
-- [ ] conditions/overactive-bladder/what-is-sacral-neuromodulation.md
-- [ ] conditions/overactive-bladder/what-triggers-overactive-bladder.md
-- [ ] conditions/overactive-bladder/why-do-i-wake-up-to-pee-at-night.md
+- [x] [H] conditions/overactive-bladder/what-is-bladder-training.md
+- [x] [H] conditions/overactive-bladder/what-is-sacral-neuromodulation.md
+- [x] [H] conditions/overactive-bladder/what-triggers-overactive-bladder.md
+- [x] [H] conditions/overactive-bladder/why-do-i-wake-up-to-pee-at-night.md
 
 ## Condition Question Pages - Prolapse (11 new pages)
 
-- [ ] conditions/prolapse/can-prolapse-cause-back-pain.md
+- [x] [H] conditions/prolapse/can-prolapse-cause-back-pain.md
 - [ ] conditions/prolapse/can-prolapse-come-back-after-surgery.md
 - [ ] conditions/prolapse/can-you-feel-prolapse-with-your-finger.md
 - [ ] conditions/prolapse/does-prolapse-get-worse-over-time.md

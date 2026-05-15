@@ -8,55 +8,70 @@ permalink: /conditions/overactive-bladder/what-is-bladder-training
 condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-15
 faq:
   - question: "How long does bladder training take to work?"
-    answer: "Most women notice some improvement within 2-3 weeks, with continued gains over 6-12 weeks. Consistency is key — the bladder needs time to adjust to the new patterns."
+    answer: "Most women notice some improvement within 2-3 weeks, with continued gains over 6-12 weeks. Consistency matters. Your bladder needs time to adjust to the new patterns."
   - question: "Is bladder training hard to do?"
-    answer: "It requires discipline and patience, but the techniques are straightforward. Working with a pelvic floor therapist or urogynecologist provides structure and support. The first few days are the hardest."
+    answer: "It takes patience, but the techniques are straightforward. Working with a pelvic floor therapist or urogynecologist gives you structure and support. The first few days are the hardest."
   - question: "Can bladder training work without medication?"
-    answer: "Yes. Many women achieve significant improvement with bladder training alone. It's recommended as first-line treatment before medications are added."
+    answer: "Yes. Many women see real improvement with bladder training alone. It can also be combined with medication or other treatments depending on what works best for you."
 ---
 
-# What Is Bladder Training?
+# What is bladder training?
 
-Bladder training is a **behavioral technique** that gradually teaches your bladder to hold more urine and reduces the frequency and urgency of bathroom visits. It's one of the most effective first-line treatments for overactive bladder — no medications, no procedures, and no side effects.
+Bladder training is a behavioral technique that gradually teaches your bladder to hold more urine. It reduces how often you feel the urge to go and how often you actually go. No medications, no procedures, and no side effects.
 
-## How It Works
+I recommend bladder training to many of my patients with overactive bladder. It works well on its own or alongside other treatments like medication or pelvic floor therapy.
 
-When you have OAB, your bladder has essentially learned bad habits — sending urgency signals too early and too often. Bladder training reverses this by gradually extending the time between bathroom visits, teaching your bladder to tolerate larger volumes of urine comfortably.
+## How it works
 
-Your bladder is a muscle that can be retrained, much like any other muscle. When you've been going to the bathroom every hour 'just in case,' your bladder adapts to that small volume. Bladder training gradually convinces it to hold more.
+When you have OAB, your bladder sends urgency signals too early and too often. Bladder training reverses this by slowly stretching the time between bathroom visits. Over time, your bladder learns to hold more urine comfortably.
 
-## The Process
+Think of it this way: if you have been going to the bathroom every hour "just in case," your bladder adapts to that small volume. Bladder training gradually resets that pattern.
 
-**Step 1: Establish your baseline**
-Keep a bladder diary for 2-3 days. Note how often you go to the bathroom — this is your starting point.
+## The process
 
-**Step 2: Set a schedule**
-Based on your diary, set fixed bathroom times. If you're currently going every hour, start with every hour and 15 minutes.
+Step 1: Establish your baseline.
+Keep a bladder diary for 2-3 days. Write down when you go to the bathroom and how much you drink. This gives us a starting point.
 
-**Step 3: Use urge suppression**
+Step 2: Set a schedule.
+Based on your diary, we set fixed bathroom times. If you are going every hour now, you might start with every hour and 15 minutes.
+
+Step 3: Use urge suppression techniques.
 When urgency hits between scheduled times:
-- **Stop** — don't rush to the bathroom
-- **Squeeze** — do 5 quick pelvic floor contractions
-- **Breathe** — take slow, deep breaths
-- **Distract** — count backwards, do a mental task
-- **Wait** — the urge usually passes within 30-60 seconds
-- **Walk calmly** to the bathroom at your scheduled time
+- Stop and stay still. Do not rush to the bathroom.
+- Do 5 quick pelvic floor contractions.
+- Take slow, deep breaths and try to relax.
+- Distract yourself. Count backwards from 100 by 7s, read something, or do a mental task.
+- Sit on a firm surface and press your perineum against it.
+- Curl your toes or flex your ankles.
+- Wait. The urge usually passes within 30-60 seconds.
+- Walk calmly to the bathroom at your scheduled time.
 
-**Step 4: Gradually increase intervals**
-Every 1-2 weeks, add 15-30 minutes to your interval. The goal is reaching 3-4 hours between bathroom visits.
+Step 4: Gradually increase intervals.
+Every 1-2 weeks, add 15-30 minutes to your interval. Many women work toward going 3-4 hours between bathroom visits, but we will set a target that makes sense for you.
 
-## Why It's So Effective
+## What bladder training does
 
-Bladder training works on multiple levels:
+Bladder training works in a few ways at once:
 
-- **Increases bladder capacity** — your bladder gradually learns to hold more
-- **Reduces false urgency signals** — your nervous system recalibrates
-- **Builds confidence** — proving to yourself that you can wait reduces anxiety
-- **Breaks the cycle** — frequent voiding reinforces OAB; extending intervals reverses it
+- Your bladder gradually learns to hold more urine.
+- Your nervous system adjusts and sends fewer false urgency signals.
+- You build confidence that you can wait, which reduces the anxiety around urgency.
+- You break the cycle where frequent voiding keeps reinforcing OAB symptoms.
 
-Bladder training requires patience, but the results are worth it. I've seen patients go from 15 bathroom trips a day to 6-7, all without medication. That's a life-changing difference.
+In one study, women who combined bladder training with pelvic floor muscle therapy and surgery were nearly five times more likely to reach a normal voiding frequency compared to surgery alone.
+
+## References
+
+1. Bo K, Frawley HC, Haylen BT, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for the conservative and nonpharmacological management of female pelvic floor dysfunction. *Int Urogynecol J*. 2017;28(2):191-213. [doi:10.1007/s00192-016-3123-4](https://doi.org/10.1007/s00192-016-3123-4)
+
+2. Sung VW, Borello-France D, Newman DK, et al. Effect of behavioral and pelvic floor muscle therapy combined with surgery vs surgery alone on incontinence symptoms among women with mixed urinary incontinence: the ESTEEM randomized clinical trial. *JAMA*. 2019;322(11):1066-1076. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
+
+3. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+
+4. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 

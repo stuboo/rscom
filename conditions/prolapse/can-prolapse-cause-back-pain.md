@@ -8,8 +8,9 @@ permalink: /conditions/prolapse/can-prolapse-cause-back-pain
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-15
 faq:
   - question: "Will treating prolapse help my back pain?"
     answer: "If your back pain is related to prolapse (ligament tension, postural compensation), treating the prolapse often provides relief. A pessary trial can help determine if the two are connected."
@@ -19,22 +20,38 @@ faq:
     answer: "If you have both back pain and pelvic floor symptoms, starting with a urogynecologist makes sense. If the back pain persists after prolapse treatment, a back specialist can evaluate other causes."
 ---
 
-# Can Pelvic Organ Prolapse Cause Back Pain?
+# Can pelvic organ prolapse cause back pain?
 
-Some women with pelvic organ prolapse report low back pain or a dragging sensation in the lower back, particularly toward the end of the day or after prolonged standing. While prolapse isn't a primary cause of back pain, the two can be related.
+Some women with pelvic organ prolapse notice low back pain or a dragging feeling, especially later in the day or after standing for a while. "POP-related low backache" is actually a recognized symptom category in the international medical terminology for prolapse.
 
-## The Connection
+Prolapse is not the most common cause of back pain. But the two can be connected, and I see it fairly often in clinic.
 
-Prolapse can contribute to low back discomfort through:
-- **Ligament tension** — the uterosacral ligaments that support the uterus and vaginal vault attach near the sacrum. When prolapse stretches these ligaments, it can create a pulling sensation in the lower back
-- **Postural compensation** — women with prolapse may unconsciously change their posture or movement patterns, leading to back strain
-- **Pelvic floor dysfunction** — the pelvic floor works closely with the core and back muscles. Weakness in one area affects the others
+## How prolapse can cause back pain
 
-Back pain with prolapse is usually more of a dragging or aching sensation in the low back, different from typical back pain. It tends to worsen through the day and improve when lying down — which matches the pattern of prolapse symptoms.
+The uterosacral ligaments connect your uterus and upper vagina to the lower part of your spine, near the sacrum (around the S2 to S4 vertebrae). When prolapse stretches these ligaments, you may feel an aching or pulling in your lower back. This tends to center around the lower sacrum and gets worse with standing or activity.
 
-## When to Seek Help
+Prolapse can also lead to back discomfort in other ways:
 
-If you have low back pain along with pelvic pressure, vaginal bulging, or bladder/bowel changes, it's worth getting evaluated for prolapse. Treating the prolapse often helps the back symptoms too.
+- Postural changes. You may shift how you stand or move without realizing it, which puts extra strain on your back.
+- Pelvic floor and core connection. Your pelvic floor muscles work closely with your core, hips, and back. When the pelvic floor is not working well, your back muscles may pick up the slack.
 
-I always ask about back pain when evaluating prolapse. When we support the prolapsed organs — whether with a pessary or surgery — many women tell me their back pain improves as well.
+Back pain from prolapse usually feels like a dull ache or dragging in the low back. It tends to get worse as the day goes on and better when you lie down. That pattern matches how most prolapse symptoms behave.
+
+## When to bring it up
+
+If you have low back pain along with pelvic pressure, a vaginal bulge, or changes in bladder or bowel habits, it is worth mentioning to your doctor. These symptoms together suggest prolapse may be part of the picture.
+
+I ask about back pain when I evaluate prolapse. One way to test the connection is with a pessary, a removable device that supports the prolapsed organs from inside the vagina. If a pessary eases your back pain, that tells us the two are likely related.
+
+Pelvic floor physical therapy can also help. A pelvic floor PT works on more than just Kegels. They address strength, coordination, your core, hips, and posture, all of which can affect both prolapse and back pain. We have pelvic floor PTs in our office and can also refer to therapists in the community.
+
+When we treat the prolapse, whether with a pessary, physical therapy, or surgery, many women tell me their back pain gets better too.
+
+## References
+
+1. Haylen BT, Maher CF, Barber MD, et al. An IUGA/ICS joint report on the terminology for female pelvic organ prolapse (POP). *Neurourol Urodyn*. 2016;35(2):137-168. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+2. Haylen BT, Vu D. Surgical anatomy of the vaginal vault. *Neurourol Urodyn*. 2022;41(5):1148-1164. [doi:10.1002/nau.24963](https://doi.org/10.1002/nau.24963)
+3. Hilton P, Dolan LM. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG*. 2004;111(Suppl 1):5-9. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
+4. Carberry CL, Tulikangas PK, Ridgeway BM, Collins SA, Adam RA. AUGS best practice statement: evaluation and counseling of patients with pelvic organ prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+5. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *Lancet*. 2014;383(9919):796-806. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
 
