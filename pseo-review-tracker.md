@@ -55,11 +55,11 @@ Last updated: 2026-03-15
 ## Condition Question Pages - Prolapse (11 new pages)
 
 - [x] [H] conditions/prolapse/can-prolapse-cause-back-pain.md
-- [ ] conditions/prolapse/can-prolapse-come-back-after-surgery.md
-- [ ] conditions/prolapse/can-you-feel-prolapse-with-your-finger.md
-- [ ] conditions/prolapse/does-prolapse-get-worse-over-time.md
-- [ ] conditions/prolapse/how-long-is-recovery-from-prolapse-surgery.md
-- [ ] conditions/prolapse/is-a-pessary-right-for-me.md
+- [x] [H] conditions/prolapse/can-prolapse-come-back-after-surgery.md
+- [x] [H] conditions/prolapse/can-you-feel-prolapse-with-your-finger.md
+- [x] [H] conditions/prolapse/does-prolapse-get-worse-over-time.md
+- [x] [H] conditions/prolapse/how-long-is-recovery-from-prolapse-surgery.md
+- [x] [H] conditions/prolapse/is-a-pessary-right-for-me.md
 - [ ] conditions/prolapse/what-happens-if-prolapse-is-left-untreated.md
 - [ ] conditions/prolapse/what-is-a-cystocele.md
 - [ ] conditions/prolapse/what-is-a-rectocele.md
