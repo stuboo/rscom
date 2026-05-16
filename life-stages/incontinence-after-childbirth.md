@@ -7,48 +7,63 @@ description: "Postpartum urinary leakage is common but treatable. Learn when it 
 permalink: /life-stages/incontinence-after-childbirth
 condition_name: Urinary Incontinence
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-16
 testimonial_index: 1
 faq:
   - question: "Will postpartum incontinence go away on its own?"
-    answer: "Many women see improvement within 3-6 months as tissues heal and pelvic floor strength returns. However, if leaking persists beyond 6 months, it's unlikely to resolve without treatment."
-  - question: "Is it safe to do Kegels while breastfeeding?"
-    answer: "Yes. Pelvic floor exercises are safe during breastfeeding. Starting gentle exercises early in the postpartum period can aid recovery."
+    answer: "Many women improve within 3 to 6 months as tissues heal and pelvic floor strength comes back. But if leaking continues beyond 6 months, it's unlikely to go away without treatment."
+  - question: "Is it safe to do pelvic floor exercises while breastfeeding?"
+    answer: "Yes. Pelvic floor exercises are safe during breastfeeding. Starting gentle exercises early after delivery can help your recovery."
   - question: "Will incontinence get worse with each pregnancy?"
-    answer: "Each pregnancy and delivery adds cumulative strain to the pelvic floor. Some women notice worsening with subsequent pregnancies, which is another reason to address symptoms early."
+    answer: "Each pregnancy and delivery adds strain to the pelvic floor. Some women notice more leaking with later pregnancies. That's one more reason to bring it up early."
 ---
 
-# Urinary Incontinence After Childbirth
+# Urinary incontinence after childbirth
 
-You survived pregnancy, delivery, and the newborn stage — but now you're dealing with bladder leakage that won't go away. If you're leaking when you cough, sneeze, laugh, or pick up your baby, know that **you're not alone**, and this is **not something you have to accept** as the price of motherhood.
+You survived pregnancy, delivery, and the newborn stage, but now you're dealing with bladder leakage that won't quit. If you're leaking when you cough, sneeze, laugh, or pick up your baby, you're not alone. Up to 34% of women report urinary incontinence after giving birth. And it's not something you have to live with.
 
-## Why This Happens
+## Why this happens
 
-Pregnancy and delivery place extraordinary demands on the pelvic floor. During pregnancy, the growing baby's weight presses on the bladder and pelvic floor for months. During vaginal delivery, these tissues stretch dramatically — and sometimes muscles or nerves are temporarily injured. Even C-section delivery doesn't fully protect the pelvic floor, because pregnancy itself is a major risk factor.
+Pregnancy and delivery put a lot of strain on your pelvic floor. During pregnancy, your growing baby presses on your bladder and pelvic floor muscles for months. During a vaginal delivery, those tissues stretch and the nerves that control them can be temporarily injured. Research shows that about 80% of women have some degree of pelvic nerve changes after vaginal birth.
 
-Dr. Stewart explains: "The pelvic floor is remarkably resilient, but it needs support during recovery — just like any muscle group after significant strain. Many women recover naturally, but those who don't shouldn't assume they're stuck with leaking forever."
+Even a C-section doesn't fully protect your pelvic floor. Pregnancy itself is a risk factor. In one study, 25% of women who had a cesarean before labor still reported urinary leakage at 6 weeks.
 
-## Signs You Should Seek Help
+Your pelvic floor can recover, but it needs time and sometimes some help. Many women heal on their own. Those who don't have real treatment options that work.
 
-- Leaking that persists beyond 6 months postpartum
-- Symptoms getting worse rather than better over time
-- Leaking that limits your activity or causes you to avoid exercise
-- Needing to wear pads during daily activities
-- Incontinence that worsened with subsequent pregnancies
+## When to talk to your doctor
 
-## Treatment Options
+- Leaking that continues beyond 6 months after delivery
+- Symptoms that are getting worse instead of better
+- Leaking that keeps you from exercising or being active
+- Wearing pads during your regular day
+- Leaking that got worse after another pregnancy
 
-- **Pelvic floor physical therapy** — the most effective first-line treatment. A specialized therapist can assess your pelvic floor and guide recovery far beyond basic Kegels
-- **Proper Kegel technique** — many women do these incorrectly; a therapist ensures you're engaging the right muscles
-- **Time and healing** — tissue recovery continues up to a year postpartum
-- **Pessary** — a removable support device, useful during exercise or high-demand activities
-- **Specialist evaluation** — if conservative measures aren't enough, a urogynecologist can discuss additional options including minimally invasive surgery
+If any of these sound familiar, bring it up at your next visit. If leaking is still happening at your 6-week or 3-month checkup, ask about a referral to a pelvic floor physical therapist. Starting early helps.
 
-Dr. Stewart notes: "I encourage new mothers to be patient with their bodies but also to be proactive. If leaking is still happening at your 6-week or 3-month checkup, ask for a referral to a pelvic floor therapist. Early intervention makes a big difference."
+## What treatment looks like
 
-## Your Next Steps
+There are several options, and the right mix depends on your symptoms, your body, and your goals. I like to talk through these with patients so we can figure out a plan together.
 
-You've taken care of your baby — now it's time to take care of yourself. Postpartum incontinence is one of the most treatable conditions in urogynecology. Don't wait years to address it.
+- Pelvic floor physical therapy -- this goes well beyond Kegels. A trained therapist works on strength, relaxation, coordination, endurance, and surrounding muscles like your hips, core, and thighs. They also teach you breathing and bracing techniques. Studies show that women who work with a therapist are 8 times more likely to be cured than those who do nothing. We have pelvic floor PTs in the office, which makes it easier to get started.
+- The Knack -- learning to tighten your pelvic floor muscles right before you cough or sneeze. This timing trick alone can stop leaks for some women.
+- Time and healing -- tissue recovery continues for up to a year after delivery.
+- A pessary -- a small removable support device you can wear during exercise or other high-demand activities.
+- Specialist evaluation -- if you've tried therapy and it's not enough, a urogynecologist can walk you through other options, including minimally invasive procedures.
+
+## What the research shows
+
+Postpartum pelvic floor therapy has good evidence behind it. A 2018 Cochrane review of 38 trials found that pelvic floor training during pregnancy reduced incontinence risk by 29% in the 3-6 months after birth. Another meta-analysis of 15 postpartum trials showed a 56% reduction in urinary incontinence up to 12 months out.
+
+Each pregnancy adds strain. Higher BMI also compounds the effect of birth-related injury. These aren't reasons to feel discouraged. They're reasons to get help sooner rather than later.
 
 [Learn more about urinary incontinence](/conditions/urinary-incontinence)
+
+## References
+
+1. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+2. Borello-France D, Burgio KL, Richter HE, et al. Fecal and urinary incontinence in primiparous women. *Obstet Gynecol*. 2006. [doi:10.1097/01.AOG.0000232592.82165.78](https://doi.org/10.1097/01.AOG.0000232592.82165.78)
+3. Burgio KL, Borello-France D, Richter HE, et al. Risk factors for fecal and urinary incontinence after childbirth. *Am J Gastroenterol*. 2007. [doi:10.1111/j.1572-0241.2007.01364.x](https://doi.org/10.1111/j.1572-0241.2007.01364.x)
+4. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+5. Richter HE, Burgio KL, Brubaker L, et al. Continence pessary compared with behavioral therapy or combined therapy for stress incontinence. *Obstet Gynecol*. 2010. [doi:10.1097/AOG.0b013e3181d055d4](https://doi.org/10.1097/AOG.0b013e3181d055d4)

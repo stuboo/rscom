@@ -69,11 +69,11 @@ Last updated: 2026-03-15
 ## Life Stages Pages (12 new pages)
 
 - [x] [H] life-stages/bladder-leakage-during-exercise.md
-- [ ] life-stages/bladder-problems-after-c-section.md
-- [ ] life-stages/incontinence-after-childbirth.md
-- [ ] life-stages/incontinence-after-weight-gain.md
-- [ ] life-stages/incontinence-during-menopause.md
-- [ ] life-stages/incontinence-in-athletes.md
+- [x] [H] life-stages/bladder-problems-after-c-section.md
+- [x] [H] life-stages/incontinence-after-childbirth.md
+- [x] [H] life-stages/incontinence-after-weight-gain.md
+- [x] [H] life-stages/incontinence-during-menopause.md
+- [x] [H] life-stages/incontinence-in-athletes.md
 - [ ] life-stages/prolapse-after-hysterectomy.md
 - [ ] life-stages/prolapse-after-pregnancy.md
 - [ ] life-stages/prolapse-and-sexual-function.md
