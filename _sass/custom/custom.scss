@@ -1,0 +1,32 @@
+// Author card (used in _includes/author-card.html)
+.author-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  margin: 1.5rem 0;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border-left: 4px solid #2869e6;
+
+  &__img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+  &__name {
+    font-size: 1.1em;
+    font-weight: 700;
+  }
+
+  &__line {
+    color: #555;
+  }
+
+  &__reviewed {
+    color: #666; // WCAG AA on #f8f9fa (~5.6:1)
+    font-size: 0.85em;
+  }
+}

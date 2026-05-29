@@ -1,13 +1,12 @@
-<div class="author-card" style="display: flex; align-items: center; gap: 1rem; padding: 1rem; margin: 1.5rem 0; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #2869e6;">
-  <img src="/assets/images/ryan-stewart.jpg" alt="Dr. Ryan Stewart, DO" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;" />
+<div class="author-card">
+  <img class="author-card__img" src="/assets/images/ryan-stewart.jpg" alt="Ryan Stewart, DO" width="80" height="80" loading="lazy" decoding="async" />
   <div>
-    <strong style="font-size: 1.1em;">Ryan Stewart, DO</strong><br>
-    <span style="color: #555;">Board-Certified Urogynecologist</span><br>
-    <span style="color: #555;">Urogynecology &amp; Reconstructive Pelvic Surgery &middot; Fellowship-trained</span><br>
-    <span style="color: #555;">Green Bay, Wisconsin</span>
+    <a class="author-card__name" href="/about">Ryan Stewart, DO</a><br>
+    <span class="author-card__line">Board-certified and fellowship-trained urogynecologist</span><br>
+    <span class="author-card__line">Green Bay, Wisconsin</span>
     {% assign review_date = page.last_evidence_review | default: page.last_reviewed_date | default: page.last_modified_date %}
     {% if review_date %}<br>
-    <span style="color: #888; font-size: 0.85em;">✓ Medically reviewed {{ review_date | date: "%B %-d, %Y" }}</span>
+    <span class="author-card__reviewed">✓ Medically reviewed {{ review_date | date: "%B %-d, %Y" }}</span>
     {% endif %}
   </div>
 </div>
