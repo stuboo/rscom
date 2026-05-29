@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 6
 faq:
   - question: "Is there a urogynecologist near Marquette, MI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 3 hours from Marquette. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 3 hours from Marquette. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Michigan insurance?"
     answer: "Yes. Dr. Stewart accepts most Michigan insurance plans including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren."
   - question: "Can I do a telehealth visit for urinary incontinence from Marquette?"
@@ -22,7 +22,7 @@ faq:
 
 # Urinary Incontinence Treatment Near Marquette, MI
 
-For women in Marquette and the Upper Peninsula area dealing with involuntary urine leakage, expert care is available just 3 hours away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
+For women in Marquette and the Upper Peninsula area dealing with involuntary urine leakage, expert care is available just 3 hours away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
 
 ## Understanding Urinary Incontinence
 

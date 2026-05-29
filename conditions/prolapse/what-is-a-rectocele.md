@@ -3,7 +3,7 @@ layout: question
 title: "What Is a Rectocele (Posterior Vaginal Wall Prolapse)?"
 parent: Pelvic Organ Prolapse
 nav_order: 21
-description: "What Is a Rectocele (Posterior Vaginal Wall Prolapse) - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "What Is a Rectocele (Posterior Vaginal Wall Prolapse) - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/what-is-a-rectocele
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

@@ -3,8 +3,8 @@
 *Last updated: 2026-03-15*
 
 ## Product Overview
-**One-liner:** Fellowship-trained urogynecologist providing expert pelvic floor care in Green Bay, WI
-**What it does:** ryanstewart.com is the personal educational website for Dr. Ryan Stewart, a fellowship-trained urogynecologist. It serves as a patient education resource and acquisition channel — separate from his employer's website.
+**One-liner:** Board-certified, fellowship-trained urogynecologist providing expert pelvic floor care in Green Bay, WI
+**What it does:** ryanstewart.com is the personal educational website for Dr. Ryan Stewart, a board-certified, fellowship-trained urogynecologist. It serves as a patient education resource and acquisition channel — separate from his employer's website.
 **Product category:** Specialty medical practice (urogynecology / FPMRS)
 **Product type:** Healthcare service / personal physician website
 **Business model:** Employed physician at a hospital-based practice; fee-for-service via insurance reimbursement; 50+ accepted plans
@@ -38,7 +38,7 @@
 
 ## Differentiation
 **Key differentiators:**
-- Fellowship-trained in urogynecology & reconstructive pelvic surgery (highest level of training for pelvic floor disorders)
+- Board-certified and fellowship-trained in urogynecology & reconstructive pelvic surgery (highest level of training for pelvic floor disorders)
 - Prolific researcher — 44 publications on Google Scholar across peer-reviewed journals
 - Patient education philosophy — "doctor = teacher" (from Latin *docere*); empowers shared decision-making
 - In-office pelvic floor PTs + regional PT network across NE WI and MI UP
@@ -94,6 +94,7 @@
 - Recent publications (2025-2026): Barbed suture strength in sacrocolpopexy, intraperitoneal bupivacaine RCT, fitness trackers + midurethral sling, QR code-based patient education
 
 **Credentials:**
+- Board certified in Urogynecology & Reconstructive Pelvic Surgery (URPS) — ABOG
 - Fellowship training at University of Louisville
 - Board certified in OB/GYN (ABOG)
 

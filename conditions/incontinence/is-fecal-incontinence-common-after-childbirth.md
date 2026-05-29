@@ -3,7 +3,7 @@ layout: question
 title: "Is Fecal Incontinence Common After Childbirth?"
 parent: Incontinence
 nav_order: 33
-description: "Is Fecal Incontinence Common After Childbirth - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "Is Fecal Incontinence Common After Childbirth - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/incontinence/is-fecal-incontinence-common-after-childbirth
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence

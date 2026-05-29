@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 7
 faq:
   - question: "Is there a urogynecologist near Manitowoc, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 45 minutes from Manitowoc. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 45 minutes from Manitowoc. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for urinary incontinence from Manitowoc?"
@@ -22,7 +22,7 @@ faq:
 
 # Urinary Incontinence Treatment Near Manitowoc, WI
 
-For women in Manitowoc and the Lakeshore area dealing with involuntary urine leakage, expert care is available just 45 minutes away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
+For women in Manitowoc and the Lakeshore area dealing with involuntary urine leakage, expert care is available just 45 minutes away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
 
 ## Understanding Urinary Incontinence
 

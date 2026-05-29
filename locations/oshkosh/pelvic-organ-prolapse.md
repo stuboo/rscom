@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 0
 faq:
   - question: "Is there a urogynecologist near Oshkosh, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 50 minutes from Oshkosh. He treats pelvic organ prolapse and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 50 minutes from Oshkosh. He treats pelvic organ prolapse and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for pelvic organ prolapse from Oshkosh?"
@@ -22,7 +22,7 @@ faq:
 
 # Pelvic Organ Prolapse Treatment Near Oshkosh, WI
 
-For women in Oshkosh and the Fox Valley area dealing with pelvic organ descent, expert care is available just 50 minutes away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
+For women in Oshkosh and the Fox Valley area dealing with pelvic organ descent, expert care is available just 50 minutes away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
 
 ## Understanding Pelvic Organ Prolapse
 

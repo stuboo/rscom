@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 5
 faq:
   - question: "Is there a urogynecologist near Brillion, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Brillion. Telehealth consultations are available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Brillion. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Most major insurance plans accepted, including Medicare and Medicaid."
   - question: "Do I need a referral to see Dr. Stewart?"
@@ -20,7 +20,7 @@ faq:
 
 # Overactive Bladder Treatment Near Brillion, WI
 
-For women in Brillion and the Calumet County area dealing with urgency, frequency, and bladder control issues, expert care is available in Green Bay, 30 minutes away. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+For women in Brillion and the Calumet County area dealing with urgency, frequency, and bladder control issues, expert care is available in Green Bay, 30 minutes away. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
 
 ## Understanding Overactive Bladder
 

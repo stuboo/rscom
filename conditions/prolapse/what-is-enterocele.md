@@ -3,7 +3,7 @@ layout: question
 title: "What Is an Enterocele?"
 parent: Pelvic Organ Prolapse
 nav_order: 25
-description: "What Is an Enterocele - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "What Is an Enterocele - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/what-is-enterocele
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

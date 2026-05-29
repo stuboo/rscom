@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 6
 faq:
   - question: "Is there a urogynecologist near Neenah, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 40 minutes from Neenah. Telehealth consultations are available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 40 minutes from Neenah. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Most major insurance plans accepted, including Medicare and Medicaid."
   - question: "Do I need a referral to see Dr. Stewart?"
@@ -20,7 +20,7 @@ faq:
 
 # Urinary Incontinence Treatment Near Neenah, WI
 
-For women in Neenah and the Fox Cities area dealing with involuntary urine leakage, expert care is available in Green Bay, 40 minutes away. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
+For women in Neenah and the Fox Cities area dealing with involuntary urine leakage, expert care is available in Green Bay, 40 minutes away. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
 
 ## Understanding Urinary Incontinence
 

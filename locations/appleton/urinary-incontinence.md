@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 4
 faq:
   - question: "Is there a urogynecologist near Appleton, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, about 45 minutes from Appleton. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, about 45 minutes from Appleton. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for urinary incontinence from Appleton?"
@@ -22,7 +22,7 @@ faq:
 
 # Urinary incontinence treatment near Appleton, WI
 
-If you’re in Appleton or the Fox Cities area and dealing with bladder leakage, Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay — about 45 minutes away. Telehealth visits are also available for consultations and follow-ups.
+If you’re in Appleton or the Fox Cities area and dealing with bladder leakage, Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay — about 45 minutes away. Telehealth visits are also available for consultations and follow-ups.
 
 ## Types of urinary incontinence
 

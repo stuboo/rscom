@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 8
 faq:
   - question: "Is there a urogynecologist near Houghton, MI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 5 hours from Houghton. Telehealth consultations are available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 5 hours from Houghton. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Michigan insurance?"
     answer: "Yes. Most Michigan insurance plans accepted including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren."
   - question: "Do I need a referral to see Dr. Stewart?"
@@ -20,7 +20,7 @@ faq:
 
 # Overactive Bladder Treatment Near Houghton, MI
 
-For women in Houghton and the Western Upper Peninsula area dealing with urgency, frequency, and bladder control issues, expert care is available in Green Bay, 5 hours away. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+For women in Houghton and the Western Upper Peninsula area dealing with urgency, frequency, and bladder control issues, expert care is available in Green Bay, 5 hours away. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
 
 ## Understanding Overactive Bladder
 

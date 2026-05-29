@@ -3,7 +3,7 @@ layout: question
 title: "Can Pelvic Organ Prolapse Cause Back Pain?"
 parent: Pelvic Organ Prolapse
 nav_order: 22
-description: "Can Pelvic Organ Prolapse Cause Back Pain - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "Can Pelvic Organ Prolapse Cause Back Pain - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/can-prolapse-cause-back-pain
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

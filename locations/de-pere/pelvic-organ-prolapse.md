@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 3
 faq:
   - question: "Is there a urogynecologist near De Pere, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 10 minutes from De Pere. Telehealth consultations are available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 10 minutes from De Pere. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Most major insurance plans accepted, including Medicare and Medicaid."
   - question: "Do I need a referral to see Dr. Stewart?"
@@ -20,7 +20,7 @@ faq:
 
 # Pelvic Organ Prolapse Treatment Near De Pere, WI
 
-For women in De Pere and the Fox Valley area dealing with pelvic organ descent, expert care is available in Green Bay, 10 minutes away. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
+For women in De Pere and the Fox Valley area dealing with pelvic organ descent, expert care is available in Green Bay, 10 minutes away. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
 
 ## Understanding Pelvic Organ Prolapse
 

@@ -3,7 +3,7 @@ layout: question
 title: "What Causes Fecal Incontinence in Women?"
 parent: Incontinence
 nav_order: 30
-description: "What Causes Fecal Incontinence in Women - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "What Causes Fecal Incontinence in Women - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/incontinence/what-causes-fecal-incontinence
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence

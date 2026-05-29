@@ -3,7 +3,7 @@ layout: question
 title: "What Is a Cystocele (Bladder Prolapse)?"
 parent: Pelvic Organ Prolapse
 nav_order: 20
-description: "What Is a Cystocele (Bladder Prolapse) - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "What Is a Cystocele (Bladder Prolapse) - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/what-is-a-cystocele
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

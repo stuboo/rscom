@@ -3,7 +3,7 @@ layout: question
 title: "What Is Pelvic Floor Physical Therapy?"
 parent: Pelvic Organ Prolapse
 nav_order: 26
-description: "What Is Pelvic Floor Physical Therapy - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "What Is Pelvic Floor Physical Therapy - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/what-is-pelvic-floor-physical-therapy
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

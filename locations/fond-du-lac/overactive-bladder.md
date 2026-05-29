@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 5
 faq:
   - question: "Is there a urogynecologist near Fond du Lac, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 1 hour from Fond du Lac. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 1 hour from Fond du Lac. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for overactive bladder from Fond du Lac?"
@@ -22,7 +22,7 @@ faq:
 
 # Overactive Bladder Treatment Near Fond du Lac, WI
 
-For women in Fond du Lac and the Fond du Lac County area dealing with urgency, frequency, and bladder control issues, expert care is available just 1 hour away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+For women in Fond du Lac and the Fond du Lac County area dealing with urgency, frequency, and bladder control issues, expert care is available just 1 hour away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
 
 ## Understanding Overactive Bladder
 

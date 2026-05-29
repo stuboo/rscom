@@ -3,7 +3,7 @@ layout: question
 title: "Does Sacral Neuromodulation Help with Bowel Control?"
 parent: Incontinence
 nav_order: 32
-description: "Does Sacral Neuromodulation Help with Bowel Control - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "Does Sacral Neuromodulation Help with Bowel Control - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/incontinence/does-sacral-neuromodulation-help-bowel-control
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence

@@ -3,7 +3,7 @@ layout: question
 title: "Can Fecal Incontinence Be Cured?"
 parent: Incontinence
 nav_order: 31
-description: "Can Fecal Incontinence Be Cured - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "Can Fecal Incontinence Be Cured - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/incontinence/can-fecal-incontinence-be-cured
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence

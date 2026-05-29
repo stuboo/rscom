@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 0
 faq:
   - question: "Is there a urogynecologist near Munising, MI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 3 hours 30 minutes from Munising. Telehealth consultations are available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 3 hours 30 minutes from Munising. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Michigan insurance?"
     answer: "Yes. Most Michigan insurance plans accepted including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren."
   - question: "Do I need a referral to see Dr. Stewart?"
@@ -20,7 +20,7 @@ faq:
 
 # Urinary Incontinence Treatment Near Munising, MI
 
-For women in Munising and the Central Upper Peninsula area dealing with involuntary urine leakage, expert care is available in Green Bay, 3 hours 30 minutes away. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
+For women in Munising and the Central Upper Peninsula area dealing with involuntary urine leakage, expert care is available in Green Bay, 3 hours 30 minutes away. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for urinary incontinence and other pelvic floor conditions.
 
 ## Understanding Urinary Incontinence
 

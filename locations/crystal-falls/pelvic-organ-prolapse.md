@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 3
 faq:
   - question: "Is there a urogynecologist near Crystal Falls, MI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 2 hours 15 minutes from Crystal Falls. Telehealth consultations are available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 2 hours 15 minutes from Crystal Falls. Telehealth consultations are available."
   - question: "Does Dr. Stewart accept Michigan insurance?"
     answer: "Yes. Most Michigan insurance plans accepted including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren."
   - question: "Do I need a referral to see Dr. Stewart?"
@@ -20,7 +20,7 @@ faq:
 
 # Pelvic Organ Prolapse Treatment Near Crystal Falls, MI
 
-For women in Crystal Falls and the Western Upper Peninsula area dealing with pelvic organ descent, expert care is available in Green Bay, 2 hours 15 minutes away. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
+For women in Crystal Falls and the Western Upper Peninsula area dealing with pelvic organ descent, expert care is available in Green Bay, 2 hours 15 minutes away. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
 
 ## Understanding Pelvic Organ Prolapse
 

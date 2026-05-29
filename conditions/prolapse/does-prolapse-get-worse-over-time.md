@@ -3,7 +3,7 @@ layout: question
 title: "Does Pelvic Organ Prolapse Get Worse Over Time?"
 parent: Pelvic Organ Prolapse
 nav_order: 24
-description: "Does Pelvic Organ Prolapse Get Worse Over Time - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "Does Pelvic Organ Prolapse Get Worse Over Time - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/does-prolapse-get-worse-over-time
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

@@ -3,7 +3,7 @@ layout: question
 title: "Can You Feel Prolapse with Your Finger?"
 parent: Pelvic Organ Prolapse
 nav_order: 23
-description: "Can You Feel Prolapse with Your Finger - answered by Dr. Ryan Stewart, fellowship-trained urogynecologist."
+description: "Can You Feel Prolapse with Your Finger - answered by Dr. Ryan Stewart, board-certified urogynecologist."
 permalink: /conditions/prolapse/can-you-feel-prolapse-with-your-finger
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

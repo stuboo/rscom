@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 2
 faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist practicing in Green Bay. He specializes in overactive bladder and other pelvic floor conditions."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist practicing in Green Bay. He specializes in overactive bladder and other pelvic floor conditions."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Do I need a referral to see Dr. Stewart for overactive bladder?"
@@ -20,7 +20,7 @@ faq:
 
 # Overactive Bladder Treatment Near Green Bay, WI
 
-If you're dealing with urgency, frequency, and bladder control issues, expert care is right here in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+If you're dealing with urgency, frequency, and bladder control issues, expert care is right here in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
 
 ## Understanding Overactive Bladder
 

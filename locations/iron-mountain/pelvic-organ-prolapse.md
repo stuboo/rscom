@@ -11,7 +11,7 @@ last_modified_date: 2026-03-14
 testimonial_index: 1
 faq:
   - question: "Is there a urogynecologist near Iron Mountain, MI?"
-    answer: "Yes. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay, approximately 2 hours from Iron Mountain. He treats pelvic organ prolapse and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 2 hours from Iron Mountain. He treats pelvic organ prolapse and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Michigan insurance?"
     answer: "Yes. Dr. Stewart accepts most Michigan insurance plans including Blue Cross Blue Shield of Michigan, Priority Health, and McLaren."
   - question: "Can I do a telehealth visit for pelvic organ prolapse from Iron Mountain?"
@@ -22,7 +22,7 @@ faq:
 
 # Pelvic Organ Prolapse Treatment Near Iron Mountain, MI
 
-For women in Iron Mountain and the Upper Peninsula area dealing with pelvic organ descent, expert care is available just 2 hours away in Green Bay. Dr. Ryan Stewart is a fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
+For women in Iron Mountain and the Upper Peninsula area dealing with pelvic organ descent, expert care is available just 2 hours away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for pelvic organ prolapse and other pelvic floor conditions.
 
 ## Understanding Pelvic Organ Prolapse
 
