@@ -39,7 +39,7 @@ Before considering any surgical option, it's essential to explore and exhaust al
 
 If conservative treatments don't provide sufficient relief, minimally invasive options should be considered before surgery:
 
-1. [Sacral Neuromodulation](/treatments/fecal-incontinence/sacral-neuromodulation)
+1. [Sacral Neuromodulation](/treatments/fecal-incontinence/sacral-nerve-stimulation)
 
 These treatments often provide significant improvement with much lower risks compared to surgical options.
 

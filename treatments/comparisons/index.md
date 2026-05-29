@@ -17,13 +17,12 @@ Dr. Stewart believes strongly in shared decision-making: "My job isn't to tell y
 
 ## Available Comparisons
 
-- [Pessary vs Surgery for Prolapse](/treatments/comparisons/pessary-vs-surgery)
-- [Sling vs Bulking Agents for Stress Incontinence](/treatments/comparisons/sling-vs-bulking-agents)
-- [Botox vs Medication for Overactive Bladder](/treatments/comparisons/botox-vs-medication-oab)
-- [Native Tissue Repair vs Sacrocolpopexy](/treatments/comparisons/native-tissue-vs-sacrocolpopexy)
-- [Robotic vs Vaginal Prolapse Surgery](/treatments/comparisons/robotic-vs-vaginal-repair)
-- [Mesh vs Non-Mesh Sling Options](/treatments/comparisons/mesh-vs-non-mesh-sling)
-- [Sacral Neuromodulation vs Botox for OAB](/treatments/comparisons/snm-vs-botox-oab)
-- [Physical Therapy vs Surgery for Prolapse](/treatments/comparisons/physical-therapy-vs-surgery-prolapse)
+<!-- Auto-generated from child pages. Drafts (published: false, pending medical review) are excluded automatically and appear here once approved. -->
+<ul>
+{%- assign comparison_pages = site.pages | where: "parent", page.title | sort: "nav_order" -%}
+{%- for c in comparison_pages %}
+  <li><a href="{{ c.url }}">{{ c.title }}</a></li>
+{%- endfor %}
+</ul>
 
 Every treatment plan is individualized. These comparisons provide general guidance, but your specific anatomy, symptoms, health history, and personal goals will guide the final recommendation.

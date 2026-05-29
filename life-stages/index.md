@@ -13,17 +13,12 @@ Pelvic floor conditions don't affect every woman the same way. Your age, life st
 
 ## Find Your Situation
 
-- [Urinary Incontinence After Childbirth](/life-stages/incontinence-after-childbirth)
-- [Pelvic Floor Changes After Pregnancy](/life-stages/prolapse-after-pregnancy)
-- [Bladder Problems After C-Section](/life-stages/bladder-problems-after-c-section)
-- [Bladder Problems During Menopause](/life-stages/incontinence-during-menopause)
-- [Pelvic Organ Prolapse After Hysterectomy](/life-stages/prolapse-after-hysterectomy)
-- [Pelvic Organ Prolapse in Younger Women](/life-stages/prolapse-in-younger-women)
-- [Recurrent Pelvic Organ Prolapse](/life-stages/recurrent-prolapse)
-- [Urinary Incontinence in Female Athletes](/life-stages/incontinence-in-athletes)
-- [Bladder Leakage During Exercise](/life-stages/bladder-leakage-during-exercise)
-- [Pelvic Floor Health for Women Who Lift](/life-stages/prolapse-in-women-who-lift)
-- [Urinary Incontinence and Weight](/life-stages/incontinence-after-weight-gain)
-- [Prolapse and Sexual Function](/life-stages/prolapse-and-sexual-function)
+<!-- Auto-generated from child pages. Drafts (published: false, pending medical review) are excluded automatically and appear here once approved. -->
+<ul>
+{%- assign life_stage_pages = site.pages | where: "parent", page.title | sort: "nav_order" -%}
+{%- for p in life_stage_pages %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+{%- endfor %}
+</ul>
 
 Whatever your situation, you don't have to figure this out alone. Dr. Stewart is here to listen, explain, and help you find a path forward.
