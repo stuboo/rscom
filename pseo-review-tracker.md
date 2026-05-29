@@ -93,7 +93,7 @@ Each city has 4 pages: fecal-incontinence, overactive-bladder, pelvic-organ-prol
 - [ ] locations/escanaba/ (4 pages)
 - [ ] locations/fond-du-lac/ (4 pages)
 - [ ] locations/gladstone/ (4 pages)
-- [ ] locations/green-bay/ (4 pages)
+- [x] [H] locations/green-bay/ (4 pages)
 - [ ] locations/hancock/ (4 pages)
 - [ ] locations/houghton/ (4 pages)
 - [ ] locations/iron-mountain/ (4 pages)

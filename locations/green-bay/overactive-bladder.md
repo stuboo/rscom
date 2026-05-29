@@ -6,8 +6,9 @@ permalink: /locations/green-bay/overactive-bladder
 location_slug: green-bay
 condition_slug: overactive-bladder
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-29
 testimonial_index: 2
 faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
@@ -20,50 +21,61 @@ faq:
 
 # Overactive Bladder Treatment Near Green Bay, WI
 
-If you're dealing with urgency, frequency, and bladder control issues, expert care is right here in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+If you're dealing with urgency, frequency, or bladder control issues, care is right here in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist who diagnoses and treats overactive bladder and other pelvic floor conditions.
 
-## Understanding Overactive Bladder
+## Understanding overactive bladder
 
-Overactive bladder (OAB) is a group of urinary symptoms — not a disease — that can significantly disrupt daily life. It affects millions of women and is not simply a consequence of aging.
+Overactive bladder (OAB) is a group of urinary symptoms, not a disease. It affects about 1 in 6 women, and that number climbs to roughly 1 in 3 in women over 65. OAB is common as you get older, but it is not a normal part of aging, and it is treatable.
 
-The hallmark symptoms include:
+The main symptoms are:
 
-- **Urgency** — a sudden, intense need to urinate that’s difficult to postpone
-- **Frequency** — urinating more than 7-8 times during the day
-- **Nocturia** — waking up more than once at night to urinate
-- **Urge incontinence** — sometimes leaking before reaching the bathroom
+- Urgency: a sudden urge to urinate that you can't put off
+- Frequency: needing to go more than about 8 times a day
+- Nocturia: waking to urinate during the night (3 or more times tends to be bothersome)
+- Urge incontinence: sometimes leaking on the way to the bathroom
 
-Dr. Stewart explains: "Overactive bladder can feel like your life revolves around finding the nearest bathroom. But with the right approach — starting with simple behavioral changes and escalating as needed — most women regain control and confidence."
+OAB can make it feel like your day revolves around finding the nearest bathroom. The good news is that several treatments work well, and you don't have to try them in any fixed order. We pick a plan together based on what bothers you most.
 
 [Learn more about overactive bladder](/conditions/overactive-bladder)
 
-## Why See a Urogynecology Specialist?
+## Why see a urogynecology specialist?
 
-While many healthcare providers can discuss overactive bladder, a urogynecologist offers fellowship-trained specialization that general OB/GYNs and primary care providers typically cannot match. Depending on their background, urogynecologists complete either a 3-year fellowship after an OB/GYN residency or a 2-year fellowship after a urology residency, focused entirely on pelvic floor disorders — giving them the deepest expertise in conditions like overactive bladder.
+Many providers can talk with you about overactive bladder. A urogynecologist brings added training focused on the pelvic floor. Urogynecologists complete a 3-year fellowship after an OB/GYN residency, or a 2-year fellowship after a urology residency. That training is spent entirely on bladder and pelvic floor conditions like OAB.
 
-## Dr. Stewart's Approach
+## Dr. Stewart's approach
 
-Dr. Stewart's care philosophy centers on education and shared decision-making. The word "doctor" comes from the Latin *docere* — to teach — and this guides every patient interaction.
+I want you to understand all of your options so you can decide what fits your life. The word "doctor" comes from the Latin *docere*, meaning to teach, and that's how I try to practice.
 
-Dr. Stewart notes: "I want patients to know about all of their options — behavioral strategies, medications, and procedures like Botox or sacral neuromodulation — so they can decide what's right for them."
+There is no single right path for OAB. We talk through everything available, from simple habit changes to medications to procedures like Botox or sacral neuromodulation, and we choose together.
 
-## Your Local Urogynecologist
+## Your local urogynecologist
 
-As Dr. Stewart's home practice, Green Bay patients enjoy direct access to comprehensive pelvic care:
+Green Bay patients have direct access to a full range of pelvic care:
 
-- **No travel required** — the office is right here in Green Bay
-- **Full range of services** — from office consultations to surgical procedures
-- **Flexible scheduling** — in-person and telehealth options available
+- No travel required: the office is right here in Green Bay
+- Full range of services, from office visits to surgery
+- In-person and telehealth options
 
-## Treatment Options
+## Treatment options
 
-OAB treatment follows a step-wise approach:
+You have several good options for OAB. National guidelines do not require you to fail one before trying another, so we match the treatment to your symptoms and goals. (Your insurance plan may ask you to try certain options first; we'll help you navigate that.)
 
-- **Behavioral therapy** — bladder training, fluid management, dietary changes, urge suppression techniques
-- **Pelvic floor physical therapy** — learning to use muscle contractions to suppress urgency
-- **Medications** — anticholinergics or beta-3 agonists to calm the bladder muscle
-- **Botox injections** — injected into the bladder muscle for 6-9 months of relief
-- **Sacral neuromodulation** — an implanted device that regulates bladder nerve signals
-- **Tibial nerve stimulation** — office-based nerve stimulation sessions
+- Behavior and lifestyle changes: bladder training, fluid and diet adjustments, and urge-suppression techniques. These help most people and are worth continuing alongside other treatments.
+- Pelvic floor physical therapy: this is more than Kegels. A pelvic floor PT works on strength, relaxation, coordination, and the muscles around the pelvis (hips, buttocks, core), plus breathing and posture, to help calm urgency. We have pelvic floor physical therapists in our office.
+- Medications: there are two main types. Beta-3 agonists relax the bladder muscle. Anticholinergics also calm the bladder but carry a risk of memory and thinking side effects, especially with long-term use. Because of that risk, we usually prefer beta-3 agonists for women in their mid-50s and older, and we'll talk through the trade-offs before starting any medication.
+- Botox: a small amount injected into the bladder muscle during an office procedure. It calms the bladder for about 6 to 9 months, then can be repeated. The main risks are urinary tract infections and, less often, trouble emptying that may need a temporary catheter.
+- Sacral neuromodulation: a small implanted device that gently adjusts the nerve signals between the bladder and the brain. We test it first to see if it helps before placing the long-term device. Newer batteries last around 10 to 15 years.
+- Tibial neuromodulation: gentle nerve stimulation through the ankle, done as a short office visit. It has no systemic side effects, which makes it a good fit for many women.
 
-The right approach depends on your specific situation, severity, and personal goals. Dr. Stewart will walk you through each option so you can make an informed decision together.
+The right choice depends on your symptoms, your health, and what matters to you. I'll walk you through each option so we can decide together.
+
+## References
+
+- Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. J Urol. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstet Gynecol. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Sanses TVD, Zillioux J, High RA, et al. Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
+- AUGS Guidelines Committee, Thomas TN, Walters MD. Clinical Consensus Statement: Association of Anticholinergic Medication Use and Cognition in Women With Overactive Bladder. Female Pelvic Med Reconstr Surg. 2021. [doi:10.1097/SPV.0000000000001008](https://doi.org/10.1097/SPV.0000000000001008)
+- Dengler KL, High RA, Moga DC, et al. Overactive Bladder and Cognitive Impairment: The AUGS and PFDRF State-of-the-Science Conference Summary Report. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+- Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs Sacral Neuromodulation on Refractory Urgency Urinary Incontinence in Women: A Randomized Clinical Trial. JAMA. 2016. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
+- Harvie HS, Amundsen CL, Neuwahl SJ, et al. Cost-Effectiveness of Sacral Neuromodulation versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: Results of the ROSETTA Randomized Trial. J Urol. 2020. [doi:10.1097/JU.0000000000000656](https://doi.org/10.1097/JU.0000000000000656)
+- Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. J Urol. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
