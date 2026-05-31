@@ -7,53 +7,75 @@ description: "Prolapse can develop after hysterectomy when the top of the vagina
 permalink: /life-stages/prolapse-after-hysterectomy
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-30
 testimonial_index: 0
 faq:
-  - question: "How common is prolapse after hysterectomy?"
-    answer: "Studies suggest that up to 12% of women who have had a hysterectomy will eventually develop vaginal vault prolapse. The risk increases with time and with factors like prior vaginal delivery and age."
-  - question: "How long after hysterectomy can prolapse develop?"
-    answer: "Vault prolapse can develop months to years after hysterectomy. It's most commonly diagnosed 5-15 years after the original surgery, though it can occur at any time."
+  - question: "How common is prolapse after a hysterectomy?"
+    answer: "Vault prolapse is one of several types of pelvic organ prolapse. About 1 in 8 women have surgery for some form of prolapse during their lifetime. Your risk after hysterectomy goes up with age, prior vaginal deliveries, and other strain on the pelvic floor."
+  - question: "How long after a hysterectomy can prolapse develop?"
+    answer: "Vault prolapse can show up months or many years later. Some women notice it within a few years; others not for a decade or more. It can happen at any point after the surgery."
   - question: "Can vault prolapse be prevented?"
-    answer: "Risk can be reduced by maintaining a healthy weight, avoiding heavy lifting, treating chronic cough, and doing pelvic floor exercises. Some surgeons perform preventive vault suspension at the time of hysterectomy."
+    answer: "You can lower your risk by keeping a healthy weight, treating a chronic cough or constipation, and working with a pelvic floor physical therapist. At the time of a hysterectomy, your surgeon can also suspend the top of the vagina to help support it from the start."
 ---
 
-# Pelvic Organ Prolapse After Hysterectomy
+# Pelvic organ prolapse after hysterectomy
 
-If you've had a hysterectomy and are now experiencing pelvic pressure, a vaginal bulge, or a feeling that something is falling out, you may be dealing with **vaginal vault prolapse**. This occurs when the top of the vagina — which was previously supported by the uterus and its ligaments — loses its support and begins to descend.
+Have you had a hysterectomy and now feel pelvic pressure, a vaginal bulge, or a sense that something is falling out? You may have vaginal vault prolapse. This is when the top of the vagina drops down because it has lost its support.
 
-## Why This Happens
+The medical name for the top of the vagina is the vaginal vault, or vaginal apex.
 
-During a hysterectomy, the uterus is removed, but the vagina remains. The ligaments that previously held the uterus in place are the same ones that support the top of the vagina. Over time, if these ligaments weaken, the vaginal vault can descend — sometimes bringing the bladder (cystocele) or rectum (rectocele) with it.
+## Why this happens
 
-This doesn't mean your hysterectomy was done incorrectly. Vault prolapse is a known long-term possibility that reflects the ongoing effects of gravity, aging, and tissue changes on the pelvic floor.
+When you have a hysterectomy, the surgeon removes the uterus but leaves the vagina in place. The ligaments that used to hold the uterus are the same ones that support the top of the vagina. If those ligaments weaken over time, the top of the vagina can slip down.
 
-Dr. Stewart explains: "Vaginal vault prolapse after hysterectomy is more common than many women realize. The good news is that we have excellent repair options — in many ways, post-hysterectomy prolapse is actually more straightforward to repair because we can focus entirely on supporting the vaginal apex."
+After a hysterectomy, the back wall at the top of the vagina loses most of its ligament support. That makes it the most likely spot for prolapse to start. As the apex drops, it can pull the bladder or rectum down with it. A drop near the bladder is called a cystocele; near the rectum, a rectocele.
 
-## Signs You Should Seek Help
+This does not mean your hysterectomy was done wrong. Vault prolapse is a known long-term possibility. It reflects the everyday effects of gravity, aging, and changes in your tissue.
 
-- A feeling of pressure or fullness in the pelvis
-- A visible or palpable bulge at the vaginal opening
-- Difficulty with bowel movements or feeling of incomplete emptying
-- Urinary symptoms — leaking, urgency, or difficulty starting a stream
-- Discomfort during physical activity or prolonged standing
-- Changes in sexual function
+Prolapse after a hysterectomy is more common than many women expect. The encouraging part is that we have good repair options, and you have real choices in how to treat it.
 
-## Treatment Options
+## Signs you should get checked
 
-**Conservative:**
-- Pelvic floor physical therapy to strengthen supporting muscles
-- Pessary — a removable device to support the vaginal vault
+- Pressure or fullness in the pelvis
+- A bulge you can see or feel at the vaginal opening
+- Trouble with bowel movements, or a feeling that you do not empty fully
+- Bladder symptoms like leaking, urgency, or trouble starting your stream
+- Discomfort with activity or after standing a long time
+- Changes in sex, such as discomfort or a sense of looseness
 
-**Surgical:**
-- **Sacrocolpopexy** — the gold standard for vault prolapse repair. A mesh graft connects the top of the vagina to the sacral bone, providing durable support. Often performed robotically
-- **Vaginal vault suspension** — native tissue approaches to re-suspend the vaginal apex
+## Treatment options
 
-Dr. Stewart notes: "Sacrocolpopexy is particularly well-suited for vault prolapse after hysterectomy. It provides excellent, long-lasting support and is one of the most well-studied procedures in urogynecology."
+There is no single right answer here. We talk through your symptoms, your goals, and what matters most to you, then choose a plan together. Some women start with a pessary or physical therapy. Others move toward surgery. You can also combine approaches.
 
-## Your Next Steps
+A pessary is a removable silicone device that sits in the vagina and holds the top of the vagina up. Many women use one for years and skip surgery altogether. A pessary fits most women, even after a hysterectomy or prior prolapse surgery.
 
-If you've had a hysterectomy and are experiencing new pelvic symptoms, don't hesitate to seek evaluation. These symptoms are treatable, and early assessment gives you more options.
+Pelvic floor physical therapy is more than Kegels. A therapist works on the strength, relaxation, coordination, and endurance of your pelvic floor, plus the muscles around it: your hips, buttocks, thighs, and core. They also coach your breathing and posture. Therapy can ease symptoms and is often part of the plan before or after surgery. We have pelvic floor physical therapists in our office, along with a wider network across northeast Wisconsin and the Upper Peninsula of Michigan.
+
+If you choose surgery, the goal is to re-support the top of the vagina. There are two main routes:
+
+- Sacrocolpopexy. A soft mesh connects the top of the vagina to a ligament over your tailbone. We usually do this through small incisions with the help of a robot. It is one of the most studied prolapse repairs.
+- Native tissue repair through the vagina. We use your own ligaments and stitches, with no mesh. The two common versions attach the top of the vagina to your uterosacral ligaments (uterosacral ligament suspension) or to a nearby sacrospinous ligament (sacrospinous ligament fixation).
+
+In the first year or so, native tissue and mesh repairs work about equally well. A large real-world registry found similar recurrence rates at one year, with very low retreatment rates for both. But the longer-term picture is where they differ. Over many years, the mesh-augmented repair (sacrocolpopexy) tends to hold up better and is the more durable option. The trade-off is a small risk that the mesh can wear through the vaginal wall, called mesh exposure, which sometimes needs a minor procedure to fix.
+
+Native tissue repair avoids mesh entirely, so there is no risk of mesh exposure. It works well for many women, though prolapse is somewhat more likely to come back over time. The best choice depends on your anatomy, your health, and what matters most to you. We talk it through together.
+
+## Your next steps
+
+If you have had a hysterectomy and notice new pelvic symptoms, it is worth getting checked. These problems are very treatable, and seeing us early gives you more options.
 
 [Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)
+
+## References
+
+- ACOG/AUGS. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214 (Interim Update). Obstet Gynecol. 2019.
+- Barber MD, et al. Comparison of two transvaginal surgical approaches and perioperative behavioral therapy for apical vaginal prolapse: the OPTIMAL randomized trial. JAMA. 2014. [doi:10.1001/jama.2014.1719](https://doi.org/10.1001/jama.2014.1719)
+- Jelovsek JE, et al. Uterosacral ligament suspension vs sacrospinous ligament fixation at 5 years: the OPTIMAL randomized clinical trial. JAMA. 2018. [doi:10.1001/jama.2018.2827](https://doi.org/10.1001/jama.2018.2827)
+- Andy UU, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery: Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Ferrando CA, et al. Pelvic Floor Disorders Registry 12-month surgical outcomes by approach. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
+- Haylen BT, Vu D. Surgical anatomy of the vaginal vault. Neurourol Urodyn. 2022. [doi:10.1002/nau.24963](https://doi.org/10.1002/nau.24963)
+- Hooper GL, et al. AUGS-SUNA Clinical Consensus Statement: pessary use for pelvic organ prolapse. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Carberry CL, et al. AUGS Best Practice Statement: evaluation and counseling of patients with pelvic organ prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Hagen S, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)

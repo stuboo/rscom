@@ -7,47 +7,60 @@ description: "Pregnancy changes your pelvic floor. Learn what's normal, what's n
 permalink: /life-stages/prolapse-after-pregnancy
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-05-30
 testimonial_index: 4
 faq:
   - question: "When should I start pelvic floor exercises after delivery?"
-    answer: "Gentle pelvic floor exercises can often begin within days of delivery, though you should check with your provider. More structured physical therapy typically starts after the 6-week postpartum checkup."
+    answer: "Gentle pelvic floor exercises can often begin within days of delivery. Check with your provider first. More structured physical therapy usually starts after the 6-week postpartum checkup. Fear of soreness shouldn't keep you from starting once you're cleared."
   - question: "Is it normal to feel pressure after delivery?"
-    answer: "Some pelvic heaviness in the first few weeks postpartum is common. If it persists beyond 2-3 months or worsens, it's worth having evaluated."
+    answer: "Some pelvic heaviness in the first few weeks after birth is common. If it lasts beyond 2 to 3 months or gets worse, it's worth having checked."
   - question: "Will my pelvic floor recover completely?"
-    answer: "Many women recover fully, especially with targeted physical therapy. Some may have lasting changes that benefit from ongoing management or eventual treatment."
+    answer: "Many women recover well in the first year, and physical therapy helps. About 1 in 3 women have mild prolapse on exam 6 to 12 months after a first birth, and much of it is mild. Some women have lasting changes that benefit from ongoing care or treatment down the road."
 ---
 
-# Pelvic Floor Changes After Pregnancy
+# Pelvic floor changes after pregnancy
 
-Your body did something incredible during pregnancy and delivery. It's normal for the pelvic floor to need time to recover — but it's important to know the difference between expected postpartum changes and signs that you should seek specialist care.
+Pregnancy and birth ask a lot of your body. It's normal for the pelvic floor to need time to heal. The useful thing to know is the difference between expected changes and signs worth getting checked.
 
-## Why This Happens
+## Why this happens
 
-During pregnancy, the pelvic floor supports increasing weight for nine months while hormones soften connective tissue to prepare for delivery. During vaginal birth, these structures stretch to allow passage of the baby. This combination can lead to temporary or lasting changes in pelvic floor function.
+For nine months, your pelvic floor carries a growing weight while hormones soften the connective tissue for delivery. During a vaginal birth, these muscles and tissues stretch to let the baby pass. This can cause changes in how the pelvic floor works, and some of those changes last longer than others.
 
-Dr. Stewart explains: "Pregnancy is essentially a nine-month stress test for the pelvic floor. Most women recover well, but some develop symptoms that benefit from professional attention. The key is knowing when to seek help rather than assuming everything will resolve on its own."
+Pregnancy itself plays a role, not just delivery. Studies show that even women who have a cesarean can develop some pelvic floor changes. Vaginal birth adds more, mostly through stretching and nerve effects on the pelvic floor muscles.
 
-## Signs You Should Seek Help
+A lot of this is mild. About 1 in 3 women have a small amount of prolapse on exam 6 to 12 months after a first birth, and most of it doesn't cause bothersome symptoms. The first year is often a time of recovery.
 
-- Pelvic pressure or heaviness that persists beyond 3 months postpartum
-- Feeling a bulge in the vagina
-- Urinary leaking that isn't improving
-- Difficulty controlling gas or stool
-- Pain during intercourse that's new since delivery
+## Signs worth getting checked
 
-## Treatment Options
+- Pelvic pressure or heaviness that lasts beyond 3 months after birth
+- A bulge you can feel in the vagina
+- Urine leaking that isn't getting better
+- Trouble controlling gas or stool
+- New pain during sex since delivery
 
-- **Pelvic floor physical therapy** — the cornerstone of postpartum pelvic floor recovery
-- **Time** — tissue healing continues for up to a year
-- **Pessary** — if prolapse symptoms are bothersome, a pessary provides support while healing continues
-- **Specialist evaluation** — a urogynecologist can assess the full picture and plan treatment
+## What we can do
 
-Dr. Stewart notes: "I love helping postpartum women because the results are so rewarding. Many of my patients recover beautifully with physical therapy and patience. For those who need more, we have excellent options — but we typically wait until family is complete before considering surgery."
+There's no single right path. We'll talk through your symptoms, your goals, and your plans for more children, then decide together. Here are the main options.
 
-## Your Next Steps
+- Pelvic floor physical therapy. This is much more than Kegels. A pelvic floor PT works on strength, relaxation and lengthening, coordination, endurance, and breathing. It also addresses the muscles around the pelvis: your hips, buttocks, thighs, and core. Our practice has pelvic floor PTs in the office, plus a regional network across northeast Wisconsin and the Upper Peninsula of Michigan. Don't let fear of soreness keep you from starting once you're cleared.
+- Time. Tissue keeps healing through the first year, so symptoms often ease on their own.
+- Pessary. This is a small support device you wear in the vagina. If prolapse symptoms bother you, a pessary can ease them while healing continues. Many women use one as their main treatment.
+- Specialist evaluation. A urogynecologist can look at the whole picture and help you plan.
 
-Don't suffer in silence during what should be a joyful time. If your pelvic floor isn't recovering as expected, seeking evaluation is an investment in your long-term health.
+If you're done having children and symptoms are still bothering you, surgery is one option to discuss. Most women want to finish growing their family before considering it, since a later pregnancy can affect a repair.
+
+## Your next steps
+
+You don't have to wait it out alone, especially during a time that's already full. If your pelvic floor isn't bouncing back the way you expected, an evaluation is a good next step.
 
 [Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)
+
+## References
+
+1. Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. Int Urogynecol J. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
+2. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. Curr Opin Obstet Gynecol. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+3. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+4. Barber MD. Pelvic organ prolapse. BMJ. 2016;354:i3853. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+5. Carberry CL, et al. AUGS Best Practice Statement: evaluation and counseling of patients with pelvic organ prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)

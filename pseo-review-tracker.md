@@ -74,11 +74,11 @@ Last updated: 2026-03-15
 - [x] [H] life-stages/incontinence-after-weight-gain.md
 - [x] [H] life-stages/incontinence-during-menopause.md
 - [x] [H] life-stages/incontinence-in-athletes.md
-- [ ] life-stages/prolapse-after-hysterectomy.md
-- [ ] life-stages/prolapse-after-pregnancy.md
-- [ ] life-stages/prolapse-and-sexual-function.md
-- [ ] life-stages/prolapse-in-women-who-lift.md
-- [ ] life-stages/prolapse-in-younger-women.md
+- [x] [H] life-stages/prolapse-after-hysterectomy.md
+- [x] [H] life-stages/prolapse-after-pregnancy.md
+- [x] [H] life-stages/prolapse-and-sexual-function.md
+- [x] [H] life-stages/prolapse-in-women-who-lift.md
+- [x] [H] life-stages/prolapse-in-younger-women.md
 - [ ] life-stages/recurrent-prolapse.md
 
 ## Location Pages (136 pages across 34 cities)
