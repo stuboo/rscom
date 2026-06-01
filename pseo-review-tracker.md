@@ -122,11 +122,11 @@ Each city has 4 pages: fecal-incontinence, overactive-bladder, pelvic-organ-prol
 ## Treatment Comparison Pages (8 new pages)
 
 - [x] [H] treatments/comparisons/botox-vs-medication-oab.md
-- [ ] treatments/comparisons/mesh-vs-non-mesh-sling.md
-- [ ] treatments/comparisons/native-tissue-vs-sacrocolpopexy.md
-- [ ] treatments/comparisons/pessary-vs-surgery.md
-- [ ] treatments/comparisons/physical-therapy-vs-surgery-prolapse.md
-- [ ] treatments/comparisons/robotic-vs-vaginal-repair.md
+- [x] [H] treatments/comparisons/mesh-vs-non-mesh-sling.md
+- [x] [H] treatments/comparisons/native-tissue-vs-sacrocolpopexy.md
+- [x] [H] treatments/comparisons/pessary-vs-surgery.md
+- [x] [H] treatments/comparisons/physical-therapy-vs-surgery-prolapse.md
+- [x] [H] treatments/comparisons/robotic-vs-vaginal-repair.md
 - [ ] treatments/comparisons/sling-vs-bulking-agents.md
 - [ ] treatments/comparisons/snm-vs-botox-oab.md
 

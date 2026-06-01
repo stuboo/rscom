@@ -6,83 +6,114 @@ nav_order: 1
 description: "Compare pessary and surgical options for pelvic organ prolapse. Understand the pros, cons, recovery, and best candidates for each approach."
 permalink: /treatments/comparisons/pessary-vs-surgery
 nav_exclude: true
-published: false
+published: true
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-06-01
 testimonial_index: 0
 faq:
-  - question: "Can I try a pessary before deciding on surgery?"
-    answer: "Absolutely. Many women use a pessary as a first step. It provides immediate relief and gives you time to decide about surgery without any downside."
+  - question: "Is a pessary just a temporary fix before surgery?"
+    answer: "No. A pessary is a real long-term choice, not just a step before surgery. In a large national registry, most women who kept using a pessary stayed happy with it for years. Many women choose a pessary and never need surgery."
   - question: "How long does a pessary last?"
-    answer: "Silicone pessaries last for years with proper care. They should be removed and cleaned regularly and replaced if they show signs of wear."
+    answer: "A silicone pessary can last for years. You or your doctor remove and clean it on a regular schedule. We replace it if it shows wear."
+  - question: "Can I have sex with a pessary in?"
+    answer: "It depends on the type. Ring and dish pessaries can often stay in during sex. Space-filling types like the Gellhorn usually need to come out first. We can pick a type that fits your life."
   - question: "What if surgery doesn't fix my prolapse completely?"
-    answer: "Prolapse recurrence after surgery occurs in about 10-20% of cases, depending on the type of repair. If prolapse recurs, options include a pessary for the recurrence or revision surgery."
+    answer: "Prolapse can come back after surgery in some women. In a national registry, fewer than 1 in 7 women had it return within the first year. If it comes back, you can choose a pessary or another surgery."
   - question: "Can I switch from a pessary to surgery later?"
-    answer: "Yes. Using a pessary does not affect your eligibility for surgery later. Many women manage with a pessary for years before choosing surgical repair."
+    answer: "Yes. Using a pessary does not affect whether you can have surgery later. Many women use a pessary for years and choose surgery only if their goals change."
 ---
 
-# Pessary vs Surgery for Pelvic Organ Prolapse
+# Pessary vs surgery for pelvic organ prolapse
 
-When you're diagnosed with pelvic organ prolapse, one of the first decisions you'll face is whether to manage it conservatively with a pessary or pursue surgical repair. Both are effective approaches, and the right choice depends on your symptoms, goals, and personal preferences.
+If you have pelvic organ prolapse, you have two main treatment choices: a pessary or surgery. Both work well. Neither one is the "first step" before the other.
 
-## Understanding Pessary Treatment
+A pessary is a real long-term choice that many women prefer and stay with for years. Surgery is a one-time fix for women who want a definitive repair. The right path depends on your symptoms, your goals, and how you want to live.
 
-A pessary is a removable silicone device inserted into the vagina to support prolapsed organs. Think of it as an internal scaffold that holds everything in its proper position.
+This page walks through both so you can compare them side by side.
 
-**How it works:** The device sits inside the vagina and provides mechanical support, lifting the prolapsed organs back toward their normal position. It's fitted by your doctor and can be removed for cleaning.
+## How a pessary works
 
-**What to expect:**
-- Fitted in the office during a brief visit — several shapes and sizes are tried to find the best fit
-- Can be worn continuously or removed daily/weekly for cleaning
-- Provides immediate symptom relief for most women
-- Follow-up visits every 3-6 months
+A pessary is a small, removable silicone device. You place it in the vagina, and it supports the organs that have dropped. Think of it as a built-in support that holds things in place.
 
-## Understanding Surgical Repair
+You can wear it all the time, or take it out on a schedule to clean it. Some types you manage yourself at home. Others your doctor manages for you.
 
-Surgical options for prolapse aim to permanently restore pelvic support. Approaches include vaginal native tissue repair and abdominal sacrocolpopexy (often done robotically).
+What to expect:
+- We fit it in the office during a short visit. We try a few shapes and sizes to find the one that fits you best.
+- Most women feel relief right away.
+- Ring and dish pessaries can often stay in during sex. Space-filling types usually come out first.
+- Follow-up visits run about every 3 to 6 months, or once a year if you care for it yourself.
 
-**How it works:** Surgery reconstructs the weakened support structures using either your own tissue (native tissue repair) or synthetic mesh placed abdominally (sacrocolpopexy).
+A pessary fits most women. Even if you have risk factors that make fitting harder, it is still worth trying one if you want to. Prolapse stage does not predict whether a pessary will work for you.
 
-**What to expect:**
-- Outpatient or short hospital stay
-- 2-6 weeks of activity restrictions during recovery
-- Long-term structural correction
+## How surgery works
 
-## Side-by-Side Comparison
+Surgery rebuilds the support that has weakened. The two main approaches are vaginal repair using your own tissue (native tissue repair) and abdominal repair using mesh (sacrocolpopexy, often done robotically).
+
+What to expect:
+- Most repairs are outpatient or a short hospital stay.
+- You take it easy for a few weeks while you heal. We ask you to avoid sex and heavy lifting, then add activity back as your body tells you it is ready.
+- Surgery aims to correct the anatomy itself, so you do not manage a device day to day.
+
+## Side-by-side comparison
 
 | Factor | Pessary | Surgery |
 |--------|---------|---------|
-| **Invasiveness** | Non-surgical, removable | Surgical procedure under anesthesia |
-| **Recovery** | None — immediate use | 2-6 weeks of restrictions |
-| **Effectiveness** | Manages symptoms while worn | Corrects underlying anatomy |
-| **Durability** | Ongoing — must continue wearing | Long-lasting structural repair |
-| **Reversibility** | Fully reversible — remove anytime | Permanent (revision possible) |
-| **Risks** | Vaginal irritation, discharge, rare erosion | Surgical risks, recurrence possible |
-| **Best for** | Women wanting non-surgical management, poor surgical candidates, temporary solution | Women wanting definitive correction, active lifestyles, failed pessary |
+| What it is | A removable silicone device you wear | A repair done in the operating room |
+| Anesthesia | None | Yes |
+| Recovery | None. You use it right away | A few weeks of taking it easy |
+| What it does | Holds the prolapse up while you wear it | Rebuilds the support itself |
+| Ongoing care | You or your doctor clean and check it | Little day-to-day care once you heal |
+| Reversible? | Yes. Take it out anytime | No, though another surgery is possible |
+| Common risks | Vaginal irritation, discharge, sores (erosion) | Surgery risks; the prolapse can come back |
+| Effect on sex life | No change in sexual function scores | Can improve sexual function |
 
-## Dr. Stewart's Perspective
+## What the research shows
 
-I never view pessary and surgery as competitors — they're complementary tools. A pessary is an excellent first step for many women. It gives you immediate relief while you take time to decide if surgery is right for you. Some women use a pessary for years and are perfectly happy. Others try it and decide they want a permanent fix.
+A large national study (the Pelvic Floor Disorders Registry) followed women for up to 3 years. It tracked women who chose a pessary and women who chose surgery. Both groups did well.
 
-I also use pessaries diagnostically. If a pessary significantly improves your symptoms, that tells me surgery is likely to give you a great result too. It's a low-risk way to preview the potential benefit of surgical repair.
+Among women who kept using a pessary, 78% felt much or very much better at 1 year, and over 90% felt that way at 2 and 3 years. After the first year, very few women stopped. Most women who switch to surgery do so early, often because they planned on surgery from the start.
 
-## Who Is the Best Candidate for Each?
+Women who chose surgery also did well. Fewer than 1 in 7 had their prolapse return in the first year, and repeat surgery was rare. One real difference: surgery improved sexual function and overall quality of life more than a pessary did. A pessary holds the prolapse up but does not change those scores much.
 
-**A pessary may be ideal if you:**
-- Want to avoid surgery
-- Have medical conditions that increase surgical risk
-- Are planning future pregnancies
-- Want to 'try before you decide' on surgery
-- Have mild to moderate prolapse with manageable symptoms
+So this is not a contest where one option wins. It is about which trade-offs fit your life.
 
-**Surgery may be ideal if you:**
-- Want a permanent solution
-- Have symptoms that significantly affect daily life
-- Have tried a pessary without adequate relief
-- Have severe prolapse
-- Are healthy enough for surgery and want to avoid ongoing device management
+## How I think about the choice
 
-## Making Your Decision
+I do not see a pessary and surgery as competing. They are two valid endpoints, and the right one depends on you.
 
-There's no wrong answer here. Dr. Stewart will help you weigh the factors that matter most to you — whether that's avoiding surgery, minimizing ongoing maintenance, or achieving the most durable result. Many women start with a pessary and later decide on surgery, and that's a perfectly valid approach.
+A pessary is a real long-term choice. Many women wear one for years and never want anything else. It avoids surgery, you can stop anytime, and it works for most women.
 
-The best treatment is the one that aligns with your symptoms, values, and life. Dr. Stewart will walk you through both options in detail during your consultation, answer all your questions, and help you feel confident in whatever path you choose.
+Surgery is the right call when you want a one-time, definitive repair and you would rather not manage a device. It also tends to do more for your sex life and overall quality of life.
+
+Pelvic floor physical therapy can go alongside either path. It is more than Kegels. We have pelvic floor PTs in our office, plus a regional network across northeast Wisconsin and the Upper Peninsula of Michigan.
+
+## A pessary may fit you well if you
+
+- Want to avoid surgery, now or for good
+- Have health conditions that raise your surgery risk
+- May want to get pregnant in the future
+- Are comfortable with a small amount of upkeep
+- Want relief right away
+
+## Surgery may fit you well if you
+
+- Want a one-time, definitive repair
+- Would rather not manage a device day to day
+- Have symptoms that get in the way of daily life
+- Care about restoring sexual function and quality of life
+- Are healthy enough for an operation
+
+## Making your decision
+
+There is no wrong answer. We will weigh what matters most to you, whether that is avoiding surgery, keeping upkeep low, or getting the most durable repair.
+
+Some women choose a pessary and stay with it for years. Others choose surgery from the start. Both are good choices. We will go through your options together and help you feel sure about the path you pick.
+
+## References
+
+- Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery: results from the multicenter Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Yurteri-Kaplan LA, Meyn L, Moalli PA, et al. Outcomes of pessary use at 1 year in women treated for pelvic organ prolapse in a large multicenter registry. Urogynecology. 2022. [doi:10.1097/SPV.0000000000001279](https://doi.org/10.1097/SPV.0000000000001279)
+- Ferrando CA, Bradley CS, Meyn LA, et al. Twelve month outcomes of pelvic organ prolapse surgery in patients enrolled in the multicenter Pelvic Floor Disorders Registry. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal pessary use and management for pelvic organ prolapse (AUGS-SUNA clinical consensus statement). Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS best practice statement: evaluation and counseling of patients with pelvic organ prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic organ prolapse. ACOG Practice Bulletin No. 214. Obstetrics & Gynecology. 2019.
