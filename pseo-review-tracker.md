@@ -1,6 +1,6 @@
 # Programmatic SEO Page Review Tracker
 
-Last updated: 2026-03-15
+Last updated: 2026-06-07
 
 ## Legend
 - [ ] = Not yet reviewed
@@ -79,13 +79,13 @@ Last updated: 2026-03-15
 - [x] [H] life-stages/prolapse-and-sexual-function.md
 - [x] [H] life-stages/prolapse-in-women-who-lift.md
 - [x] [H] life-stages/prolapse-in-younger-women.md
-- [ ] life-stages/recurrent-prolapse.md
+- [x] [H] life-stages/recurrent-prolapse.md
 
 ## Location Pages (136 pages across 34 cities)
 Each city has 4 pages: fecal-incontinence, overactive-bladder, pelvic-organ-prolapse, urinary-incontinence
 
 - [x] locations/appleton/ (4 pages) — urinary-incontinence fully reviewed+humanized; other 3 got drive time fix
-- [ ] locations/brillion/ (4 pages)
+- [x] [H] locations/brillion/ (4 pages)
 - [ ] locations/chilton/ (4 pages)
 - [ ] locations/clintonville/ (4 pages)
 - [ ] locations/crystal-falls/ (4 pages)
@@ -127,8 +127,8 @@ Each city has 4 pages: fecal-incontinence, overactive-bladder, pelvic-organ-prol
 - [x] [H] treatments/comparisons/pessary-vs-surgery.md
 - [x] [H] treatments/comparisons/physical-therapy-vs-surgery-prolapse.md
 - [x] [H] treatments/comparisons/robotic-vs-vaginal-repair.md
-- [ ] treatments/comparisons/sling-vs-bulking-agents.md
-- [ ] treatments/comparisons/snm-vs-botox-oab.md
+- [x] [H] treatments/comparisons/sling-vs-bulking-agents.md
+- [x] [H] treatments/comparisons/snm-vs-botox-oab.md
 
 ---
 
@@ -140,6 +140,15 @@ Each city has 4 pages: fecal-incontinence, overactive-bladder, pelvic-organ-prol
 - Specialty name update: 5 files
 
 ## Change Log
+
+### 2026-06-07 — pSEO review pipeline rebuilt (headless) + 7-page batch
+- Reworked the review pipeline into a headless textarea web app (served over Tailscale); ported the urogyn clinical wiki to stubuntu (`~/urogyn-wiki/`, synced from the Mac twice daily) as the evidence-grounding source.
+- Reviewed + approved 7 pages, each edited against named wiki articles, humanized + de-slopped, and committed individually:
+  - life-stages/recurrent-prolapse.md — removed unsupported "different surgery prevents recurrence" claim; corrected recurrence framing (Guérin 2025, Ferrando 2023); pessary/PT as shared-decision options. Added 8 references.
+  - treatments/comparisons/sling-vs-bulking-agents.md — corrected overstated bulking/sling cure rates; bulking legitimized as office-based option. Added 5 references.
+  - treatments/comparisons/snm-vs-botox-oab.md — fixed downplayed Botox self-cath/UTI risk and battery-life overstatement; removed a mis-cited fecal-incontinence source. Added 10 references.
+  - locations/brillion/{fecal-incontinence,overactive-bladder,pelvic-organ-prolapse,urinary-incontinence}.md — clinical content aligned to the approved Green Bay golden sibling; local geography preserved; references + last_evidence_review added.
+- New standard: every evidence-based article must carry a `## References` section (real `sources/` only) + `last_evidence_review` date.
 
 ### 2026-03-15 — botox-vs-medication-oab.md
 - Fixed intro: "two main medical options" → "several options, two most common are..."
