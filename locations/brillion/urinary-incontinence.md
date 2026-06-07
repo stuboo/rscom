@@ -8,6 +8,7 @@ condition_slug: urinary-incontinence
 nav_exclude: true
 published: false
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-06-07
 testimonial_index: 3
 faq:
   - question: "Is there a urogynecologist near Brillion, WI?"
