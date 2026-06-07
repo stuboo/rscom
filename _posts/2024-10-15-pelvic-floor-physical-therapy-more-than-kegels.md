@@ -19,8 +19,6 @@ description: "Discover how pelvic floor physical therapy goes beyond Kegel exerc
 last_reviewed_date: 2024-10-15
 ---
 
-# Pelvic Floor Physical Therapy: It's More Than Just Kegels
-
 Many women have heard of Kegel exercises, but few know how much pelvic floor physical therapy can do. For many pelvic floor disorders it's one of the most effective treatments there is, and it covers far more ground than Kegels.
 ## What is Pelvic Floor Physical Therapy?
 

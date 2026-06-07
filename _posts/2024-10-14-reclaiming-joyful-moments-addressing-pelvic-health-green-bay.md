@@ -10,8 +10,6 @@ redirect_from:
 last_reviewed_date: 2024-10-14
 ---
 
-# Reclaiming Joyful Moments: Addressing Pelvic Health Concerns in Green Bay
-
 A Green Bay Packers game is a tradition here, the kind of thing that pulls a whole community together. I was at Lambeau Field recently with my family, surrounded by thousands of cheering fans, and somewhere in the noise I started thinking about the women who weren't there, or who were there but on edge, because of a pelvic health problem no one talks about.
 
 ## The hurdle nobody mentions

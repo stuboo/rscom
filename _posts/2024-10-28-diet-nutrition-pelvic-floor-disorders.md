@@ -19,8 +19,6 @@ description: "Explore how diet and nutrition can impact pelvic floor health, foc
 last_reviewed_date: 2024-10-28
 ---
 
-# The Role of Diet and Nutrition in Managing Pelvic Floor Disorders
-
 Pelvic floor disorders, including prolapse and incontinence, affect a large number of women. Treatment usually centers on physical therapy and surgery, but a growing body of research points to diet and nutrition as a factor too.
 
 ## Understanding Pelvic Floor Disorders
