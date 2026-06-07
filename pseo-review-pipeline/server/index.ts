@@ -1,143 +1,149 @@
+import { join } from "path";
+import { existsSync, writeFileSync } from "fs";
 import {
-  getState,
-  next,
-  propose,
-  markReviewed,
-  type Proposal,
+  REPO_ROOT,
+  getDraftBody,
+  getMeta,
+  getOriginal,
+  listPages,
+  markApproved,
+  putDraft,
+  registerBatch,
+  saveDraftBody,
+  type Reference,
 } from "./state";
 
-const PORT = 19600;
-const ALLOWED_ORIGINS = ["http://127.0.0.1:4000"];
+const PORT = Number(process.env.PSEO_PORT ?? 19600);
+const PUBLIC_DIR = join(import.meta.dir, "..", "public");
 
-function corsHeaders(origin?: string | null): Record<string, string> {
-  const headers: Record<string, string> = {
-    "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
-  };
-  // Allow any chrome-extension origin, or the Jekyll dev server
-  if (origin && (origin.startsWith("chrome-extension://") || ALLOWED_ORIGINS.includes(origin))) {
-    headers["Access-Control-Allow-Origin"] = origin;
-  }
-  return headers;
-}
-
-function json(data: unknown, status = 200, origin?: string | null): Response {
+function json(data: unknown, status = 200): Response {
   return new Response(JSON.stringify(data), {
     status,
-    headers: { "Content-Type": "application/json", ...corsHeaders(origin) },
+    headers: { "Content-Type": "application/json" },
   });
+}
+
+/** Commit a single file to the repo on the current branch. */
+async function commitFile(path: string, message: string): Promise<{ ok: boolean; error?: string }> {
+  const add = Bun.spawn(["git", "-C", REPO_ROOT, "add", "--", path], {
+    stdout: "pipe",
+    stderr: "pipe",
+  });
+  if ((await add.exited) !== 0) {
+    return { ok: false, error: await new Response(add.stderr).text() };
+  }
+  const commit = Bun.spawn(
+    ["git", "-C", REPO_ROOT, "commit", "-m", message, "--", path],
+    { stdout: "pipe", stderr: "pipe" }
+  );
+  if ((await commit.exited) !== 0) {
+    const err = await new Response(commit.stderr).text();
+    const out = await new Response(commit.stdout).text();
+    // "nothing to commit" is not a hard failure — the approved content matched HEAD.
+    if (/nothing to commit/i.test(out + err)) return { ok: true };
+    return { ok: false, error: err || out };
+  }
+  return { ok: true };
 }
 
 Bun.serve({
   port: PORT,
   async fetch(req) {
     const url = new URL(req.url);
-    const origin = req.headers.get("Origin");
+    const { pathname } = url;
 
-    // Handle CORS preflight
-    if (req.method === "OPTIONS") {
-      return new Response(null, { status: 204, headers: corsHeaders(origin) });
+    // --- API ---
+
+    // GET /api/pages -> sidebar list
+    if (pathname === "/api/pages" && req.method === "GET") {
+      return json(listPages());
     }
 
-    // GET /health
-    if (url.pathname === "/health" && req.method === "GET") {
-      const state = getState();
-      const pending = state.queue.filter((q) => q.status === "pending").length;
-      const reviewed = state.queue.filter((q) => q.status === "reviewed").length;
-      return json(
-        {
-          status: state.status,
-          queue_length: pending,
-          reviewed_count: reviewed,
-          current_page: state.current,
-        },
-        200,
-        origin
-      );
+    // GET /api/page?path=... -> draft + original + evidence
+    if (pathname === "/api/page" && req.method === "GET") {
+      const path = url.searchParams.get("path");
+      if (!path) return json({ error: "Missing path" }, 400);
+      const meta = getMeta(path);
+      if (!meta) return json({ error: "Unknown page" }, 404);
+      return json({
+        path,
+        title: meta.title,
+        summary: meta.summary,
+        references: meta.references,
+        draft: getDraftBody(path) ?? "",
+        original: getOriginal(path) ?? "",
+      });
     }
 
-    // GET /current
-    if (url.pathname === "/current" && req.method === "GET") {
-      const state = getState();
-      if (!state.current) {
-        return json({ error: "No current page" }, 404, origin);
-      }
-      const proposal = state.proposals.get(state.current);
-      if (!proposal) {
-        return json({ error: "No proposal for current page" }, 404, origin);
-      }
-      return json(proposal, 200, origin);
+    // POST /api/batch -> register pages as "drafting"
+    if (pathname === "/api/batch" && req.method === "POST") {
+      const body = (await req.json()) as { pages: { path: string; title?: string }[] };
+      registerBatch(body.pages ?? []);
+      return json({ ok: true, count: (body.pages ?? []).length });
     }
 
-    // POST /propose
-    if (url.pathname === "/propose" && req.method === "POST") {
-      const body = (await req.json()) as Proposal;
-      propose(body);
-      return json({ ok: true }, 200, origin);
-    }
-
-    // POST /decide
-    if (url.pathname === "/decide" && req.method === "POST") {
+    // POST /api/draft -> store a finished draft
+    if (pathname === "/api/draft" && req.method === "POST") {
       const body = (await req.json()) as {
-        decision: "approve" | "revise" | "skip";
-        feedback?: string;
+        path: string;
+        draft: string;
+        summary?: string;
+        references?: Reference[];
+        title?: string;
       };
-      const state = getState();
-
-      if (!state.current) {
-        return json({ error: "No current page" }, 400, origin);
+      if (!body.path || typeof body.draft !== "string") {
+        return json({ error: "path and draft are required" }, 400);
       }
-
-      const proposal = state.proposals.get(state.current);
-
-      if (body.decision === "approve") {
-        markReviewed(state.current);
-        const approvedProposal = proposal ?? null;
-        next();
-        return json({ ok: true, proposal: approvedProposal }, 200, origin);
-      }
-
-      if (body.decision === "skip") {
-        markReviewed(state.current);
-        next();
-        return json({ ok: true }, 200, origin);
-      }
-
-      if (body.decision === "revise") {
-        // Store feedback in the proposal and reset to researching
-        if (proposal && body.feedback) {
-          (proposal as Proposal & { feedback?: string }).feedback = body.feedback;
-        }
-        state.status = "researching";
-        return json({ ok: true }, 200, origin);
-      }
-
-      return json({ error: "Invalid decision" }, 400, origin);
-    }
-
-    // GET /queue
-    if (url.pathname === "/queue" && req.method === "GET") {
-      const state = getState();
-      return json(
-        state.queue.map((q) => ({ path: q.path, status: q.status })),
-        200,
-        origin
+      putDraft(
+        body.path,
+        body.draft,
+        body.summary ?? "",
+        body.references ?? [],
+        body.title
       );
+      return json({ ok: true });
     }
 
-    // POST /next
-    if (url.pathname === "/next" && req.method === "POST") {
-      const page = next();
-      const state = getState();
-      return json(
-        { ok: true, current: page, status: state.status },
-        200,
-        origin
-      );
+    // POST /api/save -> autosave edited draft body (no commit)
+    if (pathname === "/api/save" && req.method === "POST") {
+      const body = (await req.json()) as { path: string; content: string };
+      if (!body.path || typeof body.content !== "string") {
+        return json({ error: "path and content are required" }, 400);
+      }
+      const ok = saveDraftBody(body.path, body.content);
+      return json(ok ? { ok: true } : { error: "Unknown page" }, ok ? 200 : 404);
     }
 
-    return json({ error: "Not found" }, 404, origin);
+    // POST /api/approve -> write to repo, commit, mark approved
+    if (pathname === "/api/approve" && req.method === "POST") {
+      const body = (await req.json()) as { path: string; content: string };
+      if (!body.path || typeof body.content !== "string") {
+        return json({ error: "path and content are required" }, 400);
+      }
+      const target = join(REPO_ROOT, body.path);
+      if (!existsSync(target)) {
+        return json({ error: `Page not found in repo: ${body.path}` }, 404);
+      }
+      writeFileSync(target, body.content);
+      const result = await commitFile(body.path, `pSEO review: ${body.path}`);
+      if (!result.ok) {
+        return json({ error: `Commit failed: ${result.error}` }, 500);
+      }
+      markApproved(body.path);
+      return json({ ok: true });
+    }
+
+    // --- Static UI ---
+
+    if (req.method === "GET") {
+      const rel = pathname === "/" ? "index.html" : pathname.replace(/^\/+/, "");
+      const file = Bun.file(join(PUBLIC_DIR, rel));
+      if (await file.exists()) return new Response(file);
+    }
+
+    return json({ error: "Not found" }, 404);
   },
 });
 
 console.error(`pseo-review server listening on http://127.0.0.1:${PORT}`);
+console.error(`repo root: ${REPO_ROOT}`);

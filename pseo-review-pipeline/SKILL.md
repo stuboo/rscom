@@ -1,10 +1,11 @@
 ---
 name: pseo-review
-version: 2.0.0
+version: 3.0.0
 description: |
-  Expert review pipeline for programmatic SEO pages. Chrome extension + Bun server
-  + research agent loop. Agents pre-research pages against a medical wiki, propose
-  edits via API, and a Chrome sidebar lets the physician approve/revise/skip.
+  Headless review pipeline for programmatic SEO pages. Bun server + web textarea UI
+  served over Tailscale. A research agent pre-drafts full revised pages against a
+  medical wiki (humanized + de-slopped), and the physician edits each draft directly
+  in a browser textarea and approves — each approval commits to git.
 allowed-tools:
   - Read
   - Write
@@ -19,155 +20,160 @@ trigger: |
   "start review pipeline", or wants to continue the page-by-page review process.
 ---
 
-# pSEO Review Pipeline
+# pSEO Review Pipeline (headless)
 
-You are assisting a urogynecologist (the clinical expert) in reviewing programmatic SEO pages for accuracy, completeness, and readability using an automated research + sidebar review pipeline.
+You are assisting a urogynecologist (the clinical expert) in reviewing programmatic SEO
+pages for accuracy, completeness, and readability. The box is headless: review happens in
+a browser textarea served over Tailscale, not a Chrome extension.
 
 ## Architecture
 
 ```
-┌─────────────┐  POST /propose   ┌────────────┐  GET /current   ┌──────────────┐
-│  Research    │ ───────────────► │ Bun Server │ ◄────────────── │   Chrome      │
-│  Agent       │                  │ :19600     │ ───────────────► │   Sidebar     │
-│  (Claude)    │ ◄─ POST /next ── │            │  POST /decide   │   Extension   │
-└─────────────┘                  └────────────┘                 └──────────────┘
-                                       ▲
-                                       │ highlights
-                                       ▼
-                                 ┌──────────────┐
-                                 │ Jekyll Preview│
-                                 │ :4000        │
-                                 └──────────────┘
+┌──────────────┐  POST /api/draft   ┌────────────┐   GET /        ┌──────────────┐
+│ Research      │ ─────────────────► │ Bun server │ ─────────────► │  Browser      │
+│ agent(s)      │                    │ :19600     │  textarea UI   │  (physician   │
+│ (you, Claude) │                    │            │ ◄───────────── │   over        │
+└──────────────┘                    └────────────┘  POST /approve │   Tailscale)  │
+       │ humanizer + stop-slop            │ git commit            └──────────────┘
+       ▼                                  ▼
+  full revised draft                 repo markdown
 ```
 
-- **Bun server** (`server/index.ts`): API on port 19600, manages queue and state
-- **Chrome extension** (`extension/`): sidebar UI for physician review decisions
-- **Research agent**: Claude Code agent that reads wiki → compares against page → POSTs proposals
-- **Jekyll preview**: local site at http://127.0.0.1:4000 for reading pages in context
+- **Bun server** (`server/index.ts`): serves the UI on `:19600` and the JSON API. Draft +
+  session state live on disk under `drafts/` (gitignored), so they survive a restart.
+- **Web UI** (`public/index.html`): sidebar list of pages + textarea + collapsible evidence
+  panel + diff-vs-original toggle. Self-contained, no build, no deps.
+- **Research agent**: a Claude Code agent (you spawn it) that reads the wiki, produces a
+  **full revised draft** of each page, then runs `/humanizer` + `/stop-slop` before posting.
+- The server is **decoupled from `pseo-review-tracker.md`** — it never edits that file.
+  Each approval commits to git; you reconcile the tracker in a batch afterward.
 
 ## Setup & Startup
 
-### 1. Start Jekyll preview (if not already running)
+### 1. Start the review server
 
 ```bash
-cd /Users/jrs/Library/CloudStorage/Dropbox/ryan/Projects/@inprogress_proj/GitHub/rscom
-bundle exec jekyll serve --livereload
-```
-
-### 2. Start the review server
-
-```bash
-cd /Users/jrs/Library/CloudStorage/Dropbox/ryan/Projects/@inprogress_proj/GitHub/rscom/pseo-review-pipeline
+cd <repo>/pseo-review-pipeline
 bun run server/index.ts
+# logs: pseo-review server listening on http://127.0.0.1:19600
+#       repo root: <repo>
 ```
 
-The server logs `pseo-review server listening on http://127.0.0.1:19600` to stderr.
+Repo root is auto-detected as two levels up from `server/`. Override with `RSCOM_ROOT` if
+the checkout moved. Port override: `PSEO_PORT`. Draft dir override: `RSCOM_DRAFTS`.
 
-### 3. Load the Chrome extension
-
-1. Open `chrome://extensions/`
-2. Enable "Developer mode" (top right)
-3. Click "Load unpacked" and select the `pseo-review-pipeline/extension/` directory
-4. The pSEO Review extension appears with a side panel
-
-Or launch Chrome with the extension pre-loaded:
+### 2. Expose it on the tailnet
 
 ```bash
-/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \
-  --load-extension="$PWD/extension" \
-  --auto-open-devtools-for-tabs \
-  http://127.0.0.1:4000
+tailscale serve --bg 19600
+tailscale serve status   # shows the https://<machine>.<tailnet>.ts.net URL
 ```
 
-## Shutdown
+The physician opens that HTTPS URL (or `http://<machine>:19600` via MagicDNS if you skip
+`serve` and bind to the tailnet). Tailscale + your ACLs are the access boundary — the app
+itself has no auth, so keep it tailnet-only (never `tailscale funnel`).
+
+### Shutdown
 
 ```bash
-# Stop the Bun server (Ctrl+C in its terminal, or):
-lsof -ti:19600 | xargs kill
-
-# Stop Jekyll (Ctrl+C in its terminal, or):
-lsof -ti:4000 | xargs kill
+tailscale serve reset          # stop exposing the port
+lsof -ti:19600 | xargs kill     # stop the Bun server
 ```
 
 ## Orchestration Workflow
 
-### Full review loop
+### 1. Pick a batch
 
-1. **Start services** (Jekyll + Bun server + Chrome extension)
-2. **Advance the queue**: `POST /next` → server sets status to `researching`, returns next page path
-3. **Research agent** runs (see prompt template below):
-   - Reads the page markdown
-   - Queries the wiki for relevant clinical concepts
-   - Compares page content against wiki evidence
-   - Generates a structured Proposal
-   - POSTs to `http://127.0.0.1:19600/propose`
-4. **Sidebar shows proposal** (server status → `ready`, sidebar polls and renders)
-5. **Physician decides**:
-   - **Approve**: sidebar POSTs `{decision: "approve"}` → server marks reviewed, advances queue
-   - **Revise**: sidebar POSTs `{decision: "revise", feedback: "..."}` → server stores feedback, resets to `researching` → research agent re-runs with feedback
-   - **Skip**: sidebar POSTs `{decision: "skip"}` → server marks reviewed, advances queue
-6. **On approve**: the orchestrator applies the approved changes to the markdown file, runs `/humanizer`, marks `[x] [H]` in the tracker
-7. **Loop**: go to step 2 until queue is empty (status → `idle`)
+Read `pseo-review-tracker.md`, take the next ~10 unreviewed pages (`- [ ]`). Expand any
+location directory line (e.g. `locations/brillion/ (4 pages)`) into its 4 `.md` files.
 
-### Driving the loop from Claude Code
+### 2. Register the batch (so they show as "drafting")
 
+```bash
+curl -s -X POST http://127.0.0.1:19600/api/batch \
+  -H 'Content-Type: application/json' \
+  -d '{"pages":[{"path":"life-stages/recurrent-prolapse.md"}, ...]}'
 ```
-# Advance to next page
-curl -s -X POST http://127.0.0.1:19600/next | jq
 
-# Check status
-curl -s http://127.0.0.1:19600/health | jq
+### 3. Draft each page (research agent → humanize → post)
 
-# Submit a proposal (research agent does this)
-curl -s -X POST http://127.0.0.1:19600/propose \
-  -H "Content-Type: application/json" \
-  -d '{"page":"path/to/file.md","summary":"...","changes":[...],"references":[...]}'
+For each page, spawn a research agent (prompt template below). The agent returns a full
+revised markdown draft plus an evidence summary and references. Then **you** run
+`/humanizer` and `/stop-slop` on that draft before posting it, so what the physician sees is
+already clean:
 
-# Get current proposal
-curl -s http://127.0.0.1:19600/current | jq
+```bash
+curl -s -X POST http://127.0.0.1:19600/api/draft \
+  -H 'Content-Type: application/json' \
+  -d '{"path":"...","draft":"<full markdown>","summary":"...","references":[...]}'
 ```
+
+The page flips from `drafting` → `ready` in the sidebar the moment its draft lands.
+
+### 4. Physician reviews
+
+In the browser: click a page → its draft loads in the textarea, evidence summary +
+references show above it, and the **Diff vs original** toggle shows what changed. The
+physician edits freely (autosaved every ~1.2s) and clicks **Approve & commit**:
+
+- The textarea content (their edits, authoritative) is written to the repo file.
+- The server commits just that file: `pSEO review: <path>`.
+- Status → `approved`, and the UI advances to the next `ready` page.
+
+There is no "revise" round-trip and no AskUserQuestion — the physician edits directly.
+
+### 5. Reconcile the tracker (batch, after a session)
+
+The server doesn't touch `pseo-review-tracker.md`. After a session, mark the approved pages
+`- [x] [H]` (they were humanized + de-slopped before review) and append Change Log entries.
+Use `git log --oneline` for the list of `pSEO review:` commits to know what was approved.
 
 ## API Reference
 
 | Method | Path | Description |
 |--------|------|-------------|
-| GET | `/health` | `{ status, queue_length, reviewed_count, current_page }` |
-| GET | `/current` | Current Proposal object (404 if none) |
-| POST | `/propose` | Accept Proposal JSON body, set status → `ready` |
-| POST | `/decide` | `{ decision: "approve"\|"revise"\|"skip", feedback?: string }` |
-| GET | `/queue` | Array of `{ path, status }` for all pages |
-| POST | `/next` | Advance to next unreviewed page, status → `researching` |
+| GET  | `/` | The textarea review UI |
+| GET  | `/api/pages` | `[{ path, title, status }]` — status = `drafting \| ready \| approved` |
+| GET  | `/api/page?path=…` | `{ path, title, summary, references, draft, original }` |
+| POST | `/api/batch` | `{ pages: [{ path, title? }] }` → register pages as `drafting` |
+| POST | `/api/draft` | `{ path, draft, summary?, references?, title? }` → store finished draft |
+| POST | `/api/save` | `{ path, content }` → autosave edited draft body (no commit) |
+| POST | `/api/approve` | `{ path, content }` → write file, git commit, mark `approved` |
 
 ## Research Agent Prompt Template
 
-Use this prompt when launching the research agent (via the Agent tool) for each page:
+Spawn one agent per page (via the Agent tool):
 
 ```
-You are a medical content research agent. Your job is to review a programmatic SEO
-page for clinical accuracy and completeness by comparing it against a medical
-knowledge wiki.
+You are a medical content research agent reviewing a programmatic SEO page for clinical
+accuracy and completeness by comparing it against a medical knowledge wiki.
 
 ## Page to review
+Read the page markdown at: {pagePath}
 
-Read the page at: {pagePath}
-The page is live at: http://127.0.0.1:4000/{permalink}
+## Knowledge base (clinical wiki)
+The medical wiki lives at `/home/jryanstewart/urogyn-wiki/` (synced from the Mac's Obsidian
+vault every 15 min via cron — see `~/bin/sync-wiki.sh`):
+- `wiki/INDEX.md` — index of all 213 concept articles by topic + category
+- `wiki/concepts/<topic>.md` — per-topic articles with an Evidence section and `sources:` keys
+- `wiki/categories/<category>.md` — category roll-ups
+- `sources/<citation-key>.md` — full bibliographic detail (authors, title, journal, year, doi)
+  for the `[[citation-key]]` references in each concept article
 
 ## Research process
-
-1. Read the page markdown file
-2. Identify the condition/topic and key clinical claims
-3. Search the wiki for relevant articles:
-   - Look in wiki/ directory for topic-related files
-   - Read relevant wiki articles for evidence and citations
-4. Compare the page content against wiki evidence:
+1. Read the page markdown file.
+2. Identify the condition/topic and key clinical claims.
+3. Open `wiki/INDEX.md`, find the relevant concept articles, and read them for evidence;
+   resolve their `sources:` keys against `sources/` for citation detail.
+4. Compare the page against wiki evidence:
    - Are clinical claims accurate and up-to-date?
    - Are treatment options complete (nothing major missing)?
    - Are any statements misleading or oversimplified?
-   - Does the page follow established clinical patterns (see below)?
-5. Generate a structured Proposal with specific changes
+   - Does it follow the clinical patterns below?
+5. Produce a FULL revised version of the page markdown (frontmatter included), making only
+   evidence-backed clinical edits. Keep changes surgical — do not rewrite sound sections.
 
 ## Clinical patterns to enforce
-
 - Shared decision-making approach, NOT stepwise conservative-first
 - PT is not just Kegels — includes strength, relaxation/elongation, coordination,
   endurance, plus surrounding structures (hips, buttocks, thighs, core), breathing,
@@ -190,60 +196,26 @@ The page is live at: http://127.0.0.1:4000/{permalink}
 - Plain language over jargon
 - NEVER include employer name, practice name, or address
 
-{feedbackSection}
-
-## Output format
-
-POST your proposal as JSON to http://127.0.0.1:19600/propose:
-
-```json
+## Output
+Return JSON:
 {
-  "page": "{pagePath}",
-  "summary": "Brief evidence summary of what was found and what needs changing",
-  "changes": [
-    {
-      "section": "Section heading where change applies",
-      "before": "Exact text to replace (or empty string for additions)",
-      "after": "New text to use",
-      "reason": "Why this change is needed, with evidence"
-    }
-  ],
+  "draft": "<the full revised page markdown>",
+  "summary": "Brief evidence summary of what you found and changed",
   "references": [
-    {
-      "author": "Author names",
-      "title": "Article title",
-      "journal": "Journal name",
-      "year": 2024,
-      "doi": "https://doi.org/..."
-    }
+    { "author": "...", "title": "...", "journal": "...", "year": 2024, "doi": "https://doi.org/..." }
   ]
 }
 ```
 
-Keep changes surgical and focused. Do not rewrite entire sections.
-Only propose changes where there is clear clinical evidence for improvement.
-```
+After the agent returns: run `/humanizer` then `/stop-slop` on `draft`, then POST to
+`/api/draft`.
 
-### Feedback section (for revise iterations)
-
-When the physician clicks "Revise" with feedback, re-run the agent with this added:
-
-```
-## Physician feedback on previous proposal
-
-The physician reviewed your previous proposal and requested revisions:
-
-"{feedback}"
-
-Incorporate this feedback into your revised proposal. The physician is the
-clinical expert — their feedback takes priority over wiki evidence.
-```
-
-## Established Patterns (apply during /humanizer after approval)
+## Humanizer / stop-slop patterns (applied before the physician sees the draft)
 
 - Sentence-case headings
 - No bold in list items or body text
-- Quotes without "Dr. Stewart explains/notes:" attribution, placed under "Dr. Stewart's perspective" heading
+- Quotes without "Dr. Stewart explains/notes:" attribution, placed under "Dr. Stewart's
+  perspective" heading
 - Plain language over jargon
 - In-office PT context where relevant
 - Correct fellowship pathways (3yr after OB/GYN or 2yr after urology)
@@ -252,15 +224,15 @@ clinical expert — their feedback takes priority over wiki evidence.
 - AUA guidelines don't require step therapy (though insurance might)
 - Sacral neuromodulation for fecal incontinence = "bowel pacemaker"
 - Dr. Stewart doesn't offer injectable bulking agents for fecal incontinence
-- Sphincter repair for fecal incontinence is rarely recommended (poor long-term durability, painful recovery, high infection risk)
-- PT is not just Kegels — includes strength, relaxation/elongation, coordination, endurance, plus surrounding structures (hips, buttocks, thighs, core), breathing, postural, and bracing changes
-- Urethral bulking is a treatment option for stress incontinence
-- Tibial neuromodulation is a treatment option for urge incontinence
-- Botox lasts 6-9 months; sacral neuromodulation battery replacement after 10-15 years; urethral bulking effective at least 7 years
+- Sphincter repair for fecal incontinence is rarely recommended (poor long-term durability,
+  painful recovery, high infection risk)
+- PT is not just Kegels (see clinical patterns above)
+- Urethral bulking for stress incontinence; tibial neuromodulation for urge incontinence
+- Botox 6-9mo; SNM battery 10-15yr; urethral bulking effective at least 7yr
 
 ## Tracker format
 
-The tracker at `pseo-review-tracker.md` uses:
+`pseo-review-tracker.md` uses:
 - `- [ ] path/to/file.md` — unreviewed
 - `- [x] [H] path/to/file.md` — reviewed and humanized
 - Location lines: `- [ ] locations/city/ (4 pages)` — expand to individual files
