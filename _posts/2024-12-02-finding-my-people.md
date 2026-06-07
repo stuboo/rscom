@@ -19,20 +19,16 @@ description: "This blog post reflects on my unconventional journey to becoming a
 last_reviewed_date: 2024-12-02
 ---
 
-When I reflect on how I became a urogynecologist, I realize my path was never about a straight line, but about discovering where I truly belonged.
+People ask how I ended up a urogynecologist, and the honest answer is that I tried a lot of other things first.
 
-Ten years after college, I had lived multiple professional lives. I'd been a marketing director, a pharmaceutical representative at Eli Lilly, a traveler in Central America, a college fundraiser, and a house parent. Each role wasn't a detour—it was a step toward understanding myself.
+In the ten years after college I had several careers. Marketing director. Pharmaceutical rep at Eli Lilly. A stretch traveling through Central America. College fundraiser. House parent. None of it was wasted time. Each job taught me something about who I am and the kind of work I wanted.
 
-The recurring question throughout my journey wasn't "What should I do?" but "Who are my people?"
+The question I kept circling back to wasn't "What should I do?" It was "Who are my people?"
 
-My exposure to OBGYN during my time as a pharmaceutical rep gave me my first glimpse. I noticed how comfortable I felt in those medical offices, how the dynamics and interactions resonated with me. When I entered medical school in my thirties, I was already drawn to this world.
+I got my first answer as a pharma rep, sitting in OBGYN offices. I felt at home there. I liked the people, the rhythm of the work, the way the conversations went. By the time I started medical school in my thirties, I already knew where I was headed.
 
-As I progressed through my training, my understanding refined. I discovered I preferred working with post-reproductive female patients. I enjoyed surgery more than obstetrics. I was drawn to helping healthy patients improve their quality of life rather than managing critical illnesses.
+Training sharpened it. I found I'd rather care for women past their reproductive years. I'd rather operate than deliver babies. And I wanted to help healthy people get their quality of life back, not manage one crisis after another. Urogynecology gave me all three.
 
-Urogynecology wasn't just a specialty—it was a calling.
+Now I'm two months into a new practice in Green Bay, and I'm grateful. This community has been generous with my family, and it's made me feel I'm in the right place.
 
-Now, in Green Bay, Wisconsin, after two months of transition, I feel a profound sense of gratitude. The warmth of this community, their generosity in welcoming my family, reinforces that I'm exactly where I'm meant to be.
-
-My professional journey has never been about achieving a predetermined destination. It's been about listening—to myself, to the patients I serve, to the subtle signals that guide us toward our most authentic work.
-
-Today, as I start my new practice, I'm happy to be someone who has found his place, his community, his purpose.
+My career has never followed a plan. It's come from paying attention, to myself and to my patients, and trusting where that led. Starting this practice, I feel like someone who found his people.
