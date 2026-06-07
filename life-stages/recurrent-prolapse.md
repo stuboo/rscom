@@ -9,6 +9,7 @@ condition_name: Pelvic Organ Prolapse
 nav_exclude: true
 published: false
 last_modified_date: 2026-03-14
+last_evidence_review: 2026-06-07
 testimonial_index: 6
 faq:
   - question: "Is recurrent prolapse surgery riskier?"
@@ -72,3 +73,14 @@ For recurrent prolapse, my first job is to understand exactly what was done befo
 Recurrent prolapse is manageable. A urogynecologist who handles revision cases regularly can examine you, lay out the real options, and help you choose a path that fits your life.
 
 [Learn more about pelvic organ prolapse](/conditions/pelvic-organ-prolapse)
+
+## References
+
+- Barber MD, Brubaker L, Burgio KL, et al. Factorial comparison of two transvaginal surgical approaches and of perioperative behavioral therapy for women with apical vaginal prolapse: the OPTIMAL randomized trial. JAMA. 2014. [doi:10.1001/jama.2014.1719](https://doi.org/10.1001/jama.2014.1719)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic organ prolapse. Obstet Gynecol. 2019.
+- Ferrando CA, Bradley CS, Meyn LA, et al. Twelve month outcomes of pelvic organ prolapse surgery in patients with uterovaginal or posthysterectomy vaginal prolapse enrolled in the Multicenter Pelvic Floor Disorders Registry. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
+- Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery: results from the Multicenter Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Guérin S, Alhalabi F, Lutz K, et al. Impact of previous pelvic organ prolapse repair on outcomes of robotic-assisted mesh sacrocolpopexy. Urology. 2025. [doi:10.1016/j.urology.2025.07.008](https://doi.org/10.1016/j.urology.2025.07.008)
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal pessary use and management for pelvic organ prolapse. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Wieslander CK, Weinstein MM, Handa VL, et al. Pregnancy in women with prior treatments for pelvic floor disorders. Female Pelvic Med Reconstr Surg. 2020. [doi:10.1097/SPV.0000000000000822](https://doi.org/10.1097/SPV.0000000000000822)
