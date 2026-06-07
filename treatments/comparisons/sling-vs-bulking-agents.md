@@ -8,6 +8,7 @@ permalink: /treatments/comparisons/sling-vs-bulking-agents
 nav_exclude: true
 published: false
 last_modified_date: 2026-06-07
+last_evidence_review: 2026-06-07
 testimonial_index: 1
 faq:
   - question: "Which procedure has a higher success rate?"
@@ -99,3 +100,11 @@ One thing that used to drive this decision matters less than people think. You m
 ## Making your decision
 
 The best treatment is the one that fits your symptoms, your health, and how you want to live. Dr. Stewart will walk you through both options, answer your questions, and help you feel settled in whatever you decide.
+
+## References
+
+- Fleischmann N, Chughtai B, Plair A, et al. Urethral Bulking. Urogynecology. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline. The Journal of Urology. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+- American Urogynecologic Society (AUGS), Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction (SUFU). Joint Position Statement on Midurethral Slings for Stress Urinary Incontinence. Female Pelvic Medicine & Reconstructive Surgery. 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Wu JM. Stress Incontinence in Women. New England Journal of Medicine. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
