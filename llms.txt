@@ -1,0 +1,36 @@
+# Ryan Stewart, DO — Urogynecologist in Green Bay, WI
+
+> Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist practicing urogynecology and reconstructive pelvic surgery in Green Bay, Wisconsin. This site offers patient education on female pelvic floor disorders — pelvic organ prolapse, urinary and fecal incontinence, and overactive bladder — along with the treatment options for each.
+
+The information here is educational and is not a substitute for a consultation. Each condition and treatment page is written for patients and reviewed by Dr. Stewart. Dr. Stewart sees patients across Northeast Wisconsin and Michigan's Upper Peninsula; no referral is required, and in-person and virtual visits are available.
+
+## Main pages
+
+- [Home](https://ryanstewart.com/): Overview of Dr. Stewart's practice, expertise, and approach to care.
+- [About](https://ryanstewart.com/about): Background, training, and philosophy of care.
+- [Research](https://ryanstewart.com/research): Peer-reviewed publications in urogynecology and a book chapter on minimally invasive surgery.
+- [Blog](https://ryanstewart.com/blog): Articles on pelvic floor health and perspectives on urogynecology.
+- [Patient Testimonials](https://ryanstewart.com/testimonials): Reviews from patients across Google, Healthgrades, and US News.
+- [Areas We Serve](https://ryanstewart.com/locations): Cities and regions served across Northeast Wisconsin and the Upper Peninsula.
+
+## Conditions
+
+- [Conditions overview](https://ryanstewart.com/conditions): Index of the pelvic floor conditions treated.
+- [Pelvic organ prolapse](https://ryanstewart.com/conditions/pelvic-organ-prolapse): Cystocele, rectocele, enterocele, uterine and vaginal prolapse — causes, symptoms, and progression.
+- [Incontinence](https://ryanstewart.com/conditions/incontinence): Urinary and fecal incontinence — types, causes, and when to see a specialist.
+- [Urinary incontinence](https://ryanstewart.com/conditions/urinary-incontinence): Stress, urge, and mixed urinary incontinence explained.
+- [Fecal incontinence](https://ryanstewart.com/conditions/fecal-incontinence): Causes, diagnosis, and treatment of bowel control problems.
+- [Overactive bladder](https://ryanstewart.com/conditions/overactive-bladder): Urgency, frequency, and nighttime urination — triggers and treatment.
+
+## Treatments
+
+- [Treatments overview](https://ryanstewart.com/treatments): Index of treatment options, from conservative care to surgery.
+- [Prolapse treatments](https://ryanstewart.com/treatments/prolapse): Watch-and-wait, pelvic floor physical therapy, pessary, native-tissue repair, mesh-augmented repair, vaginal repair, and robotic sacrocolpopexy.
+- [Urinary incontinence treatments](https://ryanstewart.com/treatments/urinary-incontinence): Behavioral changes, physical therapy, medications, urethral bulking, sling procedures, Botox, and neuromodulation.
+- [Fecal incontinence treatments](https://ryanstewart.com/treatments/fecal-incontinence): Diet, bowel retraining, physical therapy, sacral nerve stimulation, the Eclipse device, and surgery.
+- [Treatment comparisons](https://ryanstewart.com/treatments/comparisons): Side-by-side comparisons such as pessary vs. surgery, sling vs. bulking agents, and Botox vs. neuromodulation.
+
+## Optional
+
+- [Sitemap](https://ryanstewart.com/sitemap.xml): Complete list of all pages, including individual condition and treatment articles, location pages, and FAQs.
+- [Privacy Policy](https://ryanstewart.com/privacy-policy): Data collection, cookies, and HIPAA information.
