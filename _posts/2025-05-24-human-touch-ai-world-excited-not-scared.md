@@ -24,72 +24,40 @@ last_reviewed_date: 2025-05-24
 
 Over dinner last week, I was telling my wife about a patient I'd taken to the OR for a uterine biopsy. It's a procedure I don't do as often as I did during residency, so I didn't have my standard postoperative instructions ready.
 
-"I used OpenEvidence to generate evidence-based discharge instructions," I told her. "It took less than two minutes. Between that, Doximity's AI tools, and DAX for ambient scribing, there's no telling how much time I save in a day compared to a year ago."
+"I used OpenEvidence to generate evidence-based discharge instructions," I told her. "Took less than two minutes. Between that, Doximity's AI tools, and DAX for ambient scribing, there's no telling how much time I save in a day compared to a year ago."
 
-She nodded, sharing her own experience with DAX in her reproductive endocrinology practice. Then we started talking about what's coming next. Ambient ordering in the next couple of months. All the possibilities that might follow.
+She nodded and told me about using DAX in her reproductive endocrinology practice. Then we got onto what's coming next. Ambient ordering within a couple of months. Whatever follows that.
 
-We're both physicians watching AI transform our daily work in real time. I'm thrilled about these developments, and sometimes I wonder what they mean for the future of medicine. Both feelings are shaping how I think about where our profession is headed.
+We're both physicians watching this change our daily work in real time. I'm thrilled, and some nights I lie awake wondering what it means for the profession our son might grow up around.
 
-## The Changing Landscape
+## What the tools already do
 
-AI is transforming healthcare faster than most of us anticipated. Diagnostic algorithms are catching things we might miss. Administrative tasks that used to consume hours can now be completed in minutes. The tools I use regularly are genuinely improving patient care while giving me time back.
+The diagnostic algorithms catch things I might miss. The documentation that used to eat an hour of my evening now takes minutes. I'm not speculating about this; I'm describing my Tuesday.
 
-But they're also changing what it means to be a physician. Tasks that once required extensive training can now be automated. The question isn't whether AI will continue advancing but how we evolve alongside it while preserving what matters most about medicine.
+That same speed changes what a physician is for. A lot of what took me years to learn, a model now does in a second. So I keep asking myself which parts of this job a machine can't touch, and I want to spend more of my day there.
 
-## My Human-First Response
+## Holding someone's hand
 
-Instead of viewing AI as a threat, I'm seeing it as an opportunity to return to what drew me to medicine originally: the profound connections that happen when someone trusts you with their most vulnerable moments.
+OpenEvidence can suggest a treatment. It can't stand in the operating room and hold someone's hand while they fall asleep for surgery. It can't look at a frightened patient and say, "I'm glad you're here. I think we can fix this."
 
-AI can analyze symptoms and suggest treatments, but it can't be present in the operating room when I hold someone's hand as they fall asleep for surgery. It can't look at a patient and say, "I'm glad you're here. I think we can make this better."
+So I'm trying to give that part more room.
 
-This perspective is reshaping how I want to practice. I'm trying to double down on the irreplaceably human aspects of medicine:
+With my older patients especially, I slow down and ask who they are. Where they've been, what they're proud of, what scares them. I hear the same kind of story all the time, where a patient has quietly given up something she loves because of a problem she assumed she had to live with. Most recently it was a woman who'd stopped going fishing, something she'd done her whole life, because she couldn't get through a morning on the water without leaking. That changed what "better" meant for her, and it changed what I offered.
 
-**Practicing narrative medicine.** Especially with my older patients, I'm working to make time to ask: Who are you as a person? Where have you been? What are you proud of? What scares you? These conversations often reveal crucial context that influences treatment decisions.
+The treatments I do are rarely one-size-fits-all. What a patient picks has to fit her values, her appetite for risk, the shape of her life. I can't sort that out from a chart. It takes a real conversation, and the AI handling my notes is what buys me the time for one.
 
-**Embracing shared decision-making.** The treatments I offer are rarely one-size-fits-all. What someone chooses needs to align with their values, their tolerance for risk, their life circumstances. This requires deep conversation and genuine partnership.
+I perform surgery every day, so it's easy to forget that for the woman on the table, this is one of the biggest days of her year. She deserves a doctor who remembers that, not one half-watching a screen.
 
-**Being present for pivotal moments.** Just because I perform surgery every day doesn't mean it's routine for my patients. For them, it's often a seminal moment. That requires a different kind of attention and care.
+And there's a kind of judgment I don't know how to hand off. The sense that something's wrong before the numbers say so. Reading what a patient won't say out loud. Knowing when the standard protocol doesn't fit the person in front of me. I built that over years of being in the room, and I don't think it lives anywhere a model can reach.
 
-**Developing clinical intuition.** While AI excels at pattern recognition, human intuition built through years of patient interaction remains irreplaceable. That sense when something isn't quite right, the ability to read what someone isn't saying, the experience to know how to adapt standard protocols to unique situations.
+## Where I'm pointed
 
-## What I'm Trying to Do Differently
+As a urogynecologist, I'm not after a lifelong relationship with my patients. I want them better and free to forget me, except maybe when they're telling a friend that treatment gave them their life back. Getting there still takes everything that makes us human: listening, understanding, caring about one person's story.
 
-Practically, this human-first approach means I'm attempting to change how I spend my time:
-
-With AI handling documentation and routine tasks, I'm trying to have more bandwidth for meaningful patient interactions. I want to focus on the person in front of me rather than the computer screen.
-
-I'm trying to ask different questions during consultations. Not just about symptoms, but about hopes, fears, and what "better" looks like for each individual.
-
-I'm working to take more time explaining not just what we're going to do, but why, and what the alternatives are. Real informed consent requires genuine conversation.
-
-I'm trying to pay attention to the moments that matter most. When someone is nervous before surgery, when they're processing difficult news, when they're trying to make a complex decision about their care.
-
-## Finding Your Medical Edge
-
-If you're wondering how to position yourself in an AI-enhanced healthcare landscape, consider:
-
-Where do you provide value through relationship and judgment rather than just clinical knowledge?
-
-What aspects of patient care require emotional intelligence and human connection?
-
-How can you create more space for the conversations that really matter?
-
-What parts of your practice depend on understanding someone as a whole person, not just a set of symptoms?
-
-## The Opportunity Ahead
-
-What excites me most is AI's potential to free us from administrative burdens so we can focus on what we trained for: taking care of people.
-
-Imagine spending less time on documentation and routine tasks, and more time listening, explaining, comforting, and healing. Imagine having the cognitive space to really think about each patient's unique situation.
-
-Healthcare will keep evolving, and we'll need to adapt. But I believe the future belongs to physicians who can blend technological tools with genuine human connection.
-
-As a urogynecologist, my goal isn't long-term relationships with patients. I want them to get better and never think about me again, except maybe when they're telling friends how treatment gave them back their freedom and independence. But the path to that outcome still requires everything that makes us human: listening, understanding, and caring about their individual story.
-
-AI won't replace what happens between two people when one trusts the other with their health and vulnerability. If anything, it might make those moments more precious.
+AI won't replace what passes between two people when one trusts the other with her body and her fear. I think it gives me more time for exactly that.
 
 That's why I'm more excited than scared.
 
 ---
 
-*How are you thinking about AI in your practice? I'd love to hear from other physicians navigating these changes.*
+*How are you thinking about AI in your practice? I'd love to hear from other physicians working through it.*
