@@ -172,6 +172,17 @@ vault every 15 min via cron — see `~/bin/sync-wiki.sh`):
    - Does it follow the clinical patterns below?
 5. Produce a FULL revised version of the page markdown (frontmatter included), making only
    evidence-backed clinical edits. Keep changes surgical — do not rewrite sound sections.
+6. REFERENCES ARE MANDATORY. Every evidence-based article (treatment comparisons, condition
+   question pages, life-stages, location pages) MUST end with a `## References` section AND
+   set `last_evidence_review: <today>` in frontmatter. Rules:
+   - Cite ONLY real entries that exist as files in `/home/jryanstewart/urogyn-wiki/sources/`.
+     NEVER fabricate an author, title, journal, year, or DOI. If no source backs a claim,
+     omit the reference (or soften the claim) — do not invent one.
+   - Verify topical fit: a `sources/` file about a different condition (e.g. a fecal-
+     incontinence review) does NOT belong on an OAB or SUI page even if it mentions a shared
+     device. Match the reference to the claim.
+   - Format each as: `- Author A, Author B, Author C, et al. Title. Journal. Year. [doi:10.xxxx/yyyy](https://doi.org/10.xxxx/yyyy)`
+     ("et al." after the first 3 authors). Populate the structured `references` array to match.
 
 ## Clinical patterns to enforce
 - Shared decision-making approach, NOT stepwise conservative-first
