@@ -62,16 +62,45 @@ bun run server/index.ts
 Repo root is auto-detected as two levels up from `server/`. Override with `RSCOM_ROOT` if
 the checkout moved. Port override: `PSEO_PORT`. Draft dir override: `RSCOM_DRAFTS`.
 
-### 2. Expose it on the tailnet
+> Note: that `127.0.0.1` in the startup log is a cosmetic hardcoded string. `Bun.serve`
+> is called with no `hostname`, so it actually binds `0.0.0.0` — i.e. it's already
+> reachable over the tailnet (and the LAN) without `tailscale serve`. See step 2.
+
+### 2. Reach it on the tailnet
+
+**Default path — direct over MagicDNS (no extra feature needed).** Because the server
+already binds `0.0.0.0` (see the note above), the physician just opens:
+
+```
+http://<machine>:19600/        # e.g. http://stubuntu:19600/  (MagicDNS)
+http://<tailscale-ip>:19600/   # e.g. http://100.93.58.32:19600/  (if MagicDNS is flaky)
+```
+
+It's plain HTTP, but the tailnet is WireGuard-encrypted end to end, so traffic is still
+private. The app has no auth — Tailscale + your ACLs are the access boundary. Caveat:
+`0.0.0.0` is also reachable from the machine's **local LAN**, not just the tailnet. If you
+don't trust that LAN, pin the bind to the tailscale IP (`hostname` in `Bun.serve`) so only
+the tailnet can reach it.
+
+**Optional — HTTPS via `tailscale serve`.** Gives a real
+`https://<machine>.<tailnet>.ts.net` URL, tailnet-only (it does *not* expose the LAN):
 
 ```bash
 tailscale serve --bg 19600
 tailscale serve status   # shows the https://<machine>.<tailnet>.ts.net URL
 ```
 
-The physician opens that HTTPS URL (or `http://<machine>:19600` via MagicDNS if you skip
-`serve` and bind to the tailnet). Tailscale + your ACLs are the access boundary — the app
-itself has no auth, so keep it tailnet-only (never `tailscale funnel`).
+This requires **HTTPS Certificates** to be enabled on the tailnet (admin console →
+DNS → HTTPS Certificates). If that feature is off you'll get:
+
+```
+Serve is not enabled on your tailnet.        # from `tailscale serve`
+HTTPS cert support is not enabled/configured for your tailnet.   # from `tailscale cert`
+```
+
+In that case either enable HTTPS in the admin console, or just use the default MagicDNS
+path above — it needs no tailnet features. Never use `tailscale funnel` (that would expose
+the no-auth app to the public internet).
 
 ### Shutdown
 
