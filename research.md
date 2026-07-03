@@ -4,8 +4,8 @@ title: Research
 description: "Dr. Ryan Stewart's peer-reviewed research in urogynecology, including publications on prolapse surgery, stress incontinence, patient education, and surgical outcomes."
 permalink: /research
 nav_order: 5
-last_modified_date: 2026-03-15
-last_reviewed_date: 2026-03-15
+last_modified_date: 2026-07-03
+last_reviewed_date: 2026-07-03
 ---
 
 # Research and publications
@@ -75,6 +75,10 @@ My research interests include surgical outcomes for pelvic organ prolapse and st
 6. Gupta A, Kinman C, Hobson D, Meriwether KV, Gaskins JT, Uddin MN, <span class="author-me">Stewart JR</span>, Francis SL. The impact of fluoroscopy during percutaneous nerve evaluation on subsequent implantation of a sacral neuromodulator among women with pelvic floor disorders: a randomized, non-inferiority trial. *AUGS/IUGA Joint Scientific Meeting*. 2019.
 
 7. Cardenas-Trowers OO, <span class="author-me">Stewart R</span>, Meriwether KV, Francis SL, Gupta A. Comparison of perioperative outcomes of autologous bladder neck fascial slings based on fascial harvest site. *International Urogynecology Journal*. 2019;30:S224-S225.
+
+8. Gupta A, Meriwether KV, Hobson D, Francis SL, <span class="author-me">Stewart R</span>. Consistency in FPMRS fellowship education. *PFD Week*. 2018.
+
+9. Schnee DM, Pierson RC, <span class="author-me">Stewart JR</span>, Learman LA. Is direct interaction with preceptors linked to clerkship satisfaction and medical knowledge gain? *Obstetrics & Gynecology*. 2016;128:56S.
 
 ## Book chapters
 
