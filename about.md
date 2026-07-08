@@ -20,7 +20,9 @@ I'm a board-certified, fellowship-trained urogynecologist practicing in Green Ba
 - **Fellowship-trained** in Female Pelvic Medicine and Reconstructive Surgery (urogynecology)
 - Trained at Via College of Osteopathic Medicine, Indiana University School of Medicine, and the University of Louisville School of Medicine
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f81a9564-2d0d-4a09-9eee-c54c3a13e00f" data-share-badge-host="https://www.credly.com"></div>
+<div class="credly-badge" style="float: right; clear: right; width: 150px; margin: 0.5rem 0 1rem 1.5rem;">
+<div data-iframe-width="150" data-iframe-height="240" data-share-badge-id="f81a9564-2d0d-4a09-9eee-c54c3a13e00f" data-share-badge-host="https://www.credly.com"></div>
+</div>
 <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ## What I treat
