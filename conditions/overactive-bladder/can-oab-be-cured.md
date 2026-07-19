@@ -5,6 +5,10 @@ parent: Overactive Bladder
 nav_order: 20
 description: "While OAB may not have a permanent cure, it can be effectively managed. Learn about realistic expectations and long-term treatment strategies."
 permalink: /conditions/overactive-bladder/can-oab-be-cured
+# Duplicate of can-overactive-bladder-be-cured (same title, same question).
+# That URL holds the traffic, so this one redirects there. Body text is kept
+# in git in case any of it is worth merging into the surviving page.
+redirect_to: /conditions/overactive-bladder/can-overactive-bladder-be-cured
 condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true

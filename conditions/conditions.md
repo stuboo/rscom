@@ -5,6 +5,11 @@ description: "Learn about pelvic floor conditions treated by Dr. Ryan Stewart in
 nav_order: 2
 has_children: true
 permalink: conditions
+# /faqs was a standalone FAQ page, removed (see faq.md.bak). This hub carries
+# the condition Q&A now, so old links land here.
+redirect_from:
+  - /faqs
+  - /faqs/
 faq:
 - question: "What is pelvic organ prolapse?"
   answer: "Pelvic organ prolapse occurs when the muscles and tissues supporting the pelvic organs (uterus, bladder, rectum) become weak or loose, causing one or more pelvic organs to drop or press into or out of the vagina."

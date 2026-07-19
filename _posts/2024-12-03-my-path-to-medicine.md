@@ -8,6 +8,7 @@ categories:
   - Career Journey
 redirect_from:
   - /personal%20reflections/career%20journey/2024/12/03/my-path-to-medicine
+  - /personal%20reflections/career%20journey/2024/12/03/my-path-to-medicine.html
 tags:
   - medicine
   - career journey

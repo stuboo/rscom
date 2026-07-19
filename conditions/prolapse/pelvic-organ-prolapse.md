@@ -6,6 +6,9 @@ nav_order: 1
 parent: Conditions
 has_children: true
 permalink: conditions/pelvic-organ-prolapse
+redirect_from:
+  - /pelvic-organ-prolapse
+  - /pelvic-organ-prolapse/
 faq:
   - question: "What is pelvic organ prolapse (POP)?"
     answer: "Pelvic organ prolapse (POP) is a common condition in women where pelvic tissues and organs move into spaces they wouldn't normally occupy, essentially a type of hernia involving the pelvic organs."
