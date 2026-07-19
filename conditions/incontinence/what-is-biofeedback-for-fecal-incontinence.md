@@ -6,7 +6,7 @@ nav_order: 33
 description: "Biofeedback therapy helps retrain pelvic floor muscles for better bowel control. Learn how this non-invasive treatment works and who benefits most."
 permalink: /conditions/incontinence/what-is-biofeedback-for-fecal-incontinence
 condition_name: Fecal Incontinence
-parent_condition_url: /conditions/incontinence/fecal-incontinence
+parent_condition_url: /conditions/fecal-incontinence
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14

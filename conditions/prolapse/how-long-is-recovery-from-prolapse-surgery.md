@@ -6,7 +6,7 @@ nav_order: 22
 description: "Prolapse surgery recovery typically takes 4-6 weeks. Learn what to expect during each stage of healing and when you can return to normal activities."
 permalink: /conditions/prolapse/how-long-is-recovery-from-prolapse-surgery
 condition_name: Pelvic Organ Prolapse
-parent_condition_url: /conditions/prolapse
+parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14

@@ -6,7 +6,7 @@ nav_order: 24
 description: "A pessary is a non-surgical device for pelvic organ prolapse. Learn who benefits most, what to expect, and how to decide if it's a good option for you."
 permalink: /conditions/prolapse/is-a-pessary-right-for-me
 condition_name: Pelvic Organ Prolapse
-parent_condition_url: /conditions/prolapse
+parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14

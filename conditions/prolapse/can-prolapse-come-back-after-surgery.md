@@ -6,7 +6,7 @@ nav_order: 23
 description: "Prolapse recurrence after surgery is possible but not inevitable. Learn the recurrence rates, risk factors, and what you can do to reduce your risk."
 permalink: /conditions/prolapse/can-prolapse-come-back-after-surgery
 condition_name: Pelvic Organ Prolapse
-parent_condition_url: /conditions/prolapse
+parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14

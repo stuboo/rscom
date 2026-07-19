@@ -6,7 +6,7 @@ nav_order: 25
 description: "Untreated pelvic organ prolapse usually progresses slowly but rarely causes serious medical harm. Learn what to expect and when treatment becomes important."
 permalink: /conditions/prolapse/what-happens-if-prolapse-is-left-untreated
 condition_name: Pelvic Organ Prolapse
-parent_condition_url: /conditions/prolapse
+parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
