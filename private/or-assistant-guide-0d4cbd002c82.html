@@ -1,0 +1,711 @@
+---
+layout: null
+sitemap: false
+nav_exclude: true
+search_exclude: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+<title>Learning to Assist in the OR — A Ground-Up Guide</title>
+<style>
+  :root{
+    --bg:#f6f8f9;
+    --surface:#ffffff;
+    --ink:#16232b;
+    --ink-soft:#42565f;
+    --muted:#6b7d86;
+    --line:#e2e8ea;
+    --line-strong:#cbd6d9;
+    --teal:#0f766e;
+    --teal-soft:#e6f2f0;
+    --teal-ink:#0b5a53;
+    --amber:#b45309;
+    --amber-soft:#fdf1e0;
+    --rose:#b4234a;
+    --rose-soft:#fbe7ec;
+    --blue:#1d5f8a;
+    --blue-soft:#e5f0f7;
+    --plum:#7a3f9d;
+    --plum-soft:#f1e9f7;
+    --shadow:0 1px 2px rgba(16,40,50,.05),0 6px 22px rgba(16,40,50,.06);
+    --radius:14px;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:920px;margin:0 auto;padding:0 22px 90px}
+
+  /* ---------- Hero ---------- */
+  header.hero{
+    background:linear-gradient(160deg,#0f766e 0%,#0b5a53 55%,#0a4f49 100%);
+    color:#eafcf9;
+    padding:56px 22px 48px;
+    text-align:left;
+  }
+  .hero-inner{max-width:920px;margin:0 auto}
+  .eyebrow{
+    text-transform:uppercase;letter-spacing:.14em;font-size:12.5px;font-weight:700;
+    color:#8fe4d8;margin:0 0 14px;
+  }
+  header.hero h1{
+    font-size:38px;line-height:1.14;margin:0 0 14px;font-weight:800;letter-spacing:-.02em;
+  }
+  header.hero p{font-size:17px;max-width:640px;margin:0;color:#c9efe9}
+  .hero-note{
+    margin-top:26px;font-size:14px;color:#bfe9e2;border-left:3px solid #4fc9b8;
+    padding:8px 0 8px 16px;max-width:640px;
+  }
+
+  /* ---------- Section scaffolding ---------- */
+  section{margin-top:46px}
+  .kicker{
+    display:inline-flex;align-items:center;gap:9px;
+    font-size:12.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    color:var(--teal);background:var(--teal-soft);
+    padding:5px 12px;border-radius:999px;margin:0 0 14px;
+  }
+  h2{font-size:26px;line-height:1.2;margin:0 0 10px;font-weight:800;letter-spacing:-.015em}
+  h3{font-size:18px;margin:26px 0 8px;font-weight:700;color:var(--ink)}
+  p{margin:0 0 14px;color:var(--ink-soft)}
+  .lead{font-size:17px;color:var(--ink)}
+  strong{color:var(--ink);font-weight:700}
+  a{color:var(--teal-ink)}
+
+  /* ---------- Cards ---------- */
+  .card{
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    padding:22px 24px;box-shadow:var(--shadow);
+  }
+  .card + .card{margin-top:16px}
+
+  .grid{display:grid;gap:16px}
+  @media(min-width:640px){.grid-2{grid-template-columns:1fr 1fr}}
+
+  /* mindset list */
+  .mind{display:grid;gap:14px;margin-top:6px}
+  @media(min-width:640px){.mind{grid-template-columns:1fr 1fr}}
+  .mind-item{
+    background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:18px 18px 16px;box-shadow:var(--shadow);position:relative;
+  }
+  .mind-item .num{
+    font-size:13px;font-weight:800;color:var(--teal);
+    background:var(--teal-soft);width:28px;height:28px;border-radius:8px;
+    display:flex;align-items:center;justify-content:center;margin-bottom:10px;
+  }
+  .mind-item h4{margin:0 0 4px;font-size:15.5px;font-weight:700}
+  .mind-item p{margin:0;font-size:14.5px}
+
+  /* puck callout */
+  .callout{
+    border-left:4px solid var(--teal);background:var(--teal-soft);
+    border-radius:0 12px 12px 0;padding:16px 20px;margin:18px 0;
+  }
+  .callout.amber{border-color:var(--amber);background:var(--amber-soft)}
+  .callout.rose{border-color:var(--rose);background:var(--rose-soft)}
+  .callout p{margin:0;color:var(--ink)}
+  .callout .label{
+    font-size:12px;font-weight:800;text-transform:uppercase;letter-spacing:.08em;
+    display:block;margin-bottom:5px;color:var(--teal-ink);
+  }
+  .callout.amber .label{color:var(--amber)}
+  .callout.rose .label{color:var(--rose)}
+
+  /* do / don't */
+  .dd{display:grid;gap:14px;margin-top:8px}
+  @media(min-width:640px){.dd{grid-template-columns:1fr 1fr}}
+  .dd-col{border-radius:12px;padding:16px 18px;border:1px solid var(--line)}
+  .dd-col.do{background:var(--teal-soft);border-color:#bfe3dd}
+  .dd-col.dont{background:var(--rose-soft);border-color:#f2cdd6}
+  .dd-col h4{margin:0 0 10px;font-size:14px;text-transform:uppercase;letter-spacing:.05em}
+  .dd-col.do h4{color:var(--teal-ink)}
+  .dd-col.dont h4{color:var(--rose)}
+  .dd-col ul{margin:0;padding-left:18px}
+  .dd-col li{margin:0 0 7px;font-size:14.5px;color:var(--ink-soft)}
+  .dd-col li:last-child{margin-bottom:0}
+
+  /* instrument reference cards */
+  .instr{display:grid;gap:14px}
+  @media(min-width:640px){.instr{grid-template-columns:1fr 1fr}}
+  .instr-card{
+    border:1px solid var(--line);border-radius:12px;padding:16px 18px;background:var(--surface);
+    box-shadow:var(--shadow);
+  }
+  .instr-card .tag{
+    font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;
+    color:var(--blue);background:var(--blue-soft);padding:3px 9px;border-radius:999px;
+    display:inline-block;margin-bottom:9px;
+  }
+  .instr-card h4{margin:0 0 5px;font-size:16px;font-weight:700}
+
+  /* proactive task cards */
+  .task-card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:20px 22px;box-shadow:var(--shadow)}
+  .task-card h3{margin:0 0 2px;font-size:17px}
+  .task-card .when{font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);display:block;margin-bottom:14px}
+  .task-card ul{margin:0;padding-left:0;list-style:none}
+  .task-card li{position:relative;padding:0 0 11px 22px;font-size:14.5px;color:var(--ink-soft)}
+  .task-card li:last-child{padding-bottom:0}
+  .task-card li::before{content:"";position:absolute;left:2px;top:9px;width:7px;height:7px;border-radius:2px;background:var(--teal)}
+  .task-card li strong{color:var(--ink)}
+
+  /* halsted tenets */
+  .halsted{display:grid;gap:14px}
+  @media(min-width:640px){.halsted{grid-template-columns:1fr 1fr}}
+  .h-item{border:1px solid var(--line);border-radius:12px;padding:16px 18px;background:var(--surface);box-shadow:var(--shadow)}
+  .h-item h4{margin:0 0 5px;font-size:15.5px;display:flex;gap:9px;align-items:baseline}
+  .h-item h4 .n{color:#fff;background:var(--teal);font-weight:800;font-size:12px;min-width:22px;height:22px;border-radius:6px;display:inline-flex;align-items:center;justify-content:center;flex:none}
+  .h-item p{margin:0 0 9px;font-size:14px}
+  .h-item .you{font-size:13.5px;color:var(--teal-ink);background:var(--teal-soft);border-radius:8px;padding:8px 11px;margin:0}
+  .h-item .you b{color:var(--teal-ink)}
+  .instr-img{width:100%;height:160px;object-fit:contain;background:#f6f8f9;border:1px solid var(--line);border-radius:8px;padding:8px;margin-bottom:12px;display:block}
+  .instr-card p{margin:0;font-size:14px}
+
+  /* decision matrix */
+  .matrix-wrap{overflow-x:auto;border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+  table.matrix{border-collapse:collapse;width:100%;min-width:640px;font-size:14.5px;background:var(--surface)}
+  table.matrix th,table.matrix td{text-align:left;padding:14px 16px;vertical-align:top;border-bottom:1px solid var(--line)}
+  table.matrix thead th{
+    background:#0f766e;color:#eafcf9;font-weight:700;font-size:13px;
+    text-transform:uppercase;letter-spacing:.04em;border-bottom:none;
+  }
+  table.matrix tbody tr:last-child td{border-bottom:none}
+  table.matrix .tool{font-weight:700;color:var(--ink)}
+  table.matrix .pill{
+    display:inline-block;font-size:11.5px;font-weight:700;padding:2px 9px;border-radius:999px;margin-top:6px;
+  }
+  .pill.suction{background:var(--blue-soft);color:var(--blue)}
+  .pill.lap{background:var(--plum-soft);color:var(--plum)}
+  .pill.raytec{background:var(--amber-soft);color:var(--amber)}
+  td .sub{color:var(--muted);font-size:13px;display:block;margin-top:4px}
+
+  /* progression steps */
+  .steps{counter-reset:step;margin-top:8px;display:grid;gap:0}
+  .step{
+    position:relative;padding:0 0 26px 52px;border-left:2px solid var(--line-strong);margin-left:16px;
+  }
+  .step:last-child{border-left-color:transparent;padding-bottom:4px}
+  .step::before{
+    counter-increment:step;content:counter(step);
+    position:absolute;left:-17px;top:-4px;width:34px;height:34px;border-radius:50%;
+    background:var(--teal);color:#eafcf9;font-weight:800;font-size:15px;
+    display:flex;align-items:center;justify-content:center;box-shadow:0 0 0 4px var(--bg);
+  }
+  .step h4{margin:0 0 4px;font-size:16.5px}
+  .step p{margin:0;font-size:14.5px}
+  .step .phase{
+    font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;
+    color:var(--muted);display:block;margin-bottom:2px;
+  }
+
+  /* cheat sheet */
+  .cheat{
+    background:#0f2a2b;color:#dcefec;border-radius:var(--radius);padding:26px 26px 22px;
+    box-shadow:var(--shadow);
+  }
+  .cheat h3{color:#8fe4d8;margin:0 0 4px;font-size:14px;text-transform:uppercase;letter-spacing:.08em}
+  .cheat .cheat-grid{display:grid;gap:20px;margin-top:6px}
+  @media(min-width:640px){.cheat .cheat-grid{grid-template-columns:1fr 1fr}}
+  .cheat ul{margin:8px 0 0;padding-left:18px}
+  .cheat li{margin:0 0 8px;font-size:14.5px;color:#cfe6e2}
+  .cheat li strong{color:#eafcf9}
+  .cheat .block + .block{margin-top:2px}
+
+  /* TOC */
+  nav.toc{
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    padding:20px 24px;box-shadow:var(--shadow);margin-top:-30px;position:relative;
+  }
+  nav.toc h3{margin:0 0 10px;font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+  nav.toc ol{margin:0;padding-left:20px;columns:2;column-gap:28px}
+  @media(max-width:560px){nav.toc ol{columns:1}}
+  nav.toc li{margin:0 0 7px;font-size:14.5px}
+  nav.toc a{color:var(--ink-soft);text-decoration:none}
+  nav.toc a:hover{color:var(--teal-ink);text-decoration:underline}
+
+  /* footer */
+  footer{margin-top:54px;padding-top:24px;border-top:1px solid var(--line);font-size:13px;color:var(--muted)}
+  footer h4{font-size:12.5px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink-soft);margin:0 0 8px}
+  footer ul{margin:0 0 14px;padding-left:18px}
+  footer li{margin:0 0 5px}
+  footer a{color:var(--muted)}
+  .disclaimer{
+    background:var(--amber-soft);border:1px solid #f0d9b8;border-radius:12px;
+    padding:14px 18px;color:#7a4a12;font-size:13.5px;margin-top:20px;
+  }
+  @media print{
+    body{background:#fff}
+    header.hero{background:#0b5a53 !important;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+    .card,.mind-item,.instr-card,.matrix-wrap,.cheat{box-shadow:none}
+    nav.toc{display:none}
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Operating Room · New Assistant Onboarding</p>
+    <h1>Learning to Assist in the OR</h1>
+    <p>A ground-up guide for someone stepping into the operating room for the first time — how to think, how to see, and how to make yourself the surgeon's second set of hands.</p>
+    <p class="hero-note">No prior OR experience needed. Read it once end-to-end for the mindset, then keep it nearby for the reference cards and decision matrix.</p>
+  </div>
+</header>
+
+<div class="wrap">
+
+  <nav class="toc">
+    <h3>What's inside</h3>
+    <ol>
+      <li><a href="#mindset">The five mindsets</a></li>
+      <li><a href="#halsted">The tenets of Halsted</a></li>
+      <li><a href="#proactive">Never just stand there</a></li>
+      <li><a href="#sterile">Sterile technique foundations</a></li>
+      <li><a href="#exposure">Assisting the surgery: exposure &amp; retraction</a></li>
+      <li><a href="#instruments">Knowing the retractors</a></li>
+      <li><a href="#tools">Suction vs. lap vs. Ray-Tec — decision matrix</a></li>
+      <li><a href="#counts">Sponge counts &amp; patient safety</a></li>
+      <li><a href="#learning">Your learning path, step by step</a></li>
+      <li><a href="#cheat">Quick-reference cheat sheet</a></li>
+    </ol>
+  </nav>
+
+  <!-- ============ MINDSET ============ -->
+  <section id="mindset">
+    <span class="kicker">◆ Start here</span>
+    <h2>The five mindsets of a good assistant</h2>
+    <p class="lead">Before any instrument or technique, this is the frame of mind that separates a helpful assistant from an invaluable one. Everything else in this guide is a way of living out these five habits.</p>
+
+    <div class="mind">
+      <div class="mind-item">
+        <div class="num">1</div>
+        <h4>Think proactively</h4>
+        <p>Anticipate the surgeon's next step and have the instrument, sponge, or suction ready <em>before</em> it's asked for. Watch the case, not just your hands.</p>
+      </div>
+      <div class="mind-item">
+        <div class="num">2</div>
+        <h4>Protect the sterile field</h4>
+        <p>Infection control is vigilance made routine. Be meticulous and consistent every single time — the field doesn't get "mostly" sterile.</p>
+      </div>
+      <div class="mind-item">
+        <div class="num">3</div>
+        <h4>Communicate clearly</h4>
+        <p>Understand instructions fast, confirm when unsure, and speak up when you see something — a slipping retractor, a count that feels off.</p>
+      </div>
+      <div class="mind-item">
+        <div class="num">4</div>
+        <h4>Stay calm under pressure</h4>
+        <p>Fast-paced or unexpected moments are when steadiness matters most. Your composure keeps the whole room's tempo even.</p>
+      </div>
+      <div class="mind-item">
+        <div class="num">5</div>
+        <h4>Keep learning</h4>
+        <p>Techniques, instruments, and preferences change by surgeon and by case. Reflect after each one; treat every case as a rep.</p>
+      </div>
+    </div>
+
+    <div class="callout">
+      <span class="label">The core idea</span>
+      <p><strong>Skate to where the puck is going to be.</strong> A great assistant isn't reacting to the current moment — they're already positioned for the next one. Hold that image through everything below.</p>
+    </div>
+  </section>
+
+  <!-- ============ HALSTED ============ -->
+  <section id="halsted">
+    <span class="kicker">◆ The north star</span>
+    <h2>The tenets of Halsted</h2>
+    <p class="lead">When the surgeon is operating, they're constantly thinking about the principles William Stewart Halsted laid down for gentle, careful surgical technique — the tenets that still define good surgery. A great assistant knows them too, and to the best of their ability, serves them. Almost everything else in this guide is really one of these tenets in action.</p>
+
+    <div class="halsted">
+      <div class="h-item">
+        <h4><span class="n">1</span> Gentle handling of tissue</h4>
+        <p>Tissue that's crushed, torn, or roughly handled heals worse. Every touch should be as delicate as the task allows.</p>
+        <p class="you"><b>You:</b> retract with the least force that gives the view; grip tissue gently (a sponge adds grip without a hard pinch); never yank or let a retractor dig in.</p>
+      </div>
+      <div class="h-item">
+        <h4><span class="n">2</span> Meticulous hemostasis</h4>
+        <p>Control every bleeder. A dry field is a safe field — and a visible one.</p>
+        <p class="you"><b>You:</b> keep the field dry so bleeders show themselves — suction, targeted blotting, and pressure — and have the cautery, clamp, or suture ready before it's asked for.</p>
+      </div>
+      <div class="h-item">
+        <h4><span class="n">3</span> Preservation of blood supply</h4>
+        <p>Tissue heals only if its blood supply survives. Protect it.</p>
+        <p class="you"><b>You:</b> avoid over-retracting or kinking pedicles; keep retraction off vascular structures; don't lean on or clamp tissue that doesn't need it.</p>
+      </div>
+      <div class="h-item">
+        <h4><span class="n">4</span> Strict aseptic technique</h4>
+        <p>Keep the field sterile to prevent infection — no exceptions.</p>
+        <p class="you"><b>You:</b> this is your sterile-technique discipline in action — only sterile touches sterile, every single time.</p>
+      </div>
+      <div class="h-item">
+        <h4><span class="n">5</span> Minimum tension on tissues</h4>
+        <p>Tissue held or closed under tension tears and breaks down. Keep it relaxed.</p>
+        <p class="you"><b>You:</b> give steady, even exposure so the surgeon isn't fighting the tissue; hold edges together gently during suturing; follow the suture without over-tightening the tails.</p>
+      </div>
+      <div class="h-item">
+        <h4><span class="n">6</span> Accurate tissue apposition</h4>
+        <p>Layers that are lined up precisely heal cleanly. Approximate, don't strangulate.</p>
+        <p class="you"><b>You:</b> present and hold edges so they meet cleanly; keep the field tidy and visible so the layers are clear; manage suture so each throw lands where intended.</p>
+      </div>
+      <div class="h-item">
+        <h4><span class="n">7</span> Obliteration of dead space</h4>
+        <p>Close potential spaces so fluid or hematoma can't collect in them.</p>
+        <p class="you"><b>You:</b> help expose the deep layers for closure and keep those spaces dry, so nothing is left open or missed.</p>
+      </div>
+    </div>
+
+    <div class="callout">
+      <span class="label">Why it matters for you</span>
+      <p>You don't hold the needle driver, but you shape whether these tenets are met on every case. Gentle retraction, a dry and tidy field, protected tissue, and steady exposure are how the assistant lives out Halsted's principles. <strong>Serve the tenets, and you're already assisting well.</strong></p>
+    </div>
+  </section>
+
+  <!-- ============ PROACTIVE ============ -->
+  <section id="proactive">
+    <span class="kicker">◆ Never idle</span>
+    <h2>What to do while you're "just standing there"</h2>
+    <p class="lead">Here's a secret from the surgeon's side of the table: there is almost never nothing to do. Idle time is the assistant's biggest opportunity. Every quiet moment is a chance to make the case safer, cleaner, and faster — to <strong>move the case forward</strong> instead of waiting to be told.</p>
+
+    <div class="grid grid-2">
+      <div class="task-card">
+        <h3>Before the case</h3>
+        <span class="when">Set the room up to win</span>
+        <ul>
+          <li><strong>Lights</strong> — position and focus the overhead lights (and any headlight) on the field before the surgeon reaches for them.</li>
+          <li><strong>Screens &amp; monitors</strong> — angle displays so the surgeon and team can see; confirm imaging and cameras are up.</li>
+          <li><strong>SCDs</strong> — sequential compression devices on and actually running for DVT prophylaxis.</li>
+          <li><strong>Positioning &amp; stirrups</strong> — help position the patient, set the stirrups, pad pressure points, secure safety straps.</li>
+          <li><strong>Prep &amp; shaving</strong> — clip or shave as needed and assist with the skin prep.</li>
+          <li><strong>Supplies &amp; instruments</strong> — confirm the needed instruments are present, complete, and working, and that special supplies are open and ready.</li>
+        </ul>
+      </div>
+      <div class="task-card">
+        <h3>During the case</h3>
+        <span class="when">Keep it moving, keep it tidy</span>
+        <ul>
+          <li><strong>Hold pressure &amp; retraction</strong> — anticipate it and provide it without being asked.</li>
+          <li><strong>Manage suture tails</strong> — follow the suture, keep tails clear and untangled, cut to length, and have the next one ready or loaded.</li>
+          <li><strong>Keep a tidy field</strong> — organize the Mayo, wipe instruments clean, clear used sponges, keep the working surface uncluttered.</li>
+          <li><strong>Anticipate the next step</strong> — have the next instrument, sponge, or suction in hand before the request comes.</li>
+          <li><strong>Stay count-aware</strong> — keep sponges trackable and flag anything added to the field.</li>
+          <li><strong>Watch &amp; communicate</strong> — notice when a supply is running low or the view is degrading, and act on it.</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="callout">
+      <span class="label">The rule of thumb</span>
+      <p>If you find yourself waiting, you're probably missing something. There is always a way to make the case more efficient or move it forward — anticipating the next step, tidying the field, managing a suture, or getting the next thing ready. <strong>An assistant who's never idle is one the surgeon never has to manage.</strong></p>
+    </div>
+  </section>
+
+  <!-- ============ STERILE ============ -->
+  <section id="sterile">
+    <span class="kicker">◆ Foundation</span>
+    <h2>Sterile technique foundations</h2>
+    <p>You can't help the surgery if you contaminate it. Sterile technique is the non-negotiable baseline — learn it cold before you touch a retractor. The governing principle is simple to say and takes practice to feel: <strong>only sterile touches sterile.</strong> Anything that touches a non-sterile surface is now non-sterile, and there is no in-between.</p>
+
+    <div class="dd">
+      <div class="dd-col do">
+        <h4>✓ Do</h4>
+        <ul>
+          <li>Keep your gloved hands <strong>in front of you, above waist level</strong>, and within the sterile field at all times.</li>
+          <li>Treat the top of a draped table as sterile only on its <strong>surface</strong> — anything below table edge is non-sterile.</li>
+          <li>Keep the sterile field <strong>in your sight</strong>; if you can't see it, you can't vouch for it.</li>
+          <li>Assume the outer <strong>1-inch border</strong> of any drape or wrapper is non-sterile.</li>
+          <li>Move slowly and deliberately; face the field when passing others.</li>
+        </ul>
+      </div>
+      <div class="dd-col dont">
+        <h4>✕ Don't</h4>
+        <ul>
+          <li>Never <strong>turn your back</strong> on a sterile field or reach across it.</li>
+          <li>Don't drop your hands below your waist or tuck them under your arms.</li>
+          <li>Don't lean over the field or let unsterile items (cords, hair, ID badges) dip into it.</li>
+          <li>Don't assume — if you're unsure whether something is sterile, <strong>it isn't</strong>. Say so and have it replaced.</li>
+          <li>Don't reach for a dropped item; consider it contaminated.</li>
+        </ul>
+      </div>
+    </div>
+
+    <p style="margin-top:16px">For a brand-new assistant, this is the first thing to over-learn. Confidence at the field comes from never having to wonder whether you just broke sterility — because your habits made it automatic.</p>
+  </section>
+
+  <!-- ============ EXPOSURE ============ -->
+  <section id="exposure">
+    <span class="kicker">◆ The heart of the job</span>
+    <h2>Assisting the surgery: exposure &amp; retraction</h2>
+    <p class="lead">This is what "assisting" really means. Think of yourself as the surgeon's <strong>second set of hands and eyes</strong>. Your job is to create and hold the exact view the surgeon needs to see and dissect in — and to keep re-creating it as the operation moves.</p>
+
+    <h3>Positioning is everything</h3>
+    <p>You are constantly adjusting retractors or tissue to give the best possible view, while being careful not to cause unnecessary trauma. Good exposure isn't about pulling hard — it's about pulling <em>in the right direction</em> so the plane the surgeon is working in opens up cleanly.</p>
+
+    <h3>Balance tension and visibility</h3>
+    <p>This is the skill that takes the longest to develop, and it's worth naming precisely:</p>
+    <div class="callout amber">
+      <span class="label">The tension trade-off</span>
+      <p><strong>Too much tension</strong> tears or bruises tissue and can cause bleeding that ruins the view. <strong>Too little</strong> lets tissue fall back and obscures the target. A good assistant develops a <em>feel</em> for how much force is appropriate — and adjusts the instant the surgeon's line of sight changes.</p>
+    </div>
+    <p>Practically: watch the surgeon's instruments and eyes, not the clock. When they shift deeper or to a new angle, your retraction should shift with them, not a beat later.</p>
+
+    <h3>Anticipate the steps</h3>
+    <p>If you know the surgeon is heading deeper, you're already thinking about which instruments come next, how you'll re-set your retractors, and where your hands need to be. This is the "puck" mindset applied moment to moment — the difference between an assistant the surgeon has to direct and one who simply appears where they're needed.</p>
+
+    <h3>Mind the ergonomics — for both of you</h3>
+    <p>Good exposure means less fatigue and fewer mistakes across a long case. Keep your own posture sustainable (you can't hold a shaking retractor for two hours) and position so the surgeon isn't fighting your hands for room. Where it's an option, a <strong>self-retaining retractor</strong> can hold steady broad exposure and free your hands for finer help — but handheld retraction lets you make the constant micro-adjustments a self-retaining system can't.</p>
+
+    <div class="callout">
+      <span class="label">Global → local → fine</span>
+      <p>Great assistants move fluidly between three "zooms": the <strong>global</strong> view of the whole field, the <strong>local</strong> view of the region being worked, and the <strong>fine</strong> view of the exact plane being dissected. Much of the art is knowing which zoom the surgeon needs right now — and setting exposure for that one.</p>
+    </div>
+  </section>
+
+  <!-- ============ INSTRUMENTS ============ -->
+  <section id="instruments">
+    <span class="kicker">◆ Know your tools</span>
+    <h2>Knowing the retractors</h2>
+    <p>You don't need to memorize a catalog, but you should recognize the workhorses of pelvic and vaginal surgery on sight and know what each one is <em>for</em>. Most are <strong>handheld</strong> — you hold and adjust them for maximum control — while <strong>self-retaining</strong> systems hold themselves for steady broad exposure. Your hands (with a sponge for grip) count too.</p>
+
+    <div class="instr">
+      <div class="instr-card">
+        <img class="instr-img" src="data:image/webp;base64,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" alt="Jackson retractor surgical retractor">
+        <span class="tag">Handheld · right-angle</span>
+        <h4>Jackson retractor</h4>
+        <p>A right-angle handheld vaginal retractor with a broad blade, used to hold a vaginal wall back — often the anterior wall — and open the field. A dependable go-to for steady, controllable exposure in vaginal cases.</p>
+      </div>
+      <div class="instr-card">
+        <img class="instr-img" src="data:image/webp;base64,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" alt="Breisky-Navratil surgical retractor">
+        <span class="tag">Handheld · narrow blade</span>
+        <h4>Breisky-Navratil</h4>
+        <p>A long, slightly concave handheld vaginal retractor with a ridged handle and comfortable grip. Excellent for deep, narrow retraction — reaching in to hold a sidewall back without crowding the field.</p>
+      </div>
+      <div class="instr-card">
+        <img class="instr-img" src="data:image/webp;base64,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n2RRp9kUafZFGn2RRp9kUafZFGn2RRp9kUafZFGn2RRp9kUafZFGn2RRp9kSQAD+//dkfoidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidEToidETntOSAV6FKfg7nhGv7G4VGMd/LF1OMpNZmvM8Ri35q+M8Yf8NJQjLvzpdp+y743u+Z81c4C+03WXM20WAiPwgY6+gLV/37f43v/41MOIrWozAe0vi1XMJUR272/JCV5SnhWD5bBIm0D8jNVctxM04x8RAZk4+vMjxk3ysvM4kNMwyVrGkq+Cl4R0DM/k/AOQz2HS3vW+Ialb0DQBp/jcJR3suAa5QgRI70b0Wlxq+VpkOE6T/o1uxBkKmGgmZp6aTX1mcMj30L8LliNovXgV4jgeHxAGJ6ABG5aMibaGxCjqPAuml9SrGGg2T06IXJX7n8/W4jXoeW5iK3R8WovElcj+P5jjucAUAHlEaW9E/X00iEgTrzX7EYJH0hz6VMKK3dTDChc74Gsw1XvQKRbR1EAOvOFqumvSeXnh9bqqC82X4RvZ0lfj36QiM7gPnv7DniDY36byieWPRT2HyPW+Ig11MqaL+IjyvCdt+xfAMHrY/SklwQANpEb8chrx2Yqi47/n/k4p4f0t83/SztxhTSdcsdB6wudusfTRnhYfvTO2A1rUXBm+skh1QJVnoJCyZKDFCYKe9C2KKyhPVef/0Fy83l7p5eRtStyyi4zurvjfKzCVJ+9XTmeRyfasWdaXKXkvLdHEzQEENqtrN5FLy2S6WsOlLbI/C5+IMv+DsJrrIyLB8ckShVG2isNzW7WM96Y/EVAz/u3Zm0A/fak20NDXlEtqDfzpNnUrXs4KgoIDkrgmRumdCfdy1GKJoBkOn74+6AzkqT9QP7m0dr4H+hYV+TvodzXAvKRrAlB6GGkQ076LY/+GTZLsge8bJ6oDpQPzz1p7oq0lnlESuRKA27hDx2l5sykGeGvhU+eVLyiKM/kix68iw2EKZn5wvLcfod+wqa8EySKmf8peIed1+NlgHN2u8b+QonpJAS/bAqGxPU/J5Fn+1SVORz/SSbcPcIkVvhjTiM1+AO9qnIE47MO9W7N2ZsHs+j/DPbkPj7pvOXtEH8mM2WK2jHR43f6vP+H4/k3OvhmILN4QmuYzR3bPEcLWRcAu3KKRAiZJ8elzeReWL936b0PnbUnpl9m23p+F7NSqvcM+V+4LCs0dZinAH42otcEsiOqp+fJVWRQxIfyyW5Zd8d4fsD1Wr4QlKt0nbjo4K0R49FElyaovaIF+X4qj7Ft3IATfKaKhTGxAjkgQ72rN7+eyHjCahpBfmUnXm+HzmnSvCNuCPIDfRJ169mxpMqm1SDf2YE7H18G+jiEac97TAQ88tS1zcwjfEE31vVlL3YxRqYlblXHGdmsDtIRQgj5tIP/m4A7Csf+NZ2V1d7rNugNNaAt8JgBnF//Kd+ro5c2XCrUPTRLpfrYTqf+j1GpxWw6sk4VLXHejInVM97wiicnr9Z9PeTtEWHdrKm40R3HSk11+s687fJh8aCJ4QlqwounFZI4OpW/wU/Po7YOHROqE75KryD6L9sH6pY+j1mHH7n9nGOROUqZJ3OPzh5fTDn3bUiAZYW2LqQc3I9wxRcjvcPnUVz2ghHr8JdaT23RJKfxsLixZ1RR21NxSqzSaS7IjDicOP9xCLdtrf8Y6JvgRrQ6BekrXjmxuJxx5frnEVqtzu0fC/i/BPsKFir69FQ9EjgYD9zWnmTBOUVpXbBA1RFT7BOveJJqRBHvc8+hMLivS/mWJK7iJ+JFZY1a6rha2hx038iVi3Y895MEzj5pET0JT9Vtqgsi/jObsLyPHoAueprUqA6pZxHDWr4KhlHOIvTkwKW1X6jhPtb2T2Y6scZA5Shl2799N12U9pnCk4JGbez/GE003tgX/IjdG2Mb2/+T4+VoTZSZmtnxhkvEgPB1w9AQ/Oo0XH+//6m8Jvvyb77ysXXU0wMf8Yyd+2S3gc25Xb/waEFhd5W69od21RilBy5uM47ylW89GwWIbj/OCuaYL1jJVgtL7YrPf3lSQJVedgadZs2n8xJdMw18AEKn1aEuHXsMIooy4Eq2Ygnxgyp8a40CPuktUx9M7+MI6F/ERnFvSalqkN7HnY2OlBn7dEMS6OChRDMNEs+Cn8pFIAAiemcYlbgyWIITE/p1O7Fl46ymgvtrT4sTUuafxg1Y6WTV1iJCY8IAwTwGM2M6Kng/4Fkc/pz9IQ1tw29NRiK8QNur0P3Fup0z3UxNm6R9CdJrRA4Eae7kQQ45OqqhMiLAdrHW7NymiiRKLY/WrG6ZO03ygAYjMxiuUBEfIw7Ks55yPDcFI2yDvMNh8mhjTe4CqHQ2+bbnDhTItTGuSJVvC2bWrMinnaI7W1JTKZXNn/PwP28Xi1E408LY34yrJWK7GLxpKWSNae+05XdlGeG+4ppT/Aj5NJ0UWJrRbfAtmzGdFjurRIe+KAQcJVGo2K8AZGCZzeuK0ebaVjN7o9irDVcAC3PsfPVJMzv7gYeWFRdoCyd/QuRYbuzsZPmS0xJX+lmo8MZ/e1MEBtsjcuvbQ571Lc/o1Ud7IABYGmCvaHThdZ4or8R4L11819A89zxZcDDvJV8nPQvcpVR/2YtI+AsR4t9qW/IYzMUQTLmeBuUQfKZ7PglLALHmZrFfTHgDldYv0d8zGKzHf2HLgoEHCINX5MgRotM65cspSTwfZW8jNDdWyfu0LgXIJs1qHsolSCzic5rXvVyCfJtbryfILxLDXMVIvs7CaFtfp8WTvw2H0ggg5ft74IZutRsZ3IAQTLTqvivzxqhRuKSy2B0EjlFJ9+Uw3Aub5R3U28hsUZs4pJLstRqVqf3UklBhVo9v1UqL8NbCX4u5c79XYy/9tghODxXOhlkD4OW2AN79bOxx7pu2yS+/JjRrhGTG42qTk38kl5ZGjatF5IupOeWagVDklPjwpYjeANUXAnraq6Pk+O1JHAxBJSPj4ZB0jwWErcu7mQ12aLzYxZxMAHvG8gX7XS8fcKMgNN+4adt0K/fNQS5ljLqMyPmNJ1iliaI2F1gstaeJkUrpMQ22NpfRYxZjZCHZi5jN/Neys7J0vyQ/KyM3sfIkrjarzskccP4CJlakXpQutR7kM6ieyUTAJ3J3r2osOPfykRTyMfoOiVSl4avwHSf7+HUrsvW9K9e8Zw83BGcsNJVp7EnYmw/XUbYUik6sl2VT5tn2RZAnWv4AXDbSJbK4W5VjmMQE+7b6/jQHTaBsTHHAvgPNiKkQifHvLrXqLu492k51hPKz2MBdMZWSDR5FEJQYX+w4warerldzKa8RSDa4wazUwPlJ4EvL2igOO+nV3CWxnc2t/rLrq8Z5/Kc1CvRIeTqGjLjnENu/j8AqX3dghMdYkPMjh7xB/ocV8Pa7hsyvjq9ZM4t4GrkB3a85qDX78IGxShnNDFfiP8LlOwZMg+l+wFqC3nRoIj9ulNs7SgFOu+zXx1y8e0wIrf4MJmFsFtf9FEjsYQvsq/dNnbDU1QtkgP40T49kCs+hM8taWQNp6C97cKWA1LxfvmkfUCwU/0KU8RBQ9IuAbRucgYvruaDiK8rxKYmTqWX84mKwsIo/RS1qmKWOouDCNgk0c8+usYRuNx7UeWKlQsrJcxnPRrY5BVIXyOn81wuq4+bM7XTsf0ZXB8Vq6DUu72mWHIhbLaWu1U88JxibHhibl339jJuo0iKF+B/06XkX9EOlsWwwo/s3G/gC15qcut6JgESSAI0dFioew/qnxrs47oGM37mFBYsnrjNS0DpX6UDAfVebzaka2R7b3Gmn783s09Pgxi0VPzq1btjQcdlC1syIo2yNUm9js2DWca+cr9F4eKEBq29vHUg4npccQN2e1Z9DbUwkU0kPmzVwrgJd94IFJZ/DSSUojx5RNoOHcLiayZ0u623X3tyG009ZZIM8q23N9cvnTu3KFapGQ6ggnKrQjciRPc6aCH7rqGG5ejPHYD3Do4LwyGkR1XBZr2kLbTblpiUfTdi9ciq83lc7sliorM0ulVGy56yyezv6PJsDGaLi5bNjvqkzGNMUecSkFw0gjjPCEtUTME9/dIjy3uAw2XrWGx+tmG5RFB/cJPinfcFwAN6NaRexoHJJHijXcA+2jlsdmPqDR8ehDM2wHVIp6Zkq54MP6VKkFMZLQeucFhN2Fl//JQp1Ma9QaZiKGW73GcF8rmZ9kD3lz3Q1Ow+4jOT6VvDI2e8z3IXdWdlK4kOBneMv6m+S8p0iZwb5GIJE3s6ZD/Sik1yBaNs4Oe9It2lQ+MfpQUvpyd5DQ4pSVYB6K3afBAzl6y4y2XtMWBSlOpgA1Y10bvEuw7MNR4EX+N37kOk3NFJXOnz9tsbKRUhFYMOb2Us+HscGhHKa/gmrQN8m3ZPGsSd6/m9aMUuWqrA0lQd6CJiX3piTEjXM4KIYSV2/57VdolHdBVWYuBwkjqYViEkyQ6XUomKhxist2cz0zPMoXzMF6abad1MC0rc/vePlhPiPxHCeGxca2CjzMofc9TUvJ4C201EttwH7vUdlKmqXvEicSGvxKCM4LDZ2ZO0jFha3xSqixgiDwowy2T/7zmgNqPrf7txc/X3Eb2wHiXw64tEXknwGVso5xU3IPecU/JIpwObKiloFHehX3mxlfB+TRHh0yOoEnkwENymho2HACnsU7oIwT9dOMlglCnwnYwVYwuEvxldFtrOAQ6nB3CWOxIBOkhX7oDBqBy3WmsfJL3Gwt8Nth0i8CO3FQIseOgkoT0lked9NBvjOcuX5sOW6qWilJjIae3VbfY5OgN9FinT6Cr4eiwT/CbptEKZHjLyoDPICGC9EAFk9hrBOULfB4kL8LiPLDgqEKDyDNBf3KQh5n3yEldpeXu22urnNOhoIngRYIXTXqXS82Stwy8D/M3s2KpqDYP+qJAglR2S4+ErI3Dmxg6A9+agAMY52nwopZra8UIUXYg+8oDPoZ2W74hXXjIZrlMgPQtOHzSDegTsmPCJZgs4e3JiIBFCB/VwRd+eO1QOQadOO7O59mXSBJAj/uRWhAmxX8cxGMKTFt9u1ieJnDO8NPLPFxyZgDBJk8l8aOaN87o229eLgBV8dp6k81oI27hOB7/e/VFBIEDButQPw38jCJspOmVvDQAGIEnWhqp/HFulpHUyDKXZJKKVL5SxkENj6kz2ltHEAriBjx8lDRzTyj/a8IQBeuaVGkANmgHhYl5hCzy77twdUUS0PIEWK5u8HgI+LcuYNCiz/mB6pzAXlk03wMkkcUrSthxdKsBDg6ZooqBI2tpZqHhtGnkuvc01P467WeBPXmS7RzXzvBDP58XpFLQz4B29Ww2iYu0v/uh/zwZaUhhXM6V8WDF56rIDbDBOosl7tdqCiq3/4MjEZomsitHcFge9Hfx59qlrdDmwofD+hL0GhGN8tMvMPwe/acT1zOmijizjuJRl4MfE6v+7mCNLliVgn5+hSZRdRYdYL23HZ6wx7dC40MziE8W5R+LnO1NC9ZvKKP9Dg0GVO0Sxpq5vNxW36qSMeAsxTWUCt6v66hX8TQCjBMDqLq9TQFOsyxLzR7YOwWBDt1ubNvRKtkqDWsiH9WDol5cCG50kQkOlj/79Slsj8lA0ObK91D48WU6mZqPxIYZwzoniKcC0kmwjKETQzbeuFo1PVJWXK3E3s8rX89FEDsSpayVrZtRnULdLHll7djHPDd1ObbnRxGxrYu5etIsojfDG8hhlXdc/u60dkyReQG0e8HVR/j2qn0IKRgdJlezJfIGRkipH1Egk96JchFyFvxRwzSwZH9nqPyjq7cMvqS3F1N0AxrrkDrNjGwAAAAARVhJRroAAABFeGlmAABJSSoACAAAAAYAEgEDAAEAAAABAAAAGgEFAAEAAABWAAAAGwEFAAEAAABeAAAAKAEDAAEAAAACAAAAEwIDAAEAAAABAAAAaYcEAAEAAABmAAAAAAAAAEgAAAABAAAASAAAAAEAAAAGAACQBwAEAAAAMDIxMAGRBwAEAAAAAQIDAACgBwAEAAAAMDEwMAGgAwABAAAA//8AAAKgBAABAAAAdAMAAAOgBAABAAAATQIAAAAAAAA=" alt="Deaver surgical retractor">
+        <span class="tag">Handheld · versatile</span>
+        <h4>Deaver</h4>
+        <p>A flat, thin, curved-end blade in various widths and depths. Smooth edges limit tissue trauma. A general-purpose retractor for pulling a wall or organ aside to open the working space.</p>
+      </div>
+      <div class="instr-card">
+        <img class="instr-img" src="data:image/webp;base64,UklGRtwxAABXRUJQVlA4WAoAAAAIAAAAzgEA5wMAVlA4IPwwAAAwUQGdASrPAegDPjEYiEQiIYlMHBABglpbvSd6WbcM3v8ZnL7zz2q8AfoBPCxeom7oB05KMkz/6X/I/63+7+N/6X7tOi7jz7P/+r0I/m35M/r/4P2v/5X/C8gfoT/l/cv8kfjv19vvf+p4aXaf6//k+pN3R/0n9t/xn/r/v/qT/9H+h9jfst/3/8h6XXlk+dF+F/3vqj/6z9lfZp/9v95/qfcX9aftN8H38+/v8CvSi1xD2cT5driHs4lpovhYIUFdvj6YI+bXZajGCp/6yT6P3Kl+2YqCnVfrMoctXyMOxnCyS6MVfi5YCHatbn+TCXYjQUaUGKTKd1wQnX4LF4U9Fzffh9f/yXkF0eUXc3mM2swSxixEgh0Pps8nJSuPW6aKp7gA5iT+Pw6Rk2Cb/5efgIPHMcnMWheRTTA844lIPTgkWC6axxYrxBAk3WT0/2TaEH/W4fVBerBQdMBSREQ2WUjThIxD4Vkn4wfgNwac3q0BH5bbq2zKDJwye0dPlFRs991rGFntnyhxIdi9/pQGFXiHVRAYT2fsAGSsh+NnUYF/DheW8LbNGMYUgFuIuGXFFonHt3njKf/7ZnV//pkqP6ChTSEh57Y1YdeC5Cl38dYlIEzPqOvBnOE4oeMdnCDDyKkehwB9Qf+VI//S0byB7hU7j1osEJICugtytOfjKODtlfSWuGFA6IrFRqns7rWKXSbLH2nrmT0X/e37v+uQTkwUekxPEFJFajPhKsJ5P1gTRmIBA/yetuYSMC1IWY9ol3Q0+YsOjiXLC7YQrhZE7Qo50GlPtuhH90rKwwgv+Q4r34zT/6RhNzn9bRnbWbW+3NLQ+kyW9q773mj9a945tLoizEl9k0ceZHdDLSlS7bHgGv+0a6LIlmjLT30CAxiwmVOxu82sn6O5vQKxFk3GfApGt5ivb8Tt+9QuBdL70XNk/9/C3unr/nNHueS1ouzMorRmWpOnHiXIUfQNt+ue1Q/5/t/XfuKEwMoJM5RkzEoXzJLfM3KUjhR8Tluqo4Bgzw4t/YOUv88aZxkmQYXTn+TCj6BqUZQ3Y8Tl/OEDxMOAs33pI6VoyKMvK2biNt+ue2x5boW2xhYl0o+jS0TfO3aGAzoAkLBg1wZjC6c/yYUfQNt+ueed7iePHantsE7OpKWfHy6OiYw4XChULbYwunP8mFH0DUoyjgjaizGP7/M6puRAppocmFH0DbfrntseW5wbO13Ui1zmhAgE9Eq78RYNt+ue2x5boW2xhYl0mzvTp/7eWTC9xTHiJ3mURAWVpz/JhR9A23657bGJzjAhxY0NTTMWmgXGgXnb6uEunP8mFH0DbfrntrBzk2+rcQ6VCI7OxhdOf5MKPoG2/XMUvtS8M/ZuX+Kh7BXV5i5PSb6Btv1z22PLdC22MmE7U/8Zg8DQLlTnjGAR0b/q0+xPL7qfqUL2xhdOf5MKPoG2/XMThEniYOr8XQWOtBYAwamtGflcvMCEbjUDbfrntseW6FtsTn1VnKB63ft0GV/2FpZYRNI1dfyYUfQNt+ue2x5bnCO3r4E4L3jm/ExtDKP+jvxE5/kwo+gbb9c9tjysRUH/mqGWysEik/lC6c/yYUfQNt+ue2xilej3u02aBtevS2DKttjC6c/yYUfQNt+uYoxDtDondWTsIEYCvJzRtseW6FtsYXTn+TCj5zVxkC+1IH+EJvdR2XlDH6CYY41A23657bHluhbbGBH2aLxA2rqJZ6tIhZ8dAojjWn0DbfrntseW6FtsYEhAQqlUYkDA8xt8l45fIseW6FtsYXTn+TCj5zR+J0hdU2DYFOigu8CkljC6c/yYUfQNt+ue1Sg9LW/AibzEG5KxwtrFo7seW6FtsYXTn+TCj5zYFom2ouVaKZJp0+r+TCj6Btv1z22PLdCND7SBPBSqiutBr33S2MLpz/JhR9A23657VH5iW3lPefGGECB6INKTEd+ue2x5boW2xhdOf4J17V8OtRlLEkpQifdtjy3QttjC6c/yYSi9xOka4/c5ORDlSc4MboW2xhdOf5MKPoG2JHKP8y6ykP5lqmeu7esClfyYUfQNt+ue2x5bnB164tWlqkPMAT6HugKCbZ+pkwo+gbb9c9tjy3QtE7EF6OMChuaFr4MXV0ZF3/wcN/kwo+gbb9c9tjy3OETikM3hE5x69yRR0CCcNNYcPP8mFH0DbfrntseW0m358AWA653hhKZhfrGXGizWvK7bHluhbbGF05/kwlElfJIQeHNFJZxsgHZf9e1GRcHEsYXTn+TCj6Btv1zz1NMnaMwasEDNW/WWl0/N/J+jCuvk0yrntseW6FtsYXTn+SQHj0OgG4f8n7iioxfSEorQ2I5PlSX657bHluhbbGF05+hhiMPVgFXWeFjmPBpcezZac22xhdOf5MKPoG2/Wc/6pBseQV1eqDE9+kKyFExYI9ty823657bHluhbbGF01k5Qk5LZIttHD6ZLuK08q2mgxSauTCj6Btv1z22PLdCNOZQGvk86IoEcDhhy+daghqxg+UF+tGt0LbYwunP8mFH0DbE3P7gH738nLiErRuRoRe3T1NCtnMsyvDgTn+TCj6Btv1z22MSr1ywxPYT+72h2v7zw2FWvb9AvGcWGkA3/XPbY8t0LbYwunP0MSv4nybz9I+B4YrMI7v47op6+P9yS6juj3nC3QttjC6c/yYUfQGqS1uTxBxKcJe79JSBZYwRklixtJBdGulvWvpz/JhR9A23657bGKoyK5wVtWK+pKQ9bgN6nd/KsTh5R9vr0gGjMHE0SUfQNt+ue2x5boW2soeH/jPwwwxMCJJ6DKEWnn+aPg5qIeWUJ5sQWUmoG2/XPbY8t0LbYnOfcwUvsL3byOO3zTUUn434qiHOGa82GYOa4lzMeW6FtsYXTn+TCi9e76hq/KK2R7jeKiK2eKBUzFvYaxEV2DoRLoc0vFHthLVyYUfQNt+ue2x4CEtoR+NUcwMaJNxA2ydqkS7YAfxvy68NnoBgebscoSGf+TCj6Btv1z22PKwsFLbu9+Jq5/alhqEERVxDiGc0iVW8fufnPFvcKPoG2/XPbY8t0Iy3nEdmx3ooZ6ClEzF+dePtn2U9LZ/J6P8amOCUW2PLdC22MLpz/JfS44mjxyNnvAgsySp0WWzYpQrvpK/d1qxmtLWGpITCj6Btv1z22PLdC0TiAKV9mNuyeHm57X2Feshv96rS5G0K8V688ncxdIITCj6Btv1z22PLc4QJ7uPHt46BOL3laos/ArwBEhuyWX+AP3IvhqAdS839c9tjy3QttjC6c3Pt9O7EA8/D8az29TdO5m32B+Hzo5/qpq/3aWtEg0QRZF0Cb9c9tjy3QttjC54c4xeu3O6xcSoT08kR54Iw1ZsI11eqwaWcD+CcvkS7dOrwbTFcjjiqZP8mFH0DbfrntUboV/oyUkb//6GgkVOckilW37WpCc+/ut7M0Jzv+Bsik2AUUMr3qaAJMX8BoPzjiboi/A23657bHluhbayAnne/oItrsjve/yznjAEYoUXYvmTbOfK6jE5agBvxXwJTD5YRwt38SDVDvy5fzA/h5J/kwo+gbb9c9tjwFOp6IW2uzvEiJeGBXv8/NYnGN0ZBhc8AA/v/3hsN402/haXFgT1nnV7dXt1e3V7dXt1e3V7dVVQt+JeOAxOG1oiGgHSlqJj7T5Liv1OdgYukvce+USXDHby+mqmLxSU1p1mMXj6+4MUTKhmlp73hqgNg+zJWOg0oedUsda8dVQeAQnDUSc86z+nqYAiq9dKDKZyWrAZd1u1+RqNhqiyXdkqpd+8UEJhE9kvO9r/SqJZucWtmo0fOALpdO+9bx6b7KFm5MEXgfg9q7L/T3N6XpVgyB4j+bAf4wdTvwJFVwsnxKqxSu0bl6STOOPn/lPriWK2pDeeIh6SJRjzr6vbq9ur26vbqKv8PTUGyTC1un164lZD/1lzEnxhmirc2xZlAQl2iawY2R43vNRWVIOpk7Y1wlW0WCLWRIwr7PdLpwb0k8xaX7iCqSj+p8BRpzy3VtUpBqv12Bdv9bhiRJ8A2eeEFvBnbI4SrPOmTBXHAXyIuuOINV/PXg/ikqMkOaQnFtWP1cTucsWs/MZW/aT7cBkMYOLNkCcl+ElcHOK9tU91Ed58KU+jzHl9t4Wq43syAZuzpxlZHcM65/gcxeJfbCledXudqcMCJZ3Hv31Z+A4V1yhz6oUJqGkvO5CFJHfKySQzbejgI8J2GKKZZxkJsQ5ytXX0ZfGjg3ydKJy8yz9Hlor4YSxFlOD5Jr9bGP/uNeaToA5FZJWhhJFJR9uTbjwj4MOnkCMD0+pr82jlDGeu0CYUvgt1xkWvEOtEeJTmBY+FXPQJXcwb1sfDm2s0YEEq+WikyOeI9/IY0asQtQcP2AoYLdB2dZr40gPQjtxShvDtpR64HCRx2lcVMgwDfvIBsghqU21ODcBu9azHGDA5tNO8uVbHZEnURUcs2OADKvAm+qSXQxQLpKcZ287akHjOqJ6G1p09odGFu9hxqe8fUXBe6ENH12j0EVPgwTfbJp48pYIo7FlZVB2O81zdJovkPwWhiUZvEvN3cYPT2R8DWDFr5JwkO3BMMQyvC6hFiY+s6vG0TBQBHKfS5C+KLA24BkLw9FWDjg+GS4fzTBLSUlNJ3Ut+8rdvzkAMrcQZOXo0l2+lSMzPkM7iXMSl0jCDhw1LUHM7HYWJ3I6eAH1PvJ4iXBWYWrzKqrZSRVbp9MwpR5qCjK+U0JaHq2JbYkFiEZSV4gFiQH5E08G6LlV1klTne9KcDM/wKdvZME5Z17iZrr9zOo9ZmQGPN+I8hPSyt+IuWQRaQqgvUxNJxQ+6iGTckiTr0OhTckSjsGwQ+CxTfq9g6qO88fvvR17V4vzzLKhDG56hSaX7ZhJaaCSEep5PAC8uMXEev+B0HhTxbfDfqQBIMdwcR4ahGMBfumpAL/+pPVUc4N4KsMjCok2nzlEJ9ZuZXl1edJhDqou/05yp8G37dF/6xb4oR/gk8ojTyl+CO58/lcH5+8QZvbClHsrqvmvfUAjj0WmDSeii5+di01sija2wi07zuD8TE1411XeoeTsWJxbklwaSD2KGV2l5ZzmhtSfd3zjp17SCDXce0zR2sxoAhxcu6CJGz7RDygGs6aqEvJISd8CmxDFUF5HNlCnlB8hswWO4e/yaFX/ZWPY8Z5Ef0lrzsyaIRKkbfUyLkGp4o8/qg0OWh/wH26pZgQvVrQt5ZpR4gPyPjClCi+lgzukGdvj9JOCR946A/viuBuvka5hzxwdnWOnQ/vcFuyYwGXIDMB2UlsZHwQsAI/0emAlYDKb+OP5suaJdNoKdGrycgwCWV7YjAvvFp8bSQoQFSIbWK2DM1HaenbZdEh95yxxpDSjFk7uLM1hJeBqXl2IINdH/Gezn6oovbb1gPlnk0ZXu9ValonIrXrmO6auzENQ+DYYpcVJ5zL6dV5VSwGtTx2JNGtLPqf33bMoNAQ/n+8j7WNEGXc3u28yhITJOk1qIW/75lKY6GBO6hhF0m5gTcsdgUiQTLzGQAIijWiJl6WpYBoG9qsFKyPBXMDdKnDPbcAJlTG5n4PKy9yNeO4HIoSiYOwKYrLY56EMF8kOfqwEqTk1PD+nSgYCGl32FXB8JtRSkwhPmXmA7LgJOO9NnOS/2ngucuX7jo/f5+xJQD0jvtMRF+461X6N+CV60XTQv7xlSRy9she5rkEJExII5CXnjgYNrAWERMWSCacuvPofq0NKsVXh4L03weguhKIJDSf6nbfQzPIrPCSMTK5PjIgk1D1gqIVIqSt0x7gzKsHKCPWsJhBMV+fB7C0eVZ2Ra8SbvK7XQ8Nm4kKDbGZp/6Qf2kLTC0Cw9NqFCBj1EWWH70N9g3yyG85H7kSnYNVVr1dmi9sIDuNP6jT93+pOx0g465YWMrz99vmURjmQTbaI8GdPnfEBlKs8fc0NMU8NrKia+7TStkdjiqFKwGzslmoyEf8Qh9E8B8XqoYKVrR0VLvDYsfa6F/8Xcz3hzbToBlKSTxjRLsTJFvWWgIFqB5iN4zWFix62j4d5rUlmzjmvVVXpNFbz1fak7JBx8fUy59cy3m6TfGqOUGhgWrzofUm1y/dEpZq6NcTlhcZJfFJNGUB20T7Ipv8NQYNgOvD2fL1rXQ9wA68IaNkiGo7SNdkKbfRxWpQ1h/01GWCTJyMrvYBAZ1/WTNTJTcAG5CdykcVVkaGtpGKBYx9Y18A9A2r4gIAFnztahvmrMjq+2EQ64C6ukDgFC7USWICqMReZqIwE2T3ULptw9OJfQbODGPhyM3XqehkoVdUS4bQBmGHOy65kYKuyOpY13hUmp0DIK/fmct/ctgRLr0V01gdyj1xvVIHU2bw92Com/4y20wllXNPJASM9v7OndHQZAVCfjAbr3GbyIeopR2Bs6BThnocUhqI3yZ58I+j0cV+sG2n6Ck4LzMKL42tJ8N136Bl0VMRhRasgGBjj5vx4h1RBw76avK3Hhl4CGEAd50IXE0TU5j8FBsxTQCsBdFIXOLJNRJc9qOvZRtbS4sdklN+3aIdX/kypEun9sN0RWzlINoZzNnqmu1SAFyg01Y6ze87eXXRrKXM9rZVxBXu0l7M1x9dl1P+zplCjsXuqB8eC4gA4e+i5rV0NMn/pF9Rp6uQlcFdQbfsPmwMtOaSH/BLWf3AVglIlj6I7WTydB49UCviKPJfzE6segS3IE0TAVJtoqv1lqDUr6g+uysEGqbTw9GlTPbIVGVxjhoHUKrJuxWW/54xoHnu6CJ29mtxOBmRtSUFLGI+VpO3682ePnRvhjYFFADYJOz191nhrHVImwXlJ1vsO7E049dcETJAuAkS526vqkuJzm8xUaIk4Qc1kXZWBPFOli7tBzfeExEydmkVp8MnRZWo2KX54x71iloBySKMe7l0UlXc2ZvzkTFSRscHEE/LY7dbmvyysKfFmLCtcURiE7/eoTrncJ0qtie9eVn+0IFi1Q+3QbAV6N1Mx3eHHgnxRYTDufeUqIXODJ1EW0ka5c+zqOp1govdENlC95JI1SDQ8d+PgBpiPA5W/EVq9qoiRiB49viYH9jGyJibEezBS+NjVmw+qbVKcs9ofUDjURzDLU2htWRbnJj7/V3bJnSFGFv0TTZsbAp86gTUTQSZjv7n+aSuRUqJ6NL09HCB6eanNFgH6ZY1cKOLNpudJDf50e+aF93ANdT886ny8R2x4VI3ch2zwtUNwTf//yCDEfhaUiqFYmZUPgzXBbmXua185dFNI9EEyaTTLUFqjQaxiB8ndGuf5Qky7OVqd86xVXi4pFkdG059o7TpkCYg7DlU7zw2pVxg1dxVPz9f2V3HFCJ0F0limuiqYElk0cveUEwZaUXaMJSd13zbz8Y1mhkro6NQtWIsNTIiOH7yCZoDpUdEt2rgNgPMXHhWJz18ZKXDc1n+1rpA8S5Ddp5W4BP3g1diCEAPCeNMLhYPpFFjjc0bqjsCSby6FkokTkWe5/oteG1Tz+MSs+kwDGmcIhdPDaECyeNm46QJhMTgOCLWWZHx96WNjLgki+DJ2v2XgFYLLegpuhvtKHo/WIfIENDn+dDSCPhV7kkghxn75jo5hEj81jytyyOpOPZagrgn26WyOjsaD2d+6WMGa7eKGu0QBXP//ZKsm/Ni3c234PANEWq2+vcI/Iu7itejL0x8oyhSdaBaJqgp5WTM/cZxswGp0oW+vTMkHvXbG/08Gmrxso36W9Cf1gOWjV3R08VlBBudIglyMo70moMO+4WWJh662NXV1//vNVMhVEjqoph2+NhF2fNkfcgX9wSPw70iQm3l1tDdo02C4X8Qjv9SDXycId35rHeVsM2PrdH1mPLuhp6Stl8O+NAw/kp6aLQS+jBOEEWhq2lNElkI1+m4ehBijVzF37ORwCbCCZRokpnC3GjrGbJpdISXDclFxrcuPa/BoJIJ/jzffMhn6Iw+s5lyKGNj99MiuZr2Dr9HpasGhWX6B/NR54l8llsAEb1Wpd2F00xNijqlPdmd+ryQ5AwzUmiEDSihexKmuNYjk4+pKREnOba8/U9I83hdO6s9zuZvg+9jesrkdLNX6zXZpjO2gskenIhgvlsjapyH03q4XI2nC7JyyOXnSZX4PuOiGxYeCu133yzfyVZC3GHoxtMFgoWCMpiw/n2xRjrDQKGFe4PsZgp4BQ7VQn8jOocU3boqRQRU93AHo9LANugqm8QqL50MzNMfAAWr3CLqt0VOciV09ZYPC85M+f5jKD+WYc4OJYR2FWWP1usy+dH1p/5+TL3031szXhafO0eaTYW/GohRqppAqrfZorcinXKHPqo3zDuNzI74hz0an2rFttalHUdTrD9azuDcQp1LUVAgrGFjX3jJn+1Vr0GAhN/pZcrOOoXT1yqMRWE61prN1lbgkxg5axnigX0egbCJzZuU/kp1eTGgsczUIHh+DWXfpD1zkzzUHQaX8jdzuc41YglROakgKOAuy0abCR8HtrlMDoVorLWCMiGVTue9U/ENv0rHIYIxKp/sbFgCurBQzJwFRgViv/R+TXXue8lDzxC83x8/Q9a4tVslR1fOh97Tn8MWRvGQbE8fhwppLGHWd1hGo1lANE8PO0OLueeCxwyvSvDetDs0PJBhMe3ByOg1IT2F08+zkXShlmAN/xvTC8ChyRbFM+dFcZyS0m9njGvtgWGuYP0evR5BYv8rxcRe2LFqhmqjXjiUfmHzRIa10CYxwdcR+vCEPE626AW7YcG4ski02NvVGOXq66Q6Nh2aLUoGUtHrEg/d1tf/qS49W3W6Lmi6q1Dgc5j7u6vNVOdGLkjIY63uVOPfFHvu+aI5fictOr2XQulJAhhBgeduGsXsh5PDeCOzW84LNgXw39ADpQiaWkaPaE7pYxw6jF0zT8WxKGlvA5uEz9mPBO+1IW3E7q1mbPyP/QheePDcnFbzdO9pwS1iOYUEgtmHFovHHWGV3xjIJWYP9KLQ8J1OUD9CjhJyIpKc+DrFNQh/0Vt3iNHgFmagz77XKi2QvjWeNLEZXIB7xVZ90Ugybiu40UE0XKU74iM6f3d3ZodxXVetdgQnMPc9v62EUm2HZ8Nf0CQAvjSNfuoChzp7GnfC6ij/Q7hFiFe10SPHtkQgdJbC7VCSm89RkugJ9XTlnEo+kGKsiBEysArHgFJdQRSB4wknxiM5kZS7KB79+sVMnpsFY2xnmgFz71D7wqZtg/S0Y9A5VR0T3Aom20vfT53ZqAuwgVBpgjo2Q6PrdKVc8sZ1yWiT3ep1peDY/t7EhC17uAl31rdmfIMmRX8iBc5AL2NI8aZR4NgY23Avsf7eLTPEDhsdJdZTy2ciciSO0yXtRypLRTcxFHFRHLpOPpcKIDQXgjH0vvW7LjP4XagrOMaKumXEh1BNJ5VelkS5ZIeKugYI7a6+LtbInQwYLigZCCSbVWs0N/EJf/Ja/yluD4Mzpyl+TdYuhA+kpb1S56xYTOL8AfgW1IcYMlNmIht+FiJtWEfpe3yF+mZdpI/6ScwIFemt6r9Ljv8WOHUhwr9mWb1jtCM6PNTdpwh8Ez6L62hPq6fpvTY6vPAnI0VMMvPxMCrXbg+EgeWXWBhoNrS6ZeyXKau/BRlt7uh9D/X97VvVcHgXDUjWYts1hEjOslvoKxBSXhl4D3UgLdsMifwYgVBvsfd8qjdhvQVJqRdTkNKUy5MefWuBdU2gNqN2+1rSwDAlHWlSznNcRUIVJ+4o3KPMDc1OX6LuaLdS1OUVoGH4WVndga/uVLB1QlHPO4tBjTGrwchtNKylVHaCHrJWpBKzVGF3R7ZaPeO6tHgzeH2nQkTBskMdEWDkhrXWTrlmPoBGP9doH4bLE7PchVv3H3kgv2oquWeuSV/AIZGen8fnPwpJawZ8ONaNckJ4f2IerdxdvkkEI/7H6ssIJXP+rJAer39Zai2LqLJM5lFaB9fWM16OugTMcxF/qBZzeVIe/y57yL5b/NWdv8qwCIERvAXv1DdG82L4sXsbqg7Yr6uM5G3MvZCMNE/gRRRr1WjghmcLIlPnuFCsl8ZaWnnBVwj2pStv8OamhIX74+/G5tqmT7YyYJXV+RiO3yv2HgpI1QhPhefcUjKcpKRReSae6MGv8bF8AmKOoglmgCp7kzPR6Aipe1xZkkor9Mkqxk5eEf+8IXibYgrHw7oQHBPKloQXcrulti7bQi8euBrT2zNcfw+LyVfDXvf8jLESXufbeOg7BbuezHetEkklROaPFNIW5C7V6dG9yrmzpCr3F17466fBIl9q49DmMq/UW5YxXXogcsaPeyFtUdnjfqCS/wj9zSKeYkW/eW1FCWCaTIU6FroB3WOaG2gWs4kgbCFn2lA/tOPn4ojxaEAv3UY8dhkceIL6/ttAo6BuJgMoKnX6ecE3Sr6wkc3nm84JG3De0MyLEMPa+jtlfLCaYnVZTG+03KZKIKp74viAWbVtWQU3fnse8nPNjBPWPJh2d+kMbALVq+qcsfUcCPbd8su5BwfbkpUKIgKWt8Jmb9fjkZ42BqnqSs9lh2p4KqSPpODwm8hUKZbCuYq/JU4l4pLCFGcrRsAD5URxdNZcw9fF83pl6bkTUgSn9zXfam4hF1UIuc2UD2aorz9xn0BvyDD19Z5oTImb67CpREMCXuO7eCIR2zdKt6tWOrP9z5YohjRlR1vFQru+L+WM4uOeYwPqVmXyPURTVTTPYJxj9xMQf6M4m9okFnif2wcxaEmn2niVnx+G7Xb6/gqE1yCg+iH02/9hT/bhgP14MRFFhAlk889DhFU4H1AJH0kw4aenNJZGVetVU0hhLs0T9UbmTAKOomS77PE0bredfjbWuZYMZ5uW0v03/wZB231BYbyIRWJhGpXQhi1CmcyGKBM2YWPa9QiqfgrjiYMGBMHY1QzReTZnvaMutq2eA6fUQ/+tMmX/2ndI0Fxv+gqnuoh4C1s9T2W9YFPsB6lT3JHYMof1YTuWzK4SPClSw23XXQQg0nv0TuupXmYGl/ON/Hlb4vKSeo1nvFyQOpdI+RJa3Y6yFf7cqo4LFahGyy4GO2ec/ns3qd2qTN86vDcZcvwImORh01Zm8qVH+kpkfOy+U+LeSCzPIRjP5VazrRzymLBDu9gP7Ha+reYU06AwAb+mF6pTadac8pFJkwm9jWpn8MfLGPFrklMGSqKbj1dmxgAmVIDpRduJ0gt1vrni22Cl9ppbhqGB9DcVkLWhckrlGeUV0PNQZPJ/sFd/m4RcFKulU9n7AETVyfhnbH7xDoG8jIxl/54QUztx4fCu3VfE7kKll/w7aSZ0U611hYxBUfh61limS3St65+t45bDBn6voXF21vH43gUiTDwik0w3dyNG+vrtKEg+iDr8A5q+a+Vr3GwMRd/LUZamzAyKGwuH2fdd5paUqeKqkbhHKQx163fYjCYLUpsq7VaoUJcdr6tu2YXVCdysc+oqvfsvRDq10xaN64MKm3QDA+OmEQmxfYhAQEBUX//qK9c2ecv+uMXp92Czk1mMNPC1FdkdvlzUFaqCS5MjZ/v/Ke/wiyDgfS+Ls3Y/Iwj0zgg4DM6x1yE1yq6rWryKt73UHFG9vAVa9KRHadILTYxSiJiWWvfUOSj3UAFjwsT7MNQZDkhIhEueHQiV2OBbTtc83iP3DGYAn0SlB4ml7TbgTfwiTeGrf4D6HHHgJu+KuMUoREBM2xG8eBVKiPEjQk4BBnYTecY7ONCC81llvPlzpdO+Q18NDmHnONae2glekbY8+V3BCkT1zX7TrwBhHZ+QKNetCrP5MxWK6EqDeQFWAlnHBc3jtARrL/S6XQ6125zoduCOVW3rEiRvepGdd1M+ZZJMcCXt8TFUUOjLqM+adO0eOlCu2rJeV0x8nvX9Mh+SppTUemZtHECxt373Bge8c4ay2ssMHi7B5BxM5pVA8Lag7nPlRomEeb9L67Wc3miE4o5NeOc5LnAKLYtRe72eIY5wN27ADniwSksh8SVobTL7kDT3pjodNyIZ4sK+YExt8dc14hnmOkDqcodYhao9/jt63ppNBb11HDFB1CIA155K2tTTvi/pU+8bVsr7QW1whLcvS2wRauhU1LdGw3YYd1OlLp8JaGcoOU7qox+vizVgonLHVprQWw8dmypLrjqY1FghctGOh/OwD0IStKYQZS/OoR0QBUwqDpWkbM0wlGeZxlS1baikD1nm3TD+pNyAXyoC8DxzGNPxdQHc5vfBnwDYlbog8GfrHoS4u7F5VVU8v6HaYDVS7jGwZVIK8knczsMCgygCwZuwE/3BTgBX1QWK8VDDvifKjuxej+VnKdoAFFYf7Cevm30fzYrTdm6ViEPrx4zcbakqf1hFTlSuEkH3YfQ/MakhtAKTAcdlzf7YU8Pp+PRT1jWUV93VPV76sjsZLegXOJHRRDB8aCOM9lbW5bfGqHb3efOSGCHcrvUG+RjMXprLONXsSSf3xGKpe2XE/a8Mqg05YOBCLAhXdy0IFOMSlZ/WXtbNEEZ6j5FERKHREo56Hf4THv4IgwNL2niBUXvaUiea5YTbHoea7jMIdp/QbEUkzf9l7koiwQSau63wire8IOWhG3hwojtS48/gBRvZqTshCMXH8qLEdD0EKtikap8fyhVImkUGUusxy4jGM6qla4deF0e4fMbRySQ5O03UYTyG1CElUsoK0d6dg+efVdWeQJRZQma6dtJDeVQSHXRdGvpP+h5GTW+IorFV034vlTi4X83sgwPcP9qI2abqCmeXfAhAVqjeQuPoXaK7HJW6zllzjGnM/cIAjKwXcGeRUtmiIlTqushlAfWEvzdoaIW3ELZ2/s4KRDNP/oiFZ4GzCE+4GPERdtD9Ye0XjCkO9LZTyThcquJWKI++PWkKiVCSwjl+jJMFW1iNuktg4GeX/niJugOvT2o5+JssLW26M3eXzR2GwxAKaNnERmpxcJtjj3wPjWs2qIMFS+jMMubc6CxOYSRl2djWBUUDm+zN2TSQUL25nClxvlWnI/MeeJ/L5mENE5Nw81g7uhHRNZ++VEzJLX9J4EEsvGyL3D/IQoOl8QLQ2XRjVwHwEZNVwsrw0kuwRVkzGKF1n+s6XFAdjfBLFqG+EarxF/rNBotVj/0Ja08EGUy2N6K9ulrpMwsSSJXwrwMTpSzALOdkqffgCalRmpL/iDD/t8coh0hjRGrJUXStpDJH7st+NvQnKrclYkalKj9tk7UK9k2No9mXHcZdWQc9i+7JL3KO8k9rFy5S2Wbqm5ifwh/rfHu53YOjHWDU4bnQgVHJ5RVGS41E3hz0xY2kAYV/TmjUZTLkzXdc1I/WFC4h1K/PfoxgogfxtDyHb0qt7yykSLetfGZ72YLS8PvBBnGl4ZaUx6RXZWQZdTdNZ/DwS7Uxi7xa0prRv3HvLAFVT6eJwRGa5PhH83Xn/hD4BOCQ2Z32BJP5693sT3fAyKXcRXrbt0KHkYb1efJC7Peh0rtaBxdDnOVs+tvhHHspR37aBFXmVWJVzfK7pEVisp+BzXdSLZ6+AC6uPsGNpCUICZutkk7TBPDhI6DkUWYFt2/WKxV0KQU4pBJzfu/eLlC/tOqw0rkfz1py6sfq9yQHBL/7Z3cLJlAnbLGEnmGrFRqwB/z1gJ9tahP7dvkbNgQTSIvU26RRwqggzfkHCrSLiCpAxyPkZRusaLCT5IdcUADP6kS8y6RjNftjlzEaBWCH7D0Ehq+FuDpTkgZ96wOwIiLyPwoF4uBwVPVxMAO+zTxLsDHnIq9eKzC/1Rb9D7g7uf8shqPZd9oSeo2KBfamQunahOfRFV1Zs6hklQSvwbYnFCuxDjHs6NijsV/cKWi6EtaFTuU5R9949jFeS276jwc2r0ooV86vllbOXFC2XhZuYifYN68JeVgGgle/CKSWMdXXrbFCZoazs1UlIBJnNM4rN92BMXJHgSpvkT9tpd9B4BBmZYSQnfo1GS3RTD40o4A/sJ+gG/l1b1xYOGRAyh3XY3MKw26WiB+OgXNwFBvHEYbkIBPcoaC4GYjWojjKT6Q80BXePMJAoS4mVg2DeQ6aO/7pDw6QqhctbtFITZw0TZHlVs69gb/hKeCb9EGGW1fxPN8ibnm52QhdAGrH8KM9DCtve0Om1Qc7Q8fAK3cuDuaLfMdPX+yy+VIiv8Z/544lvgBusCqtMyPlbwqoDKskgjYsK5CbKjGTco73oM2y4EZRUguoj1F2kAoeCvre3WJlyuCW39IkqKIORmT5vmg5DYuKBh63vRSkm9hZd3uY9tHmsLylqXfjdTDZrAgI4790U1+HSTAPaE6d8ClirfxxbdfrdECuoGWwt5IYLCebDBySz4fzmIRmUu+YbWoankof3NwhzAzqiY2BAra/P8XDqZID88t3s63Rb1NNwrLI9OW/Oi6oHFmDkAgDSC0n+qFiY84AUpZoHTZYLGLQKvvkejvTMxkcCb3NR7peHYr4XLFb/hxFQWmaDhl6IRgVKO58oLJCq8N4CeNu6ZOdOlLJ5hCDNvm0kbxvxhlR9iIvl3YyrFgON1Mkac5+x2a/Y4soMPb1cykkI8uy7rdhkl+DQ4QtrmwVepqjQsXlK26N8QmjZLTrKnXY19P4hxMosA5cYcYuZXZx0AGL3Wb1LXfxvIik6su0cqa5dY2CfzdnB2jQ9OsiotdSuWA048ZhXzjaoCrN8n2vSYqCOdGUTQ95pzBMDXVTwnqPC9cC1F5F70M8mI3RzjC1k77E5H39Bhdb6VW7wzVvDg6I1TRw8B5qgbMRDb6UqbFXy6flNAviMrZ2hHQocgb/AVm3+VYwEPCmI/rrPMV3GD8IHvxqPjVZnpp2O7GLUWXyvuyq8jaIl2zDgikcYLalNHSUWH+Xlq920MBk77Wz7yRrw6W/R2Ot0bPsat7CMdtOTp58YkkmeT1vIYDQvNjGzmoY10FbIFFrtdmaB8BVjNettflFyWmYOiAPldYHUiaV4geILDN4ioBYkOsNpP41xtK4Rlu+uylVlaB9LV0Hgvw8rIfTGMP73/N1ygmZojEvemQ6HdqqltSTIvBNbglSq5pXm4SIR9fL8TdI7MX7fI7rM9WPhQEqaOi83bS7KkaXKRnygZHkIodOqpE4bsYWBxyRZall39qyM7r59BgdvM71Dx/0+IGp1UxDpuJl3m+Np/TPr3dSJqaq+Q3DC32hcQ0CjFJW3XJBT2MdrsxmLcfEOJ34/fl7+ZzHH7J1ZDgaLD/hWA0Y4wbgGHBxiZkdo1iTHG2nUX/QLhMwUzaOTpi9alFA/6jT5rA6FM2LacsE8opRQXi3pekZwoxBJiwFXp6hf+cshm47pRWSIxlzEUulEmZ2jeiucx65E5szGmtMVY85miGRpg76xHv6ONMtAKc1MPECYGshcOBWB/l9xkeOYxpUlZWtbYhE2UTRIXM2uPBYwJj4eknMFe5h7knJ/sJibgvnjETLkxGWaoaaduf14xb/FQDlJzq+tfjnPAejtVvCPW6ZjVqaMToWzWdmcSCjdXOmdThBU3H5GI/4ApfoRbPEF/bS6oiFkhuZ6Ckw24ruLfZPsMu/bV+dmWx64A4GEjlVx1EOQOlgnq7J3jnQgRSKJCjWjqlnYRGsnI2OKbsUS2UzXXE1DfwPq1ud6NgDpvMysXXgDARF6zoFJotZgW1hY7RZ3M6YJqePOWnPx908LViBN6AsTmte2v0uK1OZCUG8zrzCBwzKNf0WUmMGkowou+QRjpPmTnIml3dyP3rfZHnbHlL+NXQwoM+tj+p8zCC/Obdcarx/20S4bULwXXomba39pyLvZVyiWnlUbaIZlog2fxHAOTQ1IEjer4K+rQ1ULPxGtHcUyHfDnze+YlrBzipT9gAfXF9Zox9jlCTJkYmmjs/oYC7KdofT32xrnNoP2ewm99WL/ejNuhMj7svGiqF6WQTGiHsu92sdTBSMxz/thLmuGkm771e7qP9m/n84B7PkWpuYiafMOBoOFsRgvNuTL39eOvapzvreQpN+xRbZT5yGMSzE+9KncEWuiISJfsWuiA2EMvDZf6yRPSM/Yb5BDKEYIgEs2PDyQ46uKkojJ/s9L2iOEyLkfmgnEk5bPIL4ofRU6BAqJD5buo1d1T1ZpeWsucEThQxP3zxSUv/VVU43hquy/PT/HP/jOj/ly/xcqtkZA1CCLrhW/Od4dbfXMB5VtgmPcufe9/BGqi6aka5gyJIj+rC9T97D+TaBi8hxuGsZPkjjAErO9R2f7cjdjJ0yLXvjDm7lEDP4+HyQArhIXdw9PFc03gsnWkpQ851E0veBJ2z74Rw77bjmE7mJV6s7z/yHIaMp0jSTpWPXMk+bPwspoXR4+vT/G6Vca0V79ZbkuKrf7UcA6Frm5jNXRjkZtzjo67V2tldHPoFEwc2kQSNaLtz0WFotwEJe9PMjToREkIQY7+fzE01YYCJrNHFuN5J4NlNdKulYf0kvfQEY8B9/LA7MAOR+HqvQ+qu0r8bO9A0hg1Ju8OpcGxvv652yryMVBywWAGMB/Rxsel9HHGnPX8QWjmBeocvr63nlWXWH/LZzzSveVortfON6W4ayTe21VeJuSjOjxGJ9LYEkYrAALG+9/81uk7I4AyKhBNwplR3dGtLuafEwLrjbU/5Aie/9CEqtS3+3ZjY7mUdZIPaWNRK+MpQGG/WC3JWgGphmqap3/ZmGZe4KfjxKbH5NFvaafN33I/LTGOiyizpr6m0+1idVj+IPtRVTOT3JiOzd4JX+UTJIGigAAABFWElGugAAAEV4aWYAAElJKgAIAAAABgASAQMAAQAAAAEAAAAaAQUAAQAAAFYAAAAbAQUAAQAAAF4AAAAoAQMAAQAAAAIAAAATAgMAAQAAAAEAAABphwQAAQAAAGYAAAAAAAAASAAAAAEAAABIAAAAAQAAAAYAAJAHAAQAAAAwMjEwAZEHAAQAAAABAgMAAKAHAAQAAAAwMTAwAaADAAEAAAD//wAAAqAEAAEAAADPAQAAA6AEAAEAAADoAwAAAAAAAA==" alt="Heaney / Heaney-Simon surgical retractor">
+        <span class="tag">Handheld · deep pelvis</span>
+        <h4>Heaney / Heaney-Simon</h4>
+        <p>Right-angle style vaginal retractors built for deep pelvic exposure; lighted variants (Heaney-Simon, Miyazaki) add illumination where the field is dark and far from the surgeon's headlight.</p>
+      </div>
+    </div>
+
+    <p style="margin-top:16px">When you're new, learn each surgeon's <strong>preferred names and setups</strong> — the same instrument may be called different things, and every surgeon has favorites for a given step. Ask early, then remember.</p>
+  </section>
+
+  <!-- ============ TOOLS / MATRIX ============ -->
+  <section id="tools">
+    <span class="kicker">◆ The judgment call</span>
+    <h2>Suction vs. lap sponge vs. Ray-Tec</h2>
+    <p class="lead">These three are not just "things that soak up blood." Each solves a different exposure problem. The real skill is matching the tool to what the surgeon needs to <em>see</em> next — you're often helping define the plane of dissection as much as controlling blood. This matters most in a narrow field like the vaginal/deep-pelvic space.</p>
+
+    <div class="matrix-wrap">
+      <table class="matrix">
+        <thead>
+          <tr>
+            <th>Tool</th>
+            <th>Reach for it when…</th>
+            <th>Role in exposure &amp; retraction</th>
+            <th>Watch out for</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tool">Suction
+              <span class="pill suction">immediate clarity</span>
+            </td>
+            <td>Fluid is accumulating <strong>faster than a sponge can manage</strong>, or you need the field kept continuously clear. Best for re-establishing the view quickly after an instrument move.
+              <span class="sub">Deep pelvis: clears blood pooling in dependent spaces to reveal fine planes.</span>
+            </td>
+            <td>A light suction tip evacuates fluid <strong>without crowding</strong> the working space — and the tip itself can <strong>double as a retractor</strong>, especially for the vaginal sidewalls or labia.</td>
+            <td>Used carelessly it can "steal" tissue into the tip or obscure the target. Keep it light and off delicate structures.</td>
+          </tr>
+          <tr>
+            <td class="tool">Lap sponge
+              <span class="pill lap">pressure &amp; packing</span>
+            </td>
+            <td>You need <strong>broad blunt pressure, packing, or retraction</strong>, or a <strong>"big wipe"</strong> to make wound edges visible or clear the whole field — not precision. In vaginal cases, longer packs help keep bowel out of the field.
+              <span class="sub">Also a blunt dissector and a fast way to apply direct pressure on diffuse bleeding.</span>
+            </td>
+            <td>A broad-purpose tool: absorbs, applies pressure, and acts as a <strong>blunt retractor</strong> holding tissue out of the way over a wide area.</td>
+            <td>Bulky in tight spaces. Many surgeons avoid lots of small loose sponges here because they're hard to track — see counts below.</td>
+          </tr>
+          <tr>
+            <td class="tool">Ray-Tec (small sponge)
+              <span class="pill raytec">precision</span>
+            </td>
+            <td>You need <strong>small wipes, focused blotting, or to hold pressure between steps</strong> — e.g. between suture throws — where a lap would be clumsy. The "precision" option when the goal is to reveal a plane, not just remove fluid.
+              <span class="sub">Ideal in a tight vaginal field where space is at a premium.</span>
+            </td>
+            <td>Clears a small area <strong>without taking up room</strong>, preserving the line of sight. Also gives <strong>extra grip on tissue</strong> when you're using your own hands as retractors.</td>
+            <td>Small and easy to lose in the field — must be radiopaque and counted. Never cut or repurpose one.</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="callout">
+      <span class="label">The one question to ask yourself</span>
+      <p><strong>"What will most efficiently create the surgeon's next view?"</strong> Sometimes that's suction for instant clarity, sometimes a lap for pressure or blunt retraction, sometimes a small sponge for controlled, localized exposure. In a narrow vaginal field, exposure usually comes from <em>combining</em> retractors, packing, suction, and targeted sponge work — shifting from broad exposure to a narrow, high-tension view of the exact plane being dissected.</p>
+    </div>
+  </section>
+
+  <!-- ============ COUNTS ============ -->
+  <section id="counts">
+    <span class="kicker">◆ Patient safety</span>
+    <h2>Sponge counts &amp; keeping nothing behind</h2>
+    <p>Every sponge in the field is something that must come back out. A <strong>retained surgical item</strong> is a serious, preventable harm — which is why counting is a rigid, shared ritual, not a formality. As an assistant you support it by keeping sponges trackable and never introducing an uncounted one.</p>
+
+    <div class="grid grid-2" style="margin-top:8px">
+      <div class="card">
+        <h3 style="margin-top:0">When counts happen</h3>
+        <p style="margin:0">Counts are done at set moments — a <strong>baseline</strong> before incision, again as each cavity/layer is closed, and at <strong>skin closure</strong> — plus any time items are added or staff change. The scrub and circulator count together, out loud, both seeing each item.</p>
+      </div>
+      <div class="card">
+        <h3 style="margin-top:0">How sponges are handled</h3>
+        <p style="margin:0">Only <strong>radiopaque</strong> (X-ray-detectable) sponges go into the field. Each is separated and confirmed. Counted sponges are <strong>never cut</strong>, and never used for skin prep, dressings, or packing left in the patient.</p>
+      </div>
+    </div>
+
+    <div class="callout rose">
+      <span class="label">Your part as the assistant</span>
+      <p>Keep sponges organized in the field so they can be found and counted. If you place packing, <strong>tell the team and remember it's there</strong>. Prefer trackable sponges over lots of small loose ones. And if a count is off — <strong>speak up immediately</strong> and don't close. A wrong count is everyone's problem to solve together.</p>
+    </div>
+  </section>
+
+  <!-- ============ LEARNING PATH ============ -->
+  <section id="learning">
+    <span class="kicker">◆ From the ground up</span>
+    <h2>Your learning path, step by step</h2>
+    <p class="lead">For someone with no OR exposure, build both knowledge and intuition in stages. Each step earns the next — don't rush past the foundations.</p>
+
+    <div class="steps">
+      <div class="step">
+        <span class="phase">Before the OR</span>
+        <h4>Orientation outside the room</h4>
+        <p>Start with the basics on your own time and terms: surgical instruments by name and use, essential anatomy, and sterile technique. Handle the instruments, learn the retractors above, get comfortable before the pressure is real.</p>
+      </div>
+      <div class="step">
+        <span class="phase">Watch first</span>
+        <h4>Observe with a purpose</h4>
+        <p>Watch cases with a specific focus: how experienced assistants manage exposure and anticipate needs. Don't just watch the surgeon — watch the <em>assistant's</em> hands and when they move.</p>
+      </div>
+      <div class="step">
+        <span class="phase">Hands on, simple</span>
+        <h4>Start with simple tasks</h4>
+        <p>Gradually take on holding retractors and handing instruments, with coaching on where to put your hands and how much tension to apply. Build the physical feel before the judgment calls.</p>
+      </div>
+      <div class="step">
+        <span class="phase">Coached reps</span>
+        <h4>Real-time feedback</h4>
+        <p>Get small corrections and genuine praise during cases. Little adjustments — "rotate that a touch," "ease off" — build the tension intuition faster than anything, and confidence right alongside it.</p>
+      </div>
+      <div class="step">
+        <span class="phase">After every case</span>
+        <h4>Reflect and refine</h4>
+        <p>After each surgery, review what went well and what to improve. This is where reps turn into intuition — and where she starts to move naturally between the global, local, and fine views.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CHEAT SHEET ============ -->
+  <section id="cheat">
+    <span class="kicker">◆ Keep this handy</span>
+    <h2>Quick-reference cheat sheet</h2>
+    <p>The one-glance version to review before a case or when you need a fast reminder at the field.</p>
+
+    <div class="cheat">
+      <div class="cheat-grid">
+        <div class="block">
+          <h3>Mindset in one line each</h3>
+          <ul>
+            <li><strong>Anticipate</strong> — have it ready before it's asked.</li>
+            <li><strong>Stay sterile</strong> — only sterile touches sterile.</li>
+            <li><strong>Communicate</strong> — confirm, and speak up.</li>
+            <li><strong>Stay calm</strong> — your composure sets the tempo.</li>
+            <li><strong>Keep learning</strong> — every case is a rep.</li>
+          </ul>
+        </div>
+        <div class="block">
+          <h3>Halsted, served by the assistant</h3>
+          <ul>
+            <li><strong>Gentle</strong> tissue handling — least force that works.</li>
+            <li><strong>Dry field</strong> for hemostasis — suction, blot, pressure.</li>
+            <li><strong>Protect</strong> blood supply — no kinked pedicles.</li>
+            <li><strong>Sterile</strong> always; <strong>low tension</strong>; <strong>clean apposition</strong>; <strong>no dead space</strong>.</li>
+          </ul>
+        </div>
+        <div class="block">
+          <h3>Exposure checklist</h3>
+          <ul>
+            <li>Pull in the <strong>right direction</strong>, not just hard.</li>
+            <li><strong>Enough tension to see, not enough to tear.</strong></li>
+            <li>Re-set the instant the surgeon's angle changes.</li>
+            <li>Protect tissue; protect your own posture.</li>
+            <li>Set exposure for the zoom they need now.</li>
+          </ul>
+        </div>
+        <div class="block">
+          <h3>Never idle</h3>
+          <ul>
+            <li><strong>Before:</strong> lights, screens, SCDs, positioning/stirrups, prep, check instruments.</li>
+            <li><strong>During:</strong> hold pressure, manage suture tails, tidy the field, ready the next step.</li>
+            <li>Waiting? You're probably <strong>missing something</strong>.</li>
+          </ul>
+        </div>
+        <div class="block">
+          <h3>Which tool?</h3>
+          <ul>
+            <li><strong>Suction</strong> → clears fluid fast; tip doubles as a sidewall/labia retractor.</li>
+            <li><strong>Lap sponge</strong> → broad pressure, packing, and "big wipes" to clear the field.</li>
+            <li><strong>Ray-Tec</strong> → small wipes, pressure between stitch throws, grip for hand retraction.</li>
+            <li>Always ask: <em>what creates the next view?</em></li>
+          </ul>
+        </div>
+        <div class="block">
+          <h3>Safety non-negotiables</h3>
+          <ul>
+            <li>Only <strong>radiopaque</strong> sponges in the field.</li>
+            <li>Announce any packing you place.</li>
+            <li>Never cut or repurpose a counted sponge.</li>
+            <li><strong>Count off? Speak up. Don't close.</strong></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="disclaimer">
+      <strong>A note on use:</strong> This is an orientation and mentoring aid to build understanding and vocabulary for a new assistant. It doesn't replace hands-on training, your facility's protocols, or the surgeon's direct instruction — always defer to those and to current institutional policy.
+    </div>
+
+    <h4>Sources &amp; further reading</h4>
+    <ul>
+      <li>Spera P, et al. <a href="https://aornjournal.onlinelibrary.wiley.com/doi/10.1016/j.aorn.2010.08.031">AORN Ergonomic Tool 5: Tissue Retraction in the Perioperative Setting</a>, AORN Journal.</li>
+      <li><a href="https://basicmedicalkey.com/the-surgical-first-assistant/">The Surgical First Assistant</a>, Basicmedical Key.</li>
+      <li><a href="https://obgynkey.com/instrumentation-for-female-pelvic-surgery/">Instrumentation for Female Pelvic Surgery</a>, ObGyn Key.</li>
+      <li><a href="https://surtex-instruments.com/product/auvard-vaginal-speculum/">Auvard Weighted Vaginal Speculum — posterior wall retractor</a>, Surtex Instruments.</li>
+      <li><a href="https://www.ast.org/uploadedFiles/Main_Site/Content/About_Us/Standard%20Counts.pdf">Recommended Standard of Practice for Counts</a>, Association of Surgical Technologists (AST).</li>
+      <li><a href="https://psnet.ahrq.gov/primer/retained-surgical-items-causation-and-prevention">Retained Surgical Items: Causation and Prevention</a>, AHRQ PSNet.</li>
+      <li><a href="https://opentextbc.ca/clinicalskills/chapter/sterile-gloving/">Sterile Procedures and Sterile Attire</a>, Clinical Procedures for Safer Patient Care.</li>
+    </ul>
+    <p>Built as an onboarding reference for a new surgical assistant · Reviewed against current perioperative practice guidance, July 2026.</p>
+  </footer>
+
+</div>
+</body>
+</html>
