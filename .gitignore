@@ -24,6 +24,6 @@ REDIRECT_MAPPING.md
 .gstack/
 marketing/
 scripts/ralph/
-pseo-review-pipeline/node_modules/
-pseo-review-pipeline/drafts/
+pseo-review-pipeline/
+pseo-review-tracker.md
 .agents/

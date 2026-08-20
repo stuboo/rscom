@@ -42,6 +42,39 @@ callouts:
 # Post permalink structure (clean URLs without category spaces)
 permalink: /blog/:title/
 
+# Files and directories kept out of the built site.
+# NOTE: setting `exclude` REPLACES Jekyll's defaults, so the default entries
+# are repeated here. Anything not listed gets copied into _site and served.
+exclude:
+  # Jekyll defaults
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  # Repo metadata, not site content
+  - README.md
+  - LICENSE
+  - package-lock.json
+  - AGENTS.md
+  - .gitattributes
+  # Internal notes, tooling, and agent working files
+  - pseo-review-tracker.md
+  - pseo-review-pipeline/
+  - scripts/
+  - marketing/
+  - .agents/
+  - .gstack/
+  - .beads/
+  - DOMAIN_REDIRECT_SETUP.md
+  - REDIRECT_MAPPING.md
+  - faq+blog_ideas.txt
+  - faq.md.bak
+  - patient-readability.skill
+  - google_scholar_publications_2026-03-15.csv
+
 # Plugins
 plugins:
   - jekyll-redirect-from
