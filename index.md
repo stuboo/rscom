@@ -43,5 +43,4 @@ I divide my time equally between office consultations and surgery. My academic b
 - In-person and virtual appointments available
 - Most insurance plans accepted
 
-
-<!--[Link button](https://just-the-docs.com){: .btn .btn-blue } -->
+[Schedule through Aurora BayCare]({{ site.booking_url }}){: .btn .btn-blue }

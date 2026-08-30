@@ -5,6 +5,10 @@ theme: just-the-docs
 url: "https://ryanstewart.com"
 baseurl: ""
 
+# Scheduling goes through the employer's booking page. Kept here so every
+# CTA on the site points at one place and there is a single URL to update.
+booking_url: "https://www.aurorabaycare.com/doctors/j-ryan-stewart-1922366061?patient_type=new_patient"
+
 # Aux links for the upper right navigation
 # aux_links:
 #  "YouTube":
@@ -73,6 +77,7 @@ exclude:
   - faq+blog_ideas.txt
   - faq.md.bak
   - patient-readability.skill
+  - GEO-AUDIT-REPORT.md
   - google_scholar_publications_2026-03-15.csv
 
 # Plugins
