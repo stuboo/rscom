@@ -47,7 +47,9 @@ Beyond clinical care, I'm active in research on surgical outcomes for pelvic org
 
 ## Disclosures
 
-I have no financial relationships with any device manufacturer or pharmaceutical company. I am not a consultant, proctor, speaker, or advisory board member for any company whose products are named on this site, and I receive no royalties, research funding, or other compensation from them. When I mention a specific device or medication, it is because it is one of the options available to you — not because I have any interest in which one you choose.
+I have no financial relationships with any device or drug company. I'm not a consultant, proctor, or speaker for any of them. I don't sit on advisory boards, and I don't take royalties or research funding from them.
+
+So when I name a specific device or medication on this site, it's because it's one of your options. I get nothing either way, whichever one you pick.
 
 ## Find me elsewhere
 
