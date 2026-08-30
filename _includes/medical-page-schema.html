@@ -1,3 +1,12 @@
+{% comment %}
+  reviewedBy/author reference the canonical #physician node from schema.html
+  rather than repeating an inline Physician — see that file for why.
+
+  lastReviewed is emitted only when the page actually carries a review date,
+  using the same chain as author-card.html so the visible "Medically reviewed"
+  line and the structured data always agree.
+{% endcomment %}
+{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date | default: page.last_modified_date %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -5,15 +14,17 @@
   "name": "{{ page.title }}",
   "description": "{{ page.description }}",
   "url": "{{ page.url | absolute_url }}",
-  "lastReviewed": "{{ page.last_modified_date | default: site.time | date: '%Y-%m-%d' }}",
-  "reviewedBy": {
-    "@type": "Physician",
-    "name": "Ryan Stewart, DO",
-    "url": "https://ryanstewart.com"
-  }{% if include.condition_name %},
+{% if review_date %}  "lastReviewed": "{{ review_date | date: '%Y-%m-%d' }}",
+{% endif %}  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
+  "author": { "@id": "{{ site.url }}/#physician" }{% if include.condition_name %},
   "about": {
     "@type": "MedicalCondition",
     "name": "{{ include.condition_name }}"
-  }{% endif %}
+  }{% endif %},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "{{ site.title }}",
+    "url": "{{ site.url }}"
+  }
 }
 </script>

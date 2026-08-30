@@ -1,14 +1,67 @@
-<!-- Physician (Person) Schema -->
+<!--
+  Canonical person entity for the whole site. Emitted on every page via
+  head_custom.html. Anything else that needs to name Dr. Stewart should
+  reference him as {"@id": "{{ site.url }}/#physician"} rather than
+  repeating the node — duplicate Physician nodes split the entity and make
+  it harder for search and AI engines to resolve one person.
+
+  IndividualPhysician is schema.org's type for "an individual medical
+  practitioner," as distinct from a practice or clinic. `practicesAt` and
+  `hospitalAffiliation` are deliberately omitted.
+
+  Note: the just-the-docs theme already emits a WebSite node in its head,
+  so none is emitted here.
+-->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Physician",
+  "@type": "IndividualPhysician",
   "@id": "{{ site.url }}/#physician",
-  "name": "Ryan Stewart",
+  "name": "Ryan Stewart, DO",
+  "givenName": "Ryan",
+  "familyName": "Stewart",
   "honorificSuffix": "DO",
+  "alternateName": [
+    "J. Ryan Stewart, DO",
+    "James Ryan Stewart, DO",
+    "James Stewart"
+  ],
   "jobTitle": "Urogynecologist",
   "description": "Board-certified, fellowship-trained urogynecologist specializing in female pelvic medicine and reconstructive surgery in Green Bay, Wisconsin.",
   "medicalSpecialty": "https://schema.org/Gynecologic",
+  "url": "{{ site.url }}/about",
+  "image": "{{ site.url }}/assets/images/ryan-stewart.jpg",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "NPI",
+    "value": "1922366061"
+  },
+  "sameAs": [
+    "https://npiregistry.cms.hhs.gov/provider-view/1922366061",
+    "https://orcid.org/0000-0003-1484-7301",
+    "https://scholar.google.com/citations?user=e8TJzPIAAAAJ&hl=en",
+    "https://www.doximity.com/pub/j-ryan-stewart-do",
+    "https://health.usnews.com/doctors/j-ryan-stewart-760452",
+    "https://www.healthgrades.com/physician/dr-james-stewart-bu6mz",
+    "https://doctor.webmd.com/doctor/james-stewart-28a7f69c-dec5-11e7-9f4c-005056a225bf-overview"
+  ],
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Green Bay",
+    "addressRegion": "WI",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Green Bay",
+      "containedInPlace": { "@type": "State", "name": "Wisconsin" }
+    },
+    { "@type": "AdministrativeArea", "name": "Northeast Wisconsin" },
+    { "@type": "AdministrativeArea", "name": "Fox Valley" },
+    { "@type": "AdministrativeArea", "name": "Upper Peninsula of Michigan" }
+  ],
+  "isAcceptingNewPatients": true,
   "hasCredential": [
     {
       "@type": "EducationalOccupationalCredential",
@@ -22,15 +75,6 @@
       "name": "Board Certified in Obstetrics and Gynecology",
       "recognizedBy": { "@type": "Organization", "name": "American Board of Obstetrics and Gynecology" }
     }
-  ],
-  "knowsAbout": [
-    "Pelvic Organ Prolapse",
-    "Urinary Incontinence",
-    "Overactive Bladder",
-    "Fecal Incontinence",
-    "Vaginal Fistulas",
-    "Recurrent Urinary Tract Infections",
-    "Genitourinary Syndrome of Menopause"
   ],
   "alumniOf": [
     {
@@ -49,32 +93,15 @@
       "description": "Fellowship in Urogynecology & Reconstructive Pelvic Surgery"
     }
   ],
-  "url": "{{ site.url }}",
-  "image": "{{ site.url }}/assets/images/ryan-stewart.jpg"
-}
-</script>
-
-<!-- MedicalBusiness Schema -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalBusiness",
-  "@id": "{{ site.url }}/#practice",
-  "name": "Ryan Stewart, DO — Urogynecology",
-  "description": "{{ site.description }}",
-  "url": "{{ site.url }}",
-  "image": "{{ site.url }}/assets/images/ryan-stewart.jpg",
-  "medicalSpecialty": "https://schema.org/Gynecologic",
-  "areaServed": {
-    "@type": "City",
-    "name": "Green Bay",
-    "containedInPlace": {
-      "@type": "State",
-      "name": "Wisconsin"
-    }
-  },
-  "hasMap": "https://www.google.com/maps/search/urogynecologist+Green+Bay+WI",
-  "isAcceptingNewPatients": true,
+  "knowsAbout": [
+    "Pelvic Organ Prolapse",
+    "Urinary Incontinence",
+    "Overactive Bladder",
+    "Fecal Incontinence",
+    "Vaginal Fistulas",
+    "Recurrent Urinary Tract Infections",
+    "Genitourinary Syndrome of Menopause"
+  ],
   "availableService": [
     { "@type": "MedicalProcedure", "name": "Pelvic Organ Prolapse Treatment" },
     { "@type": "MedicalProcedure", "name": "Urinary Incontinence Treatment" },
@@ -82,22 +109,29 @@
     { "@type": "MedicalProcedure", "name": "Fecal Incontinence Treatment" },
     { "@type": "MedicalProcedure", "name": "Vaginal Fistula Repair" },
     { "@type": "MedicalProcedure", "name": "Recurrent UTI Treatment" }
-  ],
-  "employee": { "@id": "{{ site.url }}/#physician" }
+  ]
 }
 </script>
 
+{% comment %}
+  The question, comparison, location, and persona layouts already emit a
+  MedicalWebPage via medical-page-schema.html. Emitting one here too gave
+  those pages two identical MedicalWebPage nodes, so skip them.
+{% endcomment %}
+{% assign mwp_layouts = "question,comparison,location,persona" | split: "," %}
+{% unless mwp_layouts contains page.layout %}
 {% if page.url contains '/conditions/' or page.url contains '/treatments/' %}
-<!-- MedicalWebPage Schema for condition/treatment pages -->
+{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date | default: page.last_modified_date %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
   "name": "{{ page.title }}",
   "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
-  "url": "{{ site.url }}{{ page.url }}",
-  "lastReviewed": "{{ page.last_modified_date | default: site.time | date: '%Y-%m-%d' }}",
-  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
+  "url": "{{ page.url | absolute_url }}",
+{% if review_date %}  "lastReviewed": "{{ review_date | date: '%Y-%m-%d' }}",
+{% endif %}  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
+  "author": { "@id": "{{ site.url }}/#physician" },
   "about": {
     "@type": "MedicalCondition",
     "name": "{{ page.title }}"
@@ -110,3 +144,4 @@
 }
 </script>
 {% endif %}
+{% endunless %}
