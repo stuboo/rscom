@@ -45,6 +45,10 @@ Every person's situation is different, and so is the right plan. I believe in sh
 
 Beyond clinical care, I'm active in research on surgical outcomes for pelvic organ prolapse and stress urinary incontinence, patient education, and postoperative recovery. You can browse my [peer-reviewed publications](/research).
 
+## Disclosures
+
+I have no financial relationships with any device manufacturer or pharmaceutical company. I am not a consultant, proctor, speaker, or advisory board member for any company whose products are named on this site, and I receive no royalties, research funding, or other compensation from them. When I mention a specific device or medication, it is because it is one of the options available to you — not because I have any interest in which one you choose.
+
 ## Find me elsewhere
 
 - [NPI registry profile](https://npiregistry.cms.hhs.gov/provider-view/1922366061)

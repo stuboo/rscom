@@ -33,7 +33,7 @@ Before considering any surgical option, it's essential to explore and exhaust al
 1. [Dietary Adjustments](/treatments/fecal-incontinence/dietary-adjustments)
 2. [Bowel Retraining](/treatments/fecal-incontinence/bowel-retraining)
 3. [Physical Therapy](/treatments/fecal-incontinence/physical-therapy)
-4. [Eclipse™ System](/treatments/fecal-incontinence/eclipse-device)
+4. Eclipse™ System
 
 ## Minimally Invasive Options
 
