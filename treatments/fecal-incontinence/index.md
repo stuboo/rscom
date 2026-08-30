@@ -22,8 +22,6 @@ Treatment for fecal incontinence is highly personalized, taking into account fac
 >
 > Many people find significant improvement with non-surgical treatments alone. It's important to explore all options before considering surgery.
 
-Certainly, I'll add the Eclipse device to the Conservative Treatments section. Here's the updated content:
-
 ## Conservative Treatments
 
 Conservative treatments are often the first line of defense against fecal incontinence:

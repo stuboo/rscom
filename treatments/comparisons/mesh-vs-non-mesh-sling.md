@@ -9,7 +9,7 @@ nav_exclude: true
 published: true
 last_modified_date: 2026-06-01
 last_evidence_review: 2026-06-01
-testimonial_index: 5
+testimonial_index: 1
 faq:
   - question: "Is the mesh sling for incontinence safe?"
     answer: "Yes. The midurethral mesh sling is the most studied incontinence procedure we have, with more than 3.6 million placed worldwide. Mesh wearing through the vaginal wall happens in about 2% of cases. Every major medical society still recommends it, and the FDA has not recalled it or warned against it."

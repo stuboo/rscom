@@ -8,7 +8,7 @@ condition_slug: urinary-incontinence
 nav_exclude: true
 published: false
 last_modified_date: 2026-03-14
-testimonial_index: 7
+testimonial_index: 2
 faq:
   - question: "Is there a urogynecologist near Iron River, MI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 2 hours 30 minutes from Iron River. Telehealth consultations are available."

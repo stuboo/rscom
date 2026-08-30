@@ -9,7 +9,7 @@ nav_exclude: true
 published: false
 last_modified_date: 2026-06-07
 last_evidence_review: 2026-06-07
-testimonial_index: 6
+testimonial_index: 4
 faq:
   - question: "Can I try both before deciding?"
     answer: "In a sense, yes. Many women start with Botox because it's less invasive and wears off on its own. Sacral neuromodulation has a built-in test phase, so you experience the therapy for a couple of weeks before committing to the implant. These aren't either/or for life. If one doesn't suit you, the other is still on the table."

@@ -10,7 +10,7 @@ nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-05-16
-testimonial_index: 5
+testimonial_index: 1
 faq:
   - question: "Do I need to stop exercising if I'm leaking?"
     answer: "No. In most cases, you can keep exercising while working on your pelvic floor. A pelvic floor therapist can help you adjust activities while building strength and coordination."

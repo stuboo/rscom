@@ -8,7 +8,7 @@ condition_slug: fecal-incontinence
 nav_exclude: true
 published: false
 last_modified_date: 2026-03-14
-testimonial_index: 5
+testimonial_index: 1
 faq:
   - question: "Is there a urogynecologist near Sheboygan, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 1 hour from Sheboygan. He treats fecal incontinence and other pelvic floor conditions. Telehealth consultations are also available."

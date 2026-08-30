@@ -10,7 +10,7 @@ nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-05-16
-testimonial_index: 7
+testimonial_index: 2
 faq:
   - question: "Does C-section prevent all pelvic floor problems?"
     answer: "No. While C-section reduces the risk of some pelvic floor injuries, pregnancy itself is a major risk factor. In one large study, 25% of women who had a cesarean before labor still reported urinary incontinence at 6 weeks postpartum."

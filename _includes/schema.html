@@ -121,7 +121,7 @@
 {% assign mwp_layouts = "question,comparison,location,persona" | split: "," %}
 {% unless mwp_layouts contains page.layout %}
 {% if page.url contains '/conditions/' or page.url contains '/treatments/' %}
-{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date | default: page.last_modified_date %}
+{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

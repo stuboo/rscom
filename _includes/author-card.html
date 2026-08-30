@@ -4,7 +4,7 @@
     <a class="author-card__name" href="/about">Ryan Stewart, DO</a><br>
     <span class="author-card__line">Board-certified and fellowship-trained urogynecologist</span><br>
     <span class="author-card__line">Green Bay, Wisconsin</span>
-    {% assign review_date = page.last_evidence_review | default: page.last_reviewed_date | default: page.last_modified_date %}
+    {% assign review_date = page.last_evidence_review | default: page.last_reviewed_date %}
     {% if review_date %}<br>
     <span class="author-card__reviewed">✓ Medically reviewed {{ review_date | date: "%B %-d, %Y" }}</span>
     {% endif %}

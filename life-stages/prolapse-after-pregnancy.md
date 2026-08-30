@@ -10,7 +10,7 @@ nav_exclude: true
 published: true
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-05-30
-testimonial_index: 4
+testimonial_index: 0
 faq:
   - question: "When should I start pelvic floor exercises after delivery?"
     answer: "Gentle pelvic floor exercises can often begin within days of delivery. Check with your provider first. More structured physical therapy usually starts after the 6-week postpartum checkup. Fear of soreness shouldn't keep you from starting once you're cleared."

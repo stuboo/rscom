@@ -10,7 +10,7 @@ nav_exclude: true
 published: false
 last_modified_date: 2026-03-14
 last_evidence_review: 2026-06-07
-testimonial_index: 6
+testimonial_index: 4
 faq:
   - question: "Is recurrent prolapse surgery riskier?"
     answer: "Revision surgery can be more involved because of scar tissue from the first repair, and the data bear this out: in one study comparing first-time to repeat sacrocolpopexy, success rates were similar but serious perioperative complications were more common in the repeat group. That is worth weighing, not a reason to avoid surgery. A surgeon who regularly handles revision cases can talk you through the specific tradeoffs for your situation."

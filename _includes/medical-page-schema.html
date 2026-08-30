@@ -5,8 +5,14 @@
   lastReviewed is emitted only when the page actually carries a review date,
   using the same chain as author-card.html so the visible "Medically reviewed"
   line and the structured data always agree.
+
+  Do NOT add `| default: page.last_modified_date` to this chain. A file's
+  mtime is not a medical review, and falling back to it made ~40 live pages
+  assert a physician review that never happened — in both the visible byline
+  and the MedicalWebPage JSON-LD. A page with no review date should show no
+  review claim at all.
 {% endcomment %}
-{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date | default: page.last_modified_date %}
+{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",

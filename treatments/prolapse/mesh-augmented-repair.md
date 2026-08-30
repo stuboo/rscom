@@ -18,7 +18,9 @@ Mesh augmented repair involves using a synthetic, lightweight polypropylene mesh
 
 ## Why Consider Mesh Augmentation?
 
-Sometimes we use mesh for prolapse repair because the tissue has already failed us once and we would like to use something more durable. Mesh works for this approach and it lasts forever. Failure rates are low because the mesh is durable.
+Sometimes we use mesh for prolapse repair because your own tissue has already failed once and we want something sturdier to build on. Mesh does not dissolve, and for the top of the vagina it gives the most durable repair we have — prolapse is less likely to come back than with a native tissue repair.
+
+Durable is not the same as risk-free. Mesh is a permanent implant, and it adds a small chance, spread out over the years after surgery, that the mesh wears through the vaginal wall. That is the real trade-off: a longer-lasting repair against a small, long-term risk you would not have with your own tissue. We talk it through together before deciding.
 
 ## Types of Mesh Augmented Repairs
 

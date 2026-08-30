@@ -8,7 +8,7 @@ condition_slug: overactive-bladder
 nav_exclude: true
 published: false
 last_modified_date: 2026-03-14
-testimonial_index: 8
+testimonial_index: 3
 faq:
   - question: "Is there a urogynecologist near Marquette, MI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 3 hours from Marquette. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."

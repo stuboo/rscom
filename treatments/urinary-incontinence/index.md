@@ -51,8 +51,6 @@ For certain types of urinary incontinence, especially urge incontinence (and ove
 
 Dr. Stewart will carefully consider your overall health, potential side effects, and other medications you may be taking before recommending any pharmaceutical treatments.
 
-You're absolutely correct. I apologize for the oversight. Sacral neuromodulation and tibial neuromodulation are indeed important minimally invasive procedures for urinary incontinence. I'll revise the section to include these treatments. Here's the updated version:
-
 ### Minimally Invasive Procedures
 
 For patients who need more than conservative measures but aren't ready for major surgery, several minimally invasive options are available:
