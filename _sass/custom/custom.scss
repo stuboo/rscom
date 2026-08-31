@@ -30,3 +30,22 @@
     font-size: 0.85em;
   }
 }
+
+// Base font size on phones.
+//
+// just-the-docs sets `html { font-size: 0.875rem !important }` and only lifts
+// it to 1rem at its `sm` breakpoint. Media queries resolve against the initial
+// 16px rather than the current root size, so that breakpoint lands at 500px —
+// above every common phone (iPhone 390-430px, most Android 360-412px). The
+// result was 14px body text for essentially every mobile visitor.
+//
+// This site is patient education about pelvic floor disorders, read heavily by
+// women over 50, so 14px is below a sensible floor. Lifting the root to 1rem
+// also takes the sidebar nav links from a 42px to a 48px tap target, clearing
+// the 44px guideline they were just under.
+//
+// !important is required to beat the theme's own !important; custom.scss is
+// imported last, so this wins on order.
+html {
+  font-size: 1rem !important;
+}
