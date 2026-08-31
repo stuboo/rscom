@@ -6,7 +6,7 @@ parent: Fecal Incontinence Treatments
 nav_order: 4
 description: "Physical Therapy for Fecal Incontinence"
 permalink: /treatments/fecal-incontinence/physical-therapy
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Physical Therapy for Fecal Incontinence

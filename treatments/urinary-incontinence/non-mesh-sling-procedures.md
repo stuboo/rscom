@@ -8,7 +8,7 @@ permalink: /treatments/urinary-incontinence/non-mesh-sling-procedures
 published: false
 redirect_from:
   - /non-mesh-sling-procedures/
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Non-Mesh Sling Procedures for Stress Urinary Incontinence

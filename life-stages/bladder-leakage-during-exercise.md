@@ -8,7 +8,7 @@ permalink: /life-stages/bladder-leakage-during-exercise
 condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-03-14
 testimonial_index: 2
 faq:
   - question: "Will the leaking get worse if I keep exercising?"

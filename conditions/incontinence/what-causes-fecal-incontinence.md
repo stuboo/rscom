@@ -9,7 +9,7 @@ condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence
 nav_exclude: true
 published: true
-last_modified_date: 2026-05-14
+last_modified_at: 2026-05-14
 last_evidence_review: 2026-05-14
 faq:
   - question: "Can childbirth cause fecal incontinence years later?"

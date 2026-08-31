@@ -6,7 +6,7 @@ parent: Fecal Incontinence Treatments
 nav_order: 3
 description: "Bowel Retraining Techniques"
 permalink: /treatments/fecal-incontinence/bowel-retraining
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Bowel Retraining for Fecal Incontinence

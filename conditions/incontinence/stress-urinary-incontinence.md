@@ -52,7 +52,7 @@ faq:
     2. Keep a symptom diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open about your symptoms and how they affect your quality of life"
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 last_reviewed_date: 2026-03-15
 ---
 

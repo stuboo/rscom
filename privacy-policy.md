@@ -4,7 +4,7 @@ title: Privacy Policy
 description: "Privacy policy for ryanstewart.com, including information about data collection, cookies, and HIPAA compliance."
 permalink: /privacy-policy
 nav_exclude: true
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Privacy Policy

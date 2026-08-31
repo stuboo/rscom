@@ -7,7 +7,7 @@ description: "Compare Botox injections and oral medications for overactive bladd
 permalink: /treatments/comparisons/botox-vs-medication-oab
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-03-14
 testimonial_index: 2
 faq:
   - question: "Can I take medication and have Botox?"

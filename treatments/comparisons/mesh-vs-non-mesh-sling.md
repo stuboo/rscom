@@ -7,7 +7,7 @@ description: "Compare mesh midurethral slings and non-mesh alternatives for stre
 permalink: /treatments/comparisons/mesh-vs-non-mesh-sling
 nav_exclude: true
 published: true
-last_modified_date: 2026-06-01
+last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
 testimonial_index: 1
 faq:

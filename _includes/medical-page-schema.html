@@ -20,7 +20,7 @@
   using the same chain as author-card.html so the visible "Medically reviewed"
   line and the structured data always agree.
 
-  Do NOT add `| default: page.last_modified_date` to this chain. A file's
+  Do NOT add `| default: page.last_modified_at` to this chain. A file's
   mtime is not a medical review. Falling back to it made ~40 live pages
   assert a physician review that never happened, in both the visible byline
   and the MedicalWebPage JSON-LD. A page with no review date should show no
@@ -45,7 +45,7 @@
 {% if page.url != "/" and page.parent and page.title %}  "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} },
 {% endif %}  "medicalAudience": "https://schema.org/Patient",
 {% if review_date %}  "lastReviewed": "{{ review_date | date: '%Y-%m-%d' }}",
-{% endif %}{% if page.last_modified_date %}  "dateModified": "{{ page.last_modified_date | date: '%Y-%m-%d' }}",
+{% endif %}{% if page.last_modified_at %}  "dateModified": "{{ page.last_modified_at | date: '%Y-%m-%d' }}",
 {% endif %}  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
   "author": { "@id": "{{ site.url }}/#physician" },
   "publisher": { "@id": "{{ site.url }}/#physician" }

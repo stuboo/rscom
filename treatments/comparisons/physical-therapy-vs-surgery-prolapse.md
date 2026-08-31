@@ -7,7 +7,7 @@ description: "Compare pelvic floor physical therapy and surgery for prolapse. PT
 permalink: /treatments/comparisons/physical-therapy-vs-surgery-prolapse
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
 testimonial_index: 2
 faq:

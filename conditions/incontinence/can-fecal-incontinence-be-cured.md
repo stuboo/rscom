@@ -9,7 +9,7 @@ condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-03-14
 faq:
   - question: "What is the most effective treatment for fecal incontinence?"
     answer: "Pelvic floor therapy with diet and lifestyle changes is first-line and helps most women. Sacral neuromodulation — sometimes called a bowel pacemaker — has excellent results and is also considered first-line. Sphincter repair is rarely performed due to poor long-term durability, painful recovery, and high infection risk."

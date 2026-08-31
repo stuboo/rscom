@@ -8,7 +8,7 @@ permalink: /life-stages/prolapse-after-pregnancy
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-05-30
 last_evidence_review: 2026-05-30
 testimonial_index: 0
 faq:

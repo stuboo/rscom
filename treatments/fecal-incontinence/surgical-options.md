@@ -6,7 +6,7 @@ parent: Fecal Incontinence Treatments
 nav_order: 7
 description: "Surgical Treatments for Fecal Incontinence"
 permalink: /treatments/fecal-incontinence/surgical-options
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Surgical Options for Fecal Incontinence

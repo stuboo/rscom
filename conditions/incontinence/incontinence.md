@@ -34,7 +34,7 @@ faq:
 
 - question: "What should I do if I'm experiencing incontinence?"
   answer: "Schedule an appointment with a urogynecologist or pelvic health specialist. It can help to keep a symptom diary beforehand so you can describe what's happening and how often."
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 last_reviewed_date: 2026-03-15
 ---
 

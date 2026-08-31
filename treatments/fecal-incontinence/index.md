@@ -5,7 +5,7 @@ parent: Treatments
 nav_order: 1
 description: "Overview of Fecal Incontinence Treatments"
 permalink: /treatments/fecal-incontinence
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Fecal Incontinence Treatments

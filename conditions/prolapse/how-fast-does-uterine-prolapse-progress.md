@@ -9,7 +9,7 @@ published: false
 nav_exclude: true
 redirect_from:
   - /how-fast-does-uterine-prolapse-progress/
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # How Fast Does Uterine Prolapse Progress?

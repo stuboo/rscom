@@ -7,7 +7,7 @@ description: "Compare midurethral sling surgery and urethral bulking agents for 
 permalink: /treatments/comparisons/sling-vs-bulking-agents
 nav_exclude: true
 published: false
-last_modified_date: 2026-06-07
+last_modified_at: 2026-06-07
 last_evidence_review: 2026-06-07
 testimonial_index: 1
 faq:

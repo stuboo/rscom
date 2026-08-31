@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-03-14
 faq:
   - question: "What is the most effective treatment for urinary incontinence?"
     answer: "The most effective treatment depends on the type of incontinence. Stress incontinence often responds best to pelvic floor therapy, a midurethral sling, or urethral bulking. Urge incontinence may be treated with behavioral therapy, medications, Botox, or nerve stimulation."

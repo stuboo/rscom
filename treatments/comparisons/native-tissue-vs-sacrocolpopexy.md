@@ -7,7 +7,7 @@ description: "Compare vaginal native tissue repair and abdominal sacrocolpopexy 
 permalink: /treatments/comparisons/native-tissue-vs-sacrocolpopexy
 nav_exclude: true
 published: true
-last_modified_date: 2026-06-01
+last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
 testimonial_index: 3
 faq:

@@ -6,7 +6,7 @@ parent: Urinary Incontinence Treatments
 nav_order: 5
 description: "Neuromodulation for Bladder Control"
 permalink: /treatments/urinary-incontinence/neuromodulation
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Neuromodulation Therapies for Urinary Incontinence

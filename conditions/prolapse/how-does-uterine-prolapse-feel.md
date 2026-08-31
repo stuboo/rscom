@@ -12,7 +12,7 @@ redirect_from:
   - /does-uterine-prolapse-hurt-2/
   - /can-uterine-prolapse-cause-sciatica/
   - /can-uterine-prolapse-cause-incontinence/
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # How Does Uterine Prolapse Feel?

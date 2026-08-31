@@ -29,7 +29,7 @@ faq:
 
 - question: "When should I see a doctor about fecal incontinence?"
   answer: "If you're dealing with any degree of bowel leakage, even if it seems minor, it's worth bringing up. Many women wait years before mentioning it. Effective treatments exist, and earlier intervention tends to lead to better outcomes."
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 last_reviewed_date: 2026-03-15
 ---
 

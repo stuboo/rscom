@@ -4,7 +4,7 @@ title: Research
 description: "Dr. Ryan Stewart's peer-reviewed research in urogynecology, including publications on prolapse surgery, stress incontinence, patient education, and surgical outcomes."
 permalink: /research
 nav_order: 5
-last_modified_date: 2026-07-03
+last_modified_at: 2026-07-03
 last_reviewed_date: 2026-07-03
 ---
 

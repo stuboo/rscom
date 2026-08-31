@@ -7,7 +7,7 @@ location_slug: brillion
 condition_slug: fecal-incontinence
 nav_exclude: true
 published: false
-last_modified_date: 2026-03-14
+last_modified_at: 2026-06-07
 last_evidence_review: 2026-06-07
 testimonial_index: 4
 faq:

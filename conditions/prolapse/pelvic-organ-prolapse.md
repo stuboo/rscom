@@ -37,7 +37,7 @@ faq:
 
   - question: "How can I prepare for my initial consultation about pelvic organ prolapse?"
     answer: "To prepare for your initial consultation, consider the following steps: 1) Keep a symptom diary noting when and how your symptoms affect you. 2) Write down any questions you have about your condition and treatment options. 3) Make a list of your current medications and any previous treatments you've tried. 4) If possible, gather any relevant medical records (such as past surgeries) or test results. 5) Consider bringing a family member or friend for support and to help remember information."
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 last_reviewed_date: 2026-03-15
 ---
 

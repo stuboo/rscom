@@ -4,7 +4,7 @@ title: About
 description: "Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, WI specializing in pelvic organ prolapse, urinary incontinence, and reconstructive pelvic surgery."
 permalink: /about
 nav_order: 6
-last_modified_date: 2026-05-29
+last_modified_at: 2026-05-29
 last_reviewed_date: 2026-05-29
 ---
 
@@ -23,7 +23,7 @@ last_reviewed_date: 2026-05-29
   "name": "About Dr. Ryan Stewart",
   "inLanguage": "en-US",
   "isPartOf": { "@id": "{{ site.url }}/#website" },
-  "dateModified": "{{ page.last_modified_date | date: '%Y-%m-%d' }}",
+  "dateModified": "{{ page.last_modified_at | date: '%Y-%m-%d' }}",
   "mainEntity": { "@id": "{{ site.url }}/#physician" }
 }
 </script>

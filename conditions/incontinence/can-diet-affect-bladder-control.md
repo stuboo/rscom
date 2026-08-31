@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
-last_modified_date: 2026-03-14
+last_modified_at: 2026-03-14
 faq:
   - question: "Does drinking less water help with incontinence?"
     answer: "Not necessarily. Severely restricting fluids can concentrate your urine, which irritates the bladder and can make symptoms worse. Aim for about 6-8 cups of fluid daily, spread throughout the day, and reduce intake in the evening."

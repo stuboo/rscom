@@ -6,7 +6,7 @@ parent: Prolapse Treatments
 nav_order: 5
 description: "Native Tissue Repair for Prolapse"
 permalink: /treatments/prolapse/native-tissue-repair
-last_modified_date: 2026-03-15
+last_modified_at: 2026-03-15
 ---
 
 # Native Tissue Repair for Prolapse
