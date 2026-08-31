@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Physical Therapy
+therapy_name: "Pelvic Floor Physical Therapy"
 parent: Fecal Incontinence Treatments
 nav_order: 4
 description: "Physical Therapy for Fecal Incontinence"

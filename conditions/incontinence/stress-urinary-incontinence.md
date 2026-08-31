@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Stress Incontinence
+condition_name: "Stress Urinary Incontinence"
 nav_order: 1
 parent: Urinary Incontinence
 has_children: false

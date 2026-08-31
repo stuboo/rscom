@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pessary
+device_name: "Pessary"
 parent: Prolapse Treatments
 nav_order: 4
 description: "Pessary Use for Prolapse"

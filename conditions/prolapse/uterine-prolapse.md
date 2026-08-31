@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Uterine Prolapse
+condition_name: "Uterine Prolapse"
 nav_order: 5
 parent: Pelvic Organ Prolapse
 description: "Complete Guide to Uterine Prolapse"

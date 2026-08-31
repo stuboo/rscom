@@ -1,0 +1,80 @@
+{%- comment -%}
+  BreadcrumbList mirroring the trail just-the-docs already renders visually.
+
+  The theme's components/breadcrumbs.html derives the trail by string-parsing
+  the whole rendered site nav, which is expensive and fragile to reuse. It is
+  driven by `parent` / `grand_parent` frontmatter, so this walks that chain
+  directly and resolves each title to a URL via site.html_pages.
+
+  It has to be a walk, not a fixed two lookups: a page usually declares only
+  its immediate `parent`, and the deeper ancestors come from that parent's own
+  frontmatter. /conditions/incontinence/what-is-urge-incontinence declares
+  `parent: Urinary Incontinence` and renders as
+  "Conditions > Incontinence > Urinary Incontinence > What Is Urge Incontinence?".
+  Structured data must match what is on screen, so climb until there is no
+  parent left. compare_breadcrumbs.py asserts the two agree on every page.
+
+  Guarded exactly as the theme guards its own breadcrumbs: nothing is emitted
+  for the home page, for pages with no `parent`, or for pages with no title, so
+  blog posts and top-level pages produce no node.
+
+  Referenced by @id from the MedicalWebPage node in medical-page-schema.html,
+  which applies the same guard before emitting the reference.
+{%- endcomment -%}
+{%- if page.url != "/" and page.parent and page.title -%}
+  {%- assign page_url = page.url | absolute_url -%}
+
+  {%- comment -%}
+    Walk up the ancestor chain, prepending each hop, so the string ends up in
+    root-first order. Depth 6 is a safety stop; this site is 3 deep.
+  {%- endcomment -%}
+  {%- assign chain = "" -%}
+  {%- assign cur_parent = page.parent -%}
+  {%- assign cur_grand = page.grand_parent -%}
+  {%- for i in (1..6) -%}
+    {%- if cur_parent == nil or cur_parent == empty -%}{%- break -%}{%- endif -%}
+    {%- assign matches = site.html_pages | where: "title", cur_parent -%}
+    {%- if cur_grand -%}
+      {%- assign scoped = matches | where: "parent", cur_grand -%}
+      {%- if scoped.size > 0 -%}
+        {%- assign anc = scoped[0] -%}
+      {%- else -%}
+        {%- assign anc = matches[0] -%}
+      {%- endif -%}
+    {%- else -%}
+      {%- assign anc = matches[0] -%}
+    {%- endif -%}
+    {%- if anc == nil -%}{%- break -%}{%- endif -%}
+    {%- capture chain -%}{{ anc.title }}|{{ anc.url | absolute_url }}~{{ chain }}{%- endcapture -%}
+    {%- assign cur_parent = anc.parent -%}
+    {%- assign cur_grand = anc.grand_parent -%}
+  {%- endfor -%}
+
+  {%- assign crumbs = chain | split: "~" -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": {{ page_url | append: '#breadcrumb' | jsonify }},
+  "itemListElement": [
+  {%- assign pos = 0 -%}
+  {%- for crumb in crumbs -%}
+    {%- assign bits = crumb | split: "|" -%}
+    {%- assign pos = pos | plus: 1 %}
+    {
+      "@type": "ListItem",
+      "position": {{ pos }},
+      "name": {{ bits[0] | jsonify }},
+      "item": {{ bits[1] | jsonify }}
+    },
+  {%- endfor %}{%- assign pos = pos | plus: 1 %}
+    {
+      "@type": "ListItem",
+      "position": {{ pos }},
+      "name": {{ page.title | jsonify }},
+      "item": {{ page_url | jsonify }}
+    }
+  ]
+}
+</script>
+{%- endif -%}

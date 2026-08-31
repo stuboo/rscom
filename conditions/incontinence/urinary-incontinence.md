@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Urinary Incontinence
+condition_name: "Urinary Incontinence"
 nav_order: 2
 parent: Incontinence
 has_children: true

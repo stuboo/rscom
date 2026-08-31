@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sacral Nerve Stimulation
+procedure_name: "Sacral Neuromodulation"
 parent: Fecal Incontinence Treatments
 nav_order: 6
 description: "Sacral Nerve Stimulation for Bowel Control"

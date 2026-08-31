@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mixed Incontinence
+condition_name: "Mixed Urinary Incontinence"
 nav_order: 3
 parent: Urinary Incontinence
 has_children: false

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: BOTOX® Injections
+procedure_name: "Bladder Botox Injection"
 parent: Urinary Incontinence Treatments
 nav_order: 6
 description: "Botox Injections for Bladder"

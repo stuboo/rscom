@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fecal Incontinence
+condition_name: "Fecal Incontinence"
 parent: Incontinence
 nav_order: 3
 description: "Fecal incontinence (accidental bowel leakage) affects 7-15% of women. Learn about causes, diagnosis, and treatment options from a board-certified, fellowship-trained urogynecologist."

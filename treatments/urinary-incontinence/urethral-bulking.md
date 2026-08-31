@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Urethral Bulking
+procedure_name: "Urethral Bulking"
 parent: Urinary Incontinence Treatments
 nav_order: 8
 description: "Urethral Bulking for Stress Incontinence"

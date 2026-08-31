@@ -1,4 +1,18 @@
 {% comment %}
+  Canonical MedicalWebPage for one content page. This is the only place the
+  node is built — schema.html delegates here rather than repeating the template.
+
+  Params (pass at most one; they select the @type of `about`):
+    condition_name  -> MedicalCondition
+    procedure_name  -> MedicalProcedure
+    device_name     -> MedicalDevice
+    therapy_name    -> MedicalTherapy
+
+  Pass none for listing/hub pages. No `about` is better than a wrong one: the
+  previous version typed everything under /treatments/ as a MedicalCondition
+  named after the page title, so the site asserted in machine-readable form
+  that a pessary and "Watch and Wait" were diseases.
+
   reviewedBy/author reference the canonical #physician node from schema.html
   rather than repeating an inline Physician — see that file for why.
 
@@ -11,26 +25,58 @@
   assert a physician review that never happened, in both the visible byline
   and the MedicalWebPage JSON-LD. A page with no review date should show no
   review claim at all.
+
+  Every interpolated string goes through `| jsonify`, which supplies its own
+  quotes. A title containing an apostrophe or backslash would otherwise emit
+  invalid JSON on 100+ pages.
 {% endcomment %}
-{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date %}
+{%- assign review_date = page.last_evidence_review | default: page.last_reviewed_date -%}
+{%- assign page_url = page.url | absolute_url -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "MedicalWebPage",
-  "name": "{{ page.title }}",
-  "description": "{{ page.description }}",
-  "url": "{{ page.url | absolute_url }}",
+  "@id": {{ page_url | append: '#webpage' | jsonify }},
+  "url": {{ page_url | jsonify }},
+  "name": {{ page.title | jsonify }},
+  "description": {{ page.description | default: site.description | jsonify }},
+  "inLanguage": "en-US",
+  "isPartOf": { "@id": "{{ site.url }}/#website" },
+{% if page.url != "/" and page.parent and page.title %}  "breadcrumb": { "@id": {{ page_url | append: '#breadcrumb' | jsonify }} },
+{% endif %}  "medicalAudience": "https://schema.org/Patient",
 {% if review_date %}  "lastReviewed": "{{ review_date | date: '%Y-%m-%d' }}",
+{% endif %}{% if page.last_modified_date %}  "dateModified": "{{ page.last_modified_date | date: '%Y-%m-%d' }}",
 {% endif %}  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
-  "author": { "@id": "{{ site.url }}/#physician" }{% if include.condition_name %},
+  "author": { "@id": "{{ site.url }}/#physician" },
+  "publisher": { "@id": "{{ site.url }}/#physician" }
+{%- if include.condition_name %},
   "about": {
     "@type": "MedicalCondition",
-    "name": "{{ include.condition_name }}"
-  }{% endif %},
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}"
+    "@id": "{{ site.url }}/#condition-{{ include.condition_name | slugify }}",
+    "name": {{ include.condition_name | jsonify }},
+    "relevantSpecialty": "https://schema.org/Gynecologic"
   }
+{%- elsif include.procedure_name %},
+  "about": {
+    "@type": "MedicalProcedure",
+    "@id": "{{ site.url }}/#procedure-{{ include.procedure_name | slugify }}",
+    "name": {{ include.procedure_name | jsonify }},
+    "relevantSpecialty": "https://schema.org/Gynecologic"
+  }
+{%- elsif include.device_name %},
+  "about": {
+    "@type": "MedicalDevice",
+    "@id": "{{ site.url }}/#device-{{ include.device_name | slugify }}",
+    "name": {{ include.device_name | jsonify }},
+    "relevantSpecialty": "https://schema.org/Gynecologic"
+  }
+{%- elsif include.therapy_name %},
+  "about": {
+    "@type": "MedicalTherapy",
+    "@id": "{{ site.url }}/#therapy-{{ include.therapy_name | slugify }}",
+    "name": {{ include.therapy_name | jsonify }},
+    "relevantSpecialty": "https://schema.org/Gynecologic"
+  }
+{%- endif %}
 }
 </script>

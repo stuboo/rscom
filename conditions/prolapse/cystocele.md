@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cystocele
+condition_name: "Cystocele"
 parent: Pelvic Organ Prolapse
 nav_order: 2
 description: "Cystocele (aka Prolapsed Bladder)"

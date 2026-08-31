@@ -8,6 +8,26 @@ last_modified_date: 2026-05-29
 last_reviewed_date: 2026-05-29
 ---
 
+<!--
+  ProfilePage declares this URL as the authoritative page about the #physician
+  entity. jekyll-seo-tag otherwise emits only a generic anonymous WebPage here,
+  so nothing told a parser that this is *the* page about him. mainEntityOfPage
+  on the physician node points back at this @id.
+-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ site.url }}/about#profilepage",
+  "url": "{{ site.url }}/about",
+  "name": "About Dr. Ryan Stewart",
+  "inLanguage": "en-US",
+  "isPartOf": { "@id": "{{ site.url }}/#website" },
+  "dateModified": "{{ page.last_modified_date | date: '%Y-%m-%d' }}",
+  "mainEntity": { "@id": "{{ site.url }}/#physician" }
+}
+</script>
+
 # About Dr. Ryan Stewart
 
 <img src="/assets/images/ryan-stewart.jpg" alt="Dr. Ryan Stewart" style="float: right; margin: 0 0 1rem 1rem; width: 200px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);" />

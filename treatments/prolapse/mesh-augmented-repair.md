@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mesh Augmented Repair
+procedure_name: "Mesh-Augmented Prolapse Repair"
 parent: Prolapse Treatments
 nav_order: 6
 description: "Mesh Augmentation for Prolapse Repair"

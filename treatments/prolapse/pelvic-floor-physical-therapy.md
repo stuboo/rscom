@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pelvic Floor Physical Therapy for Prolapse
+therapy_name: "Pelvic Floor Physical Therapy"
 parent: Prolapse Treatments
 nav_order: 3
 description: "Pelvic floor physical therapy is a non-surgical treatment option for pelvic organ prolapse. Learn what a session involves, how long treatment takes, and whether it's right for you. Dr. Ryan Stewart, urogynecologist in Green Bay, WI."

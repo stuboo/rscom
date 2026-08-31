@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Bowel Retraining
+therapy_name: "Bowel Retraining"
 parent: Fecal Incontinence Treatments
 nav_order: 3
 description: "Bowel Retraining Techniques"

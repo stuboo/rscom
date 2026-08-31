@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Surgical Options
+procedure_name: "Fecal Incontinence Surgery"
 parent: Fecal Incontinence Treatments
 nav_order: 7
 description: "Surgical Treatments for Fecal Incontinence"

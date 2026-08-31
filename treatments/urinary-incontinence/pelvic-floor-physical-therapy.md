@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pelvic Floor Physical Therapy for Urinary Incontinence
+therapy_name: "Pelvic Floor Physical Therapy"
 parent: Urinary Incontinence Treatments
 nav_order: 3
 description: "Pelvic floor physical therapy treats urinary incontinence without surgery, and involves far more than Kegel exercises. Learn what a session involves and who benefits. Dr. Ryan Stewart, urogynecologist in Green Bay, WI."

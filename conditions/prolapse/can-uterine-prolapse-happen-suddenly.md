@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Can Uterine Prolapse Happen Suddenly?
+condition_name: "Uterine Prolapse"
 nav_order: 12
 parent: Pelvic Organ Prolapse
 description: "Understanding how uterine prolapse develops and progresses over time"

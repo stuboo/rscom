@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Sling Procedures
+procedure_name: "Midurethral Sling"
 parent: Urinary Incontinence Treatments
 nav_order: 7
 description: "Sling Procedures for Incontinence"

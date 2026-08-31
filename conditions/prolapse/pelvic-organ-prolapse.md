@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Pelvic Organ Prolapse
+condition_name: "Pelvic Organ Prolapse"
 description: "Understand pelvic organ prolapse symptoms, diagnosis, and treatment options. Dr. Ryan Stewart offers expert urogynecology care in Green Bay, WI."
 nav_order: 1
 parent: Conditions

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Watch and Wait
+therapy_name: "Watchful Waiting"
 parent: Prolapse Treatments
 nav_order: 2
 description: "Watchful Waiting for Prolapse"

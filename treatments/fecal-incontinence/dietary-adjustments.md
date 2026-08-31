@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Dietary Adjustments
+therapy_name: "Dietary Modification"
 parent: Fecal Incontinence Treatments
 nav_order: 2
 description: "Diet Changes for Fecal Incontinence"

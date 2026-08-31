@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Overactive Bladder
+condition_name: "Overactive Bladder"
 parent: Conditions
 nav_order: 3_
 has_children: true

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Medications
+therapy_name: "Overactive Bladder Medication"
 parent: Urinary Incontinence Treatments
 nav_order: 4
 description: "Medications for Overactive Bladder"

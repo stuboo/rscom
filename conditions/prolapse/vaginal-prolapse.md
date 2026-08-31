@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vaginal Prolapse
+condition_name: "Vaginal Prolapse"
 parent: Pelvic Organ Prolapse
 nav_order: 6
 description: "Vaginal prolapse after hysterectomy - understanding and managing this common condition."

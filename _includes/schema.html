@@ -9,8 +9,18 @@
   practitioner," as distinct from a practice or clinic. `practicesAt` and
   `hospitalAffiliation` are deliberately omitted.
 
-  Note: the just-the-docs theme already emits a WebSite node in its head,
-  so none is emitted here.
+  Person is paired with it in the @type array on purpose. IndividualPhysician
+  descends from Physician -> MedicalBusiness -> LocalBusiness -> Organization,
+  NOT from Person, so `givenName`, `familyName`, `honorificSuffix`, `jobTitle`
+  and all three `alumniOf` entries are outside their declared domains under
+  IndividualPhysician alone and get dropped by any consumer that enforces them.
+  Those five are the E-E-A-T payload this file exists to carry. Adding Person
+  makes every property emitted here domain-valid without losing the more
+  specific physician typing. schema.org declares no disjointness between them.
+
+  Note: jekyll-seo-tag emits its own anonymous WebSite/WebPage node in the
+  theme head. The #website node below is ours and is the one everything
+  references by @id, so the graph actually connects.
 
   alternateName is machine-facing disambiguation, not how he wants to be
   addressed. "Stewart JR", "Stewart R" and "Stewart J" are the Vancouver
@@ -34,7 +44,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "IndividualPhysician",
+  "@type": ["IndividualPhysician", "Person"],
   "@id": "{{ site.url }}/#physician",
   "name": "Ryan Stewart, DO",
   "givenName": "Ryan",
@@ -57,6 +67,7 @@
     "https://schema.org/Urologic"
   ],
   "url": "{{ site.url }}/about",
+  "mainEntityOfPage": { "@id": "{{ site.url }}/about#profilepage" },
   "image": "{{ site.url }}/assets/images/ryan-stewart.jpg",
   "identifier": {
     "@type": "PropertyValue",
@@ -142,35 +153,37 @@
 }
 </script>
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "{{ site.url }}/#website",
+  "url": "{{ site.url }}/",
+  "name": {{ site.title | jsonify }},
+  "description": {{ site.description | jsonify }},
+  "inLanguage": "en-US",
+  "publisher": { "@id": "{{ site.url }}/#physician" }
+}
+</script>
+
 {% comment %}
   The question, comparison, location, and persona layouts already emit a
   MedicalWebPage via medical-page-schema.html. Emitting one here too gave
   those pages two identical MedicalWebPage nodes, so skip them.
+
+  For everything else under /conditions/ or /treatments/, delegate to the same
+  include rather than repeating the template. The entity keys come from page
+  frontmatter, so a treatment page emits MedicalProcedure / MedicalDevice /
+  MedicalTherapy instead of being typed as a disease. Listing hubs carry none
+  of these keys and correctly emit no `about`.
 {% endcomment %}
 {% assign mwp_layouts = "question,comparison,location,persona" | split: "," %}
 {% unless mwp_layouts contains page.layout %}
 {% if page.url contains '/conditions/' or page.url contains '/treatments/' %}
-{% assign review_date = page.last_evidence_review | default: page.last_reviewed_date %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "MedicalWebPage",
-  "name": "{{ page.title }}",
-  "description": "{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}",
-  "url": "{{ page.url | absolute_url }}",
-{% if review_date %}  "lastReviewed": "{{ review_date | date: '%Y-%m-%d' }}",
-{% endif %}  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
-  "author": { "@id": "{{ site.url }}/#physician" },
-  "about": {
-    "@type": "MedicalCondition",
-    "name": "{{ page.title }}"
-  },
-  "isPartOf": {
-    "@type": "WebSite",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}"
-  }
-}
-</script>
+{% include medical-page-schema.html
+     condition_name=page.condition_name
+     procedure_name=page.procedure_name
+     device_name=page.device_name
+     therapy_name=page.therapy_name %}
 {% endif %}
 {% endunless %}

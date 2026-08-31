@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rectocele
+condition_name: "Rectocele"
 nav_order: 3
 parent: Pelvic Organ Prolapse
 description: "Complete Guide to Rectocele"

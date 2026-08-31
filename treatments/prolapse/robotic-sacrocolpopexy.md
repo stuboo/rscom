@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Robotic Sacrocolpopexy
+procedure_name: "Robotic Sacrocolpopexy"
 parent: Prolapse Treatments
 nav_order: 5
 description: "Robotic Sacrocolpopexy for Pelvic Organ Prolapse"

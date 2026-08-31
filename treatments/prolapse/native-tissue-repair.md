@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Native Tissue Repair
+procedure_name: "Native Tissue Prolapse Repair"
 parent: Prolapse Treatments
 nav_order: 5
 description: "Native Tissue Repair for Prolapse"

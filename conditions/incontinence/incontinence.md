@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Incontinence
+condition_name: "Incontinence"
 parent: Conditions
 has_children: true
 nav_order: 1
