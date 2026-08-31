@@ -40,6 +40,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
+    jekyll-feed (0.17.0)
+      jekyll (>= 3.7, < 5.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-redirect-from (0.16.0)
@@ -87,12 +89,14 @@ GEM
 
 PLATFORMS
   arm64-darwin
+  x86_64-linux
   x86_64-linux-gnu
 
 DEPENDENCIES
   base64
   csv
   jekyll (~> 4.3.4)
+  jekyll-feed
   jekyll-redirect-from
   jekyll-sitemap
   just-the-docs (= 0.10.0)

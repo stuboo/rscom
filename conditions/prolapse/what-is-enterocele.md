@@ -18,6 +18,8 @@ faq:
     answer: "Enteroceles are not dangerous in most cases, though they can cause discomfort. Rarely, a loop of bowel can become trapped (incarcerated), which would need urgent care."
   - question: "How is an enterocele diagnosed?"
     answer: "Your doctor diagnoses an enterocele through a pelvic exam. Imaging like defecography can confirm it. Enteroceles can be subtle and may only show up when you bear down or stand."
+redirect_from:
+  - /enterocele-repair/
 ---
 
 # What is an enterocele?

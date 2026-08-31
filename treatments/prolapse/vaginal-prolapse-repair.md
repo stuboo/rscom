@@ -6,9 +6,9 @@ nav_order: 6
 description: "Vaginal Prolapse Repair Surgery"
 permalink: /treatments/prolapse/vaginal-prolapse-repair
 published: false
-redirect_from:
-  - /vaginal-prolapse-repair/
-  - /vaginal-prolapse-symptoms-diagnosis-treatment/
+# NOTE: this page's redirect_from URLs were moved to /treatments/prolapse because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-03-15
 ---
 

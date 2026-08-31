@@ -7,8 +7,9 @@ description: "Understanding the progression rate and timeline of uterine prolaps
 permalink: /conditions/prolapse/how-fast-does-uterine-prolapse-progress
 published: false
 nav_exclude: true
-redirect_from:
-  - /how-fast-does-uterine-prolapse-progress/
+# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-03-15
 ---
 

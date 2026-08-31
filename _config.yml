@@ -80,10 +80,23 @@ exclude:
   - GEO-AUDIT-REPORT.md
   - google_scholar_publications_2026-03-15.csv
 
+# Site-wide social preview image. jekyll-seo-tag reads a page's `image` key
+# and, when present, emits og:image with width/height plus
+# twitter:card=summary_large_image and twitter:image. Setting it as a default
+# gives every page a preview instead of hand-writing the meta tags, which
+# duplicated twitter:card. Note ryan-stewart.jpg is 400x533, not the ideal
+# 1200x630, so it letterboxes in wide previews.
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/ryan-stewart.jpg
+
 # Plugins
 plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-feed
 
 # Google Analytics
 ga_tracking: G-1LYFEX7C2D

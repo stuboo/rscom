@@ -6,8 +6,9 @@ parent: Pelvic Organ Prolapse
 description: "Enterocele: A Guide for Patients"
 permalink: /conditions/enterocele
 published: false
-redirect_from:
-  - /enterocele-repair/
+# NOTE: this page's redirect_from URLs were moved to /conditions/prolapse/what-is-enterocele because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 faq:
   - question: "What is an enterocele?"
     answer: "An enterocele, also known as small bowel prolapse, is a type of pelvic organ prolapse where the small intestine descends into the lower pelvic cavity, creating a bulge in the vaginal wall."

@@ -7,8 +7,9 @@ description: "Treatment options and reversibility of uterine prolapse"
 permalink: /conditions/prolapse/can-uterine-prolapse-be-reversed
 published: false
 nav_exclude: true
-redirect_from:
-  - /can-uterine-prolapse-be-reversed/
+# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-03-15
 ---
 

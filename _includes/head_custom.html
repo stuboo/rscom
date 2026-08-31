@@ -1,5 +1,28 @@
 {% include schema.html %}
 {% include breadcrumb-schema.html %}
+
+{%- comment -%}
+  Favicon. The theme already emits <link rel="icon" href="/favicon.ico">, but
+  nothing was served at that path, so browsers, Google's SERP favicon, and AI
+  link previews all showed a blank. The file now sits at the repo root. These
+  two add the PNG and the touch icon, which the theme does not emit;
+  favicon.png is 180x180, the apple-touch size.
+
+  og:image and twitter:image are NOT set here on purpose. jekyll-seo-tag emits
+  them itself, with width/height and the right card type, as soon as a page has
+  an `image` key — which _config.yml now sets as a site-wide default. Hand-
+  writing them here produced a duplicate twitter:card tag.
+{%- endcomment -%}
+<link rel="icon" href="/assets/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/favicon.png">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+
+{%- comment -%}
+  jekyll-feed generates /feed.xml but only advertises it if this tag is called,
+  and just-the-docs does not call it. Without the link, readers and crawlers
+  have to guess the URL.
+{%- endcomment -%}
+{% feed_meta %}
 <style>
   .author-me {
     text-decoration: underline;

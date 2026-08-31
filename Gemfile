@@ -8,6 +8,7 @@ gem "just-the-docs", "0.10.0" # pinned to the current release
 
 gem "jekyll-redirect-from"
 gem "jekyll-sitemap"
+gem "jekyll-feed"
 
 # Standard-library gems removed from Ruby's defaults in 3.4 — pin them so
 # the build keeps working after a Ruby upgrade.

@@ -7,9 +7,9 @@ description: "Understanding the relationship between uterine prolapse and vagina
 permalink: /conditions/prolapse/can-uterine-prolapse-cause-bleeding
 published: false
 nav_exclude: true
-redirect_from:
-  - /can-uterine-prolapse-cause-bleeding/
-  - /can-uterine-prolapse-cause-heavy-periods/
+# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-03-15
 ---
 

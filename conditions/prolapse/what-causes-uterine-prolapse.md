@@ -7,9 +7,9 @@ description: "Understanding the causes and risk factors of uterine prolapse"
 permalink: /conditions/prolapse/what-causes-uterine-prolapse
 published: false
 nav_exclude: true
-redirect_from:
-  - /what-causes-uterine-prolapse/
-  - /how-to-avoid-uterine-prolapse/
+# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-03-15
 ---
 

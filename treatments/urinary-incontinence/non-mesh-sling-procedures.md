@@ -6,8 +6,9 @@ nav_order: 8
 description: "Non-Mesh Sling Procedures for Stress Urinary Incontinence"
 permalink: /treatments/urinary-incontinence/non-mesh-sling-procedures
 published: false
-redirect_from:
-  - /non-mesh-sling-procedures/
+# NOTE: this page's redirect_from URLs were moved to /treatments/comparisons/mesh-vs-non-mesh-sling because
+# jekyll-redirect-from emits nothing for a published: false page and they
+# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-03-15
 ---
 

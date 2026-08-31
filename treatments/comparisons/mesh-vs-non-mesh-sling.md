@@ -19,6 +19,8 @@ faq:
     answer: "Yes. If a problem comes up, the sling can be trimmed or partly removed. Full removal is possible too, but it may bring your leaking back."
   - question: "Does the non-mesh sling hurt more?"
     answer: "Yes. To get the tissue, I make a cut on your lower belly, usually about 6 to 8 cm long. Taking the strip of fascia and stitching the wall back together can be sore for a while. That adds time to your recovery compared with the mesh sling."
+redirect_from:
+  - /non-mesh-sling-procedures/
 ---
 
 # Mesh vs non-mesh options for stress incontinence

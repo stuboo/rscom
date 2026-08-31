@@ -6,6 +6,8 @@ nav_order: 1
 description: "Overview of Prolapse Treatments"
 permalink: /treatments/prolapse
 last_modified_at: 2026-03-15
+redirect_from:
+  - /vaginal-prolapse-repair/
 ---
 
 # Prolapse Treatments
