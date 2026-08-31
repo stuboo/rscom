@@ -12,6 +12,17 @@
   Note: the just-the-docs theme already emits a WebSite node in its head,
   so none is emitted here.
 
+  alternateName is machine-facing disambiguation, not how he wants to be
+  addressed. "Stewart JR", "Stewart R" and "Stewart J" are the Vancouver
+  bylines on his 43 indexed papers, and are what connects that corpus to
+  this entity. The "James" forms are kept because Healthgrades and WebMD
+  list him that way — wrong, but real, and a resolver needs to bridge them.
+
+  There is no Urogynecologic value in schema.org's MedicalSpecialty
+  enumeration, so the specialty is expressed as the intersection of
+  Gynecologic and Urologic. Without Urologic, a model routing a bladder
+  question toward urology does not match this entity at all.
+
   sameAs is identity resolution, not a practice claim. The Aurora BayCare
   entry is their own directory page for Dr. Stewart and its URL carries his
   NPI, which makes it the strongest available corroborator that the person
@@ -30,13 +41,21 @@
   "familyName": "Stewart",
   "honorificSuffix": "DO",
   "alternateName": [
+    "Ryan Stewart",
+    "Dr. Ryan Stewart",
     "J. Ryan Stewart, DO",
     "James Ryan Stewart, DO",
-    "James Stewart"
+    "James Stewart",
+    "Stewart JR",
+    "Stewart R",
+    "Stewart J"
   ],
   "jobTitle": "Urogynecologist",
   "description": "Board-certified, fellowship-trained urogynecologist specializing in female pelvic medicine and reconstructive surgery in Green Bay, Wisconsin.",
-  "medicalSpecialty": "https://schema.org/Gynecologic",
+  "medicalSpecialty": [
+    "https://schema.org/Gynecologic",
+    "https://schema.org/Urologic"
+  ],
   "url": "{{ site.url }}/about",
   "image": "{{ site.url }}/assets/images/ryan-stewart.jpg",
   "identifier": {
