@@ -7,7 +7,7 @@ description: "When prolapse returns after surgery, you have real options. Learn 
 permalink: /life-stages/recurrent-prolapse
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
-published: false
+published: true
 last_modified_at: 2026-06-07
 last_evidence_review: 2026-06-07
 testimonial_index: 4

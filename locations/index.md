@@ -17,7 +17,7 @@ Dr. Ryan Stewart provides expert urogynecological care to women across **Northea
 Dr. Stewart's office is located in **Green Bay, Wisconsin**, where he divides his time between office consultations and surgical procedures. For patients who live farther away, **telehealth consultations** are available for initial evaluations and follow-up visits.
 
 <!-- City links are generated from published location pages. A city appears only once at least one of its pages clears medical review; each links to that city's urinary-incontinence page (or its first published page). A region heading is hidden entirely when none of its cities are live yet. -->
-{%- assign regions = "Northeast Wisconsin=green-bay;Green Bay;Home practice|appleton;Appleton;30 minutes|oshkosh;Oshkosh;50 minutes|fond-du-lac;Fond du Lac;1 hour|manitowoc;Manitowoc;45 minutes|sheboygan;Sheboygan;1 hour##Michigan's Upper Peninsula=marquette;Marquette;3 hours (telehealth available)|escanaba;Escanaba;2 hours (telehealth available)|menominee;Menominee;1 hour 15 minutes|iron-mountain;Iron Mountain;2 hours (telehealth available)" | split: "##" -%}
+{%- assign regions = "Northeast Wisconsin=green-bay;Green Bay;Home practice|appleton;Appleton;30 minutes|brillion;Brillion;30 minutes|oshkosh;Oshkosh;50 minutes|fond-du-lac;Fond du Lac;1 hour|manitowoc;Manitowoc;45 minutes|sheboygan;Sheboygan;1 hour##Michigan's Upper Peninsula=marquette;Marquette;3 hours (telehealth available)|escanaba;Escanaba;2 hours (telehealth available)|menominee;Menominee;1 hour 15 minutes|iron-mountain;Iron Mountain;2 hours (telehealth available)" | split: "##" -%}
 {%- for region in regions -%}
   {%- assign region_parts = region | split: "=" -%}
   {%- assign region_name = region_parts[0] -%}

@@ -6,7 +6,7 @@ permalink: /locations/brillion/pelvic-organ-prolapse
 location_slug: brillion
 condition_slug: pelvic-organ-prolapse
 nav_exclude: true
-published: false
+published: true
 last_modified_at: 2026-06-07
 last_evidence_review: 2026-06-07
 testimonial_index: 0
