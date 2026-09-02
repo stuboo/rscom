@@ -78,6 +78,8 @@ exclude:
   - faq.md.bak
   - patient-readability.skill
   - GEO-AUDIT-REPORT.md
+  - ORCID-UPDATE.md
+  - GA4-SETUP.md
   - google_scholar_publications_2026-03-15.csv
 
 # Site-wide social preview image. jekyll-seo-tag reads a page's `image` key
