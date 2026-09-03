@@ -5,6 +5,9 @@ parent: Pelvic Organ Prolapse
 nav_order: 9
 description: "Uterine prolapse rarely causes bleeding on its own. What does, when the prolapse really is the source, and why bleeding after menopause always gets its own workup."
 permalink: /conditions/prolapse/can-uterine-prolapse-cause-bleeding
+redirect_from:
+  - /can-uterine-prolapse-cause-bleeding/
+  - /can-uterine-prolapse-cause-heavy-periods/
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true

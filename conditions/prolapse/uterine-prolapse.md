@@ -32,8 +32,6 @@ redirect_from:
   - /what-causes-uterine-prolapse/
   - /how-to-avoid-uterine-prolapse/
   - /can-uterine-prolapse-be-reversed/
-  - /can-uterine-prolapse-cause-bleeding/
-  - /can-uterine-prolapse-cause-heavy-periods/
   - /can-uterine-prolapse-cause-cramping/
   - /can-uterine-prolapse-cause-sciatica/
   - /can-uterine-prolapse-cause-incontinence/
