@@ -1,224 +1,71 @@
 ---
-layout: page
-title: Can Uterine Prolapse Cause Bleeding?
-nav_order: 9
+layout: question
+title: "Can Uterine Prolapse Cause Bleeding?"
 parent: Pelvic Organ Prolapse
-description: "Understanding the relationship between uterine prolapse and vaginal bleeding"
+nav_order: 9
+description: "Uterine prolapse rarely causes bleeding on its own. What does, when the prolapse really is the source, and why bleeding after menopause always gets its own workup."
 permalink: /conditions/prolapse/can-uterine-prolapse-cause-bleeding
-published: false
+condition_name: Pelvic Organ Prolapse
+parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
-last_modified_at: 2026-03-15
+published: true
+last_modified_at: 2026-09-03
+last_evidence_review: 2026-09-03
+faq:
+  - question: "Is bleeding a normal symptom of uterine prolapse?"
+    answer: "Not usually. The typical symptoms are a bulge, pressure, low backache, and changes in bladder or bowel habits. Prolapsed tissue that sits outside the body can get dry and raw enough to spot, but that's uncommon, and bleeding should never just be blamed on the prolapse."
+  - question: "I have prolapse and I bled after menopause. Do I still need a workup?"
+    answer: "Yes. Any bleeding after menopause gets evaluated on its own, whether or not you have prolapse. Checking for abnormal bleeding is a standard part of the prolapse exam for exactly this reason."
+  - question: "Can prolapse turn into cancer?"
+    answer: "No. Prolapse is a support problem, not a growth. When the uterus is removed during prolapse surgery, an unsuspected cancer turns up in about 2 of every 1,000 cases. That risk is low, but it rises with age and with a history of postmenopausal bleeding, which is one more reason to get bleeding checked."
 ---
 
-# Can Uterine Prolapse Cause Bleeding?
+# Can uterine prolapse cause bleeding?
 
-This is an important question that many women have when they notice vaginal bleeding along with prolapse symptoms. Understanding the relationship between prolapse and bleeding can help you know when to seek medical attention.
+Usually not. Prolapse is a support problem. The uterus and vaginal walls sit lower than they should, and what you feel is a bulge, pressure, a low backache, and changes in how your bladder and bowels work. The international terminology for prolapse does list bleeding as a possible symptom, but only when the prolapsed tissue has developed a sore, and it sits well behind everything else on that list.
 
-## The Short Answer
+So if you have prolapse and you're bleeding, the safe starting point is that these are two separate problems until we've looked at the bleeding on its own.
 
-**Uterine prolapse itself rarely causes vaginal bleeding.** While prolapse can cause many uncomfortable symptoms, bleeding is not typically one of them.
+## When the prolapse really is the source
 
-It's important to understand that bleeding and prolapse, while they may occur together, usually have different causes. We never want to assume bleeding is just from prolapse without proper evaluation.
+There's one situation where the prolapse itself bleeds. When tissue sits outside the body for long stretches, it dries out, rubs against clothing, and the surface can break down into a raw spot or an open sore. That leaves light spotting on underwear or toilet paper. It's why a thorough prolapse exam includes opening the speculum and looking directly at the exposed tissue for thickened skin and ulceration.
 
-## Typical Prolapse Symptoms (Not Including Bleeding)
+Bleeding from this cause is light, and it settles once the tissue is supported again and allowed to heal. It doesn't explain heavy bleeding, clots, or bleeding that keeps coming back.
 
-### Common Prolapse Symptoms
-- **Feeling a vaginal bulge** or pressure
-- **Pelvic heaviness** or fullness
-- **Low back ache** and discomfort
-- **Sexual discomfort** or pain during intercourse
-- **Changes in bladder function** like leakage or urgency
-- **Bowel function changes** including constipation
+## If you use a pessary
 
-### What Prolapse Does NOT Usually Cause
-- **Vaginal bleeding** (uncommon)
-- **Heavy menstrual periods** (unrelated)
-- **Spotting between periods** (needs separate evaluation)
-- **Post-menopausal bleeding** (requires immediate evaluation)
+A pessary rests against the vaginal wall, and steady pressure there can wear on the surface. Urogynecologists grade this in four levels: redness, a shallow abrasion that may spot a little, a deeper erosion or ulcer that bleeds, and, rarely, a fistula. Redness and abrasions can stay in place. A true ulcer means the pessary comes out for four to six weeks so the tissue can heal, then we refit, often with a different size or shape.
 
-## When Prolapse Might Cause Bleeding
+Sores like this are more common than people expect and yet rarely show up as bleeding. In a multicenter registry that followed 166 pessary users for three years, about 30% had at least one vaginal ulcer, but only 2 women reported vaginal bleeding over the entire period. So new bleeding after a pessary is placed still gets evaluated rather than written off as friction, and undiagnosed bleeding before a fitting is a reason to sort out the bleeding first. Blood thinners can make pessary spotting more likely, but they're not a reason to avoid one.
 
-### Rare Circumstances
-In very specific situations, prolapse may be associated with bleeding:
+## Bleeding after menopause always gets evaluated
 
-#### Severe Prolapse with Tissue Trauma
-- **Complete prolapse** where tissue protrudes outside the body
-- **Tissue irritation** from clothing or walking
-- **Drying and cracking** of exposed vaginal tissue
-- **Minor trauma** to prolapsed tissue
+If you've been through menopause and you have any bleeding at all, even one episode of spotting, it needs an evaluation. That's true whether or not you have prolapse. Checking for abnormal vaginal bleeding is a standard part of the prolapse workup, precisely because prolapse doesn't explain it.
 
-#### Ulceration of Prolapsed Tissue
-- **Chronic exposure** of vaginal tissue to air
-- **Tissue breakdown** from constant irritation
-- **Small ulcers** that may bleed lightly
-- **Infection** of exposed tissue
+Most postmenopausal bleeding turns out to be something benign. Cancer of the uterine lining is what we're ruling out, and it's far more treatable when it's found early. For a sense of scale, when the uterus is removed during prolapse surgery, an unsuspected cancer is found in about 0.22% of cases, roughly 2 in 1,000, and that risk climbs with age and with a history of postmenopausal bleeding.
 
-Even in severe cases, significant bleeding from prolapse alone is uncommon. Any bleeding should be properly evaluated to determine the actual cause.
+## Other reasons you might bleed when you have prolapse
 
-## Important Warning Signs
+- Thin, fragile vaginal tissue after menopause, which can bleed with sex or with an exam
+- Polyps of the cervix or the uterine lining
+- Fibroids or other changes in the lining of the uterus
+- Cervical causes, which is one reason to stay current on cervical cancer screening
+- Blood thinners, which make any small irritated spot bleed more than it otherwise would
+- Hormone therapy, including a dose change or a missed dose
 
-### Post-Menopausal Bleeding
-{: .warning-title }
-> **Critical Warning:** 
->
-> **Do not assume that vaginal bleeding after menopause is due to prolapse. It is not normal and should be evaluated immediately.**
+If we're talking about vaginal tissue health, we have to talk about [topical vaginal estrogen](/life-stages/incontinence-during-menopause). It treats the fragile tissue behind a lot of this bleeding, and using it doesn't require routine checks of the uterine lining. But bleeding that happens while you're on it is still evaluated the same way as any other bleeding.
 
-Post-menopausal bleeding can indicate:
-- **Endometrial cancer** or other malignancies
-- **Hormone-related changes** requiring treatment
-- **Infections** or other medical conditions
-- **Polyps** or other growths
+## How I approach it
 
-### Any Unexplained Bleeding
-Regardless of age, unexplained vaginal bleeding should be evaluated, especially if you have:
-- **Heavy bleeding** or clots
-- **Bleeding between periods** (if pre-menopausal)
-- **Bleeding after intercourse**
-- **Persistent spotting** or irregular bleeding
-- **Associated pain** or discomfort
+The bleeding workup and the prolapse conversation run side by side. I take a history of the bleeding, look directly at the vaginal walls and cervix, and depending on what I see, order an ultrasound or sample the uterine lining in the office. None of that has to wait on a decision about the prolapse.
 
-## Other Causes of Bleeding in Women with Prolapse
+Once the bleeding has an answer, the prolapse decision is yours. A pessary, pelvic floor physical therapy, surgery, and watchful waiting are all reasonable, and the right one depends on how much the prolapse bothers you and what you want from treatment.
 
-### Hormonal Causes
-#### Menopause-Related Changes
-- **Vaginal atrophy** from decreased estrogen
-- **Thin, fragile vaginal tissue** that bleeds easily
-- **Hormonal fluctuations** affecting the uterine lining
-- **Need for hormone evaluation** and possible treatment
+## References
 
-#### Reproductive Hormone Issues
-- **Irregular ovulation** causing unpredictable bleeding
-- **Polycystic ovary syndrome (PCOS)**
-- **Thyroid disorders** affecting menstrual cycles
-- **Other endocrine conditions**
-
-### Structural Causes
-#### Uterine Conditions
-- **Fibroids** (benign uterine tumors)
-- **Polyps** in the uterus or cervix
-- **Endometrial hyperplasia** (thickening of uterine lining)
-- **Adenomyosis** (uterine lining growing into muscle)
-
-#### Cervical Issues
-- **Cervical polyps** or other growths
-- **Cervical dysplasia** or cancer
-- **Infections** affecting the cervix
-- **Trauma** or irritation
-
-### Medication-Related Bleeding
-- **Hormone replacement therapy** adjustments needed
-- **Blood thinning medications**
-- **Certain supplements** or herbal remedies
-- **Intrauterine devices (IUDs)** causing irregular bleeding
-
-## The Importance of Proper Evaluation
-
-### Why Bleeding Needs Investigation
-Even if you have prolapse, **bleeding requires separate evaluation** because:
-
-- **Multiple conditions** can occur simultaneously
-- **Serious conditions** need to be ruled out
-- **Different treatments** may be needed for bleeding vs. prolapse
-- **Early detection** of problems leads to better outcomes
-
-### Diagnostic Approach
-Your healthcare provider may recommend:
-
-#### Initial Evaluation
-- **Detailed history** of bleeding patterns
-- **Physical examination** including pelvic exam
-- **Pap smear** if due or if abnormal bleeding
-- **Basic laboratory tests** to check for anemia or infection
-
-#### Advanced Testing When Needed
-- **Transvaginal ultrasound** to evaluate uterine structure
-- **Endometrial biopsy** to sample uterine lining
-- **Hysteroscopy** to look inside the uterus
-- **Additional imaging** if needed
-
-We take all vaginal bleeding seriously, regardless of whether prolapse is present. Proper evaluation ensures we don't miss anything important.
-
-## Treatment Considerations
-
-### Addressing Both Issues
-If you have both prolapse and bleeding:
-
-#### Separate Treatment Plans
-- **Treat bleeding** according to its underlying cause
-- **Address prolapse** based on symptom severity and preferences
-- **Coordinate treatments** to avoid conflicts
-- **Monitor both conditions** for changes
-
-#### Timing of Treatments
-- **Bleeding evaluation** often takes priority
-- **Prolapse treatment** can usually wait for bleeding resolution
-- **Some treatments** may address both issues simultaneously
-- **Surgical planning** may combine procedures when appropriate
-
-## When to Seek Immediate Care
-
-### Emergency Situations
-Contact your healthcare provider immediately if you experience:
-- **Heavy bleeding** soaking through a pad every hour
-- **Large clots** or tissue passage
-- **Severe pelvic pain** with bleeding
-- **Signs of infection** like fever, chills, or foul-smelling discharge
-- **Dizziness or weakness** suggesting significant blood loss
-
-### Urgent Evaluation Needed
-Seek prompt medical attention for:
-- **Any post-menopausal bleeding**
-- **Bleeding between periods** (if pre-menopausal)
-- **Bleeding after intercourse**
-- **Persistent irregular bleeding**
-- **Bleeding with new or worsening prolapse symptoms**
-
-## Managing Expectations
-
-### Realistic Understanding
-- **Prolapse rarely causes bleeding** on its own
-- **Bleeding usually has other causes** that need investigation
-- **Both conditions are treatable** with appropriate care
-- **Proper evaluation** leads to effective treatment
-
-### Working with Your Healthcare Team
-- **Report all symptoms** accurately and completely
-- **Don't assume bleeding is from prolapse**
-- **Follow through** with recommended testing
-- **Ask questions** about findings and treatment options
-
-{: .important-title }
-> **Key Takeaway:** 
->
-> While uterine prolapse can cause many uncomfortable symptoms, bleeding is not typically one of them. Any vaginal bleeding, especially after menopause, requires proper medical evaluation.
-
-## Prevention and Management
-
-### Protecting Exposed Tissue
-If you have severe prolapse with tissue exposure:
-- **Keep tissue clean and dry**
-- **Avoid tight clothing** that might cause irritation
-- **Use barrier creams** if recommended by your doctor
-- **Seek treatment** to reduce prolapse and protect tissue
-
-### General Health Maintenance
-- **Regular gynecologic care** for screening and prevention
-- **Prompt attention** to any new or concerning symptoms
-- **Healthy lifestyle** to support overall reproductive health
-- **Open communication** with your healthcare provider
-
-## The Bottom Line
-
-**Uterine prolapse itself rarely causes vaginal bleeding.** If you're experiencing both prolapse and bleeding:
-
-1. **Don't assume** the bleeding is from the prolapse
-2. **Seek proper medical evaluation** for the bleeding
-3. **Address both conditions** with appropriate treatment
-4. **Follow up** as recommended by your healthcare provider
-
-Remember, both prolapse and abnormal bleeding are treatable conditions. With proper diagnosis and care, you can address both issues effectively and get back to feeling your best.
-
-If you're experiencing vaginal bleeding along with prolapse symptoms, don't delay in seeking medical attention. Early evaluation and treatment lead to the best outcomes for both conditions.
+1. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+2. Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). *Neurourology and Urodynamics*. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+3. Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+4. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+5. Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
+6. Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary Syndrome of Menopause: AUA/SUFU/AUGS Guideline. *American Urological Association*. 2025.
