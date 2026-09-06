@@ -39,6 +39,7 @@ redirect_from:
   - /how-does-uterine-prolapse-feel/
   - /does-uterine-prolapse-hurt-2/
   - /how-fast-does-uterine-prolapse-progress/
+  - /uterine-prolapse/
 ---
 
 # Understanding Uterine Prolapse: A Comprehensive Guide
