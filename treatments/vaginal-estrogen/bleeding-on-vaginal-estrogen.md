@@ -13,7 +13,7 @@ last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-03
 faq:
   - question: "Can vaginal estrogen cause bleeding?"
-    answer: "Not in the way people worry about. It's a local treatment with very little absorbed into the bloodstream, so it doesn't raise the risk of endometrial hyperplasia or cancer and isn't an expected cause of uterine bleeding. Fragile tissue can spot when it's touched, but any bleeding after menopause gets evaluated on its own rather than blamed on the estrogen."
+    answer: "Not in the way people worry about. It's a local treatment with very little absorbed into the bloodstream, so it doesn't raise the risk of endometrial hyperplasia or cancer and isn't an expected cause of uterine bleeding. Fragile tissue can spot when it's touched, but any bleeding after menopause should be evaluated on its own rather than blamed on the estrogen."
   - question: "Is spotting normal when starting estrogen cream?"
     answer: "Light spotting can come from thin, fragile tissue or from the applicator itself, and it's most likely in the first few weeks before the tissue has healed. But that's a conclusion you reach after checking, not one to assume, so report any bleeding so it can be looked at."
   - question: "Do I need a workup if I bleed on vaginal estrogen?"
@@ -22,7 +22,7 @@ faq:
 
 # What does bleeding while using vaginal estrogen mean?
 
-Any bleeding after menopause gets evaluated on its own, even if you're using vaginal estrogen. The estrogen isn't a reason to skip that workup, and it isn't the obvious explanation until someone has actually looked.
+Any bleeding after menopause should be evaluated on its own, even if you're using vaginal estrogen. The estrogen isn't a reason to skip that workup, and it isn't the obvious explanation until someone has actually looked.
 
 ## Why the estrogen isn't the automatic explanation
 
@@ -34,7 +34,7 @@ So new bleeding shouldn't just be pinned on the estrogen and left there. If a me
 
 The tissue vaginal estrogen treats is often thin and fragile, and fragile tissue can bleed a little when it's touched. That's why light spotting, including from inserting the applicator, is most likely in the first few weeks, before the tissue has thickened and healed. Full benefit takes about 8 to 12 weeks.
 
-The catch is that "it's just fragile tissue" is a conclusion you reach after looking, not one you assume up front. The bleeding gets checked first, and only then chalked up to something minor. Switching from a cream to a ring or tablet doesn't change that. The safety profile is similar across the products, and none of them makes a workup unnecessary.
+The catch is that "it's just fragile tissue" is a conclusion you reach after looking, not one you assume up front. You get checked first, and only then is it chalked up to something minor. Switching from a cream to a ring or tablet doesn't change that. The safety profile is similar across the products, and none of them makes a workup unnecessary.
 
 ## What an evaluation involves
 
@@ -48,7 +48,7 @@ The same logic runs in the other direction. Undiagnosed vaginal bleeding is a re
 
 ## How I think about it
 
-None of this means the estrogen is dangerous. You don't need routine surveillance of the lining just because you're using it, and the evidence there is reassuring. Checking a new bleed isn't a sign the treatment was a mistake. It's how we make sure nothing in the lining gets overlooked, which is the whole reason postmenopausal bleeding always gets looked at instead of explained away.
+None of this means the estrogen is dangerous. You don't need routine surveillance of the lining just because you're using it, and the evidence there is reassuring. Checking a new bleed isn't a sign the treatment was a mistake. It's how we make sure nothing in the lining gets overlooked, which is the whole reason we always look into postmenopausal bleeding instead of explaining it away.
 
 ## References
 

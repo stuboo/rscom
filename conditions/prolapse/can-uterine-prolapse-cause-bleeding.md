@@ -3,7 +3,7 @@ layout: question
 title: "Can Uterine Prolapse Cause Bleeding?"
 parent: Pelvic Organ Prolapse
 nav_order: 9
-description: "Uterine prolapse rarely causes bleeding on its own. What does, when the prolapse really is the source, and why bleeding after menopause always gets its own workup."
+description: "Uterine prolapse rarely causes bleeding on its own. What does, when the prolapse really is the source, and why bleeding after menopause should always be worked up."
 permalink: /conditions/prolapse/can-uterine-prolapse-cause-bleeding
 redirect_from:
   - /can-uterine-prolapse-cause-bleeding/
@@ -18,7 +18,7 @@ faq:
   - question: "Is bleeding a normal symptom of uterine prolapse?"
     answer: "Not usually. The typical symptoms are a bulge, pressure, low backache, and changes in bladder or bowel habits. Prolapsed tissue that sits outside the body can get dry and raw enough to spot, but that's uncommon, and bleeding should never just be blamed on the prolapse."
   - question: "I have prolapse and I bled after menopause. Do I still need a workup?"
-    answer: "Yes. Any bleeding after menopause gets evaluated on its own, whether or not you have prolapse. Checking for abnormal bleeding is a standard part of the prolapse exam for exactly this reason."
+    answer: "Yes. Any bleeding after menopause should be evaluated on its own, whether or not you have prolapse. Checking for abnormal bleeding is a standard part of the prolapse exam for exactly this reason."
   - question: "Can prolapse turn into cancer?"
     answer: "No. Prolapse is a support problem, not a growth. When the uterus is removed during prolapse surgery, an unsuspected cancer turns up in about 2 of every 1,000 cases. That risk is low, but it rises with age and with a history of postmenopausal bleeding, which is one more reason to get bleeding checked."
 ---
@@ -39,9 +39,9 @@ Bleeding from this cause is light, and it settles once the tissue is supported a
 
 A pessary rests against the vaginal wall, and steady pressure there can wear on the surface. Urogynecologists grade this in four levels: redness, a shallow abrasion that may spot a little, a deeper erosion or ulcer that bleeds, and, rarely, a fistula. Redness and abrasions can stay in place. A true ulcer means the pessary comes out for four to six weeks so the tissue can heal, then we refit, often with a different size or shape.
 
-Sores like this are more common than people expect and yet rarely show up as bleeding. In a multicenter registry that followed 166 pessary users for three years, about 30% had at least one vaginal ulcer, but only 2 women reported vaginal bleeding over the entire period. So new bleeding after a pessary is placed still gets evaluated rather than written off as friction, and undiagnosed bleeding before a fitting is a reason to sort out the bleeding first. Blood thinners can make pessary spotting more likely, but they're not a reason to avoid one.
+Sores like this are more common than people expect and yet rarely show up as bleeding. In a multicenter registry that followed 166 pessary users for three years, about 30% had at least one vaginal ulcer, but only 2 women reported vaginal bleeding over the entire period. So new bleeding after a pessary is placed should still be evaluated rather than written off as friction, and undiagnosed bleeding before a fitting is a reason to sort out the bleeding first. Blood thinners can make pessary spotting more likely, but they're not a reason to avoid one.
 
-## Bleeding after menopause always gets evaluated
+## Bleeding after menopause always needs evaluation
 
 If you've been through menopause and you have any bleeding at all, even one episode of spotting, it needs an evaluation. That's true whether or not you have prolapse. Checking for abnormal vaginal bleeding is a standard part of the prolapse workup, precisely because prolapse doesn't explain it.
 
