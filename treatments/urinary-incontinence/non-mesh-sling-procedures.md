@@ -6,9 +6,6 @@ nav_order: 8
 description: "A non-mesh (autologous fascial) sling uses your own tissue to treat stress incontinence. How it compares with mesh slings, Burch, and bulking, and who it fits."
 permalink: /treatments/urinary-incontinence/non-mesh-sling-procedures
 published: true
-# NOTE: this page's redirect_from URLs were moved to /treatments/comparisons/mesh-vs-non-mesh-sling because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -20,6 +17,8 @@ faq:
     answer: "The AUA guideline does not require step therapy. A non-mesh fascial sling, a synthetic midurethral sling, a Burch colposuspension, and urethral bulking are all listed as first-line surgical options for stress incontinence. Your insurance may still ask you to try conservative measures first, but that is an insurance rule, not a medical one."
   - question: "What if I leak with urgency too, not just with coughing?"
     answer: "A sling treats stress leakage, the kind that happens with coughing, laughing, or lifting. It does not treat urgency leakage. When you have both (mixed incontinence), I treat the more bothersome type first, because stress surgery can make urgency worse for a while. Adding pelvic floor therapy around the time of surgery lowers that risk."
+redirect_from:
+  - /non-mesh-sling-procedures/
 ---
 
 # Non-mesh sling procedures for stress incontinence

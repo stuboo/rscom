@@ -7,9 +7,6 @@ description: "Yes, the uterus can prolapse when pelvic floor support weakens. Wh
 permalink: /conditions/prolapse/can-your-uterus-prolapse
 published: true
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_evidence_review: 2026-09-06
 last_modified_at: 2026-09-06
 faq:
@@ -21,6 +18,8 @@ faq:
     answer: "Pelvic floor physical therapy and a pessary. Every woman with bothersome prolapse should be offered a pessary, and in a large registry about 78% said their prolapse was much or very much better at one year. We have pelvic floor physical therapists in the office."
   - question: "Who is most likely to get uterine prolapse?"
     answer: "Vaginal childbirth is the biggest factor, about a third of women already have stage II support within a year of a first baby, along with age, menopause, higher body weight, years of straining or a chronic cough, and smoking. Having risk factors does not mean you will develop bothersome prolapse."
+redirect_from:
+  - /can-your-uterus-prolapse/
 ---
 
 # Can your uterus prolapse?

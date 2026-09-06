@@ -6,9 +6,6 @@ nav_order: 6
 description: "How I repair pelvic organ prolapse through the vagina: apical suspension, anterior and posterior repair, colpocleisis, and how I decide with you."
 permalink: /treatments/prolapse/vaginal-prolapse-repair
 published: true
-# NOTE: this page's redirect_from URLs were moved to /treatments/prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -20,6 +17,8 @@ faq:
     answer: "No. The FDA removed all transvaginal mesh kits for prolapse from the US market in 2019. My vaginal repairs use your own tissue. Mesh still has a role in abdominal sacrocolpopexy, which is a different operation, and the FDA order does not apply to it or to slings for leakage."
   - question: "Could prolapse surgery affect my bladder?"
     answer: "It can. A prolapse can hide a leakage problem: about 40% of women who test negative for leakage beforehand develop stress incontinence after the prolapse is fixed, unless a continence procedure is added. I test for this before surgery so we can plan for it together."
+redirect_from:
+  - /vaginal-prolapse-repair/
 ---
 
 # Vaginal prolapse repair

@@ -7,9 +7,6 @@ description: "Most uterine prolapse changes slowly over years, and it can worsen
 permalink: /conditions/prolapse/how-fast-does-uterine-prolapse-progress
 published: true
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -21,6 +18,8 @@ faq:
     answer: "Age, vaginal deliveries and additional pregnancies, carrying extra weight, chronic constipation and straining, a long-standing cough, menopause, and connective tissue conditions. Straining, weight, and cough are the ones you can do something about."
   - question: "Can anything slow it down?"
     answer: "Pelvic floor physical therapy can improve symptoms and support. In the POPPY trial, 57% of women who did individualized pelvic floor training said their prolapse was better at 12 months, compared with 45% who got an advice leaflet. Managing weight, constipation, and a chronic cough helps too, and a pessary supports the prolapse while you decide what you want."
+redirect_from:
+  - /how-fast-does-uterine-prolapse-progress/
 ---
 
 # How fast does uterine prolapse progress?

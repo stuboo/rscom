@@ -7,9 +7,6 @@ description: "Pelvic floor therapy and a pessary relieve uterine prolapse sympto
 permalink: /conditions/prolapse/can-uterine-prolapse-be-reversed
 published: true
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -21,6 +18,8 @@ faq:
     answer: "It's the closest thing to true reversal because it restores the anatomy, and about 93% of women are much or very much better a year later with under 2% needing another procedure that year. But it isn't a lifetime guarantee: about 13% need a repeat operation within five years, and up to roughly a quarter have another prolapse surgery at some point."
   - question: "Can uterine prolapse be fixed without removing the uterus?"
     answer: "Yes. A uterus-preserving repair called hysteropexy is a reasonable option for many women."
+redirect_from:
+  - /can-uterine-prolapse-be-reversed/
 ---
 
 # Can uterine prolapse be reversed?

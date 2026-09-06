@@ -7,9 +7,6 @@ description: "Cramping isn't a classic prolapse symptom. What prolapse actually 
 permalink: /conditions/prolapse/can-uterine-prolapse-cause-cramping
 published: true
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -21,6 +18,8 @@ faq:
     answer: "Pelvic floor physical therapy, which teaches the muscles to relax and coordinate rather than squeeze harder. In studies of pelvic pain treated this way, roughly 60% to 80% of women improved. If the prolapse itself is the bother, a pessary helps about 78% of women feel much or very much improved at a year, and surgery is an option when support is what needs fixing."
   - question: "When should cramping be checked right away?"
     answer: "If it comes on severe or sudden, comes with fever, or comes with abnormal or postmenopausal bleeding. Bleeding after menopause always gets its own workup, whether or not you have prolapse."
+redirect_from:
+  - /can-uterine-prolapse-cause-cramping/
 ---
 
 # Can uterine prolapse cause cramping?

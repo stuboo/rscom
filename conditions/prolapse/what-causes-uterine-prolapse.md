@@ -7,9 +7,6 @@ description: "Uterine prolapse comes from weakened pelvic floor support. The mai
 permalink: /conditions/prolapse/what-causes-uterine-prolapse
 published: true
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -21,6 +18,9 @@ faq:
     answer: "Menopause is one of several risk factors, not a single cause. As estrogen falls and you age, the ratio of connective tissue to muscle in the pelvic floor drops and collagen support weakens. That makes prolapse more likely, but it usually acts alongside childbirth and other factors rather than on its own."
   - question: "Can uterine prolapse be prevented?"
     answer: "You cannot undo childbirth, your genes, or aging. You can lower the pressure that wears on pelvic support: treat constipation so you are not straining, keep a healthy weight, and manage a chronic cough. These are the risk factors we can actually change."
+redirect_from:
+  - /what-causes-uterine-prolapse/
+  - /how-to-avoid-uterine-prolapse/
 ---
 
 # What causes uterine prolapse?

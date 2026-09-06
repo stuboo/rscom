@@ -6,9 +6,6 @@ parent: Pelvic Organ Prolapse
 description: "An enterocele is small bowel bulging into the top of the vagina. What it feels like, why most bulges need no imaging, and how pessary and surgery compare."
 permalink: /conditions/enterocele
 published: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/prolapse/what-is-enterocele because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_evidence_review: 2026-09-06
 last_modified_at: 2026-09-06
 faq:
@@ -24,6 +21,8 @@ faq:
     answer: "Yes. Only a prolapse that bothers you needs treatment at all. A pessary, a support device worn in the vagina, is offered to everyone with symptomatic prolapse as a first option, and among women who keep using one about 78% report their symptoms are much or very much better at a year. Pelvic floor physical therapy can help with the pressure and bowel symptoms, though it doesn't lift the anatomy back into place."
   - question: "What does surgery for an enterocele involve?"
     answer: "Because an enterocele is a support problem at the top of the vagina, surgery restores that support, usually by suspending the vaginal apex (with your own tissue or with mesh through the abdomen) or, for women who don't want future vaginal penetration, by closing the vaginal canal. The key is fixing every compartment that's down at once."
+redirect_from:
+  - /enterocele-repair/
 ---
 
 # Enterocele

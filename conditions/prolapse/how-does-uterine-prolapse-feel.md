@@ -7,9 +7,6 @@ description: "Uterine prolapse usually feels like a bulge, pressure, or heavines
 permalink: /conditions/prolapse/how-does-uterine-prolapse-feel
 published: true
 nav_exclude: true
-# NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
-# jekyll-redirect-from emits nothing for a published: false page and they
-# were 404ing. Move them back here when this page is published.
 last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
@@ -23,6 +20,11 @@ faq:
     answer: "A low backache is a recognized prolapse symptom, but it is nonspecific and has many other causes. Prolapse-related backache tends to ease with rest and worsen with prolonged standing."
   - question: "When should prolapse symptoms be seen urgently?"
     answer: "Get seen promptly if you cannot urinate or cannot empty your bladder, or if tissue sitting outside the body becomes raw, sore, or bleeds. New bleeding after menopause should always be evaluated."
+redirect_from:
+  - /how-does-uterine-prolapse-feel/
+  - /does-uterine-prolapse-hurt-2/
+  - /can-uterine-prolapse-cause-sciatica/
+  - /can-uterine-prolapse-cause-incontinence/
 ---
 
 # How does uterine prolapse feel?
