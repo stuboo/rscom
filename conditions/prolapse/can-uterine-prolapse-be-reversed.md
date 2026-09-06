@@ -3,210 +3,88 @@ layout: page
 title: Can Uterine Prolapse Be Reversed?
 nav_order: 7
 parent: Pelvic Organ Prolapse
-description: "Treatment options and reversibility of uterine prolapse"
+description: "Pelvic floor therapy and a pessary relieve uterine prolapse symptoms but don't move the anatomy back. Surgery restores it. What reversal really means."
 permalink: /conditions/prolapse/can-uterine-prolapse-be-reversed
-published: false
+published: true
 nav_exclude: true
 # NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
 # jekyll-redirect-from emits nothing for a published: false page and they
 # were 404ing. Move them back here when this page is published.
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-06
+last_evidence_review: 2026-09-06
+faq:
+  - question: "Can pelvic floor exercises reverse uterine prolapse?"
+    answer: "They reliably improve how prolapse feels but don't move it back into place. In the largest trial, 57% of women who did supervised pelvic floor therapy said their prolapse was better at a year, versus 45% who got only lifestyle advice. On exam, about 19% improved by one stage with therapy versus 8% without."
+  - question: "Does a pessary cure prolapse?"
+    answer: "No. A pessary is silicone support that holds the uterus and vaginal walls up while it's in place; take it out and the prolapse returns. It works well as support, though. About 78% of users report their symptoms are much or very much better, and roughly two-thirds are still using it a year later."
+  - question: "Is prolapse surgery permanent?"
+    answer: "It's the closest thing to true reversal because it restores the anatomy, and about 93% of women are much or very much better a year later with under 2% needing another procedure that year. But it isn't a lifetime guarantee: about 13% need a repeat operation within five years, and up to roughly a quarter have another prolapse surgery at some point."
+  - question: "Can uterine prolapse be fixed without removing the uterus?"
+    answer: "Yes. A uterus-preserving repair called hysteropexy is a reasonable option for many women."
 ---
 
-# Can Uterine Prolapse Be Reversed?
+# Can uterine prolapse be reversed?
 
-This is one of the most common questions women ask when diagnosed with uterine prolapse. The answer depends on the severity of the prolapse, but there are effective treatment options that can significantly improve or even reverse symptoms in many cases.
+It depends on what you mean by reversed. If you mean putting the uterus back where it started and having it stay there on its own, the honest answer is usually no. Support tissue that has stretched doesn't tighten back up by itself. If you mean getting rid of the bulge, the pressure, and the other symptoms, then yes, that is very achievable, and for most women it is the part that actually matters.
 
-## Understanding "Reversal"
+So the more useful question isn't whether the anatomy can be perfect again. It's how much the prolapse bothers you and what you want to do about it.
 
-When we talk about reversing uterine prolapse, it's important to understand what this means:
+## What "reversed" really means
 
-- **Anatomical reversal**: Returning the uterus to its normal position
-- **Symptom reversal**: Eliminating or significantly reducing symptoms
-- **Functional reversal**: Restoring normal pelvic function
+Prolapse is a support problem. The ligaments and tissue that hold the uterus and vaginal walls in place have weakened, so those organs sit lower than they should.
 
-While we may not always achieve perfect anatomical restoration, we can often dramatically improve symptoms and quality of life. The goal is to help you feel normal again.
+It helps to separate two things:
 
-## Treatment Success by Prolapse Severity
+- Anatomy: where the uterus and vaginal walls sit when I examine you
+- Symptoms: the bulge, pressure, low backache, and bladder or bowel changes you feel
 
-### Mild to Moderate Prolapse
+These don't track together as closely as you'd expect. You can have real descent on an exam and barely notice it, and you can feel a lot with only mild descent. Treatment aims at the symptoms, not at a perfect exam.
 
-For early-stage prolapse, **conservative treatments can be highly effective**:
+## Mild prolapse sometimes holds steady or improves on its own
 
-#### Pelvic Floor Exercises
-- **Kegel exercises** can strengthen supporting muscles
-- **May actually reverse mild prolapse** by improving support
-- **Success rates** are highest when started early
-- **Requires consistency** and proper technique
+Early prolapse doesn't automatically get worse. In postmenopausal women followed for three years, only about 11% had their prolapse drop by 2 cm or more. And a small share improves with no treatment at all, with roughly 1 in 5 women having their prolapse regress on its own over a year.
 
-#### Pelvic Floor Physical Therapy
-- **Specialized therapy** goes beyond basic Kegels
-- **Improves muscle strength, coordination, and relaxation**
-- **Addresses contributing factors** like posture and breathing
-- **Can significantly improve symptoms** in mild to moderate cases
+That's why for mild prolapse that isn't bothering you much, watching and waiting is a legitimate choice, not a failure to act.
 
-Physical therapy is often underutilized but can be remarkably effective. A specialized pelvic floor therapist can make a tremendous difference.
+## Pelvic floor physical therapy: better symptoms, same anatomy
 
-### Advanced Prolapse
+Pelvic floor muscle training changes how prolapse feels. In the largest trial of it, the POPPY trial of 447 women, those who did an individualized program with a therapist had a clear drop in prolapse symptoms at a year, and 57% said their prolapse was better, compared with 45% who got only lifestyle advice.
 
-For more severe prolapse, **other treatments become necessary**:
+What it doesn't do is reverse the prolapse completely. Across studies, therapy improves symptoms but doesn't reliably change the stage of the prolapse on an exam. About 19% of women improve by one stage with therapy, versus 8% without, which is a modest edge rather than a reversal.
 
-#### Pessary Devices
-- **Small silicone device** inserted into the vagina
-- **Holds the uterus in proper position**
-- **Provides immediate symptom relief**
-- **Removable and adjustable** for comfort
-- **Excellent option** for women who want to avoid surgery
+It's a real, low-risk option for mild to moderate prolapse, especially when the bulge and pressure are what bother you most. It works best supervised, because in the trials nearly all of the benefit came from working with a trained therapist rather than from a handout. We have pelvic floor physical therapists in the office, which makes this route easy to start.
 
-#### Surgical Options
-- **Definitive treatment** for severe prolapse
-- **Multiple approaches** available depending on individual needs
-- **High success rates** for symptom improvement
-- **Can restore normal anatomy** in most cases
+## A pessary holds it up, for as long as it's in
 
-## Conservative Treatment Success
+A pessary is a silicone device that sits in the vagina and supports the uterus and vaginal walls from below. It's mechanical support, so it works right away, and it works only while it's in place. Take it out and the prolapse comes back. That isn't a flaw; it's how the device is meant to work.
 
-### What Works Best
+It's effective as support. In a large registry, about 78% of pessary users said their prolapse symptoms were much or very much better, and roughly two-thirds were still using it a year later.
 
-**Early intervention** with conservative treatments offers the best chance for reversal:
+Every woman with symptomatic prolapse should be offered one, and how far the prolapse has come down doesn't decide whether it will fit. Even advanced prolapse can often be fitted successfully.
 
-#### Optimal Conditions for Success
-- **Mild to moderate prolapse** (stages 1-2)
-- **Recent onset** of symptoms
-- **Good muscle function** remaining
-- **Motivated patient** willing to do exercises consistently
-- **No major contributing factors** like severe obesity
+## Surgery is the closest thing to actual reversal
 
-#### Realistic Expectations
-- **Symptom improvement** is more likely than complete anatomical reversal
-- **Progression prevention** is a valuable outcome
-- **Quality of life improvement** is the primary goal
+Surgery is the option that restores the anatomy. It repairs or resuspends the support so the uterus and vaginal walls sit where they should, and for most women it clears the symptoms too.
 
-### Exercise Programs That Work
+The results are good. In a multicenter registry, about 93% of women were much or very much better a year after prolapse surgery, and fewer than 2% needed another procedure in that time. Measured strictly, some sign of recurrence shows up in around 14% during the first year, but most of that never needs treatment.
 
-#### Comprehensive Pelvic Floor Training
-- **Proper Kegel technique** with correct muscle identification
-- **Progressive strengthening** over 12-16 weeks
-- **Functional training** for daily activities
-- **Core strengthening** to support pelvic organs
+Surgery still isn't a promise that prolapse never returns. About 13% of women need a repeat operation within five years, and up to roughly a quarter have another prolapse surgery at some point in their lives. Things that raise the odds of it coming back include a higher body weight, smoking, and how far along the prolapse was to begin with.
 
-#### Lifestyle Modifications
-- **Weight management** to reduce pressure on pelvic organs
-- **Constipation management** to avoid straining
-- **Proper lifting techniques** to protect pelvic floor
-- **Smoking cessation** to reduce chronic coughing
+You also don't have to lose your uterus to treat uterine prolapse. A uterus-preserving repair called hysteropexy is a reasonable choice for many women — guidelines now recommend offering it to anyone with a healthy uterus — and studies show it works about as well as surgery that removes the uterus, sometimes better.
 
-The key to success with conservative treatment is early intervention and consistency. The longer you wait, the more challenging it becomes to achieve reversal.
+## How I think about this
 
-## When Surgery Becomes Necessary
+I don't run patients up a fixed ladder where you have to fail therapy before you're allowed a pessary, and fail a pessary before you're allowed surgery. The guidelines don't require that, and neither do I.
 
-### Indications for Surgery
-- **Severe prolapse** affecting quality of life
-- **Failed conservative treatment** after adequate trial
-- **Associated conditions** like stress incontinence
-- **Patient preference** for definitive treatment
+What I do is lay out the honest paths, which are watchful waiting if it's mild, pelvic floor therapy, a pessary, or surgery, and match them to what you want. If you want to avoid an operation, a pessary or therapy can carry you a long way. If you want the anatomy actually repaired and you're finished having children, surgery is the durable answer. The prolapse being there isn't the problem to solve on its own. How much it interferes with your life is.
 
-### Surgical Success Rates
-- **Anatomical success**: 85-95% restoration of normal anatomy
-- **Symptom relief**: 90-95% of patients experience significant improvement
-- **Patient satisfaction**: High rates of satisfaction with outcomes
-- **Durability**: Long-term success with proper surgical technique
+## References
 
-## Factors Affecting Reversibility
-
-### Positive Factors
-- **Early detection** and treatment
-- **Mild to moderate severity**
-- **Good overall health**
-- **Strong motivation** for conservative treatment
-- **Absence of major risk factors**
-
-### Challenging Factors
-- **Advanced prolapse** (stage 3-4)
-- **Multiple risk factors** (age, multiple births, obesity)
-- **Associated conditions** (stress incontinence, chronic cough)
-- **Poor tissue quality** from aging or medical conditions
-
-## Treatment Timeline and Expectations
-
-### Conservative Treatment
-- **Initial improvement**: 4-6 weeks of consistent exercise
-- **Significant improvement**: 3-6 months of therapy
-- **Maximum benefit**: 6-12 months of treatment
-- **Maintenance**: Ongoing exercises to maintain benefits
-
-### Surgical Treatment
-- **Immediate improvement**: Relief of pressure symptoms
-- **Full recovery**: 6-8 weeks for healing
-- **Final results**: 3-6 months for complete settling
-- **Long-term outcomes**: Durable results with proper care
-
-## Prevention of Progression
-
-Even if complete reversal isn't possible, **treatment can prevent worsening**:
-
-### Benefits of Early Treatment
-- **Slows progression** to more severe stages
-- **Maintains quality of life** and function
-- **Preserves treatment options** for the future
-- **Prevents complications** like incarceration
-
-## The Role of Age and Overall Health
-
-### Younger Women
-- **Better healing capacity** and tissue quality
-- **More responsive** to conservative treatment
-- **Longer timeframe** to benefit from interventions
-
-### Older Women
-- **May have slower response** to conservative treatment
-- **Surgical options** remain highly effective
-- **Realistic expectations** important for treatment planning
-
-{: .important-title }
-> **Important:** 
->
-> Age alone should never disqualify you from treatment. Many older women achieve excellent results with both conservative and surgical approaches.
-
-## Success Stories and Realistic Expectations
-
-### What "Success" Looks Like
-- **Return to normal activities** without restriction
-- **Elimination or significant reduction** of symptoms
-- **Improved quality of life** and confidence
-- **Prevention of progression** to more severe stages
-
-### Individual Variation
-- **Response varies** between individuals
-- **Multiple factors** influence outcomes
-- **Patience and persistence** often lead to success
-- **Combination treatments** may be most effective
-
-## Making the Decision
-
-### Questions to Consider
-- How much do symptoms affect your daily life?
-- Are you willing to commit to conservative treatment?
-- What are your goals for treatment?
-- How do you feel about surgical options?
-
-### Working with Your Healthcare Team
-- **Comprehensive evaluation** to determine best approach
-- **Shared decision-making** based on your preferences
-- **Staged treatment approach** starting with conservative options
-- **Regular monitoring** to assess progress
-
-While we can't promise complete reversal in every case, we can almost always significantly improve symptoms and quality of life. The key is finding the right treatment approach for your individual situation.
-
-## The Bottom Line
-
-**Yes, uterine prolapse can often be reversed or significantly improved**, especially when:
-
-- Detected and treated early
-- Appropriate treatment is chosen for the severity
-- Patient is committed to the treatment plan
-- Realistic expectations are maintained
-
-The most important step is seeking evaluation and starting treatment. Whether through conservative measures, pessary use, or surgical intervention, effective options are available to help you feel better and return to your normal activities.
-
-Don't let prolapse limit your life. With proper treatment, most women can achieve significant improvement and get back to doing the things they love.
+1. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *The Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+2. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+3. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+4. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+5. Ferrando CA, Bradley CS, Meyn LA, et al. Twelve Month Outcomes of Pelvic Organ Prolapse Surgery in Patients With Uterovaginal or Posthysterectomy Vaginal Prolapse Enrolled in the Multicenter Pelvic Floor Disorders Registry. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
+6. Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+7. Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
+8. Nager CW, Visco AG, Richter HE, et al. Effect of sacrospinous hysteropexy with graft vs vaginal hysterectomy with uterosacral ligament suspension on treatment failure in women with uterovaginal prolapse: 5-year results of a randomized clinical trial. *American Journal of Obstetrics and Gynecology*. 2021. [doi:10.1016/j.ajog.2021.03.012](https://doi.org/10.1016/j.ajog.2021.03.012)
