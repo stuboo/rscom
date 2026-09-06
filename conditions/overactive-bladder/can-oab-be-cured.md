@@ -17,11 +17,11 @@ last_modified_at: 2026-05-15
 last_evidence_review: 2026-05-15
 faq:
   - question: "Will I always have OAB?"
-    answer: "Many women manage OAB so well that it barely affects their daily life. Some see lasting improvement with behavioral therapy alone. The underlying tendency may stick around, but symptoms can often be controlled to the point where you rarely think about them."
+    answer: "Many women manage OAB so well that it barely affects their daily life. About 50 to 80% improve with behavioral approaches alone, and some see lasting improvement from those on their own. The underlying tendency may stick around, but symptoms can often be controlled to the point where you rarely think about them."
   - question: "Do OAB medications work long-term?"
     answer: "They can, but fewer than half of women stay on OAB medications past six months. Side effects and modest benefit are common reasons for stopping. The good news is there are other options, including Botox and nerve stimulation, that don't depend on taking a daily pill."
   - question: "What's the most effective OAB treatment?"
-    answer: "There's no single best treatment. Behavioral therapy, medications, Botox, tibial nerve stimulation, and sacral neuromodulation each work well for different people. I walk through all the options so you can decide what fits your life."
+    answer: "There's no single best treatment, and the numbers are closer than you might think. Behavioral approaches help about 50 to 80% of women. Tibial nerve stimulation works for about 55%. Botox gets about 27% of women to complete dryness. Sacral neuromodulation improves symptoms in about 60 to 90%. Each works well for different people, so I walk through all the options and you decide what fits your life."
 ---
 # Can overactive bladder be cured?
 

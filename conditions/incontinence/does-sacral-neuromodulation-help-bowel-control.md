@@ -13,9 +13,9 @@ last_modified_at: 2026-05-14
 last_evidence_review: 2026-05-14
 faq:
   - question: "Can one device treat both bladder and bowel problems?"
-    answer: "Yes. Sacral neuromodulation is FDA-approved for both overactive bladder/urge incontinence and fecal incontinence. One device can address both conditions simultaneously."
+    answer: "Yes. Sacral neuromodulation is FDA-approved for both overactive bladder/urge incontinence and fecal incontinence, and one device can address both at once. For bowel control, patients in the pivotal trials went from an average of about 9 episodes a week down to 2. At 12 months 83% maintained meaningful improvement, at 5 years 89% still had therapeutic success, and about 40% reach complete continence."
   - question: "What if the trial doesn't work?"
-    answer: "If the trial period doesn't show sufficient improvement, the temporary wire is simply removed. No permanent changes have been made, and other treatment options remain available."
+    answer: "The bar for going ahead is at least 50% improvement in episodes during the trial, and about 90% of patients who do well in the trial go on to the permanent implant. If the trial doesn't clear that bar, the temporary wire is simply removed. No permanent changes have been made, and other treatment options remain available."
   - question: "Is the surgery for bowel SNM different from bladder SNM?"
     answer: "No. The procedure is identical — the same device, same nerve target, same trial process. The sacral nerves control both bladder and bowel function."
 ---

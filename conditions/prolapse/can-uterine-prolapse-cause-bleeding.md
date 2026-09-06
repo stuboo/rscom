@@ -16,7 +16,7 @@ last_modified_at: 2026-09-03
 last_evidence_review: 2026-09-03
 faq:
   - question: "Is bleeding a normal symptom of uterine prolapse?"
-    answer: "Not usually. The typical symptoms are a bulge, pressure, low backache, and changes in bladder or bowel habits. Prolapsed tissue that sits outside the body can get dry and raw enough to spot, but that's uncommon, and bleeding should never just be blamed on the prolapse."
+    answer: "Not usually. The typical symptoms are a bulge, pressure, low backache, and changes in bladder or bowel habits. Prolapsed tissue that sits outside the body can get dry and raw enough to spot, but that stays uncommon even in women whose tissue is under constant pressure: in a registry that followed 166 pessary users for three years, about 30% developed at least one vaginal ulcer, yet only 2 women reported any bleeding across the whole period. Bleeding should never just be blamed on the prolapse."
   - question: "I have prolapse and I bled after menopause. Do I still need a workup?"
     answer: "Yes. Any bleeding after menopause should be evaluated on its own, whether or not you have prolapse. Checking for abnormal bleeding is a standard part of the prolapse exam for exactly this reason."
   - question: "Can prolapse turn into cancer?"

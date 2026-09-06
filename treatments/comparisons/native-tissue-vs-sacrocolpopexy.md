@@ -16,7 +16,7 @@ faq:
   - question: "Which surgery has a shorter recovery?"
     answer: "They are about the same. Sacrocolpopexy uses small incisions and a robot, so recovery is usually quicker than people expect. Native tissue repair through the vagina is in the same range. Most women feel back to themselves in a few weeks. Your own recovery depends on your health and the rest of your surgery."
   - question: "Can the prolapse come back after either surgery?"
-    answer: "Yes, with either one. In the first year, the two repairs work about equally well, and very few women need another operation. Over the longer term, sacrocolpopexy tends to hold up a bit better. With your own tissue, the prolapse is somewhat more likely to come back over the years. Even when it does, it often causes no symptoms and does not always need more surgery."
+    answer: "Yes, with either one. At 12 months the prolapse came back at about the same rate with your own tissue (14%) and with sacrocolpopexy (14%), fewer than 2% of women needed another operation in that first year, and more than 9 in 10 said they felt much better. Over the longer term, sacrocolpopexy tends to hold up a bit better. With your own tissue, the prolapse is somewhat more likely to come back over the years. Even when it does, it often causes no symptoms and does not always need more surgery."
   - question: "What if I've already had a hysterectomy?"
     answer: "Both repairs work after a hysterectomy. Sacrocolpopexy was actually first designed to fix the top of the vagina dropping after the uterus is removed."
 ---

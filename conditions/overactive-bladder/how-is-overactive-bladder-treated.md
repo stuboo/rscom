@@ -17,7 +17,7 @@ faq:
   - question: "Are OAB medications safe long-term?"
     answer: "Newer beta-3 agonists (like mirabegron and vibegron) have fewer side effects than older anticholinergics. With anticholinergics, long-term use has been linked to cognitive concerns in older adults. Your doctor can help you weigh the risks and benefits."
   - question: "How do I know which treatment is right for me?"
-    answer: "The best treatment depends on your symptoms, other medical conditions, and what matters most to you. A urogynecologist can walk you through your options so you can make a decision together."
+    answer: "The best treatment depends on your symptoms, other medical conditions, and what matters most to you. It helps to see what each option actually buys and costs. Botox, for example, gets about 27% of women to complete resolution of leaking, with a urinary tract infection risk of about 33% and about a 5% chance of temporary trouble emptying the bladder. A urogynecologist can walk you through those trade-offs so you can make the decision together."
 ---
 
 # How is overactive bladder treated?

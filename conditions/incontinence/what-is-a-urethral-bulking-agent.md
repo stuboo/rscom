@@ -17,7 +17,7 @@ faq:
   - question: "Is the injection painful?"
     answer: "We do this as an outpatient procedure under local anesthesia. It takes about 15 minutes. Most women describe mild discomfort rather than pain, and you can return to normal activities right away."
   - question: "How does a bulking agent compare to a sling?"
-    answer: "A sling has higher cure rates and lasts longer, but it is a surgery. Bulking agents are less invasive with quicker recovery, though they may need to be repeated. We can talk through which option fits your goals and health."
+    answer: "A sling has higher cure rates and lasts longer, but it is a surgery. Bulking gets about 20 to 30 percent of women to a full cure at 1 to 3 years, where a sling gets more. What bulking trades for that is risk: in one trial comparing Bulkamid to a retropubic sling, complications were 2.1% versus 7.6%. It is less invasive with quicker recovery, though it may need to be repeated. We can talk through which option fits your goals and health."
 ---
 # What is a urethral bulking agent?
 

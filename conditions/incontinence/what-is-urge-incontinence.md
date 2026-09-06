@@ -15,9 +15,9 @@ faq:
   - question: "What's the difference between urge and stress incontinence?"
     answer: "Stress incontinence causes leaking during physical activity (coughing, exercise). Urge incontinence involves a sudden, strong need to urinate followed by involuntary leaking — often triggered by things like running water or arriving home."
   - question: "Is urge incontinence the same as overactive bladder?"
-    answer: "Not exactly. Overactive bladder (OAB) includes urgency and frequency, with or without leaking. Urge incontinence specifically means the urgency is accompanied by involuntary urine loss. Urge incontinence is one form of OAB."
+    answer: "Not exactly. Overactive bladder (OAB) includes urgency and frequency, with or without leaking. Urge incontinence specifically means the urgency is accompanied by involuntary urine loss. Urge incontinence is one form of OAB. About 17% of women have overactive bladder symptoms, and that rises to over 30% in women 65 and older."
   - question: "Can urge incontinence be treated without medication?"
-    answer: "Yes. Behavioral therapies like bladder training, fluid management, and pelvic floor therapy are effective first-line treatments. Many women improve without medication."
+    answer: "Yes. Bladder training, fluid management, and pelvic floor therapy are effective first-line treatments, and many women improve without ever taking a pill. That matters because the medications are hard to stay on: only about 18% of patients are still taking an anticholinergic 6 months later. If behavioral treatment isn't enough, tibial nerve stimulation is the least invasive next step, and about 55% of women report improvement with it compared with 21% on a sham treatment."
 ---
 
 # What is urge incontinence?

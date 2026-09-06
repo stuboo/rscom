@@ -15,7 +15,7 @@ faq:
   - question: "Is untreated prolapse dangerous?"
     answer: "Prolapse is almost never medically dangerous. In rare cases of very advanced prolapse, the exposed tissue can develop ulceration or the prolapse can obstruct the ureters, but these situations are uncommon and usually occur only with severe, long-standing prolapse."
   - question: "Will my prolapse definitely get worse?"
-    answer: "Not necessarily. Some women have stable prolapse for years. Others experience gradual worsening. Factors like weight, constipation, heavy lifting, and menopause influence progression."
+    answer: "Not necessarily, and the numbers are more reassuring than most people expect. In one study, 78% of women with untreated prolapse had no change after 16 months, and about 1 in 5 actually improved on their own at one year. Only about 11% of postmenopausal women had their prolapse increase by 2 cm or more over three years. Factors like weight, constipation, heavy lifting, and menopause influence progression."
   - question: "When should I seek treatment?"
     answer: "When prolapse symptoms interfere with your quality of life — whether that's physical discomfort, activity limitations, bladder or bowel problems, or emotional distress. There's no urgency from a safety standpoint, so the timing is up to you."
 ---

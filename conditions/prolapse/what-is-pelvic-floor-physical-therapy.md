@@ -15,7 +15,7 @@ faq:
   - question: "Is pelvic floor therapy covered by insurance?"
     answer: "Yes, in most cases. Pelvic floor physical therapy is covered by most insurance plans when prescribed by a physician. Check with your insurance for specific coverage details."
   - question: "How many sessions will I need?"
-    answer: "Most treatment plans involve 4-8 sessions over several months, combined with a daily home exercise program. Some women need fewer sessions, while complex cases may require more."
+    answer: "Most treatment plans involve 4-8 sessions over several months, combined with a daily home exercise program. Some women need fewer sessions, while complex cases may require more. The honest difficulty is sticking with the home program: one study found 95% of women were still exercising at 3 months, but only about 27% were meeting the full program goals at 12 months."
   - question: "Is the internal exam required?"
     answer: "An internal exam gives the most accurate picture of how your muscles work. But a good therapist will explain everything first, go at your pace, and check in with you throughout. You are always in control and can stop or skip the internal part at any time. It may limit what the therapist can assess, but your comfort matters most."
 ---

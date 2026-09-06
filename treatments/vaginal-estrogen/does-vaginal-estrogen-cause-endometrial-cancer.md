@@ -15,7 +15,7 @@ faq:
   - question: "Do I need progesterone with vaginal estrogen?"
     answer: "No. When low-dose vaginal estrogen is used, a progestogen is not indicated. Absorption into the bloodstream is minimal, so the estrogen acts on the vaginal tissue rather than building up the uterine lining."
   - question: "Does vaginal estrogen cause endometrial cancer?"
-    answer: "At low vaginal doses, no. The AUA/SUFU/AUGS guideline states that local low-dose vaginal estrogen does not increase the risk for endometrial hyperplasia with atypia or endometrial cancer. Pooled trials found no hyperplasia or cancer signal."
+    answer: "At low vaginal doses, no. The AUA/SUFU/AUGS guideline states that local low-dose vaginal estrogen does not increase the risk for endometrial hyperplasia with atypia or endometrial cancer. A North American Menopause Society statement pooled 20 randomized trials covering 2,983 women who used vaginal estrogen for up to a year: 1 case of endometrial cancer (0.03%) and 12 of hyperplasia (0.4%), rates similar to untreated postmenopausal women. A systematic review of 44 studies found 1 cancer among 600 biopsied women (0.17%)."
   - question: "Do I need my uterine lining checked?"
     answer: "Not for average-risk women. Guidelines say clinicians should not perform endometrial surveillance solely because you use low-dose vaginal estrogen. Women at increased risk of endometrial cancer, or using higher-than-standard doses, may warrant surveillance, and any bleeding after menopause is evaluated on its own."
 ---

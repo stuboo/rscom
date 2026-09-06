@@ -13,7 +13,7 @@ faq:
   - question: "Can I take medication and have Botox?"
     answer: "Typically, Botox replaces medications rather than being used alongside them. Once Botox is effective, most patients stop their OAB medications."
   - question: "What happens when Botox wears off?"
-    answer: "Symptoms gradually return over weeks to months. When they become bothersome again, you can schedule another injection. Many patients develop a regular schedule."
+    answer: "A treatment lasts about 6 to 9 months, then symptoms gradually return. When they become bothersome again, you can schedule another injection. Many patients settle into a regular schedule around that 6 to 9 month mark."
   - question: "Are there long-term risks with OAB medications?"
     answer: "Older anticholinergic medications have been linked to memory problems with long-term use, especially in older patients. Newer beta-3 agonists don't carry this risk. Discuss concerns with your doctor."
   - question: "How do I know if Botox is working?"

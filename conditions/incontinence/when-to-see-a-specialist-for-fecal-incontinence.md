@@ -17,7 +17,7 @@ faq:
   - question: "What tests might I need?"
     answer: "Common evaluations include a physical exam, anal manometry (measuring sphincter pressure), endoanal ultrasound (imaging the sphincter muscles), and sometimes a defecography. Not every patient needs all tests."
   - question: "Is fecal incontinence embarrassing to discuss?"
-    answer: "It's completely normal to feel hesitant, but specialists discuss this every day. They will not judge you. Most patients feel relieved after their first appointment because they finally have a plan."
+    answer: "It's completely normal to feel hesitant, and most people do stay quiet: about 9% of adult women have fecal incontinence at least monthly, yet fewer than 30% ever bring it up with a doctor. Specialists discuss this every day and will not judge you. It is also worth raising because it responds to treatment — over 80% of patients see at least a 50% reduction in leakage episodes. Most patients feel relieved after their first appointment because they finally have a plan."
 ---
 # When should I see a specialist for fecal incontinence?
 

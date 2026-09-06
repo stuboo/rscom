@@ -13,7 +13,7 @@ testimonial_index: 3
 last_evidence_review: 2026-05-30
 faq:
   - question: "Will prolapse surgery improve my sex life?"
-    answer: "For most women, sexual function stays the same or gets better after prolapse repair. In studies, pain with sex dropped by about half, and many women who had stopped being intimate started again. A small number develop new pain with sex, which is usually treatable. We'll talk through your goals and the risks before any surgery."
+    answer: "For most women, sexual function stays the same or gets better after prolapse repair. In one sacrocolpopexy study, pain with sex fell from about 39% before surgery to 21% after; in another, from 25% before surgery to 16% two years later. Many women who had stopped being intimate started again. Around 1 in 10 develop new pain with sex, which is usually treatable. We'll talk through your goals and the risks before any surgery."
   - question: "Can I have sex with prolapse?"
     answer: "Yes. Prolapse does not prevent sex, though some women find certain positions uncomfortable or feel a bulge. If prolapse is affecting your intimacy, treatment can help."
   - question: "Do I need to take my pessary out before sex?"

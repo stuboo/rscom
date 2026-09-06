@@ -13,9 +13,9 @@ last_evidence_review: 2026-05-16
 testimonial_index: 1
 faq:
   - question: "Will postpartum incontinence go away on its own?"
-    answer: "Many women improve within 3 to 6 months as tissues heal and pelvic floor strength comes back. But if leaking continues beyond 6 months, it's unlikely to go away without treatment."
+    answer: "It is common at first — up to 34% of women report urinary leakage after giving birth. Many improve within 3 to 6 months as tissues heal and pelvic floor strength comes back. But if leaking continues beyond 6 months, it's unlikely to go away without treatment."
   - question: "Is it safe to do pelvic floor exercises while breastfeeding?"
-    answer: "Yes. Pelvic floor exercises are safe during breastfeeding. Starting gentle exercises early after delivery can help your recovery."
+    answer: "Yes, and they are worth doing. A 2018 Cochrane review of 38 trials found that pelvic floor training during pregnancy reduced incontinence risk by 29% in the 3 to 6 months after birth, and a meta-analysis of 15 postpartum trials showed a 56% reduction up to 12 months out. Starting gentle exercises early after delivery can help your recovery."
   - question: "Will incontinence get worse with each pregnancy?"
     answer: "Each pregnancy and delivery adds strain to the pelvic floor. Some women notice more leaking with later pregnancies. That's one more reason to bring it up early."
 ---
