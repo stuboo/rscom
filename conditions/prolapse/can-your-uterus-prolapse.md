@@ -3,197 +3,124 @@ layout: page
 title: Can Your Uterus Prolapse?
 nav_order: 10
 parent: Pelvic Organ Prolapse
-description: "Understanding if your uterus can prolapse and who is at risk"
+description: "Yes, the uterus can prolapse when pelvic floor support weakens. Who is most at risk, how it is staged with POP-Q, and why symptoms don't always match the exam."
 permalink: /conditions/prolapse/can-your-uterus-prolapse
-published: false
+published: true
 nav_exclude: true
 # NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
 # jekyll-redirect-from emits nothing for a published: false page and they
 # were 404ing. Move them back here when this page is published.
-last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-06
+last_modified_at: 2026-09-06
+faq:
+  - question: "Can your uterus actually prolapse?"
+    answer: "Yes. On a careful exam, about 65% of postmenopausal women have some prolapse and about 25% have tissue that reaches or passes the vaginal opening, but only about 3 to 6% have a bulge that bothers them. Some descent on an exam is closer to normal than to alarming; what matters is whether it causes symptoms."
+  - question: "Does uterine prolapse always get worse over time?"
+    answer: "No. About 78% of women with untreated symptomatic prolapse had no change over roughly 16 months. Over two years only 10 to 20% see their stage go up, and prolapse can improve on its own, in one group about 1 in 5 got better within a year without any treatment."
+  - question: "What can I do about it short of surgery?"
+    answer: "Pelvic floor physical therapy and a pessary. Every woman with bothersome prolapse should be offered a pessary, and in a large registry about 78% said their prolapse was much or very much better at one year. We have pelvic floor physical therapists in the office."
+  - question: "Who is most likely to get uterine prolapse?"
+    answer: "Vaginal childbirth is the biggest factor, about a third of women already have stage II support within a year of a first baby, along with age, menopause, higher body weight, years of straining or a chronic cough, and smoking. Having risk factors does not mean you will develop bothersome prolapse."
 ---
 
-# Can Your Uterus Prolapse?
+# Can your uterus prolapse?
 
-Yes, your uterus can prolapse, and it's more common than many women realize. Uterine prolapse is a condition where the uterus and upper vagina move toward the vaginal opening due to weakened pelvic floor muscles and ligaments that normally provide support.
+Yes. The uterus can drop toward the vaginal opening when the muscles, ligaments, and connective tissue that hold it in place lose their support. That is uterine prolapse, and it is one form of pelvic organ prolapse.
 
-## Understanding Uterine Prolapse
+It is common. On a careful pelvic exam, about 65% of postmenopausal women have some prolapse, and about 25% have tissue that reaches or passes the vaginal opening. But only a small share, roughly 3 to 6%, have a bulge that actually bothers them. So finding some descent on an exam is closer to normal than to alarming. What matters is whether it is causing symptoms.
 
-Uterine prolapse occurs when **the supporting structures of the pelvic floor weaken over time**, allowing the uterus and upper vagina to move toward the vaginal opening. This condition can range from very mild cases that cause no symptoms to more severe cases that significantly impact daily life.
+## How the uterus is normally held up
 
-Uterine prolapse is a common condition that can affect women of any age, though it's most frequently seen in women who have had children or are postmenopausal. The important thing to know is that it's treatable.
+Your pelvic organs rest on a support system with a few layers:
 
-## Who Can Experience Uterine Prolapse?
+- pelvic floor muscles that work like a hammock across the bottom of the pelvis
+- ligaments at the top that suspend the cervix and upper vagina
+- sheets of connective tissue, called fascia, along the vaginal walls
 
-### Age Factors
-- **Can happen to women of any age**, though less common in younger women
-- **Most common in women 50 years and older**
-- **Increases with age** due to natural weakening of tissues
-- **Postmenopausal women** are at higher risk due to decreased estrogen
+When the top-level ligaments give way, the uterus and the top of the vagina can descend. When the side supports weaken, the bladder or the rectum can bulge into the vagina as well.
 
-### Primary Risk Factors
-- **Vaginal childbirth** - the most significant risk factor
-- **Multiple pregnancies** increase the risk
-- **Age and menopause** affect tissue strength
-- **Family history** of pelvic floor disorders
+## Who is more likely to get it
 
-## The Reality: It's More Common Than You Think
+The strongest risk factors are:
 
-Many women are surprised to learn how common uterine prolapse actually is:
+- vaginal childbirth, especially more than one delivery
+- age
+- menopause and the drop in estrogen that comes with it
+- higher body weight
+- anything that raises pressure in the belly for years, such as chronic constipation and straining, a chronic cough, or smoking
+- inherited differences in connective tissue
 
-- **Some form of pelvic organ prolapse** affects up to 1 in 3 women
-- **Many cases go undiagnosed** because symptoms can be subtle
-- **Women often delay seeking help** due to embarrassment
-- **Treatment options are highly effective** when properly diagnosed
+Childbirth is the big one. In a study that examined women within a year of their first baby, about a third already had stage II support, meaning the leading edge of the prolapse had come down close to the vaginal opening. Most of them had no symptoms. A cesarean lowered the risk but did not erase it.
 
-{: .important-title }
-> **Important:** 
->
-> Having risk factors doesn't mean you will definitely develop prolapse, and having prolapse doesn't mean it will necessarily worsen over time.
+Having risk factors does not mean you will develop bothersome prolapse, and having some prolapse does not mean it will get worse.
 
-## How Prolapse Develops
+## What it feels like
 
-### The Support System
-Your uterus is normally held in place by:
-- **Pelvic floor muscles** that act like a supportive hammock
-- **Ligaments and connective tissues** that provide structural support
-- **Fascial layers** that help maintain organ position
+The most telling symptom is a bulge, the feeling of something sitting low in the vagina, or something you can see or feel at the opening. Around that, women describe:
 
-### When Support Weakens
-When these supporting structures weaken:
-- **Gravity takes over** and organs can descend
-- **The uterus may drop** into the vaginal canal
-- **Other organs** like the bladder or rectum may also be affected
+- pressure or heaviness that builds over the day
+- a low backache
+- bladder trouble, such as leaking, a weak stream, or a sense that you cannot empty all the way
+- bowel trouble, such as constipation, or needing to press on the vaginal wall to finish
 
-## Recognizing the Signs
+Symptoms and exam findings do not always line up. Some women with a significant amount of descent barely notice it, while others with mild prolapse are quite bothered. Most women start to feel a prolapse once the leading edge reaches about half a centimeter past the hymen. That gap between anatomy and symptoms is why treatment is driven by how you feel, not by a number on the exam.
 
-### Early Symptoms
-In **mild cases**, you might notice:
-- **Subtle pelvic pressure** especially at the end of the day
-- **Feeling like something isn't quite right** in your pelvis
-- **Mild discomfort** during physical activity
+## How prolapse is measured
 
-### Moderate to Severe Symptoms
-As prolapse progresses, symptoms may include:
-- **Sensation of heaviness** in the vagina or pelvis
-- **Low back pain** that worsens with standing
-- **Bowel difficulties** including constipation
-- **Difficulty walking** or discomfort with movement
-- **Urinary problems** such as leakage or difficulty emptying
-- **Tissue protruding** from the vagina
+Instead of loose labels, urogynecologists use a system called the POP-Q. It measures how far the lowest part of the prolapse sits relative to the hymen, the vaginal opening, while you bear down. It sorts into stages:
 
-### Individual Variation
-**Important to note**: Some women with significant anatomical changes experience minimal symptoms, while others with mild prolapse may have bothersome symptoms.
+- Stage 0: no prolapse
+- Stage I: the lowest point stays more than 1 cm above the opening
+- Stage II: the lowest point is within 1 cm above or below the opening
+- Stage III: the lowest point is more than 1 cm past the opening
+- Stage IV: nearly everything has come down and the vagina is turned close to inside out
 
-The degree of prolapse doesn't always correlate with symptom severity. This is why individual evaluation and personalized treatment plans are so important.
+Uterine prolapse also travels with its neighbors. It often comes with a bladder bulge (cystocele), a rectal bulge (rectocele), or a loop of small bowel pressing in from above (enterocele).
 
-## Types of Uterine Prolapse
+## Will it get worse?
 
-### Severity Stages
-Doctors classify uterine prolapse into stages:
+Not necessarily, and not quickly for most women. Among women with untreated symptomatic prolapse, about 78% had no change over roughly 16 months. Over a couple of years, only 10 to 20% see their stage go up, and prolapse can even improve on its own, in one group about 1 in 5 got better within a year without treatment.
 
-1. **Stage 1**: Mild descent of the uterus into the upper vagina
-2. **Stage 2**: Uterus descends to the vaginal opening
-3. **Stage 3**: Part of the uterus protrudes outside the vagina
-4. **Stage 4**: Complete prolapse with the entire uterus outside the vagina
+## Can you lower your risk?
 
-### Associated Conditions
-Uterine prolapse often occurs with:
-- **Cystocele** (bladder prolapse)
-- **Rectocele** (rectal prolapse)
-- **Enterocele** (small bowel prolapse)
+You cannot undo childbirth or genetics, but you can take pressure off the support you have:
 
-## Can It Be Prevented?
+- keep a weight that is healthy for you
+- treat constipation so you are not straining, and treat a lingering cough
+- do not smoke, since both the cough and the effect on tissue work against you
+- do pelvic floor muscle training
 
-While not all cases can be prevented, you can reduce your risk:
+## Treatment, if you want it
 
-### Lifestyle Factors
-- **Maintain a healthy weight** to reduce pressure on pelvic organs
-- **Practice pelvic floor exercises** regularly throughout life
-- **Avoid chronic constipation** and straining
-- **Use proper lifting techniques** and avoid heavy lifting when possible
-- **Don't smoke** - chronic coughing weakens pelvic floor
+Mild prolapse with no symptoms does not need treatment. If it is bothering you, there is a range of options, and the choice is yours.
 
-### During and After Pregnancy
-- **Prenatal pelvic floor education** and exercises
-- **Proper prenatal care** during pregnancy
-- **Postpartum rehabilitation** including pelvic floor therapy
-- **Gradual return** to high-impact activities after delivery
+Pelvic floor physical therapy. Working with a therapist on the muscles that support the pelvis can reduce prolapse symptoms. In a large trial, women who did individualized training reported more improvement and were less likely to need further treatment than women who were given only a leaflet. We have pelvic floor physical therapists in the office.
 
-## Treatment Options Are Available
+A pessary. This is a soft support device that sits in the vagina and holds the prolapse up. Every woman with bothersome prolapse should be offered one. In a large registry, about 78% of women using a pessary said their prolapse was much or very much better at one year.
 
-### Conservative Treatments
-- **Pelvic floor physical therapy** to strengthen supporting muscles
-- **Lifestyle modifications** to reduce pressure and strain
-- **Pessary devices** to provide mechanical support
+Surgery. Several operations can rebuild the support, or, for women who no longer want vaginal intercourse, close off the vaginal canal. About 1 in 8 women has prolapse surgery by age 80.
 
-### Medical Treatments
-- **Hormone therapy** may help maintain tissue strength in some women
-- **Treatment of contributing conditions** like chronic cough or constipation
+## How I think about this
 
-### Surgical Options
-- **Minimally invasive procedures** for appropriate candidates
-- **Various surgical approaches** depending on individual needs
-- **High success rates** for symptom improvement
+The question I care about is not whether you have prolapse. A lot of women do, and much of it never causes trouble. The question is whether it is getting in the way of your life. If it is not, watching it is a sound plan, and you can start treatment later if things change. If it is, we pick the option that fits what you want, not the one that looks most impressive on an exam. The number on the POP-Q helps me track things over time, but it does not decide anything by itself.
 
-## The Emotional Impact
+## When to get checked
 
-### Common Feelings
-Many women experience:
-- **Embarrassment** about discussing symptoms
-- **Anxiety** about the condition worsening
-- **Frustration** with impact on activities
-- **Relief** when they learn about treatment options
+Consider an evaluation if you notice:
 
-### You're Not Alone
-- **Millions of women** experience pelvic organ prolapse
-- **Support groups** and resources are available
-- **Healthcare providers** are experienced in treating this condition
-- **Successful treatment** allows return to normal activities
+- a bulge you can feel or see at the vaginal opening
+- pressure or heaviness that builds through the day
+- new bladder or bowel trouble
+- any bleeding after menopause, which always gets [looked at on its own](/conditions/prolapse/can-uterine-prolapse-cause-bleeding)
 
-## When to Seek Help
+## References
 
-### Don't Wait
-Consider evaluation if you experience:
-- **Pelvic pressure or heaviness**
-- **Feeling like something is protruding** from your vagina
-- **Changes in bladder or bowel function**
-- **Discomfort during physical activities**
-- **Any concerns** about your pelvic health
-
-### What to Expect
-During evaluation:
-- **Comprehensive history** of symptoms and risk factors
-- **Physical examination** to assess prolapse degree
-- **Discussion of treatment options** based on your individual needs
-- **Development of a personalized plan** that meets your goals
-
-The sooner you seek evaluation, the more treatment options you typically have. Early intervention can often prevent progression and maintain your quality of life.
-
-## Living with the Knowledge
-
-### Empowerment Through Understanding
-Knowing that your uterus can prolapse helps you:
-- **Recognize early symptoms** if they develop
-- **Take preventive measures** to maintain pelvic health
-- **Seek help promptly** if needed
-- **Make informed decisions** about your health
-
-### Maintaining Perspective
-- **Prolapse is common** and treatable
-- **Many treatment options** are available
-- **Most women** achieve excellent symptom relief
-- **You can maintain** an active, healthy lifestyle
-
-## The Bottom Line
-
-**Yes, your uterus can prolapse**, but understanding this helps you:
-
-1. **Recognize your risk factors** and take preventive action
-2. **Identify symptoms early** if they develop
-3. **Seek appropriate treatment** when needed
-4. **Maintain confidence** in your health decisions
-
-Remember, uterine prolapse is a medical condition with effective treatments, not something to be embarrassed about. If you have concerns about your pelvic health, don't hesitate to speak with a healthcare provider who can provide expert guidance and support.
-
-The key is awareness, early action when needed, and knowing that help is available. With proper care, most women with uterine prolapse can continue to live active, comfortable lives.
+1. Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstetrics & Gynecology*. 2019.
+2. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+3. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+4. Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. *International Urogynecology Journal*. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
+5. Hilton P, Dolan LM. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
+6. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *The Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+7. Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+8. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+9. Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
