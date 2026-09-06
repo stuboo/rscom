@@ -3,176 +3,125 @@ layout: page
 title: Non-Mesh Sling Procedures
 parent: Urinary Incontinence Treatments
 nav_order: 8
-description: "Non-Mesh Sling Procedures for Stress Urinary Incontinence"
+description: "A non-mesh (autologous fascial) sling uses your own tissue to treat stress incontinence. How it compares with mesh slings, Burch, and bulking, and who it fits."
 permalink: /treatments/urinary-incontinence/non-mesh-sling-procedures
-published: false
+published: true
 # NOTE: this page's redirect_from URLs were moved to /treatments/comparisons/mesh-vs-non-mesh-sling because
 # jekyll-redirect-from emits nothing for a published: false page and they
 # were 404ing. Move them back here when this page is published.
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-06
+last_evidence_review: 2026-09-06
+faq:
+  - question: "How well do non-mesh slings work?"
+    answer: "In the SISTEr trial, an autologous fascial sling cured stress leakage in 66% of women at two years, compared with 49% for a Burch colposuspension, and only 2% needed repeat surgery for stress incontinence versus 11%. Single-center series report 85 to 92% success over 3 to 15 years. Cure rates are close to a mesh sling's, roughly 67% versus 74%."
+  - question: "What is the difference between a non-mesh sling and a mesh sling?"
+    answer: "A non-mesh sling uses a strip of your own tissue (from the abdominal wall or thigh) instead of synthetic mesh. It needs an abdominal incision and a longer recovery, about 6 to 8 weeks instead of 2 to 4, and it carries no risk of mesh exposure. The tradeoff is a higher chance of temporary trouble emptying the bladder afterward, reported in roughly 7.5 to 15% of women."
+  - question: "Do I have to try other treatments before surgery?"
+    answer: "The AUA guideline does not require step therapy. A non-mesh fascial sling, a synthetic midurethral sling, a Burch colposuspension, and urethral bulking are all listed as first-line surgical options for stress incontinence. Your insurance may still ask you to try conservative measures first, but that is an insurance rule, not a medical one."
+  - question: "What if I leak with urgency too, not just with coughing?"
+    answer: "A sling treats stress leakage, the kind that happens with coughing, laughing, or lifting. It does not treat urgency leakage. When you have both (mixed incontinence), I treat the more bothersome type first, because stress surgery can make urgency worse for a while. Adding pelvic floor therapy around the time of surgery lowers that risk."
 ---
 
-# Non-Mesh Sling Procedures for Stress Urinary Incontinence
+# Non-mesh sling procedures for stress incontinence
 
-Non-mesh sling procedures, also known as autologous or fascial slings, are surgical treatments for stress urinary incontinence that use the patient's own tissue rather than synthetic materials. These procedures provide an excellent alternative for women who prefer to avoid synthetic mesh or have specific medical considerations.
+A non-mesh sling treats stress urinary incontinence using a strip of your own tissue instead of synthetic mesh. Surgeons also call it an autologous fascial sling or a pubovaginal sling. It is a good option if you want to avoid mesh, if you have had a mesh complication before, or if a previous incontinence surgery has failed.
 
-## What are Non-Mesh Sling Procedures?
+The tissue forms a supportive hammock under the urethra. When you cough, laugh, or lift, the pressure in your belly rises, presses the urethra against that support, and keeps urine from leaking. That is the same problem a mesh sling solves; the difference is the material.
 
-Non-mesh sling procedures involve creating a supportive "hammock" under the urethra using the patient's own tissue, typically:
+## What the sling is made of
 
-- **Rectus fascia**: Tissue from the abdominal wall
-- **Fascia lata**: Tissue from the thigh
-- **Vaginal wall tissue**: In some cases
+The strip is usually your own fascia, the tough connective tissue that wraps muscle:
 
-Non-mesh slings offer excellent long-term results for stress incontinence while eliminating concerns about synthetic materials. They're particularly valuable for patients who want to avoid mesh or have had previous mesh complications.
+- Rectus fascia, taken from the sheath over the abdominal muscles. This is the most common source.
+- Fascia lata, taken from the outer thigh through a smaller incision.
 
-## How Non-Mesh Slings Work
+Donor tissue (cadaveric fascia) and animal-derived grafts exist, but they are used less often because they do not last as well as your own tissue. When people say non-mesh sling, they almost always mean an autologous rectus fascia sling, which has been the standard for decades.
 
-The procedure works by:
+## How the surgery works
 
-1. **Urethral support**: The sling provides support under the urethra
-2. **Compression mechanism**: During increased abdominal pressure, the sling compresses the urethra
-3. **Anatomical restoration**: Helps restore the normal angle and position of the urethra
+I make a small incision to harvest the fascial strip, then a separate incision inside the vagina under the urethra. The strip passes beneath the urethra, and its ends are brought up behind the pubic bone and anchored to the strong abdominal wall tissue. I check the bladder with a small camera before closing. The goal is enough support to stop leakage without making the urethra so tight that you cannot empty.
 
-## Types of Non-Mesh Sling Procedures
+It is done under general or regional anesthesia. Most women go home the same day or after one night.
 
-### Pubovaginal Sling (PVS)
-- **Most common type** of non-mesh sling
-- Uses rectus fascia from the abdominal wall
-- Placed at the bladder neck level
-- Excellent long-term durability
+## Where it fits among stress incontinence treatments
 
-### Fascial Sling Variations
-- **Autologous fascia lata**: Using thigh tissue
-- **Cadaveric fascia**: Donor tissue (less commonly used)
-- **Xenograft materials**: Animal-derived materials
+Stress incontinence has several good surgical answers. The AUA guideline lists four first-line surgical options, all backed by strong evidence: the synthetic midurethral sling, the autologous fascial sling, the Burch colposuspension, and urethral bulking. Your insurance may ask you to try conservative measures first, but that is an insurance policy, not a medical requirement.
 
-## The Procedure Process
+Which one fits you is a shared decision. It depends on how you feel about mesh, whether you have had incontinence surgery before, how your urethra moves, and what kind of recovery you want.
 
-### Preoperative Preparation
-1. **Comprehensive evaluation**: Confirming stress incontinence diagnosis
-2. **Medical clearance**: Ensuring fitness for surgery
-3. **Tissue harvest planning**: Determining the best tissue source
+One thing to sort out first is what kind of leakage you have. A sling treats stress leakage, the kind tied to coughing, laughing, exercise, or lifting. It does not treat the sudden urge to go that comes with an overactive bladder. If you have both, which is called mixed incontinence, I treat the more bothersome type first. Stress incontinence surgery can make urge symptoms worse for a time, so this matters. In the ESTEEM trial, adding pelvic floor therapy around the time of a sling lowered that risk and reduced the need for more treatment later.
 
-### Surgical Steps
-1. **Anesthesia**: General or regional anesthesia
-2. **Tissue harvest**: Obtaining fascial tissue from abdomen or thigh
-3. **Vaginal dissection**: Creating space for sling placement
-4. **Sling positioning**: Placing the sling under the urethra
-5. **Securing**: Attaching the sling to strong supportive structures
-6. **Closure**: Closing all incisions
+## How well it works
 
-## Benefits of Non-Mesh Slings
+The best comparison comes from the SISTEr trial, which randomized 655 women to an autologous fascial sling or a Burch colposuspension. At two years, the sling cured stress leakage in 66% of women versus 49% for the Burch, and only 2% of sling patients needed repeat surgery for stress incontinence, compared with 11% after the Burch. Five-year follow-up held the same pattern: repeat surgery stayed at 2% for the sling versus 12%, and 83% of sling patients were satisfied.
 
-### Patient Safety
-- **No synthetic materials**: Eliminates mesh-related complications
-- **Biocompatible**: Uses patient's own tissue
-- **No foreign body reaction**: Reduced risk of rejection or erosion
+Single-center series report 85 to 92% success over 3 to 15 years of follow-up. Compared head to head with a synthetic midurethral sling, the fascial sling has a similar cure rate, about 67% versus 74%.
 
-### Effectiveness
-- **High success rates**: 85-90% cure or significant improvement
-- **Long-term durability**: Excellent long-term results
-- **Proven track record**: Decades of successful outcomes
+## The tradeoffs
 
-### Versatility
-- **Suitable for complex cases**: Ideal for revision surgeries
-- **Customizable**: Can be tailored to individual anatomy
-- **No contraindications**: Safe for most patients
+The fascial sling asks more of you than a mesh sling does. It needs an abdominal incision to harvest the tissue, and recovery runs about 6 to 8 weeks rather than the 2 to 4 weeks after a midurethral sling.
 
-Non-mesh slings have stood the test of time. They offer predictable, durable results and are particularly valuable for patients who want to avoid synthetic materials.
+The main tradeoff is emptying the bladder. Because the support is your own firm tissue, some women have temporary trouble urinating afterward, reported in roughly 7.5 to 15% of cases. Most of this resolves, but a small number of women need a minor revision to loosen the sling. In the SISTEr trial, voiding trouble was more common after the sling than after the Burch (14% versus 2%). This is the tradeoff for the sling's better cure and lower retreatment rate, and it is worth weighing openly.
 
-## Recovery and Expectations
+What you avoid is mesh. There is no synthetic material to erode into the vagina or urethra, which is the specific complication that drives many women toward this operation.
 
-### Immediate Recovery
-- **Hospital stay**: Usually same-day or overnight
-- **Catheter**: Temporary catheter for 1-2 days
-- **Pain management**: Managed with medications
-- **Activity**: Let your body be your guide — if it hurts, don't do it
+## Who it fits well
 
-### Long-term Recovery
-- **Full healing**: 6-8 weeks for complete recovery
-- **Gradual improvement**: Continence may improve over several months
-- **Success rates**: High rates of long-term success
-- **Patient satisfaction**: Excellent satisfaction scores
+- You want to avoid synthetic mesh.
+- You have had a mesh complication and need it addressed.
+- A previous incontinence surgery has failed and you need a durable repair.
 
-## Who is a Candidate?
+## Risks
 
-Ideal candidates for non-mesh sling procedures include:
+Every surgery carries risk. For a fascial sling the main ones are:
 
-- Women with stress urinary incontinence
-- Those who prefer to avoid synthetic mesh
-- Patients with previous mesh complications
-- Individuals requiring revision surgery
-- Those with tissue quality concerns
-- Patients seeking long-term durability
+- Trouble emptying the bladder, usually temporary
+- Bleeding, infection, and the usual risks of anesthesia
+- Pain or weakness at the site where the fascia was taken
+- A sling set too tight, which can require another operation
+- New or worsened urgency, reported in roughly 9% of women
+- A small chance that leakage returns over time
 
-## Potential Risks and Complications
+I go through all of these with you before you decide, along with what each one would mean for you specifically.
 
-While generally safe, potential risks include:
+## How a non-mesh sling compares with a mesh sling
 
-- **Surgical risks**: Bleeding, infection, anesthesia complications
-- **Voiding dysfunction**: Temporary or permanent difficulty urinating
-- **Overcorrection**: Sling may be too tight
-- **Harvest site complications**: Pain or weakness at tissue harvest site
-- **Recurrence**: Small risk of incontinence returning
+| | Non-mesh (fascial) sling | Mesh midurethral sling |
+|---|---|---|
+| Material | Your own fascia | Synthetic mesh |
+| Cure rate | About 67%; 85 to 92% in single-center series | About 74% |
+| Recovery | 6 to 8 weeks | 2 to 4 weeks |
+| Incision | Abdominal plus vaginal | Small vaginal only |
+| Mesh exposure | Not possible | Possible |
+| Trouble emptying | Higher (about 7.5 to 15%) | Lower |
+| Revision surgery | More involved | Simpler |
 
-{: .important-title }
-> **Important:** 
-> 
-> We thoroughly discuss all potential risks and benefits to ensure you can make an informed decision about your treatment.
+## Other options for stress incontinence
 
-## Comparison with Mesh Slings
+A sling is not the only way to treat stress leakage.
 
-| Aspect | Non-Mesh Slings | Mesh Slings |
-|--------|-----------------|-------------|
-| **Material** | Patient's own tissue | Synthetic mesh |
-| **Success Rate** | 85-90% | 85-95% |
-| **Durability** | Excellent long-term | Excellent |
-| **Recovery** | 6-8 weeks | 2-4 weeks |
-| **Mesh Complications** | None | Possible |
-| **Revision Surgery** | More complex | Less complex |
+- Urethral bulking is a quick office injection under local anesthesia that plumps the tissue around the urethra. It is less effective than a sling, with cure rates around 20 to 30% in the first few years, but it avoids surgery entirely, and one large group of women followed for seven years kept their improvement or cure about 65% of the time. It is a strong choice if you want to avoid the operating room, are frail or elderly, are on blood thinners, or have had pelvic radiation.
+- The Burch colposuspension lifts the tissue beside the urethra without any sling. It is a reasonable mesh-free option, though the SISTEr trial found the fascial sling cured leakage more often.
+- The synthetic midurethral sling is the most common stress incontinence surgery and has the shortest recovery.
+- An artificial urinary sphincter is reserved for severe leakage after other surgeries have failed.
+- Pelvic floor physical therapy, which I can offer in the office, helps some women enough to postpone or avoid surgery, and it is worth adding around the time of surgery if you also have urgency.
 
-## Alternative Treatments
+## Recovery
 
-Other treatment options for stress urinary incontinence include:
+You will go home with a catheter for a day or two while the swelling settles. Full healing takes about 6 to 8 weeks, and continence can keep improving for several months. Let comfort guide your return to activity: if a movement hurts, hold off. Come to your follow-up visits, stay hydrated, and call if anything worries you.
 
-- **Conservative management**: Pelvic floor physical therapy, lifestyle modifications
-- **Synthetic mesh slings**: Mid-urethral slings
-- **Bulking agents**: Urethral bulking procedures
-- **Other surgical options**: Burch colposuspension, artificial urinary sphincter
+## How I think about this
 
-## Success Rates and Outcomes
+I reach for a fascial sling when a woman wants to avoid mesh, when mesh has already caused a problem, or when the urethra is fixed and a mesh sling is less likely to hold. It is a durable, well-studied operation with a track record measured in decades.
 
-Non-mesh sling procedures have excellent success rates:
+I am honest about the tradeoff. You are trading a longer recovery and a somewhat higher chance of temporary trouble emptying for a mesh-free repair with strong long-term cure rates. For many women that trade is clearly worth it; for others, a midurethral sling or an office bulking injection fits their life better. There is no single right answer, and the choice is yours to make once you know what each option asks of you.
 
-- **Cure rates**: 80-85% complete cure
-- **Improvement rates**: 85-90% cure or significant improvement
-- **Long-term durability**: Sustained results over decades
-- **Patient satisfaction**: High satisfaction scores
-- **Quality of life**: Significant improvement in quality of life
+## References
 
-Non-mesh slings remain the gold standard for patients who want to avoid synthetic materials. The long-term results are excellent, and patient satisfaction is very high.
-
-## Making the Decision
-
-Choosing between mesh and non-mesh sling procedures depends on several factors:
-
-- **Patient preferences** regarding synthetic materials
-- **Previous surgical history** and complications
-- **Severity of incontinence** symptoms
-- **Overall health status** and surgical risk
-- **Expectations** for recovery time and outcomes
-
-We believe in shared decision-making and will work with you to determine the best approach for your individual situation.
-
-## Recovery Tips
-
-To optimize your recovery:
-
-- Follow all post-operative instructions carefully
-- Let your body guide your return to activity — if it hurts, don't do it
-- Stay hydrated and maintain good nutrition
-- Attend all follow-up appointments
-- Report any concerning symptoms promptly
-
-Non-mesh sling procedures offer an excellent option for women with stress urinary incontinence who prefer to use their own tissue. With proper patient selection and surgical technique, these procedures can provide excellent long-term results and high patient satisfaction.
+- Albo ME, Richter HE, Brubaker L, et al. Burch Colposuspension versus Fascial Sling to Reduce Urinary Stress Incontinence. *New England Journal of Medicine*. 2007. [doi:10.1056/NEJMoa070218](https://doi.org/10.1056/NEJMoa070218)
+- Brubaker L, Richter HE, Norton PA, et al. Five Year Continence Rates, Satisfaction and Adverse Events of Burch Urethropexy and Fascial Sling Surgery for Urinary Incontinence. *Journal of Urology*. 2012. [doi:10.1016/j.juro.2011.11.087](https://doi.org/10.1016/j.juro.2011.11.087)
+- Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline. *The Journal of Urology*. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+- Wu JM. Stress Incontinence in Women. *New England Journal of Medicine*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Collins SA, Swift S, Jha S, et al. Joint Report on Terminology for Surgical Procedures to Treat Stress Urinary Incontinence in Women. *Female Pelvic Medicine & Reconstructive Surgery*. 2020. [doi:10.1097/SPV.0000000000000831](https://doi.org/10.1097/SPV.0000000000000831)
+- Fleischmann N, Chughtai B, Plair A, et al. Urethral Bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary Incontinence in Women: A Review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
