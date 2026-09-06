@@ -3,255 +3,131 @@ layout: page
 title: Vaginal Prolapse Repair
 parent: Prolapse Treatments
 nav_order: 6
-description: "Vaginal Prolapse Repair Surgery"
+description: "How I repair pelvic organ prolapse through the vagina: apical suspension, anterior and posterior repair, colpocleisis, and how I decide with you."
 permalink: /treatments/prolapse/vaginal-prolapse-repair
-published: false
+published: true
 # NOTE: this page's redirect_from URLs were moved to /treatments/prolapse because
 # jekyll-redirect-from emits nothing for a published: false page and they
 # were 404ing. Move them back here when this page is published.
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-06
+last_evidence_review: 2026-09-06
+faq:
+  - question: "Do I need surgery if I have prolapse?"
+    answer: "Not usually. Prolapse only needs treatment when it bothers you. Left alone, most prolapse stays about the same: in one study, 78% of women with symptomatic, untreated prolapse had no change at 16 months. A pessary and pelvic floor physical therapy are reasonable alternatives to surgery, and I offer a pessary to anyone with symptomatic prolapse."
+  - question: "How well does vaginal prolapse repair work?"
+    answer: "For the native-tissue apical repairs I do most often (uterosacral or sacrospinous suspension), about 64% of women meet every success measure at two years, and the two methods work equally well. More telling, only 8 to 12% need a second operation within five years. Colpocleisis, which closes the vaginal canal, succeeds in about 98% of women but ends the ability to have vaginal intercourse."
+  - question: "Do you use mesh for vaginal prolapse repair?"
+    answer: "No. The FDA removed all transvaginal mesh kits for prolapse from the US market in 2019. My vaginal repairs use your own tissue. Mesh still has a role in abdominal sacrocolpopexy, which is a different operation, and the FDA order does not apply to it or to slings for leakage."
+  - question: "Could prolapse surgery affect my bladder?"
+    answer: "It can. A prolapse can hide a leakage problem: about 40% of women who test negative for leakage beforehand develop stress incontinence after the prolapse is fixed, unless a continence procedure is added. I test for this before surgery so we can plan for it together."
 ---
 
-# Vaginal Prolapse Repair Surgery
+# Vaginal prolapse repair
 
-Vaginal prolapse repair is a surgical procedure designed to restore the normal anatomy and function of the pelvic organs when they have dropped or descended from their normal position. This comprehensive approach addresses various types of pelvic organ prolapse through vaginal surgical techniques.
+Vaginal prolapse repair is surgery that lifts pelvic organs back into place through the vagina, with no incision in the abdomen. I use it when a bladder, uterus, vaginal wall, or rectum has dropped far enough to cause symptoms that bother you.
 
-## Understanding Pelvic Organ Prolapse (POP)
+The word "repair" covers several different operations. Which one I recommend depends on what has dropped, whether you still have your uterus, whether you want to keep the option of vaginal intercourse, and what you want out of treatment. This page walks through the choices.
 
-Pelvic organ prolapse is a condition where pelvic organs shift out of place and drop down due to weakening of the pelvic floor muscles and supporting tissues. This condition affects approximately 33% of women, with the highest prevalence among those who have given birth vaginally.
+## When prolapse actually needs surgery
 
-Vaginal prolapse repair offers excellent outcomes for many women with pelvic organ prolapse. The advantage of the vaginal approach is that it's minimally invasive while providing effective restoration of normal anatomy.
+Prolapse is a support problem, not a dangerous one. It only needs treatment when it bothers you. If it doesn't, watching it is a reasonable plan: in one series, 78% of women with symptomatic prolapse who chose no treatment had no change at 16 months.
 
-## Types of Prolapse Addressed
+Prolapse is also more common than most people realize, and easy to overcount. On a pelvic exam, some degree of prolapse shows up in 41 to 50% of women, but only about 3% actually notice a bulge. A woman's lifetime chance of having prolapse surgery is roughly 12 to 13% by age 80. So the question is never whether an exam finds prolapse. It's whether the prolapse is causing you trouble.
 
-Vaginal prolapse repair can address multiple types of prolapse, often during a single surgical procedure:
+Common reasons women come in:
 
-### Anterior Compartment
-- **Cystocele**: Bladder prolapse into the front vaginal wall
-- **Urethrocele**: Urethra prolapse
+- A bulge or the feeling that something is falling out
+- Pelvic pressure or heaviness that worsens through the day
+- Trouble starting to urinate, or having to push the bulge up to empty
+- Leaking urine, or new urgency
+- Difficulty with bowel movements, including having to splint or press
+- Discomfort with intercourse
 
-### Posterior Compartment
-- **Rectocele**: Rectum prolapse into the back vaginal wall
-- **Enterocele**: Small bowel prolapse
+## What can be repaired
 
-### Apical Compartment
-- **Uterine prolapse**: Descent of the uterus
-- **Vaginal vault prolapse**: After hysterectomy
+Prolapse is described by which wall or compartment has dropped, and one operation can address more than one at the same time:
 
-## Common Symptoms
+- Front wall (cystocele): the bladder bulges into the front of the vagina
+- Back wall (rectocele): the rectum bulges into the back of the vagina; a loop of small bowel can also bulge in as an enterocele
+- Top, or apex: the uterus descends, or after a hysterectomy the top of the vagina drops as a vault prolapse
 
-Patients with pelvic organ prolapse may experience:
+The apex matters more than it looks. When the top of the vagina isn't well supported, the front and back walls tend to sag with it, so fixing the apex is often the key to a durable repair.
 
-### Physical Symptoms
-- **Pelvic pressure** or feeling of heaviness
-- **Vaginal bulge** or sensation of something protruding
-- **Difficulty urinating** or incomplete bladder emptying
-- **Urinary incontinence** during activities
-- **Bowel dysfunction** including constipation
+## The vaginal operations I use
 
-### Quality of Life Impact
-- **Discomfort during sexual intercourse**
-- **Limitations in physical activities**
-- **Emotional distress** related to symptoms
-- **Impact on daily activities** and exercise
+### Apical suspension: the foundation
 
-## Diagnostic Process
+For a dropped uterus or vaginal vault, I reattach the top of the vagina to strong ligaments already in the pelvis. There are two well-studied ways to do this through the vagina:
 
-Comprehensive evaluation is essential for optimal surgical planning:
+- Uterosacral ligament suspension, which uses the uterosacral ligaments
+- Sacrospinous ligament fixation, which uses the sacrospinous ligament
 
-### Medical History
-- **Symptom assessment** and impact on quality of life
-- **Reproductive history** including number of pregnancies and deliveries
-- **Previous surgeries** and medical conditions
-- **Family history** of pelvic floor disorders
+In a large randomized trial, these two worked equally well: about 64% of women met every success measure at two years. That number sounds modest, and it partly reflects a strict definition. Far fewer women ever need a second operation. At five years, repeat surgery for prolapse was needed in about 12% after uterosacral suspension and 8% after sacrospinous fixation.
 
-### Physical Examination
-- **Pelvic examination** to assess prolapse severity
-- **Strain test** to evaluate organ support
-- **Assessment of pelvic floor function**
+Correcting the apex often takes care of the front and back walls on its own. In one study of women who had apical repair without a separate back-wall repair, 96% still had their posterior prolapse resolved five years later.
 
-### Additional Testing
-- **Urodynamic studies** if urinary symptoms are present
-- **Defecography** for bowel dysfunction
-- **Imaging studies** if needed for surgical planning
+### Anterior repair (for the front wall)
 
-## Surgical Approaches
+An anterior repair, or anterior colporrhaphy, tightens the weakened layer under the front vaginal wall to support the bladder, using your own tissue. It is effective, but honest numbers matter here: success runs 80 to 100% in surgeon case series and 40 to 60% in randomized trials. That gap is one reason I usually correct the apex at the same time rather than repairing the front wall alone.
 
-Vaginal prolapse repair encompasses several surgical techniques:
+### Posterior repair (for the back wall)
 
-### Native Tissue Repairs
+A posterior repair, or posterior colporrhaphy, rebuilds the layer behind the back vaginal wall to support the rectum. The vaginal approach works better than repairing a rectocele through the rectum. I don't add a posterior repair automatically, because a good apical suspension often handles the back wall too, and an unnecessary posterior repair can bring new bowel or intercourse symptoms.
 
-#### Anterior Repair (Colporrhaphy)
-- **Addresses cystocele** and urethrocele
-- **Uses patient's own tissues** for repair
-- **Restores normal anatomy** of the front vaginal wall
+### Colpocleisis (closing the canal)
 
-#### Posterior Repair (Colporrhaphy)
-- **Treats rectocele** and enterocele
-- **Reinforces back vaginal wall** support
-- **Improves bowel function** and sexual comfort
+Colpocleisis narrows or closes the vaginal canal to hold everything in. It is fast, well tolerated, and highly durable: about 98% of women have their prolapse stay fixed. The trade-off is that it ends the ability to have vaginal intercourse, so I reserve it for women who are certain about that and who want the lowest-risk option, often because of other health conditions.
 
-#### Apical Suspension
-- **Uterosacral ligament suspension** for apical support
-- **Sacrospinous ligament fixation** for vaginal vault
-- **Preserves or restores** vaginal length and function
+## What about mesh?
 
-### Mesh-Augmented Repairs
-- **Synthetic mesh reinforcement** for complex cases
-- **Reduced recurrence rates** in select patients
-- **Careful patient selection** based on individual factors
+For vaginal repairs, I use your own tissue, not mesh. The FDA removed all transvaginal mesh kits for prolapse from the US market in 2019 because their risks outweighed their benefits.
 
-## The Surgical Procedure
+Mesh still has a legitimate place, but not in a vaginal repair. Abdominal sacrocolpopexy, done through the belly (usually through small laparoscopic incisions), uses mesh and has strong long-term anatomic results, with objective success around 73 to 78% at seven years. It carries its own trade-off: the mesh can wear through the vaginal wall over time. The FDA order does not apply to this operation, or to slings used for urinary leakage. When a mesh augmented repair is the better fit, I'll tell you.
 
-### Preoperative Preparation
-1. **Medical clearance** and optimization of health
-2. **Antibiotic prophylaxis** to prevent infection
-3. **Anesthesia consultation** and planning
-4. **Patient counseling** on expectations and recovery
+## Keeping or removing the uterus
 
-### Surgical Steps
-1. **Anesthesia administration** (general or regional)
-2. **Surgical positioning** for optimal access
-3. **Vaginal incisions** to access prolapsed organs
-4. **Dissection and identification** of anatomical structures
-5. **Repair and reinforcement** of supporting tissues
-6. **Closure** of incisions with careful attention to function
+If your uterus has dropped, you don't automatically have to lose it. A hysteropexy suspends the uterus in place instead of removing it. In a five-year randomized trial, keeping the uterus (sacrospinous hysteropexy) actually failed less often than removing it with a suspension (37% vs 54%). Professional guidelines now recommend offering uterine preservation to everyone with a uterus and no reason it must come out, such as abnormal bleeding or a suspicious finding. I'm glad to talk through both paths.
 
-### Surgical Considerations
-- **Preservation of sexual function** whenever possible
-- **Restoration of normal anatomy** and organ position
-- **Attention to urinary and bowel function**
-
-## Recovery and Expectations
-
-### Immediate Recovery
-- **Hospital stay**: Same day or overnight typically
-- **Pain management**: Multimodal approach for comfort
-- **Catheter management**: Temporary catheter if needed
-- **Activity restrictions**: Gradual return to activities
-
-### Recovery Timeline
-- **First 2 weeks**: Rest and limited activity
-- **2-6 weeks**: Gradual increase in daily activities
-- **6-8 weeks**: Full recovery and return to normal activities
-- **3-6 months**: Complete healing and optimal results
-
-Recovery from vaginal prolapse repair is generally well-tolerated. Most patients are surprised by how quickly they feel improvement in their symptoms.
-
-## Benefits of Vaginal Approach
-
-### Surgical Advantages
-- **Minimally invasive** with no abdominal incisions
-- **Direct access** to prolapsed organs
-- **Excellent visualization** of pelvic anatomy
-- **Concurrent procedures** can be performed
-
-### Patient Benefits
-- **Shorter recovery time** compared to abdominal surgery
-- **Less post-operative pain** and discomfort
-- **Preservation of abdominal wall integrity**
-- **Excellent cosmetic results** with no visible scars
-
-## Success Rates and Outcomes
-
-Vaginal prolapse repair has excellent success rates:
+## Prolapse and bladder leakage
 
-### Anatomical Success
-- **85-90% success** in restoring normal anatomy
-- **Low recurrence rates** with proper technique
-- **Durable results** over long-term follow-up
+Fixing prolapse can uncover a leakage problem the prolapse was masking. About 40% of women who test negative for stress incontinence before surgery start leaking afterward if nothing is done about it. Because of that, I check for hidden leakage before your operation, with the prolapse held up, so we can decide together whether to add a continence procedure. Adding one at an abdominal repair, for instance, cuts the chance of new leakage, and the vaginal repairs differ too: new stress incontinence showed up in about 6% after native-tissue vaginal repair versus 18% after abdominal sacrocolpopexy in one registry.
 
-### Functional Outcomes
-- **Significant symptom improvement** in most patients
-- **Improved quality of life** measures
-- **High patient satisfaction** rates
-- **Restoration of normal activities** and function
+## What recovery is like
 
-## Potential Risks and Complications
+Most vaginal prolapse repairs are outpatient or a single overnight stay, with no abdominal incision to heal. You may go home with a catheter for a day or two if your bladder is slow to wake up, which is common and temporary.
 
-While generally safe, potential risks include:
+Expect a few weeks of taking it easy, avoiding heavy lifting and intercourse while the repair heals. Most women are back to their usual activities within about six weeks. I'll give you specific limits based on which repair you had.
 
-### Surgical Risks
-- **Bleeding** requiring intervention
-- **Infection** at surgical sites
-- **Anesthesia complications**
-- **Injury to adjacent organs** (rare)
+Risks are uncommon but real: bleeding, infection, injury to the bladder, ureter, or rectum, temporary trouble emptying the bladder, and new discomfort with intercourse. Prolapse can also come back over time, which is why the choice of operation and getting the apex right matter so much.
 
-### Functional Risks
-- **Voiding dysfunction** temporary or permanent
-- **Sexual function changes** including dyspareunia
-- **Bowel dysfunction** temporary changes
-- **Prolapse recurrence** in some cases
+## Alternatives to surgery
 
-{: .important-title }
-> **Important:** 
-> 
-> We thoroughly discuss all potential risks and benefits with each patient to ensure informed decision-making.
+Surgery is one option among several, and it's rarely urgent. Before or instead of an operation, we can try:
 
-## Who is a Candidate?
+- A pessary, a removable support you wear in the vagina. I offer one to anyone with symptomatic prolapse. Among women who stick with a pessary, most feel much or very much better, and it avoids surgery entirely.
+- Pelvic floor physical therapy, which can ease symptoms and is worth trying, especially for milder prolapse.
+- Addressing things that strain the pelvic floor, like constipation and extra weight.
 
-Ideal candidates for vaginal prolapse repair include:
+There's no rule that you must fail conservative treatment before surgery. It's your body and your decision.
 
-- **Symptomatic prolapse** affecting quality of life
-- **Failed conservative management** with pessary or physical therapy
-- **Good surgical candidates** with acceptable health status
-- **Realistic expectations** about outcomes and recovery
-- **Commitment to post-operative care** and follow-up
+## How I think about this
 
-## Alternative Treatments
+I don't push anyone toward the operating room. The right choice depends on how much the prolapse bothers you, whether you want to keep your uterus, whether vaginal intercourse matters to you, and your overall health, not on how the prolapse looks on an exam.
 
-Other treatment options for pelvic organ prolapse include:
+When surgery does make sense, I focus on supporting the apex well, adding a front- or back-wall repair only when it's needed, and being straight with you about the numbers. A repair that lasts five to ten years and lets you get back to your life is the goal, and for most women that's exactly what it delivers.
 
-### Conservative Management
-- **Pelvic floor physical therapy** to strengthen muscles
-- **Pessary devices** for non-surgical support
-- **Lifestyle modifications** including weight management
+## References
 
-### Other Surgical Approaches
-- **Abdominal sacrocolpopexy** for apical prolapse
-- **Laparoscopic or robotic** minimally invasive techniques
-- **Obliterative procedures** for select patients
-
-## Long-term Care and Follow-up
-
-### Post-operative Care
-- **Regular follow-up** appointments to monitor healing
-- **Pelvic floor exercises** to maintain strength
-- **Lifestyle modifications** to prevent recurrence
-- **Ongoing health maintenance** including hormone therapy if appropriate
-
-### Prevention Strategies
-- **Maintain healthy weight** throughout life
-- **Practice pelvic floor exercises** regularly
-- **Use good body mechanics** when lifting
-- **Treat constipation** promptly and effectively
-
-## Patient Education and Support
-
-### Pre-operative Education
-- **Detailed explanation** of the procedure and expectations
-- **Discussion of alternatives** and treatment options
-- **Addressing concerns** and questions
-- **Preparation for recovery** and post-operative care
-
-### Post-operative Support
-- **Clear recovery instructions** and activity guidelines
-- **24/7 availability** for urgent concerns
-- **Gradual return** to normal activities and exercise
-- **Long-term follow-up** to ensure continued success
-
-Vaginal prolapse repair is a highly effective treatment for women with symptomatic pelvic organ prolapse. The key to success is proper patient selection, meticulous surgical technique, and comprehensive post-operative care.
-
-## Making the Decision
-
-Choosing vaginal prolapse repair involves considering:
-
-- **Symptom severity** and impact on quality of life
-- **Surgical goals** and expectations
-- **Overall health status** and surgical risk
-- **Personal preferences** regarding treatment approach
-- **Support system** for recovery period
-
-We believe in shared decision-making and will work with you to determine if vaginal prolapse repair is the right choice for your individual situation.
-
-Remember, pelvic organ prolapse is a common condition that affects many women. With proper evaluation and treatment, most women can achieve excellent symptom relief and return to their normal activities and lifestyle. Don't hesitate to seek help if you're experiencing symptoms that affect your quality of life.
+- Meriwether KV, Gold KP, de Tayrac R, et al. Joint Report on Terminology for Surgical Procedures to Treat Pelvic Organ Prolapse. Female Pelvic Medicine & Reconstructive Surgery. 2020. [doi:10.1097/SPV.0000000000000846](https://doi.org/10.1097/SPV.0000000000000846)
+- Barber MD, Brubaker L, Burgio KL, et al. Factorial comparison of two transvaginal surgical approaches and of perioperative behavioral therapy for women with apical vaginal prolapse: the OPTIMAL randomized trial. JAMA. 2014. [doi:10.1001/jama.2014.1719](https://doi.org/10.1001/jama.2014.1719)
+- Jelovsek JE, Barber MD, Brubaker L, et al. Effect of uterosacral ligament suspension vs sacrospinous ligament fixation with or without perioperative behavioral therapy for pelvic organ vaginal prolapse on surgical outcomes and prolapse symptoms at 5 years in the OPTIMAL randomized clinical trial. JAMA. 2018. [doi:10.1001/jama.2018.2827](https://doi.org/10.1001/jama.2018.2827)
+- Ferrando CA, Bradley CS, Meyn LA, et al. Twelve month outcomes of pelvic organ prolapse surgery in patients with uterovaginal or posthysterectomy vaginal prolapse enrolled in the Multicenter Pelvic Floor Disorders Registry. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
+- Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. JAMA. 2013. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919)
+- Nager CW, Visco AG, Richter HE, et al. Effect of sacrospinous hysteropexy with graft vs vaginal hysterectomy with uterosacral ligament suspension on treatment failure in women with uterovaginal prolapse: 5 year results of a randomized clinical trial. American Journal of Obstetrics and Gynecology. 2021. [doi:10.1016/j.ajog.2021.03.012](https://doi.org/10.1016/j.ajog.2021.03.012)
+- Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse (ACOG Practice Bulletin No. 214). Obstetrics & Gynecology. 2019.
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Grimes C, Lukacz ES, Gantz MG, et al. What happens to the posterior compartment and bowel symptoms after sacrocolpopexy? Evaluation of 5-year outcomes from E-Care. Female Pelvic Medicine & Reconstructive Surgery. 2014. [doi:10.1097/SPV.0000000000000085](https://doi.org/10.1097/SPV.0000000000000085)
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
