@@ -3,213 +3,111 @@ layout: page
 title: How Does Uterine Prolapse Feel?
 nav_order: 8
 parent: Pelvic Organ Prolapse
-description: "Understanding the symptoms and sensations of uterine prolapse"
+description: "Uterine prolapse usually feels like a bulge, pressure, or heaviness low in the pelvis that eases lying down. How bad it feels rarely matches the exam."
 permalink: /conditions/prolapse/how-does-uterine-prolapse-feel
-published: false
+published: true
 nav_exclude: true
 # NOTE: this page's redirect_from URLs were moved to /conditions/uterine-prolapse because
 # jekyll-redirect-from emits nothing for a published: false page and they
 # were 404ing. Move them back here when this page is published.
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-06
+last_evidence_review: 2026-09-06
+faq:
+  - question: "What does uterine prolapse feel like?"
+    answer: "Most women feel a bulge, pressure, or heaviness low in the pelvis, like something is dropping or sitting there that wasn't before. It often eases when you lie down and gets worse with standing, walking, or lifting. Vaginal bulging is the most specific symptom, and most women don't feel the prolapse until it reaches about half a centimeter past the hymen."
+  - question: "Does the size of the prolapse match how bad it feels?"
+    answer: "Not reliably. In one study, 17% of women who reported a bulge had normal or nearly normal support on exam, and some women with advanced prolapse have few symptoms. Symptoms are more likely once the prolapse reaches or passes the hymen, but how you feel matters more than the exam number."
+  - question: "Can prolapse cause bladder or bowel symptoms?"
+    answer: "Yes. Among women with prolapse, about 73% also have urinary leakage and 86% have urgency or frequency. After prolapse repair, bothersome irritative bladder symptoms resolved in about 75% and obstructive symptoms in about 85%, which shows the prolapse itself often drives them. For bowel symptoms, needing to press on the vaginal wall to empty (splinting) is the one most closely tied to prolapse."
+  - question: "Can uterine prolapse cause back pain?"
+    answer: "A low backache is a recognized prolapse symptom, but it is nonspecific and has many other causes. Prolapse-related backache tends to ease with rest and worsen with prolonged standing."
+  - question: "When should prolapse symptoms be seen urgently?"
+    answer: "Get seen promptly if you cannot urinate or cannot empty your bladder, or if tissue sitting outside the body becomes raw, sore, or bleeds. New bleeding after menopause should always be evaluated."
 ---
 
-# How Does Uterine Prolapse Feel?
+# How does uterine prolapse feel?
 
-Understanding the sensations and symptoms of uterine prolapse can help you recognize the condition and seek appropriate care. The experience varies significantly from woman to woman, depending on the severity and type of prolapse.
+Most women feel uterine prolapse as a bulge, pressure, or heaviness low in the pelvis, like something is dropping or sitting there that wasn't before. It tends to ease when you lie down and get worse as the day goes on or with standing, walking, and lifting.
 
-## The Most Common Sensations
+That's the common picture, but the experience varies a lot. What you feel depends less on how far the uterus has dropped than you might expect, and some women have almost no symptoms at all.
 
-### Pressure and Fullness
-**The hallmark symptom** of uterine prolapse is a feeling of:
-- **Pressure or fullness in the pelvis**
-- **Sensation of "sitting on a ball"**
-- **Heaviness** that seems to worsen throughout the day
-- **Pulling sensation** in the lower pelvis
+## The bulge and the pressure
 
-Many women describe it as feeling like something is 'falling out' or that they're carrying extra weight in their pelvis. This pressure sensation is often the first sign women notice.
+A vaginal bulge is the symptom most specific to prolapse, and it's usually the first thing women notice. Along with it come pelvic pressure, a dragging or heavy feeling, and sometimes the sense that something is coming down or falling out.
 
-### The "Something's Not Right" Feeling
-- **Awareness of tissue** where it shouldn't be
-- **Feeling that "something is coming out of your vagina"**
-- **Sensation of incomplete support** in the pelvic area
-- **Vague discomfort** that's hard to describe but definitely present
+Most women don't feel the prolapse until it reaches about half a centimeter past the the opening of the vagina. Below that point, the uterus can sit a little low without causing any of these sensations. That's one reason a mild drop found on a routine exam often comes as a surprise.
 
-## Physical Discomfort Patterns
+A bulge that you can feel is less common than prolapse on an exam. In a large population study, only about 3% of women reported feeling a vaginal bulge, even though some degree of prolapse is far more common when doctors look for it.
 
-### Daily Symptom Patterns
-**Morning vs. Evening**: Many women notice that symptoms:
-- **Improve with rest** and lying down
-- **Worsen throughout the day** as gravity takes effect
-- **Feel better in the morning** after sleeping
-- **Increase with prolonged standing** or activity
+## How the exam and the feeling don't always match
 
-### Activity-Related Symptoms
-- **Discomfort while walking**, especially long distances
-- **Worsening with exercise** or physical activity
-- **Relief when sitting or lying down**
-- **Increased pressure** with coughing, sneezing, or lifting
+How bad the prolapse looks on exam is a poor predictor of how much it bothers you.
 
-## Back Pain and Aching
+In one study, 17% of women who reported a bulge actually had normal or nearly normal support. At the same time, some women with advanced, stage 3 or 4 prolapse have few or no bothersome symptoms. Symptoms do become more likely once the prolapse reaches or passes the hymen, but the match is loose.
 
-### Lower Back Discomfort
-- **Dull, aching pain** in the lower back
-- **Feeling of strain** in the lumbar region
-- **Pain that improves with rest**
-- **Worsening with prolonged standing**
+This is why I treat symptoms, not exam numbers. If a low-grade prolapse is making you miserable, that's real and worth addressing. If an advanced prolapse isn't bothering you, it may not need treatment at all.
 
-The back pain associated with prolapse is different from typical back pain. It's often described as a pulling or straining sensation that's related to the altered pelvic anatomy.
+## Bladder symptoms
 
-## Sexual and Intimate Effects
+Prolapse and bladder symptoms travel together. Among women with prolapse, roughly 73% also have urinary leakage and 86% have urgency or frequency.
 
-### Changes in Sexual Experience
-- **Pain or discomfort during intercourse**
-- **Feeling of decreased sensation** or altered anatomy
-- **Self-consciousness** about physical changes
-- **Avoidance of intimacy** due to discomfort
+Common sensations include leaking with a cough or sneeze, a strong or frequent urge to go, a slow or hard-to-start stream, and a feeling that the bladder doesn't fully empty. Some women find they have to shift position, or push the bulge up, to finish urinating.
 
-### Emotional Impact
-- **Anxiety** about physical changes
-- **Embarrassment** about symptoms
-- **Fear** that symptoms will worsen
-- **Frustration** with impact on daily life
+The prolapse itself often drives these symptoms rather than a separate bladder problem. In women who had prolapse surgery, repairing the prolapse resolved bothersome irritative symptoms in about 75% and obstructive symptoms in about 85%, without any separate bladder procedure. So bladder symptoms in someone with prolapse shouldn't automatically be pinned on an overactive bladder.
 
-## Urinary Symptoms
+## Bowel symptoms
 
-### Bladder-Related Sensations
-- **Feeling of incomplete bladder emptying**
-- **Urgency** or frequent need to urinate
-- **Leakage** with coughing, sneezing, or exercise
-- **Difficulty starting urination** in some cases
+Prolapse can also come with constipation, straining, a sense of incomplete emptying, and, in some women, needing to press on the vaginal wall or perineum to pass stool. That last one, called splinting, is the bowel symptom most reliably linked to prolapse of the back wall of the vagina.
 
-### Positioning Effects
-- **Need to reposition** to fully empty bladder
-- **Feeling that the bladder doesn't empty completely**
-- **Pressure sensation** that interferes with normal urination
+For the other bowel symptoms the link is weaker, and how far the prolapse has dropped doesn't predict them well. This is important, because it means these symptoms don't always improve just by fixing the anatomy.
 
-## Bowel-Related Symptoms
+## Backache
 
-### Digestive Effects
-- **Constipation** or difficulty with bowel movements
-- **Feeling of incomplete evacuation**
-- **Need to support the vaginal wall** during bowel movements
-- **Accidental stool leakage** in some cases
+Some women describe a dull, low backache that eases with rest and worsens with prolonged standing. A prolapse-related low backache is a recognized symptom.
 
-## Severity Variations
+That said, low back pain is extremely common and has many causes that have nothing to do with the pelvic floor, so I don't assume the prolapse is the source without looking at the whole picture.
 
-### Mild Prolapse
-Many women with **mild prolapse may be asymptomatic** and not experience significant discomfort. When symptoms are present, they may include:
-- **Occasional pressure** after long days
-- **Mild discomfort** during certain activities
-- **Subtle changes** in bladder or bowel function
+## Effects on sex
 
-### Moderate Prolapse
-- **Daily awareness** of symptoms
-- **Regular pressure** or fullness sensations
-- **Impact on daily activities** and exercise
-- **Noticeable changes** in urinary or bowel function
+Prolapse can cause pain or a sense that "something is in the way" with intercourse, a feeling of vaginal looseness, and self-consciousness about the changes. These are common reasons women come in, and they're worth asking about even if they feel awkward to bring up.
 
-### Severe Prolapse
-- **Constant awareness** of the prolapse
-- **Visible or palpable tissue** at the vaginal opening
-- **Significant impact** on quality of life
-- **Difficulty with normal activities**
+## What it feels like at different stages
 
-Some patients describe severe prolapse as **"a sock turning inside out"** - a vivid way to describe the sensation of tissue protruding.
+With mild prolapse, many women feel nothing, or notice only occasional pressure after a long day on their feet.
 
-## What You Might Feel During Examination
+As it advances, the pressure and bulge become a daily awareness and start to shape which activities feel comfortable. With more advanced prolapse, tissue may be visible or felt at or outside the vaginal opening. It can be there most of the time and hard to ignore.
 
-### Physical Examination
-- **Sense of tissue bulging** against the vaginal walls
-- **Pressure** when the doctor examines internal structures
-- **Awareness of anatomical changes** during the exam
-- **Relief** when tissue is supported during examination
+## When it tends to show up
 
-## Individual Variation in Symptoms
+Prolapse symptoms usually come on gradually, over months to years, starting subtle and slowly becoming more constant. Left alone, prolapse often stays stable rather than steadily worsening. In one group of women with symptomatic prolapse who weren't treated, 78% had no change at 16 months.
 
-### Why Experiences Differ
-- **Degree of prolapse** affects symptom severity
-- **Type of prolapse** (uterine vs. bladder vs. rectal)
-- **Individual anatomy** and sensitivity
-- **Activity level** and lifestyle factors
-- **Age and overall health** status
+Sometimes the awareness is more sudden, showing up after heavy lifting, after childbirth, during a long illness with a lot of coughing, or in the years after menopause.
 
-### Surprising Variations
-- **Severe prolapse** with minimal symptoms in some women
-- **Mild prolapse** with significant discomfort in others
-- **Fluctuating symptoms** that vary day to day
-- **Different symptom patterns** for the same degree of prolapse
+## When to be seen sooner
 
-{: .important-title }
-> **Important:** 
->
-> The severity of symptoms doesn't always correlate with the degree of prolapse. Some women with significant anatomical changes have minimal symptoms, while others with minor prolapse may be very symptomatic.
+A few symptoms deserve prompt attention:
 
-## When Symptoms Typically Develop
+- You can't urinate, or can't empty your bladder at all
+- Tissue that sits outside the body becomes raw, sore, or bleeds
+- New bleeding of any kind, which always gets its own evaluation
 
-### Gradual Onset
-- **Slow progression** over months or years
-- **Initially subtle** sensations that gradually worsen
-- **Intermittent symptoms** that become more constant
-- **Increasing impact** on daily activities
+Bleeding is rarely caused by the prolapse itself. If you're bleeding, see [can uterine prolapse cause bleeding](/conditions/prolapse/can-uterine-prolapse-cause-bleeding); the short version is that it gets checked on its own.
 
-### Sudden Awareness
-- **After physical strain** like heavy lifting
-- **Following childbirth** or significant weight gain
-- **During illness** with chronic coughing
-- **After menopause** when estrogen levels drop
+## How I think about this
 
-## Red Flag Symptoms
+When you describe your symptoms, the details help me more than a single label. When they happen, what makes them better or worse, and how much they interfere with your day all point toward the right plan.
 
-### When to Seek Immediate Care
-- **Sudden severe pain** in the pelvic area
-- **Inability to urinate** or completely empty the bladder
-- **Severe constipation** or inability to have bowel movements
-- **Bleeding** associated with the prolapse
-- **Signs of infection** like fever or unusual discharge
+Treatment is driven by how much the prolapse bothers you, not by how it measures on the exam. If it isn't bothersome, watchful waiting is a legitimate choice. If it is, a pessary, pelvic floor physical therapy, and surgery are all reasonable options, and the right one depends on your goals. We have pelvic floor physical therapists in the office, and supervised pelvic floor muscle training has been shown to reduce prolapse symptoms.
 
-## The Emotional Component
+None of these options is a required step you have to fail before moving to the next. The decision is a conversation, and it's yours.
 
-### Psychological Impact
-Many women also experience:
-- **Frustration** with physical limitations
-- **Anxiety** about symptom progression
-- **Self-consciousness** about their condition
-- **Relief** when they understand what's happening
+## References
 
-It's completely normal to feel worried or upset about prolapse symptoms. Understanding what you're experiencing is often the first step toward feeling better about the condition and your treatment options.
-
-## Describing Your Symptoms
-
-### Helpful Ways to Communicate
-When talking to your healthcare provider, it helps to describe:
-- **When symptoms occur** (time of day, activities)
-- **What makes them better or worse**
-- **How they impact your daily life**
-- **Any changes you've noticed over time**
-
-### Keeping a Symptom Diary
-Consider tracking:
-- Daily symptom severity (1-10 scale)
-- Activities that worsen or improve symptoms
-- Impact on bladder and bowel function
-- Effect on sleep and daily activities
-
-## The Path Forward
-
-### Understanding Brings Relief
-Many women find that **simply understanding their symptoms** provides significant emotional relief. Knowing that:
-- **Your symptoms are real** and medically recognized
-- **Effective treatments** are available
-- **You're not alone** - prolapse affects many women
-- **Improvement is possible** with appropriate care
-
-### Taking Action
-If the sensations described here sound familiar:
-- **Don't ignore symptoms** or assume they're "normal"
-- **Seek evaluation** from a healthcare provider
-- **Keep track of symptoms** to help with diagnosis
-- **Remember that help is available**
-
-The sensations of uterine prolapse can be uncomfortable and concerning, but understanding what you're experiencing is the first step toward getting better. With proper evaluation and treatment, most women can achieve significant symptom relief and return to their normal activities.
-
-Don't let these symptoms limit your life - effective treatments are available to help you feel like yourself again.
+1. Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). *Neurourology and Urodynamics*. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+2. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+3. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+4. Barber MD, Brubaker L, Nygaard I, et al. Defining Success After Surgery for Pelvic Organ Prolapse. *Obstetrics & Gynecology*. 2009. [doi:10.1097/AOG.0b013e3181b2b1ae](https://doi.org/10.1097/AOG.0b013e3181b2b1ae)
+5. Burgio KL, Nygaard IE, Richter HE, et al. Bladder symptoms 1 year after abdominal sacrocolpopexy with and without Burch colposuspension in women without preoperative stress incontinence symptoms. *American Journal of Obstetrics & Gynecology*. 2007. [doi:10.1016/j.ajog.2007.08.048](https://doi.org/10.1016/j.ajog.2007.08.048)
+6. Ridgeway BM, Weinstein MM, Tunitsky-Bitton E. American Urogynecologic Society Best-Practice Statement on Evaluation of Obstructed Defecation. *Female Pelvic Medicine & Reconstructive Surgery*. 2018. [doi:10.1097/SPV.0000000000000635](https://doi.org/10.1097/SPV.0000000000000635)
+7. Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse: ACOG Practice Bulletin No. 214. *Obstetrics & Gynecology*. 2019.
+8. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *The Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
