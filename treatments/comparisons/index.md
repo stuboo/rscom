@@ -15,14 +15,4 @@ Choosing between treatment options can feel overwhelming. These side-by-side com
 
 Dr. Stewart believes strongly in shared decision-making: "My job isn't to tell you what to do — it's to make sure you understand your options so well that the right choice becomes clear to you."
 
-## Available Comparisons
-
-<!-- Auto-generated from child pages. Drafts (published: false, pending medical review) are excluded automatically and appear here once approved. -->
-<ul>
-{%- assign comparison_pages = site.pages | where: "parent", page.title | sort: "nav_order" -%}
-{%- for c in comparison_pages %}
-  <li><a href="{{ c.url }}">{{ c.title }}</a></li>
-{%- endfor %}
-</ul>
-
 Every treatment plan is individualized. These comparisons provide general guidance, but your specific anatomy, symptoms, health history, and personal goals will guide the final recommendation.
