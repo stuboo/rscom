@@ -63,6 +63,7 @@ exclude:
   - LICENSE
   - package-lock.json
   - AGENTS.md
+  - CLAUDE.md
   - .gitattributes
   # Internal notes, tooling, and agent working files
   - pseo-review-tracker.md

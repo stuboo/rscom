@@ -33,3 +33,8 @@ pseo-review-tracker.md
 # beads (no longer used)
 .beads/
 .mcp.json
+
+# agent/repo docs, local only
+README.md
+AGENTS.md
+CLAUDE.md
