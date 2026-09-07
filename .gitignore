@@ -14,6 +14,8 @@ _site/
 .bundle/
 vendor/
 *.sh
+# committed: run by the notify-indexnow CI job
+!scripts/indexnow-ping.sh
 faq+blog_ideas.txt
 .ruby-version
 faq.md.bak
