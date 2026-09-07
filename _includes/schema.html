@@ -1,4 +1,4 @@
-<!--
+{%- comment -%}
   Canonical person entity for the whole site. Emitted on every page via
   head_custom.html. Anything else that needs to name Dr. Stewart should
   reference him as {"@id": "{{ site.url }}/#physician"} rather than
@@ -56,7 +56,7 @@
   House VideoObject is the exception and the reason it leads the array: it is
   current Green Bay coverage whose publisher is Aurora BayCare, so it reinforces
   the correct location and practice rather than muddying them.
--->
+{%- endcomment -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
