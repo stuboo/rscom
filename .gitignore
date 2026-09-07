@@ -26,15 +26,11 @@ REDIRECT_MAPPING.md
 .gstack/
 marketing/
 scripts/ralph/
-pseo-review-pipeline/
-pseo-review-tracker.md
 .agents/
 
 # beads (no longer used)
 .beads/
 .mcp.json
 
-# agent/repo docs, local only
-README.md
-AGENTS.md
+# local-only agent stub (full tooling lives in ~/projects/rscom-tools)
 CLAUDE.md
