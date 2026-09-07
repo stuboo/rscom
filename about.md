@@ -71,6 +71,22 @@ I have no financial relationships with any device or drug company. I'm not a con
 
 So when I name a specific device or medication on this site, it's because it's one of your options. I get nothing either way, whichever one you pick.
 
+## In the media
+
+My work and commentary have been covered by national and regional outlets:
+
+- [FOX 11 Field House](https://www.facebook.com/AuroraBayCare/videos/stress-urinary-incontinence/2286470308542034/) — "Stress urinary incontinence" (with Aurora BayCare, Green Bay)
+- [The New York Times](https://www.nytimes.com/2023/01/12/well/doctors-office-design.html) — "How Would You Redesign Your Doctor's Office?"
+- [The Washington Post](https://www.washingtonpost.com/gender-identity/how-would-you-change-your-obgyn-visits-this-tweet-got-3000-responses/) — "How would you change your OB/GYN visits? This tweet got 3,000 responses."
+- [Fortune](https://fortune.com/2021/12/07/gynecologist-twitter-question/) — "A gynecologist asked Twitter for office design help. The answers he got were about a troubled health care system."
+- [The Courier-Journal](https://www.courier-journal.com/story/life/wellness/health/2020/12/09/how-botox-treatment-is-helping-stop-overactive-bladders/6075339002/) — "How Botox treatment is helping stop overactive bladders"
+- [WDRB](https://www.wdrbwave.com/2020/11/11/botox-can-help-with-an-overactive-bladder/) — "Botox can help with an overactive bladder"
+- [NBC LX](https://www.lx.com/social-justice/a-gynecologist-asked-women-how-to-design-his-new-office-the-answers-are-so-on-point/45960/) — "A GYN Asked Twitter for Office Design Tips and Struck Gold"
+- [BuzzFeed](https://www.buzzfeed.com/amatullahshaw/doctors-office-changes) — "Gynecologist Asks How To Improve Doctor's Offices"
+- [Bored Panda](https://www.boredpanda.com/how-to-design-gynecologist-office-twitter/) — "Gynecologist Is Opening His Own Practice And Asked Twitter To Tell Him What He Should Include In His Office"
+- [Romper](https://www.romper.com/life/gynecologist-asked-patients-design-office-tweets) — "OB/GYN Asks Twitter How To Design Office & Make Visits Less Stressful"
+- [InsideHook](https://www.insidehook.com/sex-and-dating/gynecologist-asked-his-patients-help-designing-his-office) — "Need Help Designing a New GYN Office? Twitter Has Thoughts"
+
 ## Find me elsewhere
 
 - [NPI registry profile](https://npiregistry.cms.hhs.gov/provider-view/1922366061)

@@ -40,6 +40,22 @@
   him to Indianapolis off older press about his previous practice. Listing
   it here does not assert an employment or practice relationship in schema
   the way `practicesAt` or `hospitalAffiliation` would; those stay omitted.
+
+  subjectOf carries press and broadcast coverage that quotes or profiles him
+  (NYT, Washington Post, Fortune, the Louisville Botox/overactive-bladder
+  coverage, and a FOX 11 Field House segment). It is NOT sameAs: these pages
+  are about him, they are not his own identity profiles, so subjectOf is the
+  correct relation and sameAs would overstate them. Nodes carry no
+  `location`/`address` field; a subjectOf reference points at a work, it does
+  not assert where he practices.
+
+  Most of these are Indianapolis/Louisville-era coverage that was resolving him
+  off-site to the wrong city; naming the article without a geo keeps the brand-
+  authority signal while denying it a location claim, so the Aurora BayCare NPI
+  entry in sameAs stays the dominant Green Bay corroborator. The FOX 11 Field
+  House VideoObject is the exception and the reason it leads the array: it is
+  current Green Bay coverage whose publisher is Aurora BayCare, so it reinforces
+  the correct location and practice rather than muddying them.
 -->
 <script type="application/ld+json">
 {
@@ -84,6 +100,75 @@
     "https://health.usnews.com/doctors/j-ryan-stewart-760452",
     "https://www.healthgrades.com/physician/dr-james-stewart-bu6mz",
     "https://doctor.webmd.com/doctor/james-stewart-28a7f69c-dec5-11e7-9f4c-005056a225bf-overview"
+  ],
+  "subjectOf": [
+    {
+      "@type": "VideoObject",
+      "name": "Stress urinary incontinence — FOX 11 Field House",
+      "description": "Dr. Ryan Stewart, a urogynecologist at Aurora BayCare Medical Center in Green Bay, discusses stress urinary incontinence on the FOX 11 Field House: how common it is, its causes, and treatment options from pelvic floor therapy to minimally invasive surgery.",
+      "url": "https://www.facebook.com/AuroraBayCare/videos/stress-urinary-incontinence/2286470308542034/",
+      "publisher": { "@type": "Organization", "name": "Aurora BayCare Medical Center" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "How Would You Redesign Your Doctor's Office?",
+      "url": "https://www.nytimes.com/2023/01/12/well/doctors-office-design.html",
+      "publisher": { "@type": "Organization", "name": "The New York Times" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "How would you change your OB/GYN visits? This tweet got 3,000 responses.",
+      "url": "https://www.washingtonpost.com/gender-identity/how-would-you-change-your-obgyn-visits-this-tweet-got-3000-responses/",
+      "publisher": { "@type": "Organization", "name": "The Washington Post" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "A gynecologist asked Twitter for office design help. The answers he got were about a troubled health care system.",
+      "url": "https://fortune.com/2021/12/07/gynecologist-twitter-question/",
+      "publisher": { "@type": "Organization", "name": "Fortune" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "How Botox treatment is helping stop overactive bladders",
+      "url": "https://www.courier-journal.com/story/life/wellness/health/2020/12/09/how-botox-treatment-is-helping-stop-overactive-bladders/6075339002/",
+      "publisher": { "@type": "Organization", "name": "The Courier-Journal" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Botox can help with an overactive bladder",
+      "url": "https://www.wdrbwave.com/2020/11/11/botox-can-help-with-an-overactive-bladder/",
+      "publisher": { "@type": "Organization", "name": "WDRB" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "A GYN Asked Twitter for Office Design Tips and Struck Gold",
+      "url": "https://www.lx.com/social-justice/a-gynecologist-asked-women-how-to-design-his-new-office-the-answers-are-so-on-point/45960/",
+      "publisher": { "@type": "Organization", "name": "NBC LX" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Gynecologist Asks How To Improve Doctor's Offices",
+      "url": "https://www.buzzfeed.com/amatullahshaw/doctors-office-changes",
+      "publisher": { "@type": "Organization", "name": "BuzzFeed" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Gynecologist Is Opening His Own Practice And Asked Twitter To Tell Him What He Should Include In His Office",
+      "url": "https://www.boredpanda.com/how-to-design-gynecologist-office-twitter/",
+      "publisher": { "@type": "Organization", "name": "Bored Panda" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "OB/GYN Asks Twitter How To Design Office & Make Visits Less Stressful",
+      "url": "https://www.romper.com/life/gynecologist-asked-patients-design-office-tweets",
+      "publisher": { "@type": "Organization", "name": "Romper" }
+    },
+    {
+      "@type": "NewsArticle",
+      "headline": "Need Help Designing a New GYN Office? Twitter Has Thoughts",
+      "url": "https://www.insidehook.com/sex-and-dating/gynecologist-asked-his-patients-help-designing-his-office",
+      "publisher": { "@type": "Organization", "name": "InsideHook" }
+    }
   ],
   "address": {
     "@type": "PostalAddress",
