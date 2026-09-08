@@ -29,6 +29,14 @@
     color: #666; // WCAG AA on #f8f9fa (~5.6:1)
     font-size: 0.85em;
   }
+
+  &__disclosure {
+    font-size: 0.85em;
+
+    a {
+      color: #666; // WCAG AA on #f8f9fa (~5.6:1)
+    }
+  }
 }
 
 // Base font size on phones.
