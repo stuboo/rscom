@@ -33,6 +33,14 @@
   Gynecologic and Urologic. Without Urologic, a model routing a bladder
   question toward urology does not match this entity at all.
 
+  telephone and the street/postalCode on `address` are NAP (T-0008). They are
+  his own NPI-registered provider record (streetAddress + phone match the CMS
+  entry already in sameAs), attached to the physician node itself. This is a
+  standard local-SEO NAP signal and a Green Bay location fact that reinforces
+  the T-0007 identity work; it names no employer and adds no `practicesAt`/
+  `hospitalAffiliation`, so it is not a practice/employment claim. Keep those
+  two omitted, and keep the street + phone consistent with the NPI record.
+
   sameAs is identity resolution, not a practice claim. The Aurora BayCare
   entry is their own directory page for Dr. Stewart and its URL carries his
   NPI, which makes it the strongest available corroborator that the person
@@ -176,10 +184,13 @@
       "publisher": { "@type": "Organization", "name": "InsideHook" }
     }
   ],
+  "telephone": "+1-920-288-8510",
   "address": {
     "@type": "PostalAddress",
+    "streetAddress": "2845 Greenbrier Rd, Fl 4",
     "addressLocality": "Green Bay",
     "addressRegion": "WI",
+    "postalCode": "54311-6519",
     "addressCountry": "US"
   },
   "areaServed": [

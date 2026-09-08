@@ -86,4 +86,4 @@ We may update this privacy policy from time to time. Changes will be reflected o
 
 ## Contact
 
-If you have questions about this privacy policy, you can reach Dr. Ryan Stewart through the contact information available on this website.
+If you have questions about this privacy policy, you can reach Dr. Ryan Stewart using the details on the [contact page](/contact).
