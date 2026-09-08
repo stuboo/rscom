@@ -8,7 +8,7 @@ permalink: /treatments/comparisons/mesh-vs-non-mesh-sling
 nav_exclude: true
 published: true
 last_modified_at: 2026-06-01
-last_evidence_review: 2026-06-01
+last_evidence_review: 2026-09-08
 faq:
   - question: "Is the mesh sling for incontinence safe?"
     answer: "Yes. The midurethral mesh sling is the most studied incontinence procedure we have, with more than 3.6 million placed worldwide. Mesh wearing through the vaginal wall happens in about 2% of cases. Every major medical society still recommends it, and the FDA has not recalled it or warned against it."
@@ -119,7 +119,7 @@ The best treatment is the one that fits your symptoms, your health, and what mat
 ## References
 
 1. American Urogynecologic Society and SUFU. Joint Position Statement on Midurethral Slings for Stress Urinary Incontinence. *Female Pelvic Med Reconstr Surg.* 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
-2. Kobashi KC, et al. Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline. *J Urol.* 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+2. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 3. Richter HE, et al. Retropubic versus Transobturator Midurethral Slings for Stress Incontinence. *N Engl J Med.* 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
 4. Albo ME, et al. Burch Colposuspension versus Fascial Sling to Reduce Urinary Stress Incontinence. *N Engl J Med.* 2007. [doi:10.1056/NEJMoa070218](https://doi.org/10.1056/NEJMoa070218)
 5. Fleischmann N, et al. Urethral Bulking. *Urogynecology.* 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)

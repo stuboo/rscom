@@ -10,7 +10,7 @@ parent_condition_url: /conditions/incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-14
-last_evidence_review: 2026-05-14
+last_evidence_review: 2026-09-08
 faq:
   - question: "How long do bulking agents last?"
     answer: "The current preferred agent (polyacrylamide hydrogel, or Bulkamid) has data out to 7 years. In a study of 388 women, 65.5% maintained improvement or cure at 7 years. Some women do need a repeat injection over time, but durability is much better than with older agents."
@@ -82,5 +82,5 @@ Patient satisfaction tends to be high even when full cure is not achieved. For m
 
 1. Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
 2. Collins SA, Swift S, Jha S, et al. Joint report on terminology for surgical procedures to treat stress urinary incontinence in women. *Female Pelvic Med Reconstr Surg*. 2020. [doi:10.1097/SPV.0000000000000831](https://doi.org/10.1097/SPV.0000000000000831)
-3. Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical treatment of female stress urinary incontinence: AUA/SUFU guideline. *J Urol*. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 4. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)

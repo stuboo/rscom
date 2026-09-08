@@ -8,7 +8,7 @@ condition_slug: urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-06-07
-last_evidence_review: 2026-06-07
+last_evidence_review: 2026-09-08
 faq:
   - question: "Is there a urogynecologist near Brillion, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Brillion. Telehealth consultations are available."
@@ -85,9 +85,9 @@ Dr. Stewart will walk you through the choices that fit your type and your goals 
 
 - ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 - Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-- Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline. The Journal of Urology. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 - Fleischmann N, Chughtai B, Plair A, et al. Urethral Bulking. Urogynecology. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
-- Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. The Journal of Urology. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 - Richter HE, Albo ME, Zyczynski HM, et al. Retropubic versus Transobturator Midurethral Slings for Stress Incontinence. New England Journal of Medicine. 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
 - Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. The Journal of Urology. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
 - Sung VW, Borello-France D, Newman DK, et al. Effect of Behavioral and Pelvic Floor Muscle Therapy Combined With Surgery vs Surgery Alone on Incontinence Symptoms Among Women With Mixed Urinary Incontinence: The ESTEEM Randomized Clinical Trial. JAMA. 2019. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)

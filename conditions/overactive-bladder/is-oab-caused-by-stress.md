@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "Can treating anxiety improve OAB symptoms?"
     answer: "Yes. Managing stress and anxiety can reduce how often and how strongly OAB symptoms flare. Relaxation techniques, mindfulness, and treating underlying anxiety can all work alongside OAB-specific treatments."
@@ -65,7 +65,7 @@ Combining these approaches often works better than tackling either one alone. Wh
 
 1. Dengler KL, High RA, Moga DC, et al. Overactive bladder and cognitive impairment: the AUGS and PFD Research Foundation State-of-the-Science Conference summary report. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
 2. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
-3. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 4. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
 5. Birder LA. Pathophysiology of interstitial cystitis. *Int J Urol*. 2019. [doi:10.1111/iju.13985](https://doi.org/10.1111/iju.13985)
 

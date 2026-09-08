@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "How much caffeine is too much for OAB?"
     answer: "There's no universal threshold. Some women notice symptoms from a single cup of coffee, while others tolerate moderate amounts. As a starting point, try limiting intake to about 100mg per day (roughly one small coffee) and see how your symptoms respond."
@@ -69,7 +69,7 @@ I never ask patients to give up everything they enjoy. But caffeine is one of th
 
 1. ACOG Committee on Practice Bulletins, AUGS, Kenton KS, Smilen SW. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 
-2. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 
 3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 

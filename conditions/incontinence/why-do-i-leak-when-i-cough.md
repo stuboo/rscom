@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "Is it normal to leak urine when coughing?"
     answer: "It is common, affecting up to 1 in 3 women, but it is not something you have to accept as normal. It is a treatable medical condition called stress urinary incontinence."
@@ -64,7 +64,7 @@ If leaking is changing how you live your life, it's worth talking to a specialis
 
 1. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
 2. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-3. Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical treatment of female stress urinary incontinence: AUA/SUFU guideline. *J Urol*. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 4. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
 5. Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
 6. ACOG/AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)

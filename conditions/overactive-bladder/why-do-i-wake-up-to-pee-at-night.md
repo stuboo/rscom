@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "How many times is normal to urinate at night?"
     answer: "Once per night is generally considered normal, especially as you get older. Waking twice or more to urinate on a regular basis deserves evaluation, particularly if it affects your sleep."
@@ -62,5 +62,5 @@ Sleep disruption from nocturia has real consequences: fatigue, mood changes, tro
 
 1. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. *Neurourol Urodyn*. 2019;38(2):499-508. [doi:10.1002/nau.23917](https://doi.org/10.1002/nau.23917)
 2. Everaert K, Herve F, Bosch R, et al. International Continence Society consensus on the diagnosis and treatment of nocturia. *Neurourol Urodyn*. 2019;38(2):478-498. [doi:10.1002/nau.23939](https://doi.org/10.1002/nau.23939)
-3. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 

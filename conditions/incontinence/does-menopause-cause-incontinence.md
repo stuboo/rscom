@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-14
-last_evidence_review: 2026-05-14
+last_evidence_review: 2026-09-08
 faq:
   - question: "Can hormone therapy help with bladder leakage?"
     answer: "Local vaginal estrogen (cream, ring, or tablet) can help by restoring tissue health in the urethra and vagina. It's different from systemic hormone therapy — vaginal estrogen improves bladder symptoms, while systemic estrogen (pills or patches) can actually make incontinence worse. Vaginal estrogen stays local, with minimal absorption into the bloodstream, and is generally considered very safe even for long-term use."
@@ -65,5 +65,5 @@ A lot of my menopausal patients are surprised by how much better things get with
 2. Rahn DD, Carberry C, Sanses TV, et al. Vaginal estrogen for genitourinary syndrome of menopause: a systematic review. *Obstet Gynecol*. 2014. [doi:10.1097/AOG.0000000000000526](https://doi.org/10.1097/AOG.0000000000000526)
 3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 4. Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary syndrome of menopause: AUA/SUFU/AUGS guideline. *American Urological Association*. 2025.
-5. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 

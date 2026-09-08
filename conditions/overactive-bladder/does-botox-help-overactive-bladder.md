@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "How long does Botox last for OAB?"
     answer: "Botox effects typically last 6-9 months. When symptoms return, the procedure can be repeated. Many patients develop a regular schedule of injections that keeps their symptoms well-controlled."
@@ -72,5 +72,5 @@ I walk through the pros and cons with every patient before we decide together wh
 
 - Amundsen CL, Komesu YM, Chermansky C, et al. Two-year outcomes of sacral neuromodulation versus onabotulinumtoxinA for refractory urgency urinary incontinence: a randomized trial. *Eur Urol*. 2018;74(1):66-73. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
 
-- Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 

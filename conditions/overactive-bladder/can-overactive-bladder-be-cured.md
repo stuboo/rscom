@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "Will I need treatment for OAB forever?"
     answer: "Not necessarily. Some women get lasting improvement with behavioral therapy and pelvic floor therapy alone. Others may need ongoing medication or periodic Botox injections. The goal is to find an approach that gives you the best quality of life with the least burden."
@@ -56,7 +56,7 @@ The key is finding the right fit. We almost always find something that works.
 
 ## References
 
-1. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+1. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 2. Visco AG, Brubaker L, Richter HE, et al. Anticholinergic therapy vs onabotulinumtoxinA for urgency urinary incontinence. *N Engl J Med*. 2012;367(19):1803-1813. [doi:10.1056/NEJMoa1208872](https://doi.org/10.1056/NEJMoa1208872)
 3. Amundsen CL, Komesu YM, Chermansky C, et al. Two-year outcomes of sacral neuromodulation versus onabotulinumtoxinA for refractory urgency urinary incontinence. *Eur Urol*. 2018;74(1):66-73. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
 4. Peters KM, Carrico DJ, Wooldridge LS, Miller CJ, MacDiarmid SA. Percutaneous tibial nerve stimulation for the long-term treatment of overactive bladder: 3-year results of the STEP study. *J Urol*. 2013;189(6):2194-2201. [doi:10.1016/j.juro.2012.11.175](https://doi.org/10.1016/j.juro.2012.11.175)

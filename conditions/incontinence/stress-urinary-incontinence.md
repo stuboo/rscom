@@ -131,4 +131,4 @@ If any of this sounds familiar, come in and talk about it. I have these conversa
 
 1. Luber KM. The definition, prevalence, and risk factors for stress urinary incontinence. *Rev Urol*. 2004;6(Suppl 3):S3-S9. [PMID: 16985863](https://pubmed.ncbi.nlm.nih.gov/16985863/)
 2. Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic floor muscle training versus no treatment, or inactive control treatments, for urinary incontinence in women. *Cochrane Database Syst Rev*. 2018;10(10):CD005654. [doi:10.1002/14651858.CD005654.pub4](https://doi.org/10.1002/14651858.CD005654.pub4)
-3. American Urological Association/Society of Urodynamics, Female Pelvic Medicine & Urogenital Reconstruction. [Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline](https://www.auanet.org/guidelines-and-quality/guidelines/stress-urinary-incontinence-(sui)-guideline). 2017.
+3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)

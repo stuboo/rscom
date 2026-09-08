@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "Why does running water make me need to urinate?"
     answer: "This is a conditioned response. Your brain has linked the sound of water with urination, and over time that link became a trigger. Bladder training techniques can help weaken this connection."
@@ -65,7 +65,7 @@ These are strategies we talk through together. What works depends on your specif
 
 ## References
 
-1. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol.* 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+1. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 
 2. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA.* 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 

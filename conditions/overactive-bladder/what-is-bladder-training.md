@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "How long does bladder training take to work?"
     answer: "Most women notice some improvement within 2-3 weeks, with continued gains over 6-12 weeks. Consistency matters. Your bladder needs time to adjust to the new patterns."
@@ -71,7 +71,7 @@ In one study, women who combined bladder training with pelvic floor muscle thera
 
 2. Sung VW, Borello-France D, Newman DK, et al. Effect of behavioral and pelvic floor muscle therapy combined with surgery vs surgery alone on incontinence symptoms among women with mixed urinary incontinence: the ESTEEM randomized clinical trial. *JAMA*. 2019;322(11):1066-1076. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
 
-3. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 
 4. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 

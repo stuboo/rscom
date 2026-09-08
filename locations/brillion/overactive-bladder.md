@@ -8,7 +8,7 @@ condition_slug: overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-06-07
-last_evidence_review: 2026-06-07
+last_evidence_review: 2026-09-08
 faq:
   - question: "Is there a urogynecologist near Brillion, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Brillion. Telehealth consultations are available."
@@ -66,7 +66,7 @@ The right choice depends on your symptoms, your health, and what matters to you.
 
 ## References
 
-- Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. J Urol. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 - ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstet Gynecol. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 - Sanses TVD, Zillioux J, High RA, et al. Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
 - AUGS Guidelines Committee, Thomas TN, Walters MD. Clinical Consensus Statement: Association of Anticholinergic Medication Use and Cognition in Women With Overactive Bladder. Female Pelvic Med Reconstr Surg. 2021. [doi:10.1097/SPV.0000000000001008](https://doi.org/10.1097/SPV.0000000000001008)

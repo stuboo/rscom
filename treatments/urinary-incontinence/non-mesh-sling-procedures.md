@@ -8,7 +8,7 @@ description: "A non-mesh (autologous fascial) sling uses your own tissue to trea
 permalink: /treatments/urinary-incontinence/non-mesh-sling-procedures
 published: true
 last_modified_at: 2026-09-06
-last_evidence_review: 2026-09-06
+last_evidence_review: 2026-09-08
 faq:
   - question: "How well do non-mesh slings work?"
     answer: "In the SISTEr trial, an autologous fascial sling cured stress leakage in 66% of women at two years, compared with 49% for a Burch colposuspension, and only 2% needed repeat surgery for stress incontinence versus 11%. Single-center series report 85 to 92% success over 3 to 15 years. Cure rates are close to a mesh sling's, roughly 67% versus 74%."
@@ -120,7 +120,7 @@ I am honest about the tradeoff. You are trading a longer recovery and a somewhat
 
 - Albo ME, Richter HE, Brubaker L, et al. Burch Colposuspension versus Fascial Sling to Reduce Urinary Stress Incontinence. *New England Journal of Medicine*. 2007. [doi:10.1056/NEJMoa070218](https://doi.org/10.1056/NEJMoa070218)
 - Brubaker L, Richter HE, Norton PA, et al. Five Year Continence Rates, Satisfaction and Adverse Events of Burch Urethropexy and Fascial Sling Surgery for Urinary Incontinence. *Journal of Urology*. 2012. [doi:10.1016/j.juro.2011.11.087](https://doi.org/10.1016/j.juro.2011.11.087)
-- Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline. *The Journal of Urology*. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 - Wu JM. Stress Incontinence in Women. *New England Journal of Medicine*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
 - Collins SA, Swift S, Jha S, et al. Joint Report on Terminology for Surgical Procedures to Treat Stress Urinary Incontinence in Women. *Female Pelvic Medicine & Reconstructive Surgery*. 2020. [doi:10.1097/SPV.0000000000000831](https://doi.org/10.1097/SPV.0000000000000831)
 - Fleischmann N, Chughtai B, Plair A, et al. Urethral Bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)

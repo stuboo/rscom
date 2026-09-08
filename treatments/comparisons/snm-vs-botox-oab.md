@@ -8,7 +8,7 @@ permalink: /treatments/comparisons/snm-vs-botox-oab
 nav_exclude: true
 published: true
 last_modified_at: 2026-06-07
-last_evidence_review: 2026-06-07
+last_evidence_review: 2026-09-08
 faq:
   - question: "Can I try both before deciding?"
     answer: "In a sense, yes. Many women start with Botox because it's less invasive and wears off on its own. Sacral neuromodulation has a built-in test phase, so you experience the therapy for a couple of weeks before committing to the implant. These aren't either/or for life. If one doesn't suit you, the other is still on the table."
@@ -103,7 +103,7 @@ The best treatment is the one that fits your symptoms and your priorities. Dr. S
 - Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs Sacral Neuromodulation on Refractory Urgency Urinary Incontinence in Women: A Randomized Clinical Trial. JAMA. 2016. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
 - Amundsen CL, Komesu YM, Chermansky C, et al. Two-Year Outcomes of Sacral Neuromodulation Versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: A Randomized Trial. European Urology. 2018. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
 - Harvie HS, Amundsen CL, Neuwahl SJ, et al. Cost-Effectiveness of Sacral Neuromodulation versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: Results of the ROSETTA Randomized Trial. Journal of Urology. 2020. [doi:10.1097/JU.0000000000000656](https://doi.org/10.1097/JU.0000000000000656)
-- Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. The Journal of Urology. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 - ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 - Goldman HB, Lloyd JC, Noblett KL, et al. International continence society best practice statement for use of sacral neuromodulation. Neurourology and Urodynamics. 2018. [doi:10.1002/nau.23596](https://doi.org/10.1002/nau.23596)
 - Komesu YM, Amundsen CL, Richter HE, et al. Refractory Urgency Urinary Incontinence Treatment in Women: Impact of Age on Outcomes and Complications. American Journal of Obstetrics and Gynecology. 2018. [doi:10.1016/j.ajog.2017.10.006](https://doi.org/10.1016/j.ajog.2017.10.006)

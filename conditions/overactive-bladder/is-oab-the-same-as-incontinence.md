@@ -10,7 +10,7 @@ parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_evidence_review: 2026-09-08
 faq:
   - question: "Can you have overactive bladder without leaking?"
     answer: "Yes. Many people with OAB have urgency and frequency but never leak urine. This is sometimes called 'dry' OAB, and it affects about 17% of women. It can still affect your daily life and is worth treating."
@@ -50,7 +50,7 @@ If you have both, which is common, we talk through which symptoms bother you mos
 
 ## References
 
-1. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+1. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 2. ACOG Committee on Practice Bulletins. Urinary incontinence in women. ACOG Practice Bulletin No. 155. *Obstet Gynecol*. 2015;126(5):e66-e81. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 4. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023;29(1):3-14. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)

@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-14
-last_evidence_review: 2026-05-14
+last_evidence_review: 2026-09-08
 faq:
   - question: "What's the difference between urge and stress incontinence?"
     answer: "Stress incontinence causes leaking during physical activity (coughing, exercise). Urge incontinence involves a sudden, strong need to urinate followed by involuntary leaking — often triggered by things like running water or arriving home."
@@ -66,7 +66,7 @@ I work with each patient to find the right treatment based on your symptoms, you
 ## References
 
 1. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-2. Lightner DJ, Gomelsky A, Souter L, Vasavada SP. Diagnosis and treatment of overactive bladder (non-neurogenic) in adults: AUA/SUFU guideline amendment 2019. *J Urol*. 2019;202(3):558-563. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 3. Visco AG, Brubaker L, Richter HE, et al. Anticholinergic therapy vs. onabotulinumtoxinA for urgency urinary incontinence. *N Engl J Med*. 2012;367(19):1803-1813. [doi:10.1056/NEJMoa1208872](https://doi.org/10.1056/NEJMoa1208872)
 4. Amundsen CL, Komesu YM, Chermansky C, et al. Two-year outcomes of sacral neuromodulation versus onabotulinumtoxinA for refractory urgency urinary incontinence: a randomized trial. *Eur Urol*. 2018;74(1):66-73. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
 5. Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized trial of percutaneous tibial nerve stimulation versus sham efficacy in the treatment of overactive bladder syndrome: results from the SUmiT trial. *J Urol*. 2010;183(4):1438-1443. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)

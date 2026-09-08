@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-14
-last_evidence_review: 2026-05-14
+last_evidence_review: 2026-09-08
 faq:
   - question: "How long does a bladder sling procedure take?"
     answer: "The procedure itself typically takes about 30 minutes and is usually performed as an outpatient surgery. Most patients go home the same day."
@@ -57,7 +57,7 @@ The right choice depends on how much your symptoms bother you, your health, and 
 - Richter HE et al. Retropubic versus transobturator midurethral slings for stress incontinence. *N Engl J Med*. 2010;362(22):2066-2076. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
 - Albo ME et al. Treatment success of retropubic and transobturator midurethral slings at 24 months. *J Urol*. 2012;188(6):2281-2287. [doi:10.1016/j.juro.2012.07.103](https://doi.org/10.1016/j.juro.2012.07.103)
 - AUGS-SUFU Joint Position Statement on midurethral slings for stress urinary incontinence. *Female Pelvic Med Reconstr Surg*. 2021;27(12):707-711. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
-- Kobashi KC et al. Surgical treatment of female stress urinary incontinence: AUA/SUFU guideline. *J Urol*. 2017;198(4):875-883. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 - Wu JM. Stress incontinence in women. *N Engl J Med*. 2021;384(25):2428-2436. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
 - Fleischmann N et al. Urethral bulking: AUGS clinical practice statement. *Female Pelvic Med Reconstr Surg*. 2024;30(8):427-436. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
 - Lukacz ES et al. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
