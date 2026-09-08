@@ -8,7 +8,6 @@ condition_slug: fecal-incontinence
 nav_exclude: true
 published: false
 last_modified_at: 2026-03-14
-testimonial_index: 4
 faq:
   - question: "Is there a urogynecologist near Ishpeming, MI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 3 hours from Ishpeming. Telehealth consultations are available."

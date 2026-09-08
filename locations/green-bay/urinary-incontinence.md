@@ -9,7 +9,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-29
 last_evidence_review: 2026-05-29
-testimonial_index: 0
 faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist practicing in Green Bay. He specializes in urinary incontinence and other pelvic floor conditions."

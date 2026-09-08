@@ -8,7 +8,6 @@ permalink: /treatments/comparisons/botox-vs-medication-oab
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-testimonial_index: 2
 faq:
   - question: "Can I take medication and have Botox?"
     answer: "Typically, Botox replaces medications rather than being used alongside them. Once Botox is effective, most patients stop their OAB medications."

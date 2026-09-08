@@ -10,7 +10,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-16
 last_evidence_review: 2026-05-16
-testimonial_index: 1
 faq:
   - question: "Do I need to stop exercising if I'm leaking?"
     answer: "No. It is also far more common than most athletes realize — up to 80% of female athletes report some leaking during sport, and about 40% of healthy women who have never been pregnant leak during vigorous exercise. In most cases you can keep exercising while working on your pelvic floor. A pelvic floor therapist can help you adjust activities while building strength and coordination."

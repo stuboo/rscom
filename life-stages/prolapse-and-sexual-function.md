@@ -9,7 +9,6 @@ condition_name: Pelvic Organ Prolapse
 nav_exclude: true
 published: true
 last_modified_at: 2026-05-30
-testimonial_index: 3
 last_evidence_review: 2026-05-30
 faq:
   - question: "Will prolapse surgery improve my sex life?"

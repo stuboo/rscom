@@ -9,7 +9,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
-testimonial_index: 3
 faq:
   - question: "Is the mesh in sacrocolpopexy safe?"
     answer: "Yes. Sacrocolpopexy uses soft mesh placed through the abdomen and attached to a strong ligament over your tailbone. This is not the same as the transvaginal mesh kits that were taken off the market. Sacrocolpopexy mesh has decades of good data behind it and remains a standard repair. The main risk is the mesh slowly wearing through the vaginal wall, which happens to a small number of women and sometimes needs a minor procedure to fix."

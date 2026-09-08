@@ -9,7 +9,6 @@ condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-testimonial_index: 2
 faq:
   - question: "Will the leaking get worse if I keep exercising?"
     answer: "Not necessarily, but it won't fix itself either. Continuing to exercise while working with a pelvic floor therapist is the best approach — you address the weakness without losing fitness."

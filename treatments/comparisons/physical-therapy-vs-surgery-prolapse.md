@@ -9,7 +9,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
-testimonial_index: 2
 faq:
   - question: "Can physical therapy make prolapse worse?"
     answer: "No. When you work with a trained pelvic floor therapist, the exercises do not worsen prolapse. PT often improves your symptoms and quality of life, even though it usually won't reverse the prolapse itself."

@@ -10,7 +10,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-16
 last_evidence_review: 2026-05-16
-testimonial_index: 0
 faq:
   - question: "How much weight loss helps incontinence?"
     answer: "A 5-10% reduction in body weight can cut incontinence episodes roughly in half. For a 200-pound woman, that's about 10-20 pounds."

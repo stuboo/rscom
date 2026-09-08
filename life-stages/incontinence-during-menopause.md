@@ -10,7 +10,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-16
 last_evidence_review: 2026-05-16
-testimonial_index: 2
 faq:
   - question: "Is vaginal estrogen safe?"
     answer: "Yes. Local vaginal estrogen (cream, ring, or tablet) delivers estrogen directly to the tissues that need it. Absorption into your bloodstream is minimal, and blood levels stay in the normal postmenopausal range. Large studies show no increased risk of breast cancer, blood clots, or endometrial cancer with low-dose vaginal estrogen. It's considered safe for long-term use."

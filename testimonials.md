@@ -89,29 +89,4 @@ last_reviewed_date: 2026-03-15
 <span class="testimonial-source">WebMD</span>
 </div>
 
-<div class="testimonial-card">
-<p>"He is the kind of Dr that looks at you in the eye and explains things as many times as he needs to."</p>
-<span class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-</div>
-
-<div class="testimonial-card">
-<p>"He took time to listen and explain what I needed, drawing pictures to help me understand."</p>
-<span class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-</div>
-
-<div class="testimonial-card">
-<p>"I was very upset and Dr. Stewart took the time to listen and comfort me."</p>
-<span class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-</div>
-
-<div class="testimonial-card">
-<p>"Dr. Stewart was very informative and helpful. He made me feel relaxed and comfortable."</p>
-<span class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-</div>
-
-<div class="testimonial-card">
-<p>"The level of care and attention to detail was exceptional."</p>
-<span class="testimonial-rating">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-</div>
-
 </div>

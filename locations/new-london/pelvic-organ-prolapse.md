@@ -8,7 +8,6 @@ condition_slug: pelvic-organ-prolapse
 nav_exclude: true
 published: false
 last_modified_at: 2026-03-14
-testimonial_index: 0
 faq:
   - question: "Is there a urogynecologist near New London, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 50 minutes from New London. Telehealth consultations are available."

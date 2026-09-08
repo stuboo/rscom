@@ -9,7 +9,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
-testimonial_index: 0
 faq:
   - question: "Is a pessary just a temporary fix before surgery?"
     answer: "No. A pessary is a real long-term choice, not just a step before surgery. In a large national registry, most women who kept using a pessary stayed happy with it for years. Many women choose a pessary and never need surgery."

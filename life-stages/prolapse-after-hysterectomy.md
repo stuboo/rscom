@@ -10,7 +10,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-30
 last_evidence_review: 2026-05-30
-testimonial_index: 0
 faq:
   - question: "How common is prolapse after a hysterectomy?"
     answer: "Vault prolapse is one of several types of pelvic organ prolapse. About 1 in 8 women have surgery for some form of prolapse during their lifetime. Your risk after hysterectomy goes up with age, prior vaginal deliveries, and other strain on the pelvic floor."

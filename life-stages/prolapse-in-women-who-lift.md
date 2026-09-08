@@ -10,7 +10,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-30
 last_evidence_review: 2026-05-30
-testimonial_index: 1
 faq:
   - question: "Is weightlifting bad for the pelvic floor?"
     answer: "No. Lifting is good for your bones and your strength. It becomes a problem only when your pelvic floor can't keep up with the load. With good breathing, bracing, and pelvic floor training, most women can lift well."

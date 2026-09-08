@@ -10,7 +10,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-05-30
 last_evidence_review: 2026-05-30
-testimonial_index: 3
 faq:
   - question: "Can I still have children if I have prolapse?"
     answer: "Yes. Prolapse does not stop you from getting pregnant or having a baby. If you may want more children, many women choose to manage symptoms with a pessary or pelvic floor therapy for now and decide about surgery later. It is your choice, and we make it together."

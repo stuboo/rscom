@@ -9,7 +9,6 @@ nav_exclude: true
 published: true
 last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
-testimonial_index: 0
 faq:
   - question: "Does robotic surgery mean a robot does the operation?"
     answer: "No. The surgeon controls every movement. The robotic system turns the surgeon's hand movements into smaller, steady movements of the instruments inside your body. It is a tool the surgeon drives the whole time."
