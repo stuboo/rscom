@@ -13,7 +13,7 @@ last_modified_at: 2026-05-15
 last_evidence_review: 2026-05-15
 faq:
   - question: "Can you have overactive bladder without leaking?"
-    answer: "Yes. Many people with OAB have urgency and frequency but never leak urine. This is sometimes called 'dry' OAB. It can still affect your daily life and is worth treating."
+    answer: "Yes. Many people with OAB have urgency and frequency but never leak urine. This is sometimes called 'dry' OAB, and it affects about 17% of women. It can still affect your daily life and is worth treating."
   - question: "Is urge incontinence a type of OAB?"
     answer: "Yes. Urge incontinence means leaking when you feel a sudden, strong urge to go. It is one symptom of overactive bladder, but OAB can also include urgency, frequency, and waking at night to urinate without any leaking."
   - question: "Do OAB and stress incontinence require different treatments?"

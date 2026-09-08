@@ -15,7 +15,7 @@ faq:
   - question: "Is mixed incontinence harder to treat?"
     answer: "Not necessarily, but it does take a tailored approach. By figuring out which part bothers you more — stress or urge — we can focus treatment there first. Improving one component often helps the other, too."
   - question: "Can surgery fix mixed incontinence?"
-    answer: "A sling procedure works well for the stress component. The urge component may also get better after surgery, but it sometimes needs separate treatment like pelvic floor therapy, medication, or nerve stimulation."
+    answer: "A sling procedure works well for the stress component. The urge component may also get better after surgery, but it sometimes needs separate treatment like pelvic floor therapy, medication, or nerve stimulation. In the ESTEEM trial, about 30% of women still needed additional urge treatment after their sling."
   - question: "How common is mixed incontinence?"
     answer: "Very common. Up to half of women with incontinence have both stress and urge symptoms. It's especially common in women over 50."
 ---

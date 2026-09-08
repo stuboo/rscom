@@ -13,7 +13,7 @@ last_modified_at: 2026-05-14
 last_evidence_review: 2026-05-14
 faq:
   - question: "How many biofeedback sessions will I need?"
-    answer: "Most protocols call for 5 to 6 sessions, spaced about two weeks apart, and many women notice improvement in the first few. In the largest trial, about 52% of women had a meaningful improvement in symptoms and 68% cut their leakage episodes by at least half. The skills you learn stay with you long after treatment ends."
+    answer: "Most protocols call for 5 to 6 sessions, spaced about two weeks apart, and many women notice improvement in the first few. In the CAPABLe study of 300 women, about 52% had a meaningful improvement in symptoms and 68% cut their leakage episodes by at least half. The skills you learn stay with you long after treatment ends."
   - question: "Is biofeedback painful?"
     answer: "No. Biofeedback is non-invasive and painless. A small sensor gives real-time feedback about your muscle activity. Most women find the sessions comfortable."
   - question: "Does insurance cover biofeedback for fecal incontinence?"

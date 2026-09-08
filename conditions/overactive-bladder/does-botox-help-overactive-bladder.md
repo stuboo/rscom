@@ -17,7 +17,7 @@ faq:
   - question: "Is the Botox injection painful?"
     answer: "Most women report mild discomfort rather than real pain. The procedure is performed in the office using local anesthesia and a cystoscope (a small camera placed into the bladder). It takes about 10-15 minutes and most patients return to normal activities immediately."
   - question: "What are the risks of bladder Botox?"
-    answer: "The main risk is temporary difficulty emptying the bladder completely, which affects about 5-10% of patients. This is usually mild and resolves as the Botox wears off. Urinary tract infections can also occur."
+    answer: "The main risk is temporary difficulty emptying the bladder completely, which affects about 5-10% of patients. This is usually mild and resolves as the Botox wears off. Urinary tract infections can also occur, in around 33% of patients in clinical trials."
 ---
 
 # Does Botox help overactive bladder?

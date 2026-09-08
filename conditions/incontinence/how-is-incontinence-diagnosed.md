@@ -13,7 +13,7 @@ last_modified_at: 2026-05-14
 last_evidence_review: 2026-05-14
 faq:
   - question: "What is urodynamic testing?"
-    answer: "Urodynamics is a set of tests that measure how well your bladder, urethra, and sphincter store and release urine. It involves placing a small catheter to fill the bladder while measuring pressures. It's not typically painful, though it can feel unusual. Most women with straightforward stress incontinence don't need urodynamics before treatment."
+    answer: "Urodynamics is a set of tests that measure how well your bladder, urethra, and sphincter store and release urine. It involves placing a small catheter to fill the bladder while measuring pressures. It's not typically painful, though it can feel unusual. Most women with straightforward stress incontinence don't need urodynamics before treatment; in the VALUE study of 630 women, a basic office evaluation worked just as well."
   - question: "Do I need to keep a bladder diary?"
     answer: "A bladder diary is one of the most helpful diagnostic tools. You'll track your fluid intake, bathroom visits, leaking episodes, and urgency for 2-3 days. This gives your doctor objective data about your bladder patterns."
   - question: "Will I need imaging or a scope test?"

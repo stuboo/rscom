@@ -13,7 +13,7 @@ last_modified_at: 2026-05-14
 last_evidence_review: 2026-05-14
 faq:
   - question: "How long do bulking agents last?"
-    answer: "The current preferred agent (polyacrylamide hydrogel, or Bulkamid) has data out to 7 years. In a study of 388 women, about two thirds maintained improvement or cure at 7 years. Some women do need a repeat injection over time, but durability is much better than with older agents."
+    answer: "The current preferred agent (polyacrylamide hydrogel, or Bulkamid) has data out to 7 years. In a study of 388 women, 65.5% maintained improvement or cure at 7 years. Some women do need a repeat injection over time, but durability is much better than with older agents."
   - question: "Is the injection painful?"
     answer: "We do this as an outpatient procedure under local anesthesia. It takes about 15 minutes. Most women describe mild discomfort rather than pain, and you can return to normal activities right away."
   - question: "How does a bulking agent compare to a sling?"

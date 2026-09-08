@@ -11,7 +11,7 @@ last_modified_at: 2026-09-06
 last_evidence_review: 2026-09-06
 faq:
   - question: "Can pelvic floor exercises reverse uterine prolapse?"
-    answer: "They reliably improve how prolapse feels but don't move it back into place. In the largest trial, 57% of women who did supervised pelvic floor therapy said their prolapse was better at a year, versus 45% who got only lifestyle advice. On exam, about 19% improved by one stage with therapy versus 8% without."
+    answer: "They reliably improve how prolapse feels but don't move it back into place. In the largest trial, the POPPY trial, 57% of women who did supervised pelvic floor therapy said their prolapse was better at a year, versus 45% who got only lifestyle advice. On exam, about 19% improved by one stage with therapy versus 8% without."
   - question: "Does a pessary cure prolapse?"
     answer: "No. A pessary is silicone support that holds the uterus and vaginal walls up while it's in place; take it out and the prolapse returns. It works well as support, though. About 78% of users report their symptoms are much or very much better, and roughly two-thirds are still using it a year later."
   - question: "Is prolapse surgery permanent?"

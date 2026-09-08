@@ -11,7 +11,7 @@ last_modified_at: 2026-06-01
 last_evidence_review: 2026-06-01
 faq:
   - question: "Is a pessary just a temporary fix before surgery?"
-    answer: "No. A pessary is a real long-term choice, not just a step before surgery. In a large national registry, most women who kept using a pessary stayed happy with it for years. Many women choose a pessary and never need surgery."
+    answer: "No. A pessary is a real long-term choice, not just a step before surgery. In the national Pelvic Floor Disorders Registry, 78% of women who kept using a pessary felt much or very much better at 1 year, and over 90% felt that way at 2 and 3 years. Many women choose a pessary and never need surgery."
   - question: "How long does a pessary last?"
     answer: "A silicone pessary can last for years. You or your doctor remove and clean it on a regular schedule. We replace it if it shows wear."
   - question: "Can I have sex with a pessary in?"

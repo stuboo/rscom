@@ -15,7 +15,7 @@ faq:
   - question: "At what age does incontinence typically start?"
     answer: "Incontinence can occur at any age. Many women first notice symptoms after childbirth, while others develop them during perimenopause or later. Age alone does not cause incontinence."
   - question: "Is it too late to treat incontinence at 70 or 80?"
-    answer: "No. Pelvic floor therapy, medications, and minimally invasive procedures all work well for older women. In a study of Medicare patients over 66, all treatment types showed good results."
+    answer: "No. Pelvic floor therapy, medications, and minimally invasive procedures all work well for older women. In a study of over 13,000 Medicare patients over 66, all treatment types showed good results."
   - question: "Should I just accept bladder leakage as I get older?"
     answer: "No. Incontinence becomes more common with age, but it is always treatable. A urogynecologist can help you find what works best for you."
 ---

@@ -13,7 +13,7 @@ last_modified_at: 2026-05-15
 last_evidence_review: 2026-05-15
 faq:
   - question: "How fast does prolapse progress?"
-    answer: "Most prolapse changes slowly. In one large study, 78% of women with untreated prolapse had no change at 16 months. About 10-20% see a stage increase over 2 years, and some prolapse actually improves on its own."
+    answer: "Most prolapse changes slowly. In one large study, 78% of women with untreated prolapse had no change at 16 months. About 11% have their prolapse move down by 2 centimeters or more over 3 years, and about 1 in 5 women see it improve on its own."
   - question: "Can I prevent prolapse from getting worse?"
     answer: "You can lower your chances. Keeping a healthy weight, treating chronic cough or constipation, learning safe lifting habits, and working on pelvic floor strength all help slow or prevent progression."
   - question: "At what point should I consider treatment?"

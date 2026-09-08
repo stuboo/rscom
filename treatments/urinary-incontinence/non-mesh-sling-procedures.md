@@ -17,7 +17,7 @@ faq:
   - question: "Do I have to try other treatments before surgery?"
     answer: "The AUA guideline does not require step therapy. A non-mesh fascial sling, a synthetic midurethral sling, a Burch colposuspension, and urethral bulking are all listed as first-line surgical options for stress incontinence. Your insurance may still ask you to try conservative measures first, but that is an insurance rule, not a medical one."
   - question: "What if I leak with urgency too, not just with coughing?"
-    answer: "A sling treats stress leakage, the kind that happens with coughing, laughing, or lifting. It does not treat urgency leakage. When you have both (mixed incontinence), I treat the more bothersome type first, because stress surgery can make urgency worse for a while. Adding pelvic floor therapy around the time of surgery lowers that risk."
+    answer: "A sling treats stress leakage, the kind that happens with coughing, laughing, or lifting. It does not treat urgency leakage. When you have both (mixed incontinence), I treat the more bothersome type first, because stress surgery can make urgency worse for a while. In the ESTEEM trial, adding pelvic floor therapy around the time of surgery lowered that risk."
 redirect_from:
   - /non-mesh-sling-procedures/
 ---

@@ -15,7 +15,7 @@ faq:
   - question: "Is it normal to leak urine when coughing?"
     answer: "It is common, affecting up to 1 in 3 women, but it is not something you have to accept as normal. It is a treatable medical condition called stress urinary incontinence."
   - question: "Can stress incontinence be fixed without surgery?"
-    answer: "Yes. Many women improve with pelvic floor physical therapy, weight management, and behavioral changes. Surgery is also an option if you prefer a more lasting fix. It depends on your goals and how much the leaking bothers you."
+    answer: "Yes. Many women improve with pelvic floor physical therapy, weight management, and behavioral changes. In one Cochrane review, women doing supervised pelvic floor therapy were 8 times more likely to report their leaking was cured compared to no treatment. Surgery is also an option if you prefer a more lasting fix. It depends on your goals and how much the leaking bothers you."
   - question: "What type of doctor treats urine leakage?"
     answer: "A urogynecologist is a specialist who completes a 3-year fellowship in female pelvic medicine after OB/GYN residency. They have advanced training in diagnosing and treating all types of urinary incontinence."
 ---

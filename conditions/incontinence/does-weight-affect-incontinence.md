@@ -13,7 +13,7 @@ last_modified_at: 2026-05-14
 last_evidence_review: 2026-05-14
 faq:
   - question: "How much weight loss is needed to improve incontinence?"
-    answer: "Losing 5-10% of body weight can reduce stress incontinence episodes by about half, and overall incontinence episodes by roughly 47%. For a 200-pound woman, that is just 10-20 pounds."
+    answer: "Losing 5-10% of body weight can reduce stress incontinence episodes by 58%, and overall incontinence episodes by roughly 47%. For a 200-pound woman, that is just 10-20 pounds."
   - question: "Does weight loss help all types of incontinence?"
     answer: "Weight loss has the strongest effect on stress incontinence. Urge incontinence episodes may improve somewhat in the short term, but the evidence for lasting urge improvement is weaker."
   - question: "Should I lose weight before considering surgery for incontinence?"

@@ -13,7 +13,7 @@ faq:
   - question: "Is cramping a normal symptom of uterine prolapse?"
     answer: "Not really. The symptoms prolapse is actually known for are a vaginal bulge, pelvic pressure, a low backache, and changes in how the bladder and bowels work. True cramping isn't on that list, so it shouldn't be blamed on the prolapse without a look at what else could be causing it."
   - question: "If it's not the prolapse, what's causing the cramping?"
-    answer: "Most often the pelvic floor muscles. When they get tight and short they ache and cramp and refer pain to the low back, lower abdomen, hips, and thighs, and it's usually worse with standing and better lying down. Somewhere between half and nine in ten people with chronic pelvic pain have a muscle component like this, and it's easy to miss on a standard exam."
+    answer: "Most often the pelvic floor muscles. When they get tight and short they ache and cramp and refer pain to the low back, lower abdomen, hips, and thighs, and it's usually worse with standing and better lying down. Somewhere between 50% and 90% of people with chronic pelvic pain have a muscle component like this, and it's easy to miss on a standard exam."
   - question: "What helps cramping from a tight pelvic floor?"
     answer: "Pelvic floor physical therapy, which teaches the muscles to relax and coordinate rather than squeeze harder. In studies of pelvic pain treated this way, roughly 60% to 80% of women improved. If the prolapse itself is the bother, a pessary helps about 78% of women feel much or very much improved at a year, and surgery is an option when support is what needs fixing."
   - question: "When should cramping be checked right away?"
