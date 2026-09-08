@@ -6,7 +6,8 @@ parent: Prolapse Treatments
 nav_order: 6
 description: "Mesh Augmentation for Prolapse Repair"
 permalink: /treatments/prolapse/mesh-augmented-repair
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-08
+last_evidence_review: 2026-09-08
 ---
 
 # Mesh Augmented Prolapse Repair
@@ -46,7 +47,7 @@ Dr. Stewart trusts the science that led to the FDA's decision and does not place
 
 ## Potential Risks and Complications
 
-While mesh offers durability, it also comes with specific risks. We use mesh because it's durable. For that durability, though, we trade some risk. The biggest risk we worry about is that the mesh could work its way through the skin of the vagina. This is called exposure or erosion and happens 2-5% of the time.
+While mesh offers durability, it also comes with specific risks. We use mesh because it's durable. For that durability, though, we trade some risk. The biggest risk we worry about is that the mesh could work its way through the skin of the vagina. This is called exposure or erosion, and it accrues over the years after surgery: estimates range from about 2% in contemporary robotic repairs to roughly 10% at seven years in the older open-surgery trials.
 
 Other potential risks include:
 
@@ -103,3 +104,11 @@ Mesh augmented repair might be a good option if:
 ## Making an Informed Decision
 
 The decision to use mesh in prolapse repair should be made after thorough discussion with your urogynecologist. They will help you understand the potential benefits and risks based on your individual situation, ensuring you can make an informed decision about your treatment.
+
+## References
+
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. Obstetrics & Gynecology. 2019. (Abdominal sacrocolpopexy with mesh has lower recurrence than native tissue apical repair, pooled OR 2.04; the April 2019 FDA order applies to transvaginal mesh for prolapse, not to abdominal mesh; CARE 7-year mesh complication rate 10.5%.)
+- Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse (E-CARE). JAMA. 2013. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919) (Through 7 years about 95% of women needed no further prolapse surgery; mesh erosion probability was 10.5% at 7 years, showing that exposure accrues over time rather than being a fixed early risk.)
+- Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667) (Mesh exposure after sacrocolpopexy was 3.8% with uterine-preserving hysteropexy versus 12.8% when a vaginal hysterectomy was done at the same time; the SUPeR trial reported 8% at 5 years.)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853) (Sacrocolpopexy gives greater anatomic durability than native tissue repair; abdominal mesh carries a more favorable risk-benefit profile than the withdrawn transvaginal mesh devices.)
+- Rardin CR, Duckett J, Milani AL, et al. Joint Position Statement on the Management of Mesh-Related Complications for the FPMRS Specialist. Female Pelvic Medicine & Reconstructive Surgery. 2020. [doi:10.1097/SPV.0000000000000853](https://doi.org/10.1097/SPV.0000000000000853) (Evidence-graded guidance on managing mesh exposure and pain by device type; small asymptomatic type I polypropylene exposures may be observed, while bothersome exposures are treated with office trimming or surgical excision.)
