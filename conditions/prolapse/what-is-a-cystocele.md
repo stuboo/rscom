@@ -61,5 +61,5 @@ When symptoms do bother you, we talk through the options together and choose wha
 4. Hooper GL, Moynihan L, Leegant A, et al. Vaginal pessary use and management for pelvic organ prolapse. *Urogynecology*. 2023;29(3):203-218. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
 5. Lamblin G, Delorme E, Cosson M, Rubod C. Cystocele and functional anatomy of the pelvic floor: review and update of the various theories. *Int Urogynecol J*. 2016;27(9):1297-1305. [doi:10.1007/s00192-015-2832-4](https://doi.org/10.1007/s00192-015-2832-4)
 6. Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS best practice statement: evaluation and counseling of patients with pelvic organ prolapse. *Urogynecology*. 2025;31(1):e1-e14. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-7. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery. *Urogynecology*. 2025;31(2):e135-e145. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+7. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery. *Urogynecology*. 2025;31(5):496-506. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
 

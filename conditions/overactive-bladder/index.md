@@ -130,6 +130,6 @@ Which option makes sense depends on your symptoms, what you've already tried, an
 
 ## References
 
-1. Cameron AP, Engel WJ, Engel CJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+1. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 2. Coyne KS, Sexton CC, Vats V, Thompson CL, Kopp ZS, Milsom I. National community prevalence of overactive bladder in the United States stratified by sex and age. *Urology*. 2011;77(5):1081-1087. [doi:10.1016/j.urology.2010.08.039](https://doi.org/10.1016/j.urology.2010.08.039)
 3. National Institute of Diabetes and Digestive and Kidney Diseases. [Bladder Control Problems (Urinary Incontinence)](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems). Accessed 2026.
