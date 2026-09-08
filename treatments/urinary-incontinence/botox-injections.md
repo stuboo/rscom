@@ -9,7 +9,6 @@ permalink: /treatments/urinary-incontinence/botox-injections
 redirect_from:
   - /bladder-botox-therapy/
 last_modified_at: 2026-03-15
-last_reviewed_date: 2026-03-15
 ---
 
 # BOTOX® Injections for Urinary Incontinence

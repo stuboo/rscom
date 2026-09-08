@@ -9,7 +9,6 @@ permalink: /treatments/urinary-incontinence/urethral-bulking
 redirect_from:
   - /urethral-bulking-bulkamid/
 last_modified_at: 2026-03-15
-last_reviewed_date: 2026-03-15
 ---
 
 # Urethral Bulking for Stress Urinary Incontinence

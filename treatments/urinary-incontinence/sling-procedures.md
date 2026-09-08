@@ -9,7 +9,6 @@ permalink: /treatments/urinary-incontinence/sling-procedures
 redirect_from:
   - /mesh-sling-procedures/
 last_modified_at: 2026-03-15
-last_reviewed_date: 2026-03-15
 ---
 
 # Sling Procedures for Urinary Incontinence

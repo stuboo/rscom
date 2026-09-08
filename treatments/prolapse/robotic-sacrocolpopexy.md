@@ -10,7 +10,6 @@ published: true
 redirect_from:
   - /da-vinci-robotic-sacrocolpopexy/
 last_modified_at: 2026-03-15
-last_reviewed_date: 2026-03-15
 ---
 
 # Robotic Sacrocolpopexy for Pelvic Organ Prolapse
