@@ -32,4 +32,4 @@ Phone: <a href="tel:+19202888510">(920) 288-8510</a>
 
 ## Questions about this website
 
-For questions about this site or its [privacy policy](/privacy-policy), call the office at (920) 288-8510 and ask for my care team.
+For questions about this website or its [privacy policy](/privacy-policy), message me on X at [@stuboo](https://x.com/stuboo). The phone number above is for scheduling appointments only.
