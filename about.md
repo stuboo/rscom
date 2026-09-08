@@ -4,7 +4,7 @@ title: About
 description: "Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, WI specializing in pelvic organ prolapse, urinary incontinence, and reconstructive pelvic surgery."
 permalink: /about
 nav_order: 6
-last_modified_at: 2026-05-29
+last_modified_at: 2026-09-08
 last_reviewed_date: 2026-05-29
 ---
 
@@ -70,6 +70,12 @@ Beyond clinical care, I'm active in research on surgical outcomes for pelvic org
 I have no financial relationships with any device or drug company. I'm not a consultant, proctor, or speaker for any of them. I don't sit on advisory boards, and I don't take royalties or research funding from them.
 
 So when I name a specific device or medication on this site, it's because it's one of your options. I get nothing either way, whichever one you pick.
+
+## How I ended up in Green Bay
+
+You may have run into me before I got here. In late 2021 I asked on Twitter (I post as [@stuboo](https://x.com/stuboo)) how people would design a gynecology office if they were starting over. I was building my own practice, the Midwest Center, in the Indianapolis area at the time. The question got a few thousand replies and then write-ups in the Washington Post, Fortune, and elsewhere.
+
+Before Indianapolis I trained and practiced in Louisville. I've since moved to Green Bay, Wisconsin, where I see patients at Aurora BayCare Medical Center. That's where I practice now. Some older profiles and news stories still place me in Indiana or Kentucky; those are where I was, not where I am.
 
 ## In the media
 

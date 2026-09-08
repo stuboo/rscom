@@ -98,9 +98,15 @@
     "https://scholar.google.com/citations?user=e8TJzPIAAAAJ&hl=en",
     "https://www.doximity.com/pub/j-ryan-stewart-do",
     "https://health.usnews.com/doctors/j-ryan-stewart-760452",
-    "https://www.healthgrades.com/physician/dr-james-stewart-bu6mz",
-    "https://doctor.webmd.com/doctor/james-stewart-28a7f69c-dec5-11e7-9f4c-005056a225bf-overview"
+    "https://www.healthgrades.com/physician/dr-james-stewart-bu6mz"
   ],
+  {%- comment -%}
+    WebMD (james-stewart-28a7f69c…-overview) is intentionally omitted from sameAs.
+    It still lists Louisville, KY / Norton Urogynecology Center, contradicting the
+    Green Bay location claim, so vouching for it teaches crawlers a second location
+    and drives the Indianapolis/Louisville identity split (T-0007). A correction was
+    requested 2026-08-30; re-add this URL only once the profile shows Green Bay.
+  {%- endcomment -%}
   "subjectOf": [
     {
       "@type": "VideoObject",
