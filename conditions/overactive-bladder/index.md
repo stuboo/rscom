@@ -7,6 +7,8 @@ nav_order: 3_
 has_children: true
 description: "Overactive Bladder"
 permalink: /conditions/overactive-bladder
+redirect_from:
+  - /better-bladder-course/
 faq:
 - question: "What is Overactive Bladder (OAB)?"
   answer: "Overactive Bladder is not a disease, but a group of urinary symptoms including urgency, frequency, nocturia, and sometimes urge incontinence. It affects both women and men of all ages and is not simply a result of getting older."
