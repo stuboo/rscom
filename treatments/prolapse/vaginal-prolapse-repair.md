@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Vaginal Prolapse Repair
+procedure_name: "Vaginal Prolapse Repair"
 parent: Prolapse Treatments
 nav_order: 6
 description: "How I repair pelvic organ prolapse through the vagina: apical suspension, anterior and posterior repair, colpocleisis, and how I decide with you."

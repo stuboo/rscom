@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Non-Mesh Sling Procedures
+procedure_name: "Non-Mesh Sling Procedure"
 parent: Urinary Incontinence Treatments
 nav_order: 8
 description: "A non-mesh (autologous fascial) sling uses your own tissue to treat stress incontinence. How it compares with mesh slings, Burch, and bulking, and who it fits."
