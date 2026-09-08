@@ -86,4 +86,4 @@ We may update this privacy policy from time to time. Changes will be reflected o
 
 ## Contact
 
-If you have questions about this privacy policy, you can reach Dr. Ryan Stewart using the details on the [contact page](/contact).
+If you have questions about this privacy policy, you can reach me on X at [@stuboo](https://x.com/stuboo).

@@ -29,7 +29,3 @@ Ryan Stewart, DO<br>
 Green Bay, WI 54311<br>
 Phone: <a href="tel:+19202888510">(920) 288-8510</a>
 </address>
-
-## Questions about this website
-
-For questions about this website or its [privacy policy](/privacy-policy), message me on X at [@stuboo](https://x.com/stuboo). The phone number above is for scheduling appointments only.
