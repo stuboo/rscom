@@ -59,7 +59,7 @@ Involuntary leakage of urine. The main types are:
 
 Frequent, sudden urges to urinate that are hard to control, often with increased frequency and waking up at night to urinate.
 
-## Recurrent urinary tract infections (UTIs)
+## [Recurrent urinary tract infections (UTIs)](/conditions/recurrent-urinary-tract-infections)
 
 Some women get UTIs frequently. I evaluate what's driving the recurrence and develop a management plan.
 
@@ -71,7 +71,7 @@ A chronic condition that causes bladder pain and pressure, often with urinary fr
 
 The inability to control bowel movements, leading to unexpected leakage of stool.
 
-## Vaginal fistulas
+## [Vaginal fistulas](/conditions/vaginal-fistula)
 
 Abnormal connections between the vagina and other pelvic organs (like the bladder or rectum) that can cause leakage of urine or stool into the vagina.
 
@@ -79,7 +79,7 @@ Abnormal connections between the vagina and other pelvic organs (like the bladde
 
 Chronic pelvic pain can have many causes and is often related to other pelvic floor disorders.
 
-## Genitourinary syndrome of menopause (GSM)
+## [Genitourinary syndrome of menopause (GSM)](/conditions/genitourinary-syndrome-of-menopause)
 
 Previously called vaginal atrophy, GSM includes menopausal symptoms like vaginal dryness, irritation, painful intercourse, and recurrent urinary tract infections.
 

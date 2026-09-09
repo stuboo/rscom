@@ -20,9 +20,9 @@ I specialize in treating:
 - [Urinary incontinence](/conditions/urinary-incontinence)
 - [Overactive bladder](/conditions/overactive-bladder)
 - [Fecal incontinence](/conditions/fecal-incontinence)
-- Vaginal fistulas
-- Recurrent urinary tract infections
-- Genitourinary syndrome of menopause (GSM)
+- [Vaginal fistulas](/conditions/vaginal-fistula)
+- [Recurrent urinary tract infections](/conditions/recurrent-urinary-tract-infections)
+- [Genitourinary syndrome of menopause (GSM)](/conditions/genitourinary-syndrome-of-menopause)
 
 ### About Me
 - Board certified in Urogynecology & Reconstructive Pelvic Surgery (URPS)
