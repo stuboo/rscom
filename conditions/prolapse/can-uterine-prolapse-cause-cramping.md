@@ -3,6 +3,7 @@ layout: page
 title: Can Uterine Prolapse Cause Cramping?
 nav_order: 11
 parent: Pelvic Organ Prolapse
+condition_name: Uterine Prolapse
 description: "Cramping isn't a classic prolapse symptom. What prolapse actually feels like, when tight pelvic floor muscles are the real source, and what else to rule out."
 permalink: /conditions/prolapse/can-uterine-prolapse-cause-cramping
 published: true

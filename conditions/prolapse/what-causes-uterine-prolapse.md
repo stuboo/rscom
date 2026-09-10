@@ -3,6 +3,7 @@ layout: page
 title: What Causes Uterine Prolapse?
 nav_order: 6
 parent: Pelvic Organ Prolapse
+condition_name: Uterine Prolapse
 description: "Uterine prolapse comes from weakened pelvic floor support. The main drivers are childbirth, aging, menopause, connective tissue, and pressure in the belly."
 permalink: /conditions/prolapse/what-causes-uterine-prolapse
 published: true

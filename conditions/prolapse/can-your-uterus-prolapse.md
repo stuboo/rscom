@@ -3,6 +3,7 @@ layout: page
 title: Can Your Uterus Prolapse?
 nav_order: 10
 parent: Pelvic Organ Prolapse
+condition_name: Uterine Prolapse
 description: "Yes, the uterus can prolapse when pelvic floor support weakens. Who is most at risk, how it is staged with POP-Q, and why symptoms don't always match the exam."
 permalink: /conditions/prolapse/can-your-uterus-prolapse
 published: true

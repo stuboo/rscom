@@ -3,6 +3,7 @@ layout: page
 title: How Fast Does Uterine Prolapse Progress?
 nav_order: 13
 parent: Pelvic Organ Prolapse
+condition_name: Uterine Prolapse
 description: "Most uterine prolapse changes slowly over years, and it can worsen, hold steady, or even ease on its own. Here's what the research shows and what speeds it up."
 permalink: /conditions/prolapse/how-fast-does-uterine-prolapse-progress
 published: true

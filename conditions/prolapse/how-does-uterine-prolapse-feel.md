@@ -3,6 +3,7 @@ layout: page
 title: How Does Uterine Prolapse Feel?
 nav_order: 8
 parent: Pelvic Organ Prolapse
+condition_name: Uterine Prolapse
 description: "Uterine prolapse usually feels like a bulge, pressure, or heaviness low in the pelvis that eases lying down. How bad it feels rarely matches the exam."
 permalink: /conditions/prolapse/how-does-uterine-prolapse-feel
 published: true

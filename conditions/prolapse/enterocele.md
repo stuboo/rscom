@@ -3,6 +3,7 @@ layout: page
 title: Enterocele
 nav_order: 4
 parent: Pelvic Organ Prolapse
+condition_name: Enterocele
 description: "An enterocele is small bowel bulging into the top of the vagina. What it feels like, why most bulges need no imaging, and how pessary and surgery compare."
 permalink: /conditions/enterocele
 published: true

@@ -3,6 +3,7 @@ layout: page
 title: Can Uterine Prolapse Be Reversed?
 nav_order: 7
 parent: Pelvic Organ Prolapse
+condition_name: Uterine Prolapse
 description: "Pelvic floor therapy and a pessary relieve uterine prolapse symptoms but don't move the anatomy back. Surgery restores it. What reversal really means."
 permalink: /conditions/prolapse/can-uterine-prolapse-be-reversed
 published: true
