@@ -32,6 +32,43 @@
 {% endcomment %}
 {%- assign review_date = page.last_evidence_review | default: page.last_reviewed_date -%}
 {%- assign page_url = page.url | absolute_url -%}
+{%- comment -%}
+  Resolve the free-text *_name a page passed into a canonical concept from
+  _data/medical_concepts.yml (T-0027). A match supplies a stable @id shared by
+  every page about the same disease, ICD-10 + MeSH `code`s, `sameAs` grounding,
+  and an authoritative @type (so a mislabeled therapy stops emitting as a
+  condition). No match falls back to the inline node this file emitted before:
+  the page's @type, a name-slugified @id, no code, no sameAs.
+{%- endcomment -%}
+{%- assign about_name = nil -%}
+{%- assign about_type = nil -%}
+{%- if include.condition_name -%}{%- assign about_name = include.condition_name -%}{%- assign about_type = "MedicalCondition" -%}
+{%- elsif include.procedure_name -%}{%- assign about_name = include.procedure_name -%}{%- assign about_type = "MedicalProcedure" -%}
+{%- elsif include.device_name -%}{%- assign about_name = include.device_name -%}{%- assign about_type = "MedicalDevice" -%}
+{%- elsif include.therapy_name -%}{%- assign about_name = include.therapy_name -%}{%- assign about_type = "MedicalTherapy" -%}
+{%- endif -%}
+{%- assign concept = nil -%}
+{%- if about_name -%}
+  {%- assign q = about_name | downcase | strip -%}
+  {%- for c in site.data.medical_concepts -%}
+    {%- assign cn = c.name | downcase | strip -%}
+    {%- if cn == q -%}{%- assign concept = c -%}{%- break -%}{%- endif -%}
+    {%- if c.aliases -%}
+      {%- for a in c.aliases -%}
+        {%- assign an = a | downcase | strip -%}
+        {%- if an == q -%}{%- assign concept = c -%}{%- break -%}{%- endif -%}
+      {%- endfor -%}
+    {%- endif -%}
+    {%- if concept -%}{%- break -%}{%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
+{%- if concept -%}{%- assign about_type = concept.type -%}{%- endif -%}
+{%- case about_type -%}
+{%- when "MedicalProcedure" -%}{%- assign about_prefix = "procedure" -%}
+{%- when "MedicalDevice" -%}{%- assign about_prefix = "device" -%}
+{%- when "MedicalTherapy" -%}{%- assign about_prefix = "therapy" -%}
+{%- else -%}{%- assign about_prefix = "condition" -%}
+{%- endcase -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -49,33 +86,31 @@
 {% endif %}  "reviewedBy": { "@id": "{{ site.url }}/#physician" },
   "author": { "@id": "{{ site.url }}/#physician" },
   "publisher": { "@id": "{{ site.url }}/#physician" }
-{%- if include.condition_name %},
+{%- if about_name %},
   "about": {
-    "@type": "MedicalCondition",
-    "@id": "{{ site.url }}/#condition-{{ include.condition_name | slugify }}",
-    "name": {{ include.condition_name | jsonify }},
+    "@type": {{ about_type | jsonify }},
+{%- if concept %}
+    "@id": "{{ site.url }}/#{{ about_prefix }}-{{ concept.id }}",
+    "name": {{ concept.name | jsonify }},
+{%- if concept.codes %}
+    "code": [
+{%- for code in concept.codes %}
+      { "@type": "MedicalCode", "codeValue": {{ code.value | jsonify }}, "codingSystem": {{ code.system | jsonify }} }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+    ],
+{%- endif %}{% if concept.same_as %}
+    "sameAs": [
+{%- for s in concept.same_as %}
+      {{ s | jsonify }}{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+    ],
+{%- endif %}
     "relevantSpecialty": "https://schema.org/Gynecologic"
-  }
-{%- elsif include.procedure_name %},
-  "about": {
-    "@type": "MedicalProcedure",
-    "@id": "{{ site.url }}/#procedure-{{ include.procedure_name | slugify }}",
-    "name": {{ include.procedure_name | jsonify }},
+{%- else %}
+    "@id": "{{ site.url }}/#{{ about_prefix }}-{{ about_name | slugify }}",
+    "name": {{ about_name | jsonify }},
     "relevantSpecialty": "https://schema.org/Gynecologic"
-  }
-{%- elsif include.device_name %},
-  "about": {
-    "@type": "MedicalDevice",
-    "@id": "{{ site.url }}/#device-{{ include.device_name | slugify }}",
-    "name": {{ include.device_name | jsonify }},
-    "relevantSpecialty": "https://schema.org/Gynecologic"
-  }
-{%- elsif include.therapy_name %},
-  "about": {
-    "@type": "MedicalTherapy",
-    "@id": "{{ site.url }}/#therapy-{{ include.therapy_name | slugify }}",
-    "name": {{ include.therapy_name | jsonify }},
-    "relevantSpecialty": "https://schema.org/Gynecologic"
+{%- endif %}
   }
 {%- endif %}
 }

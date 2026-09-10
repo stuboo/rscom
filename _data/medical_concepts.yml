@@ -1,0 +1,158 @@
+# Canonical medical concept registry (T-0027).
+#
+# One entry per real clinical entity the site writes about. medical-page-schema.html
+# resolves the free-text name a page passes (condition_name / procedure_name /
+# device_name / therapy_name) against `name` + `aliases` here, then emits ONE
+# canonical node: a stable @id, ICD-10 + MeSH `code`s, and `sameAs` grounding links.
+#
+# Why this exists: before this file, every page slugified whatever display name it
+# happened to use, so "Uterine Prolapse" and "Pelvic Organ Prolapse" became two
+# unrelated blank nodes. Now every page about the same disease points at the same
+# @id, and that @id carries a code an AI system can join on (N81.4, D014596, ...).
+#
+# `type` is authoritative: it overrides the *_name param the page passed, so a page
+# that mislabels a therapy as a condition (e.g. Vaginal Estrogen via condition_name)
+# still emits the correct @type once its alias is listed here.
+#
+# Codes are clinical assertions on a physician's site — verify every codeValue before
+# deploy. ICD-10 = ICD-10-CM. MeSH values are descriptor UIs (meshb.nlm.nih.gov).
+# Omit a `codes` row rather than guess; an ungrounded canonical @id still beats a
+# wrong code. `aliases` must list every spelling that appears in page frontmatter
+# (see: grep -rhoP '^condition_name:' across the repo).
+
+- id: urinary-incontinence
+  type: MedicalCondition
+  name: Urinary Incontinence
+  aliases: [Incontinence]
+  codes:
+    - { system: ICD-10-CM, value: R32 }
+    - { system: MeSH, value: D014549 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D014549
+    - https://en.wikipedia.org/wiki/Urinary_incontinence
+    - https://medlineplus.gov/urinaryincontinence.html
+
+- id: stress-urinary-incontinence
+  type: MedicalCondition
+  name: Stress Urinary Incontinence
+  codes:
+    - { system: ICD-10-CM, value: N39.3 }
+    - { system: MeSH, value: D014550 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D014550
+    - https://en.wikipedia.org/wiki/Stress_incontinence
+
+- id: urge-urinary-incontinence
+  type: MedicalCondition
+  name: Urge Urinary Incontinence
+  codes:
+    - { system: ICD-10-CM, value: N39.41 }
+    - { system: MeSH, value: D053202 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D053202
+
+- id: mixed-urinary-incontinence
+  type: MedicalCondition
+  name: Mixed Urinary Incontinence
+  codes:
+    - { system: ICD-10-CM, value: N39.46 }
+
+- id: overactive-bladder
+  type: MedicalCondition
+  name: Overactive Bladder
+  codes:
+    - { system: ICD-10-CM, value: N32.81 }
+    - { system: MeSH, value: D053201 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D053201
+    - https://en.wikipedia.org/wiki/Overactive_bladder
+
+- id: fecal-incontinence
+  type: MedicalCondition
+  name: Fecal Incontinence
+  codes:
+    - { system: ICD-10-CM, value: R15.9 }
+    - { system: MeSH, value: D005242 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D005242
+    - https://en.wikipedia.org/wiki/Fecal_incontinence
+    - https://medlineplus.gov/bowelincontinence.html
+
+- id: pelvic-organ-prolapse
+  type: MedicalCondition
+  name: Pelvic Organ Prolapse
+  aliases: [Vaginal Prolapse]
+  codes:
+    - { system: ICD-10-CM, value: N81.9 }
+    - { system: MeSH, value: D056887 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D056887
+    - https://en.wikipedia.org/wiki/Pelvic_organ_prolapse
+
+- id: cystocele
+  type: MedicalCondition
+  name: Cystocele
+  codes:
+    - { system: ICD-10-CM, value: N81.10 }
+    - { system: MeSH, value: D052858 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D052858
+    - https://en.wikipedia.org/wiki/Cystocele
+
+- id: rectocele
+  type: MedicalCondition
+  name: Rectocele
+  codes:
+    - { system: ICD-10-CM, value: N81.6 }
+    - { system: MeSH, value: D020047 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D020047
+    - https://en.wikipedia.org/wiki/Rectocele
+
+- id: uterine-prolapse
+  type: MedicalCondition
+  name: Uterine Prolapse
+  codes:
+    - { system: ICD-10-CM, value: N81.4 }
+    - { system: MeSH, value: D014596 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D014596
+    - https://en.wikipedia.org/wiki/Uterine_prolapse
+
+- id: recurrent-uti
+  type: MedicalCondition
+  name: Recurrent Urinary Tract Infections
+  codes:
+    - { system: ICD-10-CM, value: N39.0 }
+    - { system: MeSH, value: D014552 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D014552
+    - https://medlineplus.gov/urinarytractinfections.html
+
+- id: genitourinary-syndrome-of-menopause
+  type: MedicalCondition
+  name: Genitourinary Syndrome of Menopause
+  codes:
+    - { system: ICD-10-CM, value: N95.2 }
+  same_as:
+    - https://en.wikipedia.org/wiki/Atrophic_vaginitis
+
+- id: vaginal-fistula
+  type: MedicalCondition
+  name: Vaginal Fistula
+  aliases: [Vaginal Fistulas]
+  codes:
+    - { system: ICD-10-CM, value: N82.9 }
+    - { system: MeSH, value: D014630 }
+  same_as:
+    - https://meshb.nlm.nih.gov/record/ui?ui=D014630
+    - https://en.wikipedia.org/wiki/Vaginal_fistula
+
+# Not a condition. Listed so the 17 pages that pass it via condition_name emit the
+# correct @type (MedicalTherapy) instead of asserting a treatment is a disease.
+- id: vaginal-estrogen
+  type: MedicalTherapy
+  name: Vaginal Estrogen
+  same_as:
+    - https://en.wikipedia.org/wiki/Estriol
+    - https://medlineplus.gov/druginfo/meds/a682922.html
