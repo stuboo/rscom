@@ -119,6 +119,16 @@
     - https://meshb.nlm.nih.gov/record/ui?ui=D014596
     - https://en.wikipedia.org/wiki/Uterine_prolapse
 
+# No specific MeSH descriptor exists for enterocele (it is only an entry term
+# mapping to the generic "Hernia" D006547), so MeSH is intentionally omitted.
+- id: enterocele
+  type: MedicalCondition
+  name: Enterocele
+  codes:
+    - { system: ICD-10-CM, value: N81.5 }
+  same_as:
+    - https://en.wikipedia.org/wiki/Enterocele
+
 - id: recurrent-uti
   type: MedicalCondition
   name: Recurrent Urinary Tract Infections
