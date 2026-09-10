@@ -71,12 +71,6 @@ I have no financial relationships with any device or drug company. I'm not a con
 
 So when I name a specific device or medication on this site, it's because it's one of your options. I get nothing either way, whichever one you pick.
 
-## How I ended up in Green Bay
-
-You may have run into me before I got here. In late 2021 I asked on Twitter (I post as [@stuboo](https://x.com/stuboo)) how people would design a gynecology office if they were starting over. I was building my own practice, the Midwest Center, in the Indianapolis area at the time. The question got a few thousand replies and then write-ups in the Washington Post, Fortune, and elsewhere.
-
-Before Indianapolis I trained and practiced in Louisville. I've since moved to Green Bay, Wisconsin, where I see patients at Aurora BayCare Medical Center. That's where I practice now. Some older profiles and news stories still place me in Indiana or Kentucky; those are where I was, not where I am.
-
 ## In the media
 
 My work and commentary have been covered by national and regional outlets:
