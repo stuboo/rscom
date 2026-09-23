@@ -7,6 +7,7 @@ nav_order: 4
 description: "Pessary Use for Prolapse"
 permalink: /treatments/prolapse/pessary
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
 ---
 
 # Pessary for Prolapse Treatment
@@ -42,7 +43,7 @@ There are many types of pessaries, including:
 - Donut pessaries
 - Inflatable pessaries
 
-Your urogynecologist will help determine which type is best suited for your specific needs.
+Broadly, pessaries fall into two groups: support pessaries (such as the ring and ring-with-support), which rest against the vaginal walls to lift the prolapse, and space-filling pessaries (such as the Gellhorn, donut, and cube), which occupy the vaginal space to hold the organs in place. The ring is the most commonly used and works across all types and stages of prolapse. Your urogynecologist will help determine which type is best suited for your specific needs.
 
 ## Benefits of Using a Pessary
 
@@ -51,6 +52,8 @@ Your urogynecologist will help determine which type is best suited for your spec
 3. Allows for continued sexual activity (with most types)
 4. Can be easily removed and reinserted
 5. May help determine if surgery would be beneficial
+
+Major guidelines recommend that a pessary be offered to any woman with symptomatic prolapse who is considering treatment, as an alternative to surgery. It is also a good option for a woman who wishes to become pregnant in the future.
 
 ## The Fitting Process
 
@@ -62,7 +65,7 @@ Getting the right fit is crucial for comfort and effectiveness. Here's what to e
 4. You'll provide feedback on comfort and fit
 5. Adjustments will be made as necessary
 
-It may take a few tries to find the perfect fit, so patience is key. In general, we're able to successfully fit 90% of patients with a pessary and 50% are still wearing them a year later.
+It may take a few tries to find the perfect fit, so patience is key. In general, we're able to successfully fit about 90% of patients with a pessary, and roughly half are still wearing them a year later.
 
 ## Living with a Pessary
 
@@ -95,16 +98,16 @@ While many women use pessaries successfully, some challenges may include:
 - Initial discomfort as you adjust to the device
 - Difficulty with insertion or removal
 - Vaginal discharge or odor
-- Rare cases of vaginal irritation or ulceration
+- Vaginal irritation or, less commonly, a sore or ulceration where the pessary presses on the vaginal wall
 
-Most of these issues can be addressed with proper care and follow-up.
+Most of these issues can be addressed with proper care and follow-up. Minor irritation is common and usually resolves with adjustment, more frequent cleaning, or vaginal estrogen. Sores are less common, and catching them early is the main reason regular check-ups matter.
 
 Regardless of the type:
 
 - Follow your doctor's specific instructions for cleaning and maintenance
 - Attend all scheduled follow-up appointments
 - Report any discomfort or unusual symptoms promptly
-- Replace your pessary as recommended (usually every 6-12 months)
+- Replace your pessary as recommended
 
 Your healthcare provider will guide you on the best care routine for your specific pessary and situation.
 
@@ -140,3 +143,14 @@ If you're interested in trying a pessary:
 3. Be ready to discuss your lifestyle and treatment goals
 
 Remember, finding the right pessary may take some trial and error, but many women find it to be an effective and comfortable solution for managing prolapse.
+
+## References
+
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Tulikangas P. Pelvic Organ Prolapse (ACOG Practice Bulletin No. 214). Obstetrics & Gynecology. 2019.
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Cundiff GW, Amundsen CL, Bent AE, et al. The PESSRI study: symptom relief outcomes of a randomized crossover trial of the ring and Gellhorn pessaries. American Journal of Obstetrics and Gynecology. 2007. [doi:10.1016/j.ajog.2007.02.018](https://doi.org/10.1016/j.ajog.2007.02.018)
+- Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). Neurourology and Urodynamics. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Yurteri-Kaplan LA, Meyn L, Moalli PA, et al. Outcomes of Pessary Use at 1 Year in Women Treated for Pelvic Organ Prolapse in a Large Multicenter Registry. Urogynecology. 2022. [doi:10.1097/SPV.0000000000001279](https://doi.org/10.1097/SPV.0000000000001279)
