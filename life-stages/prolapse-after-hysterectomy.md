@@ -1,14 +1,14 @@
 ---
 layout: persona
-title: "Pelvic Organ Prolapse After Hysterectomy"
+title: "Bladder or Vault Prolapse After Hysterectomy"
 parent: Life Stages & Pelvic Health
 nav_order: 1
-description: "Prolapse can develop after hysterectomy when the top of the vagina loses support. Learn why it happens and how Dr. Stewart can help."
+description: "Pressure or a bulge after a hysterectomy? The top of the vagina can drop and pull the bladder or rectum down with it. Learn the signs and your treatment options."
 permalink: /life-stages/prolapse-after-hysterectomy
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-30
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-05-30
 faq:
   - question: "How common is prolapse after a hysterectomy?"
