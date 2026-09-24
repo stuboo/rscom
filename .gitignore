@@ -34,3 +34,7 @@ scripts/ralph/
 
 # local-only agent stub (full tooling lives in ~/projects/rscom-tools)
 CLAUDE.md
+
+# local-only research exports and skill bundles (root files would be served publicly)
+google_scholar_publications_2026-03-15.csv
+patient-readability.skill
