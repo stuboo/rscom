@@ -1,15 +1,15 @@
 ---
 layout: question
-title: "What Happens If Prolapse Is Left Untreated?"
+title: "Untreated Prolapse: Does It Get Worse?"
 parent: Pelvic Organ Prolapse
 nav_order: 25
-description: "Untreated pelvic organ prolapse usually progresses slowly but rarely causes serious medical harm. Learn what to expect and when treatment becomes important."
+description: "Most prolapse changes slowly. In one study, 78% of untreated cases looked the same 16 months later. Learn what to expect and when treatment makes sense."
 permalink: /conditions/prolapse/what-happens-if-prolapse-is-left-untreated
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-05-15
 faq:
   - question: "Is untreated prolapse dangerous?"

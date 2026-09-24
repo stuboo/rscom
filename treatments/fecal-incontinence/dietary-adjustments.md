@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Dietary Adjustments
+title: "Bowel Incontinence Diet: Foods That Help"
 therapy_name: "Dietary Modification"
 parent: Fecal Incontinence Treatments
 nav_order: 2
-description: "Diet Changes for Fecal Incontinence"
+description: "Firmer stool is easier to control. Learn which foods and fiber help with bowel leakage, which make it worse, and how a food diary can find your triggers."
 permalink: /treatments/fecal-incontinence/dietary-adjustments
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-09-23
 references:
   - author: "Brown HW, Dyer KY, Rogers RG"

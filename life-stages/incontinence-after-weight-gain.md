@@ -1,14 +1,14 @@
 ---
 layout: persona
-title: "Urinary Incontinence and Weight"
+title: "Can Weight Gain Cause Bladder Leakage?"
 parent: Life Stages & Pelvic Health
 nav_order: 10
-description: "Excess weight is a modifiable risk factor for incontinence. Even modest weight loss can improve symptoms."
+description: "Extra weight presses on your bladder all day. Women with a BMI of 30 to 34 are about 3 times as likely to leak, and losing 5 to 10% can cut leaks nearly in half."
 permalink: /life-stages/incontinence-after-weight-gain
 condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-16
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-05-16
 faq:
   - question: "How much weight loss helps incontinence?"

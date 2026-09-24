@@ -1,15 +1,15 @@
 ---
 layout: question
-title: "How Long Is Recovery from Prolapse Surgery?"
+title: "Prolapse Surgery Recovery, Week by Week"
 parent: Pelvic Organ Prolapse
 nav_order: 22
-description: "Prolapse surgery recovery typically takes 4-6 weeks. Learn what to expect during each stage of healing and when you can return to normal activities."
+description: "Most women are back to normal activities in 4 to 6 weeks. See when you can drive, return to work, lift, and have sex again after prolapse repair."
 permalink: /conditions/prolapse/how-long-is-recovery-from-prolapse-surgery
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-05-15
 faq:
   - question: "How soon can I drive after prolapse surgery?"

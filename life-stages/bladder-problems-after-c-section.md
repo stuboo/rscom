@@ -1,14 +1,14 @@
 ---
 layout: persona
-title: "Bladder Problems After C-Section"
+title: "Can a C-Section Cause Bladder Problems?"
 parent: Life Stages & Pelvic Health
 nav_order: 8
-description: "C-section doesn't prevent pelvic floor problems. Pregnancy itself strains the pelvic floor. Learn why bladder issues occur and what helps."
+description: "Yes. One in four women who had a C-section before labor still leaked urine 6 weeks later. Learn why pregnancy strains the bladder and what helps."
 permalink: /life-stages/bladder-problems-after-c-section
 condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-16
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-05-16
 faq:
   - question: "Does C-section prevent all pelvic floor problems?"
