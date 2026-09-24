@@ -24,11 +24,18 @@ references:
     journal: "International Urogynecology Journal"
     year: 2017
     doi: "https://doi.org/10.1007/s00192-016-3140-3"
+image:
+  path: /assets/images/oatmeal-banana-bowel-incontinence-diet.jpg
+  width: 1024
+  height: 683
+  alt: "Bowl of oatmeal topped with sliced banana, chia seeds, and walnuts"
 ---
 
 # Dietary Adjustments for Fecal Incontinence
 
 Making changes to your diet can be a powerful and non-invasive way to manage fecal incontinence. The right dietary adjustments can help regulate bowel movements, improve stool consistency, and reduce the frequency of accidents. Diet and stool-consistency changes are part of first-line, conservative care, and most women with mild symptoms improve with these measures.
+
+<img src="/assets/images/oatmeal-banana-bowel-incontinence-diet.jpg" width="1024" height="683" style="max-width:100%;height:auto;border-radius:8px" alt="Bowl of oatmeal topped with sliced banana, chia seeds, and walnuts. Oats and bananas are both sources of soluble fiber, which helps firm up stool.">
 
 ## Why Diet Matters
 
