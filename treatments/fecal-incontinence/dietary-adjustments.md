@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Bowel Incontinence Diet: Foods That Help"
+nav_title: Dietary Adjustments
 therapy_name: "Dietary Modification"
 parent: Fecal Incontinence Treatments
 nav_order: 2

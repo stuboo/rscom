@@ -1,12 +1,13 @@
 ---
 layout: page
-title: Mesh Augmented Repair
+title: "Prolapse Mesh: Benefits and Risks"
+nav_title: Mesh Augmented Repair
 procedure_name: "Mesh-Augmented Prolapse Repair"
 parent: Prolapse Treatments
 nav_order: 6
-description: "Mesh Augmentation for Prolapse Repair"
+description: "The FDA stopped sales of transvaginal prolapse mesh in 2019. Learn where mesh is still used, why it lasts longer, and the risk it can wear through the vaginal wall."
 permalink: /treatments/prolapse/mesh-augmented-repair
-last_modified_at: 2026-09-08
+last_modified_at: 2026-09-24
 last_evidence_review: 2026-09-08
 ---
 
