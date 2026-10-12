@@ -1,15 +1,15 @@
 ---
 layout: question
-title: "Can Overactive Bladder Be Cured?"
+title: "Can Overactive Bladder Be Cured? What to Expect"
 parent: Overactive Bladder
 nav_order: 12
-description: "While OAB may not have a one-time cure, most women achieve excellent symptom control with the right treatment approach."
+description: "Overactive bladder usually isn't cured for good, but it's highly treatable. With the right approach most women regain control, and some stop leaking entirely."
 permalink: /conditions/overactive-bladder/can-overactive-bladder-be-cured
 condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-10-12
 last_evidence_review: 2026-09-08
 faq:
   - question: "Will I need treatment for OAB forever?"
