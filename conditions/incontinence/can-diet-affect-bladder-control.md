@@ -10,6 +10,28 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
+last_evidence_review: 2026-09-23
+references:
+  - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
+    title: "Urinary Incontinence in Women: A Review"
+    journal: "JAMA"
+    year: 2017
+    doi: "https://doi.org/10.1001/jama.2017.12137"
+  - author: "White N, Iglesia CB"
+    title: "Overactive Bladder"
+    journal: "Obstetrics and Gynecology Clinics of North America"
+    year: 2016
+    doi: "https://doi.org/10.1016/j.ogc.2015.10.002"
+  - author: "Borello-France D, Burgio KL, Goode PS, et al."
+    title: "Adherence to Behavioral Interventions for Stress Incontinence: Rates, Barriers, and Predictors"
+    journal: "Physical Therapy"
+    year: 2013
+    doi: "https://doi.org/10.2522/ptj.20120072"
+  - author: "Nygaard IE, Heit M"
+    title: "Stress Urinary Incontinence"
+    journal: "Obstetrics & Gynecology"
+    year: 2004
+    doi: "https://doi.org/10.1097/01.AOG.0000137874.84862.94"
 faq:
   - question: "Does drinking less water help with incontinence?"
     answer: "Not necessarily. Severely restricting fluids can concentrate your urine, which irritates the bladder and can make symptoms worse. Aim for about 6-8 cups of fluid daily, spread throughout the day, and reduce intake in the evening."
@@ -50,3 +72,10 @@ The goal isn't to stop drinking — dehydration actually makes symptoms worse by
 Not everyone reacts to the same things. Some women drink coffee every morning without problems. Others notice symptoms after a single cup. A bladder diary — writing down what you eat and drink alongside your symptoms — is the best way to figure out your personal triggers.
 
 "I don't ask anyone to give up everything they enjoy. The goal is figuring out which specific things trigger your symptoms. Most patients find that a few targeted changes make a big difference without overhauling their whole diet."
+
+## References
+
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- White N, Iglesia CB. Overactive Bladder. Obstetrics and Gynecology Clinics of North America. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
+- Borello-France D, Burgio KL, Goode PS, et al. Adherence to Behavioral Interventions for Stress Incontinence: Rates, Barriers, and Predictors. Physical Therapy. 2013. [doi:10.2522/ptj.20120072](https://doi.org/10.2522/ptj.20120072)
+- Nygaard IE, Heit M. Stress Urinary Incontinence. Obstetrics & Gynecology. 2004. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
