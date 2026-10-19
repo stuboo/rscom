@@ -4,117 +4,119 @@ title: Fecal Incontinence
 condition_name: "Fecal Incontinence"
 parent: Incontinence
 nav_order: 3
-description: "Fecal incontinence (accidental bowel leakage) affects 7-15% of women. Learn about causes, diagnosis, and treatment options from a board-certified, fellowship-trained urogynecologist."
+description: "Accidental bowel leakage affects 7-15% of women. A urogynecologist explains the causes, the tests I use, and the treatments that help."
 permalink: /conditions/fecal-incontinence
 redirect_from:
   - /fecal-incontinence/
 faq:
 - question: "What is fecal incontinence?"
-  answer: "Fecal incontinence, also called accidental bowel leakage, is the involuntary loss of gas or stool. It can range from occasional difficulty controlling gas to more frequent leakage of liquid or formed stool."
+  answer: "Fecal incontinence, also called accidental bowel leakage, means losing control of gas or stool when you don't mean to. For some women it's trouble holding gas now and then. For others it's regular leakage of loose or formed stool."
 
 - question: "How common is fecal incontinence?"
-  answer: "Studies estimate fecal incontinence affects 7-15% of women in the community, though the true number is likely higher because many women never mention it to their doctor."
+  answer: "Studies put it at 7-15% of women living in the community. The real number is probably higher, since many women never tell their doctor."
 
 - question: "What are the types of fecal incontinence?"
-  answer: "There are two main types: urge leakage, where you feel the urge to go but can't make it to the bathroom in time, and passive leakage, where stool leaks without you being aware of it. Some women experience both."
+  answer: "The two main types are urge leakage, where you feel the need to go but can't get to the bathroom in time, and passive leakage, where stool comes out without you feeling it. Some women have both."
 
 - question: "What causes fecal incontinence?"
-  answer: "Common causes include childbirth injury to the anal sphincter, chronic diarrhea or loose stools, weakening of anal muscles with age, prior anal or rectal surgery, neurological conditions, diabetes, obesity, and certain medications. Often more than one factor is involved."
+  answer: "Usually more than one thing. Common causes are a childbirth injury to the anal sphincter, loose stool or chronic diarrhea, sphincter muscles weakening with age, past anal or rectal surgery, nerve conditions, diabetes, obesity, and some medicines."
 
 - question: "How is fecal incontinence diagnosed?"
-  answer: "Evaluation starts with a detailed history and focused physical exam. Additional tests may include anal ultrasound to assess the sphincter muscles and anorectal manometry to measure how the sphincter and rectum are functioning."
+  answer: "I start by asking about your symptoms and history, then do a focused exam. Some women also need an anal ultrasound to look at the sphincter muscles, or anorectal manometry to measure how the sphincter and rectum are working."
 
 - question: "What are the treatment options for fecal incontinence?"
-  answer: "Treatment typically starts with dietary changes to improve stool consistency, pelvic floor physical therapy, and medications. For women who don't improve enough with conservative approaches, sacral neuromodulation and surgical repair are options."
+  answer: "Treatment usually starts with diet changes to firm up your stool, pelvic floor physical therapy, and medicine. If those don't help enough, sacral neuromodulation and sphincter repair are options."
 
 - question: "When should I see a doctor about fecal incontinence?"
-  answer: "If you're dealing with any degree of bowel leakage, even if it seems minor, it's worth bringing up. Many women wait years before mentioning it. Effective treatments exist, and earlier intervention tends to lead to better outcomes."
+  answer: "If you have any bowel leakage, even a little, bring it up with your doctor. Many women wait years before they mention it, and most get better with treatment."
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Fecal Incontinence
 
-Fecal incontinence, sometimes called accidental bowel leakage, is the involuntary loss of gas or stool. It can range from occasional difficulty controlling gas to more frequent leakage of liquid or formed stool. Even at the milder end, it affects how you go about your day and whether you feel comfortable leaving the house.
+Fecal incontinence means losing control of gas or stool when you don't mean to. It's also called accidental bowel leakage. For some it's trouble holding gas now and then. For others it's regular leakage of loose or formed stool. Even the mild version changes how you plan your day, and it can make you think twice about leaving the house.
 
-This is one of the most underreported conditions I see. Most providers don't routinely ask about it, and most patients don't bring it up on their own. If this is something you're dealing with, it's a medical condition with real treatment options, and it's worth talking about.
+I think this is one of the most underreported problems I see. Most doctors don't ask about it, and most women don't bring it up. It's a medical condition, and I have real ways to treat it.
 
-## How Common is It?
+## How common is it?
 
-More common than most people realize. Studies estimate that fecal incontinence affects somewhere between 7 and 15% of women living in the community. That number is likely even higher, because so many women never mention it to their doctor.
+More common than most people think. Studies put it at somewhere between 7 and 15% of women living in the community. The real number is probably higher, since so many women never tell their doctor.
 
-## Types of Fecal Incontinence
+## Types of fecal incontinence
 
-I generally think about fecal incontinence in two categories:
+I sort bowel leakage into a few patterns. They often overlap, and many women have more than one:
 
-1. **Urge leakage** — you feel the urge to go but can't make it to the bathroom in time.
-2. **Passive leakage** — stool leaks without you being aware of it. You might notice soiling after the fact.
+1. Urge leakage. You feel the need to go but can't get to the bathroom in time.
+2. Passive leakage. Stool comes out without you feeling it, and you find soiling later.
+3. Seepage. A small amount leaks after an otherwise normal bowel movement, often with a feeling that you didn't empty all the way.
+4. Stress leakage. Coughing, laughing, lifting, or other effort brings it on.
 
-Some women experience both types, and the distinction matters because it helps guide what's going on and how we approach treatment.
+Your pattern matters because it points me toward the cause and helps me choose a treatment.
 
-## What Causes It?
+## What causes it?
 
-There's usually more than one factor involved. The most common causes I see:
+Usually more than one thing. In my practice, the most common cause is probably injury from childbirth. A vaginal delivery can tear the anal sphincter muscles or damage the nerves that run them.
 
-- **Childbirth injury.** Vaginal delivery can damage the anal sphincter muscles or the nerves that control them. This is probably the single most common cause in my practice.
-- **Chronic diarrhea or loose stools.** This is actually one of the strongest risk factors. If your stool consistency is off, even mild sphincter weakness can lead to leakage.
-- **Aging.** The sphincter muscles naturally lose some strength over time.
-- **Prior anal or rectal surgery,** including hemorrhoid surgery or other procedures in that area.
-- **Neurological conditions** that affect the nerves controlling the rectum and anus.
-- **Diabetes, obesity, and inflammatory bowel disease** can all contribute.
-- **Medications** that affect stool consistency or bowel motility.
-- **Low physical activity.** Staying active helps maintain pelvic floor function.
+Loose stool is the other big one. If your stool is watery or soft, even a slightly weak sphincter can't hold it. The sphincter muscles also lose some strength as you get older. Surgery on the anus or rectum, including hemorrhoid surgery, can play a part too.
+
+Other things that can add to it: nerve conditions that affect the rectum and anus, diabetes, obesity, inflammatory bowel disease, and medicines that change your stool or how fast your bowels move.
 
 ## Symptoms
 
-Symptoms vary quite a bit from person to person:
+They vary a lot from one woman to the next. You might have:
 
-- Difficulty controlling gas
+- Trouble holding in gas
 - Leakage of liquid or formed stool
-- A sudden, urgent need to have a bowel movement with little warning
-- Discovering soiling without having felt anything
+- A sudden, strong need to have a bowel movement with little warning
+- Soiling you find without having felt anything
 
-If any of these sound familiar, don't sit on it, even if it only happens occasionally.
+If any of these sound familiar, bring it up with a doctor, even if it only happens once in a while.
 
-## How I Evaluate Fecal Incontinence
+## How I evaluate fecal incontinence
 
-When you come in for an evaluation, I'll start by asking about your symptoms, your bowel habits, your obstetric history, and any prior surgeries. A focused physical exam is the next step. Depending on what I find, I may recommend additional testing like:
+At your first visit I'll ask about your symptoms, your bowel habits, your pregnancies and deliveries, and any surgeries you've had. Then I do a focused exam. Depending on what I find, I may suggest one or both of these tests:
 
-- **Anal ultrasound** to look at the integrity of the sphincter muscles
-- **Anorectal manometry** to measure how well the sphincter muscles and rectum are functioning
+- An anal ultrasound, which shows whether the sphincter muscles are intact
+- Anorectal manometry, which measures how well the sphincter muscles and rectum are working
 
-Both are done in the office and help me figure out what's going on so we can pick the right treatment.
+Both are done in the office. They help me sort out what's going on so I can pick the right treatment.
 
-## Treatment Options
+## Treatment options
 
-Most women with fecal incontinence improve with treatment. I walk patients through the full range of options so we can figure out the best approach together.
+Most women with fecal incontinence get better with treatment. I go over all the options with you, and we decide together where to start. Most patients never need surgery of any kind.
 
-### Lifestyle and dietary changes
-This is where I start for almost everyone. Adjusting your diet to improve stool consistency makes a bigger difference than most people expect. I'll also talk with you about regular bowel habits and toilet positioning.
+### Lifestyle and diet changes
+
+I start here with almost everyone. Changing your diet to firm up your stool helps more than most women expect. I'll also talk with you about keeping regular bowel habits and how you sit on the toilet.
 
 ### Pelvic floor physical therapy
-Pelvic floor PT strengthens the muscles that control your bowel. It works well, especially for milder cases. We have pelvic floor PTs in our office, and I can also refer you to therapists closer to home if that's easier.
+
+A pelvic floor physical therapist works on the muscles that control your bowel. It helps many women, especially those with milder symptoms. We have pelvic floor PTs in our office, and I can refer you to one closer to home if that's easier.
 
 ### Medications
-If loose stools are contributing to the problem, medications to firm up your stool or slow your bowel can help. These are simple, well-tolerated options that I use frequently.
+
+If loose stool is part of the problem, medicine to firm up your stool or slow your bowel down can help. These are simple and most women tolerate them well. I use them a lot.
 
 ### Sacral neuromodulation
-For women who haven't improved enough with conservative treatments, sacral neuromodulation is something I offer. A small device stimulates the nerves that control your bowel. We do a trial period first so you can see if it works before committing to anything permanent.
 
-### Surgery
-When there's a clear structural problem, like a sphincter tear from childbirth, surgical repair may be the right call. Most patients don't need surgery, but for the right situation it can make a big difference.
+If diet, therapy, and medicine haven't helped enough, sacral neuromodulation is usually the first surgery I recommend. That's true even when the sphincter has a tear. A small device stimulates the nerves that control your bowel. You try it out first, so you know whether it works before anything permanent goes in. For most women in this spot, it works better and lasts longer than repairing the sphincter.
 
-## Living with Fecal Incontinence
+### Sphincter repair
 
-While we work on treatment, there are things you can do day to day that help:
+When the sphincter is torn, sewing it back together (sphincteroplasty) can help, and in some cases it's still the right choice. The catch is that the benefit often fades over the years. That's a big reason I now reach for sacral neuromodulation first for most women.
 
-- **Skin care.** Keeping the area clean and dry prevents irritation and breakdown.
-- **Dietary awareness.** Pay attention to which foods make things worse. Caffeine, fatty foods, and artificial sweeteners are common culprits.
-- **Staying active.** Regular physical activity supports pelvic floor health.
-- **Emotional support.** This condition takes a toll emotionally. If it's affecting your mood or keeping you from going out and doing things, bring that up too.
+## Living with fecal incontinence
 
-## When to Seek Help
+While we work on treatment, a few things can make daily life easier.
 
-If you're dealing with any degree of bowel leakage, even if it seems minor, I'd encourage you to bring it up. Many women wait years before mentioning it, and that's time spent dealing with something that's very treatable.
+Keep the skin around your anus clean and dry. That prevents irritation and skin breakdown. Pay attention to which foods make your leakage worse, and tell me what you notice so we can adjust your diet.
+
+This problem also wears on you. If it's affecting your mood or keeping you home from things you used to do, tell me that too. It's part of what I treat.
+
+## When to see a doctor
+
+If you have any bowel leakage, even a little, bring it up with your doctor or make an appointment with me. Many women wait years before they mention it, and that's years spent putting up with something that's very treatable. At your visit I'll ask what's been happening, examine you, and lay out a plan, usually starting with simple changes to your diet and your stool.
 
 ## References
 
