@@ -5,7 +5,7 @@ condition_name: "Stress Urinary Incontinence"
 nav_order: 1
 parent: Urinary Incontinence
 has_children: false
-description: "Stress Urinary Incontinence"
+description: "Leaking when you cough, sneeze, laugh, or exercise: what causes stress incontinence, how it's diagnosed, and treatments from pelvic floor therapy to slings."
 permalink: /conditions/stress-urinary-incontinence
 faq:
 - question: "What is Stress Urinary Incontinence (SUI)?"
@@ -44,15 +44,16 @@ faq:
     - Staying hydrated, but limiting fluids before bedtime"
 
 - question: "Is Stress Urinary Incontinence a normal part of aging or childbirth?"
-  answer: "No, while SUI is common, it is not a normal part of aging or an inevitable consequence of childbirth. It's a medical condition that can be treated effectively."
+  answer: "No. SUI is common, but it is not a normal part of aging or an inevitable consequence of childbirth. It's a medical condition that can be treated effectively."
 
 - question: "What should I do if I think I have Stress Urinary Incontinence?"
   answer: "If you're experiencing symptoms of SUI:
-    1. Don't be embarrassed – it's a common, treatable medical condition
+    1. Don't be embarrassed. It's a common, treatable medical condition
     2. Keep a symptom diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open about your symptoms and how they affect your quality of life"
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Stress urinary incontinence in women
@@ -77,7 +78,7 @@ Stress urinary incontinence is the involuntary leakage of urine during physical 
 
 ## How Common is Stress Urinary Incontinence?
 
-I see women with SUI every week in my clinic. It affects up to 35% of adult women, can happen at any age, and often shows up after pregnancy and childbirth.
+I see women with SUI nearly every day in my office. It affects up to 35% of adult women, can happen at any age, and often shows up after pregnancy and childbirth.
 
 One thing I always tell my patients: SUI is common, but it is not a normal part of aging or an inevitable consequence of childbirth. It's a medical condition, and we have good treatments for it.
 
