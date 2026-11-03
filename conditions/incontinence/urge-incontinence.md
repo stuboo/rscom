@@ -5,11 +5,11 @@ condition_name: "Urge Urinary Incontinence"
 nav_order: 2
 parent: Urinary Incontinence
 has_children: false
-description: "Urge Urinary Incontinence"
+description: "Urge incontinence means leaking with a sudden, strong need to urinate. Causes, how it's diagnosed, and treatments from bladder training to Botox."
 permalink: /conditions/urge-urinary-incontinence
 faq:
 - question: "What is Urge Urinary Incontinence (UUI)?"
-  answer: "Urge urinary incontinence is the involuntary loss of urine associated with a sudden, strong desire to urinate. Key characteristics include a sudden, intense urge to urinate and urine leakage before reaching the bathroom."
+  answer: "Urge urinary incontinence is the involuntary loss of urine associated with a sudden, strong desire to urinate. You feel a sudden, intense urge and leak before you reach the bathroom."
 
 - question: "How common is Urge Urinary Incontinence?"
   answer: "UUI affects approximately 17% of women over 40. The incidence increases with age, and it often coexists with stress urinary incontinence (known as mixed incontinence)."
@@ -36,10 +36,10 @@ faq:
 
 - question: "What are the treatment options for Urge Urinary Incontinence?"
   answer: "Treatment options include:
-    1. Conservative treatments: Bladder training, pelvic floor exercises (Kegels), double voiding, and scheduled toilet trips
+    1. Conservative treatments: Bladder training, pelvic floor exercises, double voiding, and scheduled toilet trips
     2. Lifestyle changes: Fluid management, weight loss, and dietary modifications
     3. Medications: Antimuscarinics, Beta-3 agonists, and topical estrogen for postmenopausal women
-    4. Advanced therapies: BOTOX injections, Percutaneous and implantable tibial nerve stimulation (PTNS), and Sacral neuromodulation"
+    4. Advanced therapies: BOTOX injections, Percutaneous and implantable tibial nerve stimulation, and Sacral neuromodulation"
 
 - question: "How can I manage living with Urge Urinary Incontinence?"
   answer: "Strategies to manage UUI in daily life include:
@@ -50,24 +50,66 @@ faq:
     - Staying hydrated, but limiting fluids before bedtime"
 
 - question: "Is Urge Urinary Incontinence a normal part of aging?"
-  answer: "No, while UUI is common, it is not a normal part of aging. It's a medical condition that can be managed effectively with proper treatment."
+  answer: "No. UUI is common, but it isn't a normal part of aging. It's a medical condition, and you can manage it effectively with treatment."
 
 - question: "What should I do if I think I have Urge Urinary Incontinence?"
   answer: "If you're experiencing symptoms of UUI:
-    1. Don't be embarrassed – it's a common, treatable medical condition
+    1. Don't be too embarrassed to discuss with your doctor. It's a common, treatable medical condition
     2. Keep a bladder diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open about your symptoms and how they affect your quality of life"
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
+references:
+  - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
+    title: "Urinary Incontinence in Women: A Review"
+    journal: "JAMA"
+    year: 2017
+    doi: "https://doi.org/10.1001/jama.2017.12137"
+  - author: "Lightner DJ, Gomelsky A, Souter L, et al."
+    title: "Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019"
+    journal: "The Journal of Urology"
+    year: 2019
+    doi: "https://doi.org/10.1097/JU.0000000000000309"
+  - author: "ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al."
+    title: "Urinary Incontinence in Women (ACOG Practice Bulletin No. 155)"
+    journal: "Obstetrics & Gynecology"
+    year: 2015
+    doi: "https://doi.org/10.1097/AOG.0000000000001148"
+  - author: "Dengler KL, High RA, Moga DC, et al."
+    title: "Overactive Bladder and Cognitive Impairment: The American Urogynecologic Society and Pelvic Floor Disorders Research Foundation State-of-the-Science Conference Summary Report"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001272"
+  - author: "White N, Iglesia CB."
+    title: "Overactive Bladder"
+    journal: "Obstetrics and Gynecology Clinics of North America"
+    year: 2016
+    doi: "https://doi.org/10.1016/j.ogc.2015.10.002"
+  - author: "Amundsen CL, Richter HE, Menefee SA, et al."
+    title: "OnabotulinumtoxinA vs Sacral Neuromodulation on Refractory Urgency Urinary Incontinence in Women: A Randomized Clinical Trial"
+    journal: "JAMA"
+    year: 2016
+    doi: "https://doi.org/10.1001/jama.2016.14617"
+  - author: "Peters KM, Carrico DJ, Perez-Marrero RA, et al."
+    title: "Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial"
+    journal: "The Journal of Urology"
+    year: 2010
+    doi: "https://doi.org/10.1016/j.juro.2009.12.036"
+  - author: "Faubion SS, Kingsberg SA, Clark AL, et al."
+    title: "The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society"
+    journal: "Menopause"
+    year: 2020
+    doi: "https://doi.org/10.1097/GME.0000000000001609"
 ---
 
 # Understanding Urge Urinary Incontinence in Women
 
-Urge urinary incontinence (UUI) is a common yet treatable condition that affects many women. This article will help you understand what UUI is, its causes, symptoms, and the various treatment options available.
+Urge urinary incontinence (UUI) is common in women, and it's treatable. This page covers what UUI is, what causes it, how it's diagnosed, and how it's treated.
 
 ## What is Urge Urinary Incontinence?
 
-Urge urinary incontinence is the involuntary loss of urine associated with a sudden, strong desire to urinate. Key characteristics include:
+Urge urinary incontinence is the involuntary loss of urine associated with a sudden, strong desire to urinate. That usually means:
 
 - A sudden, intense urge to urinate
 - Urine leakage before reaching the bathroom
@@ -79,17 +121,17 @@ It is commonly associated with:
 {: .important-title }
 > Key Point
 >
-> With UUI, you may feel like you have little to no control over your bladder, leading to unexpected and sometimes large amounts of urine leakage.
+> With UUI, you may feel like you have little to no control over your bladder. Leaks can come without warning, and some are large.
 
 ## How Common is Urge Urinary Incontinence?
 
-UUI is more prevalent than many realize:
+UUI is more common than many women realize:
 
 - Affects approximately 17% of women over 40
 - Incidence increases with age
 - Often coexists with stress urinary incontinence (known as mixed incontinence)
 
-Remember, while UUI is common, it is not a normal part of aging. It's a medical condition that can be managed effectively with proper treatment.
+UUI is common, but it is not a normal part of aging. It's a medical condition, and you can manage it effectively with treatment.
 
 ## Causes and Risk Factors
 
@@ -121,7 +163,7 @@ The primary symptoms of UUI include:
 
 ## Diagnosis
 
-If you're experiencing symptoms of UUI, it's crucial to consult a healthcare provider. Diagnosis typically involves:
+If you're experiencing symptoms of UUI, see a healthcare provider. Diagnosis typically involves:
 
 1. **Medical history**: Your doctor will ask about your symptoms, medical background, and lifestyle
 2. **Physical examination**: To check for any physical abnormalities or pelvic organ prolapse
@@ -132,7 +174,7 @@ If you're experiencing symptoms of UUI, it's crucial to consult a healthcare pro
 
 ## Treatment Options
 
-There are many effective treatments for urge urinary incontinence, ranging from lifestyle changes to medications and more advanced therapies:
+Effective treatments include lifestyle changes, medications, and more advanced therapies:
 
 ### Conservative Treatments
 
@@ -155,19 +197,19 @@ There are many effective treatments for urge urinary incontinence, ranging from 
 
 ### Advanced Therapies
 
-1. **BOTOX injections**: Injections of botulinum toxin into the bladder muscle, causing it to relax and reducing involuntary contractions, thus improving symptoms of overactive bladder and urge urinary incontinence.
-2. **Percutaneous and implantable tibial nerve stimulation (PTNS)**: A minimally invasive treatment that uses electrical pulses to stimulate nerves in the ankle, which can improve bladder control by modulating the neural pathways that control bladder function.
-3. **Sacral neuromodulation**: a therapy that uses a small implanted device to send mild electrical pulses to the sacral nerves, which help control bladder and bowel function, to improve symptoms of overactive bladder and difficulty emptying the bladder.
+1. **BOTOX injections**: Your doctor injects botulinum toxin into the bladder muscle. It relaxes the muscle and reduces involuntary contractions, which improves symptoms of overactive bladder and urge urinary incontinence. The effect typically lasts about 6 to 9 months, and you can repeat the injections after that.
+2. **Percutaneous and implantable tibial nerve stimulation**: A minimally invasive treatment that uses electrical pulses to stimulate nerves in the ankle. This can improve bladder control by changing the nerve signals that control the bladder.
+3. **Sacral neuromodulation**: A small implanted device sends mild electrical pulses to the sacral nerves, which help control bladder and bowel function. It can improve symptoms of overactive bladder and difficulty emptying the bladder.
 
 {: .important-title }
 
 > Remember
 >
-> Treatment plans are individualized. Your healthcare provider will work with you to find the best approach for your specific situation.
+> No single plan fits everyone. Your healthcare provider will work with you to find the approach that fits your situation.
 
 ## Living with Urge Urinary Incontinence
 
-While seeking treatment, there are strategies to manage UUI in your daily life:
+While you work on treatment, these habits can make daily life easier:
 
 - Locate bathrooms before you need them when out in public
 - Wear easily removable clothing for quick bathroom access
@@ -179,7 +221,7 @@ While seeking treatment, there are strategies to manage UUI in your daily life:
 
 If you're experiencing symptoms of urge urinary incontinence:
 
-1. Don't be embarrassed – it's a common, treatable medical condition
+1. Don't be too embarrassed to discuss with your doctor. It's a common, treatable medical condition
 2. Keep a bladder diary to share with your healthcare provider
 3. Schedule an appointment with a urogynecologist or pelvic health specialist
 4. Be open about your symptoms and how they affect your quality of life
@@ -188,6 +230,17 @@ If you're experiencing symptoms of urge urinary incontinence:
 
 > You're Not Alone
 > 
-> Many women have found relief from urge urinary incontinence. Take the first step towards regaining control and confidence in your daily life by seeking help today.
+> Many women have found relief from urge urinary incontinence. If leaks are shaping your day, make an appointment.
 
-Remember, urge urinary incontinence may be common, but it's not something you have to accept as a normal part of life. With the right care and treatment, you can significantly improve your symptoms and quality of life.
+Urge urinary incontinence is common, but you don't have to accept it as a normal part of life. With treatment, you can significantly improve your symptoms and quality of life.
+
+## References
+
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Lightner DJ, Gomelsky A, Souter L, et al. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. The Journal of Urology. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Dengler KL, High RA, Moga DC, et al. Overactive Bladder and Cognitive Impairment: The American Urogynecologic Society and Pelvic Floor Disorders Research Foundation State-of-the-Science Conference Summary Report. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+- White N, Iglesia CB. Overactive Bladder. Obstetrics and Gynecology Clinics of North America. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
+- Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs Sacral Neuromodulation on Refractory Urgency Urinary Incontinence in Women: A Randomized Clinical Trial. JAMA. 2016. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
+- Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. The Journal of Urology. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
+- Faubion SS, Kingsberg SA, Clark AL, et al. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020. [doi:10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)
