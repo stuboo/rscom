@@ -24,7 +24,7 @@ faq:
     answer: "POP is typically diagnosed through a comprehensive pelvic exam, which includes internal and external examination, use of a speculum, and asking the patient to bear down or cough. Doctors often use the POP-Q system to stage the prolapse on a scale from 0 to 4."
 
   - question: "What are the treatment options for pelvic organ prolapse?"
-    answer: "Treatment options include observation, home exercises, pelvic floor physical therapy, pessary devices, and surgical options such as vaginal repair, robotic-assisted laparoscopic sacrocolpopexy, and colpocleisis. The right approach depends on your symptoms, goals, and overall health — we'll discuss all the options together so you can make the best decision for you."
+    answer: "Treatment options include observation, home exercises, pelvic floor physical therapy, pessary devices, and surgical options such as vaginal repair, robotic-assisted laparoscopic sacrocolpopexy, and colpocleisis. The right approach depends on your symptoms, goals, and overall health. We'll go through the options together so you can choose what fits you."
 
   - question: "Can pelvic organ prolapse be treated without surgery?"
     answer: "Yes, non-surgical treatments such as pelvic floor exercises (Kegels), physical therapy, and the use of a pessary device can often be effective in managing symptoms."
@@ -38,11 +38,12 @@ faq:
   - question: "How can I prepare for my initial consultation about pelvic organ prolapse?"
     answer: "To prepare for your initial consultation, consider the following steps: 1) Keep a symptom diary noting when and how your symptoms affect you. 2) Write down any questions you have about your condition and treatment options. 3) Make a list of your current medications and any previous treatments you've tried. 4) If possible, gather any relevant medical records (such as past surgeries) or test results. 5) Consider bringing a family member or friend for support and to help remember information."
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Understanding Pelvic Organ Prolapse (POP)
 
-Pelvic organ prolapse (POP) is a common condition in women where pelvic organs shift into spaces they wouldn't normally occupy — essentially a hernia of the pelvic floor. Below, I'll walk through the types of prolapse, what symptoms to look for, how we diagnose it, and what your treatment options are.
+Pelvic organ prolapse (POP) is a common condition in women where pelvic organs shift into spaces they wouldn't normally occupy. Think of it as a hernia of the pelvic floor. This page covers the types of prolapse, the symptoms, how I diagnose it, and your treatment options.
 
 ## Types of Pelvic Organ Prolapse
 
@@ -59,15 +60,15 @@ POP is a general term that covers several specific types:
 {: .important-title }
 > Multiple Types of Prolapse Often Occur Together
 >
-> It's common for patients to experience more than one type of pelvic organ prolapse simultaneously. For instance:
+> Many patients have more than one type of pelvic organ prolapse at the same time. For instance:
 > 
 > - About 70% of patients with a cystocele (bladder prolapse) also have 'apical' prolapse involving the uterus, cervix, or vaginal cuff.
 > - Having more than one type of prolapse can change which symptoms you notice and which treatments make sense.
-> - This is why a thorough evaluation matters — we need to know what's going on in each compartment before recommending a plan.
+> - That's why I examine each compartment before recommending a plan.
 
 ## Symptoms of Pelvic Organ Prolapse
 
-POP isn't dangerous, but it can be really bothersome. Common symptoms include:
+POP isn't dangerous, but it can be very bothersome. Common symptoms include:
 
 - Feelings of pelvic pressure, fullness, pulling, or tugging (especially with heavy lifting)
 - Sensation of sitting on an egg or ball
@@ -90,11 +91,11 @@ I use the POP-Q (Pelvic Organ Prolapse Quantification) system to stage prolapse 
 
 ## Treatment Options for Pelvic Organ Prolapse
 
-There are several effective treatment options for POP, and the right approach depends on your symptoms, your goals, and what matters most to you. During your consultation, we'll talk through all of the options so you can make an informed decision about your care. Not everyone needs surgery, and not everyone needs to start with conservative treatment first — it really depends on your situation.
+POP has several effective treatments, and the right one depends on your symptoms and your goals. At your consultation, we'll talk through each option so you can make an informed decision. Some women need surgery and some don't. Some start with conservative treatment and some go straight to surgery. It depends on your situation.
 
 ### Observation (Expectant Management)
 
-If your prolapse isn't causing bothersome symptoms, it's perfectly reasonable to monitor it over time. Prolapse often remains stable, and not every prolapse requires treatment.
+If your prolapse isn't bothering you, it's reasonable to watch it over time. Prolapse often remains stable, and not every prolapse requires treatment.
 
 ### Home Exercises
 
@@ -102,11 +103,11 @@ Kegel exercises to strengthen pelvic floor muscles, often combined with core str
 
 ### Pelvic Floor Physical Therapy
 
-Working with a pelvic floor physical therapist gives you supervised, hands-on treatment that goes well beyond what you can do on your own at home. Studies show this can improve symptoms in women with mild to moderate prolapse.
+A pelvic floor physical therapist gives you supervised, hands-on treatment that goes further than exercises on your own at home. Studies show this can improve symptoms in women with mild to moderate prolapse.
 
 ### Pessary
 
-A pessary is a device worn inside the vagina to support the pelvic organs. It's a non-surgical option that can be managed either by the patient at home or by a healthcare provider in the office. Up to 92% of women can be successfully fitted with a pessary, and many find it makes a real difference in their day-to-day comfort.
+A pessary is a device worn inside the vagina to support the pelvic organs. It's a non-surgical option that can be managed either by the patient at home or by a healthcare provider in the office. Up to 92% of women can be successfully fitted with a pessary, and many find it makes them noticeably more comfortable day to day.
 
 ### Surgical Options
 
@@ -139,9 +140,9 @@ Reviewing something like this before your consultation can help you come in with
 
 ## Next Steps
 
-If you're dealing with symptoms of pelvic organ prolapse, you don't have to just live with it. There are real options — and the first step is getting a thorough evaluation so we can figure out what's going on and what makes sense for you.
+If you have symptoms of pelvic organ prolapse, you don't have to live with them. The first step is an exam so we can see what's going on and decide what makes sense for you.
 
-If you'd like to learn more, I encourage you to schedule an appointment for a thorough evaluation and personalized treatment plan.
+To get started, schedule an appointment for an evaluation and a treatment plan built around your goals.
 
 ## References
 
