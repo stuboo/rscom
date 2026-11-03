@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Cystocele
+title: "Cystocele: Symptoms of a Dropped Bladder"
+nav_title: Cystocele
 condition_name: "Cystocele"
 parent: Pelvic Organ Prolapse
 nav_order: 2
-description: "Cystocele (aka Prolapsed Bladder)"
+description: "A cystocele is a bladder that has sagged into the front wall of the vagina. It's usually not dangerous. Learn the signs and options, from a pessary to surgery."
 permalink: /conditions/cystocele
 redirect_from:
   - /bladder-prolapse-cystocele/
@@ -30,6 +31,48 @@ faq:
   - question: "What should I expect during a consultation about cystocele?"
     answer: "During a consultation, your doctor will ask about your symptoms, perform a pelvic exam, discuss your treatment goals, explain the exam findings (often using drawings), and answer any questions you have about available treatments."
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
+references:
+  - author: "Haylen BT, Maher CF, Barber MD, et al."
+    title: "An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP)"
+    journal: "Neurourology and Urodynamics"
+    year: 2016
+    doi: "https://doi.org/10.1002/nau.22922"
+  - author: "Barber MD."
+    title: "Pelvic organ prolapse"
+    journal: "BMJ"
+    year: 2016
+    doi: "https://doi.org/10.1136/bmj.i3853"
+  - author: "Lamblin G, Delorme E, Cosson M, et al."
+    title: "Cystocele and functional anatomy of the pelvic floor: review and update of the various theories"
+    journal: "International Urogynecology Journal"
+    year: 2016
+    doi: "https://doi.org/10.1007/s00192-015-2832-4"
+  - author: "Nager CW, Grimes CL, Nolen TL, et al."
+    title: "Concomitant Anterior Repair, Preoperative Prolapse Severity, and Anatomic Prolapse Outcomes after Vaginal Apical Procedures"
+    journal: "Female Pelvic Medicine & Reconstructive Surgery"
+    year: 2019
+    doi: "https://doi.org/10.1097/SPV.0000000000000526"
+  - author: "Committee on Practice Bulletins—Gynecology, American Urogynecologic Society."
+    title: "Pelvic Organ Prolapse (Practice Bulletin No. 214)"
+    journal: "Obstetrics & Gynecology"
+    year: 2019
+    doi: null
+  - author: "Hooper GL, Moynihan L, Leegant A, et al."
+    title: "Vaginal Pessary Use and Management for Pelvic Organ Prolapse"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001293"
+  - author: "Hagen S, Stark D, Glazener C, et al."
+    title: "Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial"
+    journal: "The Lancet"
+    year: 2014
+    doi: "https://doi.org/10.1016/S0140-6736(13)61977-7"
+  - author: "Carberry CL, Tulikangas PK, Ridgeway BM, et al."
+    title: "American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse"
+    journal: "Urogynecology"
+    year: 2025
+    doi: "https://doi.org/10.1097/SPV.0000000000001641"
 ---
 
 # Understanding Cystocele (Prolapsed Bladder)
@@ -40,13 +83,13 @@ Do you experience any of the following symptoms?
 * A feeling that your bladder or vaginal area has "dropped"
 * A visible ball or bulge at the vaginal opening
 
-If so, you may be dealing with a cystocele, also known as bladder prolapse or anterior vaginal prolapse. Cystocele is one of the most common forms of pelvic organ prolapse. This article explains how cystocele develops, why it occurs, and some of the available treatments.
+If so, you may be dealing with a cystocele, also known as bladder prolapse or anterior vaginal prolapse. Cystocele is one of the most common forms of pelvic organ prolapse. Below is how a cystocele develops, why it happens, and how it's treated.
 
 ## Is That My Bladder?
 
-Patients with cystocele often visit their doctors with complaints of pelvic pressure or lower back discomfort. Some notice a bulge or ball at the opening of the vagina. You might also experience lower abdominal or low back pain and have trouble with intercourse (often described as "something getting in the way"). It's worth noting that mild cases can be asymptomatic.
+Patients with cystocele often visit their doctors with complaints of pelvic pressure or lower back discomfort. Some notice a bulge or ball at the opening of the vagina. You might also experience lower abdominal or low back pain and have trouble with intercourse (often described as "something getting in the way"). Mild cases may cause no symptoms at all.
 
-Cystocele occurs when the front wall of the vagina bulges down toward the vaginal opening. The bladder, which rests on the front wall of the vagina, often follows suit. Hence the term "cystocele."
+Cystocele occurs when the front wall of the vagina bulges down toward the vaginal opening. The bladder, which rests on the front wall of the vagina, often comes along with it, which is where the name "cystocele" comes from.
 
 {: .important-title }
 > What you see or feel is not your bladder...
@@ -68,10 +111,10 @@ Several factors can weaken the attachments of the anterior vaginal wall, leading
 
 ## Diagnosis of Cystocele
 
-Diagnosing cystocele involves a pelvic exam performed by a trained physician or medical provider. Here's what you can expect:
+Diagnosing cystocele involves a pelvic exam performed by a trained physician or medical provider. At the visit:
 
 1. Your doctor will ask about your symptoms.
-2. A pelvic exam will be conducted, both internally and externally.
+2. Your doctor will examine you, both externally and internally.
 3. You may be asked to bear down, push, or cough to recreate your symptoms.
 4. A speculum may be used to evaluate different parts of the vaginal wall.
 
@@ -99,9 +142,9 @@ Because bladder prolapse is generally not dangerous, treatment decisions are gui
 
 ### A Closer Look at Surgery
 
-Surgical options for cystocele have evolved over time. While historically, surgeons focused on repairing only the anterior (front) wall of the vagina, recent research shows this approach may be less effective on its own.
+Surgeons used to focus on repairing only the anterior (front) wall of the vagina. More recent research shows this approach may be less effective on its own.
 
-Why? Because a bulge in the anterior vaginal wall often accompanies movement of the top ("apex") of the vagina. If this part isn't addressed during surgery, symptoms are more likely to return.
+A bulge in the anterior vaginal wall often comes with movement of the top ("apex") of the vagina. If this part isn't addressed during surgery, symptoms are more likely to return.
 
 Modern surgical approaches may include:
 
@@ -111,10 +154,21 @@ Modern surgical approaches may include:
 * Pelvic floor reconstruction using your own tissue
 * Graft or mesh reinforcement in certain situations
 
-Remember, because cystocele is typically not harmful, treatments focus on relieving your symptoms and meeting your specific goals.
+Since a cystocele is typically not harmful, treatment focuses on relieving your symptoms and meeting your goals.
 
 ## Next Steps
 
-If you're experiencing symptoms of cystocele, don't hesitate to seek medical advice. A urogynecologist can provide a thorough evaluation and discuss treatment options tailored to your needs and goals.
+If you have symptoms of a cystocele, a urogynecologist can examine you and go over treatment options that fit your goals.
 
-Schedule an appointment today to discuss your symptoms, treatment goals, and potential options - both surgical and non-surgical. With proper care, many women find significant relief from cystocele symptoms and improved quality of life.
+Schedule an appointment to talk through your symptoms, your goals, and both surgical and non-surgical options. With treatment, many women get significant relief from their symptoms and a better quality of life.
+
+## References
+
+- Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). Neurourology and Urodynamics. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Lamblin G, Delorme E, Cosson M, et al. Cystocele and functional anatomy of the pelvic floor: review and update of the various theories. International Urogynecology Journal. 2016. [doi:10.1007/s00192-015-2832-4](https://doi.org/10.1007/s00192-015-2832-4)
+- Nager CW, Grimes CL, Nolen TL, et al. Concomitant Anterior Repair, Preoperative Prolapse Severity, and Anatomic Prolapse Outcomes after Vaginal Apical Procedures. Female Pelvic Medicine & Reconstructive Surgery. 2019. [doi:10.1097/SPV.0000000000000526](https://doi.org/10.1097/SPV.0000000000000526)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse (Practice Bulletin No. 214). Obstetrics & Gynecology. 2019.
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. The Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
