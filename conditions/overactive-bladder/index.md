@@ -123,7 +123,7 @@ When behavioral changes and medications aren't enough, there are other options.
 
 **Botulinum toxin (BOTOX®)** is injected directly into the bladder muscle in the office to reduce involuntary contractions. Effects typically last 6–9 months.
 
-**Tibial nerve stimulation** uses a small implant placed just above the ankle to stimulate a nerve that connects to the bladder. It goes in through a small incision, then runs on its own, with a charge needed only once or twice a year.
+**Tibial nerve stimulation** uses a small implant placed just above the ankle to stimulate a nerve that connects to the bladder. It goes in through a small incision, then runs on its own, with a charge needed only once or twice a year. It's approved for urge incontinence, so it's an option if your OAB includes leaking, not urgency and frequency alone. More on the [Altaviva implant](/treatments/urinary-incontinence/altaviva).
 
 **Sacral neuromodulation** is a small implanted device that continuously modulates the sacral nerves. Think of it like a pacemaker for the bladder.
 
