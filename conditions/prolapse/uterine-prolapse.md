@@ -4,7 +4,7 @@ title: Uterine Prolapse
 condition_name: "Uterine Prolapse"
 nav_order: 5
 parent: Pelvic Organ Prolapse
-description: "Complete Guide to Uterine Prolapse"
+description: "Uterine prolapse happens when weakened pelvic support lets the uterus drop into the vagina. Learn the symptoms, stages, and options from pessary to surgery."
 permalink: /conditions/uterine-prolapse
 faq:
   - question: "What is uterine prolapse?"
@@ -14,33 +14,70 @@ faq:
     answer: "Common causes and risk factors include vaginal childbirth (especially multiple births), age and menopause, obesity, chronic coughing or constipation, heavy lifting over many years, family history of pelvic floor disorders, and hysterectomy or other pelvic surgeries."
 
   - question: "What are the symptoms of uterine prolapse?"
-    answer: "Symptoms can include a feeling of heaviness or pulling in the pelvis, a bulge or protrusion from the vagina, difficulty urinating or having a bowel movement, lower back pain, discomfort during sexual intercourse, and in advanced cases, the cervix or uterus may protrude outside the vagina. However, some women with mild prolapse may not experience any symptoms."
+    answer: "Symptoms can include a feeling of heaviness or pulling in the pelvis, a bulge or protrusion from the vagina, difficulty urinating or having a bowel movement, lower back pain, discomfort during sexual intercourse, and in advanced cases, the cervix or uterus may protrude outside the vagina. Some women with mild prolapse have no symptoms."
 
   - question: "How is uterine prolapse diagnosed?"
     answer: "Diagnosis typically involves a detailed medical history, a pelvic examination, and possibly imaging tests. Your doctor may also perform tests to assess your bladder and bowel function. It's best to consult a urogynecologist or pelvic floor specialist for accurate diagnosis."
 
   - question: "What are the treatment options for uterine prolapse?"
-    answer: "Treatment options depend on the severity of the condition and personal preferences. Conservative treatments include pelvic floor muscle exercises (Kegels), pelvic floor physical therapy, pessary devices, and lifestyle changes. For more severe cases, surgical options may include vaginal repair, laparoscopic/robotic mesh sacrocolpopexy, and/or hysterectomy with pelvic floor repair."
+    answer: "Treatment options depend on the severity of the condition and personal preferences. Conservative treatments include pelvic floor muscle exercises (Kegels), pelvic floor physical therapy, pessary devices, and lifestyle changes. For more severe cases, surgery can resuspend the uterus or the top of the vagina; this may be uterine-preserving (hysteropexy) or involve hysterectomy with prolapse repair. Keeping or removing the uterus is a shared decision you make with your surgeon."
 
   - question: "Can uterine prolapse be prevented?"
     answer: "While not all cases can be prevented, you can reduce your risk by maintaining a healthy weight, practicing pelvic floor exercises throughout your life, treating and preventing constipation, avoiding heavy lifting or using proper lifting techniques, and quitting smoking."
 
   - question: "When should I seek medical help for potential uterine prolapse?"
     answer: "You should consult your healthcare provider if you feel a bulge in your vagina, experience persistent pelvic pressure or discomfort, or have difficulty urinating or with bowel movements. Early intervention can often lead to better outcomes and may help avoid more invasive treatments."
-last_modified_at: 2026-03-15
+last_modified_at: 2026-09-23
+last_evidence_review: 2026-09-23
+references:
+  - author: "Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Tulikangas P"
+    title: "Pelvic organ prolapse. Practice Bulletin No. 214"
+    journal: "Obstetrics & Gynecology"
+    year: 2019
+    doi: null
+  - author: "Chang OH, Carter Ramirez A, Edwards A, et al."
+    title: "The role of uterine preservation at the time of pelvic organ prolapse surgery"
+    journal: "Urogynecology"
+    year: 2025
+    doi: "https://doi.org/10.1097/SPV.0000000000001667"
+  - author: "Nager CW, Visco AG, Richter HE, et al."
+    title: "Effect of sacrospinous hysteropexy with graft vs vaginal hysterectomy with uterosacral ligament suspension on treatment failure in women with uterovaginal prolapse: 5-year results of a randomized clinical trial"
+    journal: "American Journal of Obstetrics and Gynecology"
+    year: 2021
+    doi: "https://doi.org/10.1016/j.ajog.2021.03.012"
+  - author: "Hooper GL, Moynihan L, Leegant A, et al."
+    title: "Vaginal pessary use and management for pelvic organ prolapse"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001293"
+  - author: "Hagen S, Stark D, Glazener C, et al."
+    title: "Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial"
+    journal: "The Lancet"
+    year: 2014
+    doi: "https://doi.org/10.1016/S0140-6736(13)61977-7"
+  - author: "Carberry CL, Tulikangas PK, Ridgeway BM, et al."
+    title: "American Urogynecologic Society best practice statement: evaluation and counseling of patients with pelvic organ prolapse"
+    journal: "Urogynecology"
+    year: 2025
+    doi: "https://doi.org/10.1097/SPV.0000000000001641"
+  - author: "Barber MD"
+    title: "Pelvic organ prolapse"
+    journal: "BMJ"
+    year: 2016
+    doi: "https://doi.org/10.1136/bmj.i3853"
 redirect_from:
   - /uterine-prolapse/
 ---
 
-# Understanding Uterine Prolapse: A Comprehensive Guide
+# Understanding Uterine Prolapse
 
 ## What is Uterine Prolapse?
 
-Uterine prolapse occurs when the structures that normally support the uterus, such as the pelvic floor muscles and ligaments, stretch and weaken. This allows the uterus to descend into or protrude out of the vagina. This condition is a type of pelvic organ prolapse that primarily affects women who have given birth or those in their postmenopausal years.
+Uterine prolapse happens when the structures that normally support the uterus, such as the pelvic floor muscles and ligaments, stretch and weaken. The uterus can then descend into or protrude out of the vagina. It's a type of pelvic organ prolapse that primarily affects women who have given birth or those in their postmenopausal years.
 
 ## Causes and Risk Factors
 
-Several factors can contribute to the development of uterine prolapse:
+These raise your risk of uterine prolapse:
 
 - Vaginal childbirth, especially multiple births
 - Age and menopause
@@ -53,11 +90,11 @@ Several factors can contribute to the development of uterine prolapse:
 {: .important-title }
 > **Key Point:** 
 >
-> While these factors increase risk, uterine prolapse can occur in women of all ages and backgrounds.
+> These factors raise risk, but uterine prolapse can happen to women of any age or background.
 
 ## Symptoms
 
-The symptoms of uterine prolapse can vary in severity and may include:
+Symptoms range from mild to severe and may include:
 
 - A feeling of heaviness or pulling in the pelvis
 - A bulge or protrusion from the vagina
@@ -66,7 +103,7 @@ The symptoms of uterine prolapse can vary in severity and may include:
 - Discomfort during sexual intercourse
 - In advanced cases, the cervix or uterus may protrude outside the vagina
 
-It's important to note that some women may have mild prolapse without experiencing any symptoms.
+Some women have mild prolapse with no symptoms at all.
 
 ## Stages of Uterine Prolapse
 
@@ -79,7 +116,7 @@ Doctors classify uterine prolapse into four stages:
 
 ## Diagnosis
 
-If you suspect you have uterine prolapse, consult a urogynecologist or pelvic floor specialist. The diagnostic process typically involves:
+If you suspect you have uterine prolapse, consult a urogynecologist or pelvic floor specialist. Diagnosis typically involves:
 
 1. A detailed medical history
 2. A pelvic examination
@@ -98,13 +135,18 @@ Treatment for uterine prolapse depends on the severity of your condition and you
 - Pessary devices
 - Lifestyle changes (e.g., weight loss, avoiding heavy lifting)
 
+Conservative options are typically tried first. A pessary (a removable support device fitted inside the vagina) can be offered to any woman with symptomatic prolapse, and supervised pelvic floor muscle training has been shown to reduce prolapse symptoms.
+
 ### Surgical Options
 
-For more severe cases or when conservative treatments aren't effective, surgical options may include:
+For more severe cases, or when conservative treatments haven't provided enough relief, surgery may be an option. Repairs for uterine prolapse generally include a step to resuspend the uterus or the top of the vagina, and they fall into two broad approaches:
 
-- Vaginal repair (colporrhaphy)
-- Abdominal or laparoscopic sacrocolpopexy
-- Hysterectomy with pelvic floor repair
+- **Uterine-preserving repair (hysteropexy):** the uterus is kept in place and resuspended to a stronger ligament, sometimes with the help of mesh. This may be done through the vagina or through the abdomen (including laparoscopic or robotic approaches).
+- **Hysterectomy with prolapse repair:** the uterus is removed and the top of the vagina is resuspended at the same time. Removing the uterus by itself, without this added support, is not enough to correct the prolapse.
+
+Repairs of the front or back vaginal wall (colporrhaphy), or an abdominal mesh repair such as sacrocolpopexy, may also be part of the plan depending on which areas are affected.
+
+Keeping the uterus is a reasonable choice for many women, and professional guidelines recommend that uterine preservation be offered when there is no sign of uterine or cervical disease. Whether to keep or remove the uterus is a personal decision to make with your surgeon, weighing your preferences, medical history, and plans for the future.
 
 {: .important-title }
 > **Important:** 
@@ -113,7 +155,7 @@ For more severe cases or when conservative treatments aren't effective, surgical
 
 ## Living with Uterine Prolapse
 
-Many women successfully manage uterine prolapse and maintain a good quality of life. Here are some tips:
+Many women live well with uterine prolapse. Things that help:
 
 - Perform pelvic floor exercises regularly
 - Maintain a healthy weight
@@ -133,7 +175,7 @@ While not all cases of uterine prolapse can be prevented, you can reduce your ri
 
 ## When to Seek Help
 
-Don't hesitate to consult your healthcare provider if you:
+See your healthcare provider if you:
 
 - Feel a bulge in your vagina
 - Experience persistent pelvic pressure or discomfort
@@ -141,4 +183,14 @@ Don't hesitate to consult your healthcare provider if you:
 
 Early intervention can often lead to better outcomes and may help you avoid more invasive treatments.
 
-Remember, uterine prolapse is a common condition that affects many women. With proper care and management, most women can find relief from their symptoms and continue to lead active, fulfilling lives. By working closely with your healthcare team, you can develop a personalized treatment plan that addresses your specific needs and concerns.
+Uterine prolapse is common. With treatment, most women get relief from their symptoms and stay active. Your healthcare team can help you build a plan around your own needs and concerns.
+
+## References
+
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Tulikangas P. Pelvic organ prolapse. Practice Bulletin No. 214. Obstetrics & Gynecology. 2019.
+- Chang OH, Carter Ramirez A, Edwards A, et al. The role of uterine preservation at the time of pelvic organ prolapse surgery. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
+- Nager CW, Visco AG, Richter HE, et al. Effect of sacrospinous hysteropexy with graft vs vaginal hysterectomy with uterosacral ligament suspension on treatment failure in women with uterovaginal prolapse: 5-year results of a randomized clinical trial. American Journal of Obstetrics and Gynecology. 2021. [doi:10.1016/j.ajog.2021.03.012](https://doi.org/10.1016/j.ajog.2021.03.012)
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal pessary use and management for pelvic organ prolapse. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. The Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society best practice statement: evaluation and counseling of patients with pelvic organ prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
