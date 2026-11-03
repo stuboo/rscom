@@ -5,13 +5,13 @@ condition_name: "Overactive Bladder"
 parent: Conditions
 nav_order: 3_
 has_children: true
-description: "Overactive Bladder"
+description: "Overactive bladder means urgency, frequent urination, waking at night to urinate, and sometimes leaking. Learn the causes, workup, and treatment options."
 permalink: /conditions/overactive-bladder
 redirect_from:
   - /better-bladder-course/
 faq:
 - question: "What is Overactive Bladder (OAB)?"
-  answer: "Overactive Bladder is not a disease, but a group of urinary symptoms including urgency, frequency, nocturia, and sometimes urge incontinence. It affects both women and men of all ages and is not simply a result of getting older."
+  answer: "Overactive bladder is a group of urinary symptoms: urgency, frequency, nocturia, and sometimes urge incontinence. It isn't a disease. It affects women and men of all ages, and it isn't simply a result of getting older."
 
 - question: "What are the key symptoms of OAB?"
   answer: "The key symptoms of OAB include:
@@ -24,7 +24,7 @@ faq:
   answer: "A normal bladder fills with urine from the kidneys, and as it fills, the bladder walls stretch. You start to feel the need to urinate but can hold it. When ready, your brain signals the pelvic muscles and urethral sphincter to relax and the bladder muscle reflexively squeezes, allowing urine to flow out. This typically happens about 4-7 times per day and once at night."
 
 - question: "What causes OAB?"
-  answer: "In OAB, the bladder muscle contracts when it shouldn't — before the bladder is full or at inappropriate times. Contributing factors include urinary tract infections, bladder stones or growths, neurological conditions, constipation, pelvic floor dysfunction, obesity, and caffeine or alcohol intake. For many patients, no single cause is identified, but effective treatments are still available."
+  answer: "In OAB, the bladder muscle contracts when it shouldn't, before the bladder is full or at the wrong times. Contributing factors include urinary tract infections, bladder stones or growths, neurological conditions, constipation, pelvic floor dysfunction, obesity, and caffeine or alcohol intake. Many patients never find out a single cause, but effective treatments are still available."
 
 - question: "How is OAB diagnosed?"
   answer: "Diagnosis typically involves discussing your bladder habits, fluid intake, and general health with a doctor, a physical examination, urine tests, and filling out a bladder diary. Additional tests might include measuring residual urine, cystoscopy, and urodynamics to examine bladder muscle activity."
@@ -33,11 +33,12 @@ faq:
   answer: "Treatment is personalized based on your goals and preferences. Options include lifestyle changes (fluid management, bladder training), pelvic floor physical therapy, medications (beta-3 agonists like mirabegron or vibegron, or antimuscarinics), BOTOX® injections into the bladder, and nerve stimulation techniques like tibial nerve stimulation or sacral neuromodulation."
 
 - question: "Is OAB dangerous?"
-  answer: "While OAB can be frustrating, it's not dangerous. With the right treatment plan, most people can significantly improve their symptoms and quality of life."
+  answer: "OAB can be frustrating, but it's not dangerous. With the right treatment plan, most people can significantly improve their symptoms and quality of life."
 
 - question: "Should I see a doctor if I think I have OAB?"
   answer: "Yes. OAB is very treatable, and a specialist can evaluate your symptoms, identify contributing factors, and work with you to build a treatment plan that fits your life and goals."
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Understanding Overactive Bladder (OAB)
@@ -96,7 +97,7 @@ Sometimes I'll also check a post-void residual (how much urine is left in the bl
 
 ## Treatment Options
 
-I approach OAB treatment as a conversation, not a checklist. The 2024 AUA/SUFU guideline moved away from a rigid stepwise approach and toward shared decision-making, which fits how I like to practice. We talk through your goals, your preferences, and what fits your life, and build a plan together.
+I don't work through OAB treatment as a checklist. The 2024 AUA/SUFU guideline moved away from a rigid stepwise approach and toward shared decision-making, which fits how I like to practice. We talk through your goals, your preferences, and what fits your life, and build a plan together.
 
 ### Behavioral and lifestyle changes
 
@@ -106,7 +107,7 @@ For many patients, these are enough on their own.
 
 **Bladder training** involves gradually increasing the time between bathroom visits to retrain your bladder to hold more comfortably.
 
-**Pelvic floor physical therapy** is about strengthening and coordinating the muscles that support bladder control. This goes well beyond Kegels. I have pelvic floor PTs in my office, and I refer to a network of therapists across the region.
+**Pelvic floor physical therapy** is about strengthening and coordinating the muscles that support bladder control. I have pelvic floor PTs in my office, and I refer to a network of therapists across the region.
 
 ### Medications
 
@@ -120,9 +121,9 @@ There are two main classes of medications for OAB.
 
 When behavioral changes and medications aren't enough, there are other options.
 
-**Botulinum toxin (BOTOX®) injections** are injected directly into the bladder muscle in the office to reduce involuntary contractions. Effects typically last 6–9 months.
+**Botulinum toxin (BOTOX®)** is injected directly into the bladder muscle in the office to reduce involuntary contractions. Effects typically last 6–9 months.
 
-**Tibial nerve stimulation** uses electrical stimulation to modulate the nerve signals controlling the bladder. It's minimally invasive and done in the office.
+**Tibial nerve stimulation** uses a small implant placed just above the ankle to stimulate a nerve that connects to the bladder. It goes in through a small incision, then runs on its own, with a charge needed only once or twice a year.
 
 **Sacral neuromodulation** is a small implanted device that continuously modulates the sacral nerves. Think of it like a pacemaker for the bladder.
 
