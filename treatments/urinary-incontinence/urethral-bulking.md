@@ -4,11 +4,12 @@ title: Urethral Bulking
 procedure_name: "Urethral Bulking"
 parent: Urinary Incontinence Treatments
 nav_order: 8
-description: "Urethral Bulking for Stress Incontinence"
+description: "Urethral bulking with Bulkamid treats stress incontinence in a 10-15 minute office procedure. How it works, results, side effects, and who it suits."
 permalink: /treatments/urinary-incontinence/urethral-bulking
 redirect_from:
   - /urethral-bulking-bulkamid/
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Urethral Bulking for Stress Urinary Incontinence
@@ -23,7 +24,7 @@ Bulkamid® is a soft hydrogel consisting of 97.5% water and 2.5% polyacrylamide.
 - Non-degradable
 - Tissue-friendly
 
-I use Bulkamid® exclusively because it has better longevity and a lower complication rate than older bulking agents.
+I use Bulkamid® because it resists the migration and reabsorption that gave older bulking agents trouble. It seems to last as long and cause as few problems, though the data comparing agents head to head is thin.
 
 ## How urethral bulking works
 
@@ -42,7 +43,8 @@ The procedure involves:
 
 ## Benefits of Bulkamid®
 
-- Studies show short-term cure or improvement rates of 30-90%, depending on the study and how outcomes are measured
+- Around 20-30% of women are fully dry (cured) at one to three years, and more see partial improvement; the exact numbers vary by study and how outcomes are measured
+- Bulking is less effective and less durable than a midurethral sling, which is the more definitive fix. I offer it when you'd rather avoid surgery or aren't a good candidate for a sling.
 - Minimally invasive with quick recovery
 - 7-year follow-up data shows about two-thirds of women maintain improvement or cure
 - Can be repeated if necessary
@@ -60,8 +62,8 @@ Bulkamid® may be a good option if you:
 ## Recovery and results
 
 - Most women return to normal activities within 24 hours
-- Improvements are often noticed right away
-- Full effects may be seen within a few weeks
+- You'll often notice improvement right away
+- You may see the full effect within a few weeks
 
 ## Potential side effects
 
