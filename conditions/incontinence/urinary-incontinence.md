@@ -5,13 +5,13 @@ condition_name: "Urinary Incontinence"
 nav_order: 2
 parent: Incontinence
 has_children: true
-description: "Urinary Incontinence"
+description: "Urinary incontinence is common and treatable. A urogynecologist explains the types, causes, workup, and treatment options, from PT to surgery."
 permalink: /conditions/urinary-incontinence
 redirect_from:
   - /urinary-incontinence/
 faq:
 - question: "What is urinary incontinence?"
-  answer: "Urinary incontinence is a condition that involves the involuntary leakage of urine. It can significantly impact quality of life and affects millions of people worldwide, particularly women."
+  answer: "Urinary incontinence is a condition that involves the involuntary leakage of urine. It affects millions of people worldwide, especially women, and can take a real toll on daily life."
 
 - question: "What are the types of urinary incontinence?"
   answer: "There are several types of urinary incontinence:
@@ -22,7 +22,7 @@ faq:
     5. Functional Incontinence: Physical or mental impairments prevent reaching the toilet in time."
 
 - question: "What causes urinary incontinence?"
-  answer: "Urinary incontinence can be caused by various factors, including:
+  answer: "Common causes include:
     - Weakness in the pelvic floor muscles
     - Pregnancy and childbirth
     - Menopause
@@ -53,26 +53,27 @@ faq:
 
 - question: "What are the treatment options for urinary incontinence?"
   answer: "Treatment options include:
-    1. Conservative treatments: Pelvic floor exercises (Kegels), bladder training, lifestyle changes, and pelvic floor physical therapy
-    2. Medications: Antimuscarinic medications, beta agonists, and topical vaginal estrogen for some women
+    1. Conservative treatments: Pelvic floor exercises, bladder training, lifestyle changes, and pelvic floor physical therapy
+    2. Medications: Antimuscarinic medications, beta agonists, and topical vaginal estrogen
     3. Medical devices: Vaginal inserts and pessaries
-    4. Interventional therapies: Botox injections, bulking agents, and sacral nerve stimulation
-    5. Surgical options: Sling procedures and colposuspension for severe cases"
+    4. Interventional therapies: Botox injections, bulking agents, tibial nerve stimulation, and sacral nerve stimulation
+    5. Surgical options: Sling procedures and colposuspension"
 
 - question: "How is the right treatment for urinary incontinence chosen?"
-  answer: "The choice of treatment depends on various factors, including:
+  answer: "It depends on:
     - The type and severity of incontinence
     - The impact on quality of life
     - Overall health and medical history
     - Personal preferences and goals
-    Healthcare providers may use decision aids to help patients make informed choices about treatment options."
+    Your doctor may use a decision aid to help you weigh the options."
 
 - question: "Is urinary incontinence a normal part of aging?"
-  answer: "No, while urinary incontinence is common, it is not a normal part of aging and shouldn't be ignored. With proper diagnosis and treatment, many people find significant improvement in their symptoms and quality of life."
+  answer: "No. Urinary incontinence is common, but it isn't a normal part of aging and shouldn't be ignored. With the right diagnosis and treatment, many people see a big improvement in their symptoms and quality of life."
 
 - question: "What should I do if I think I have urinary incontinence?"
-  answer: "If you're experiencing symptoms of urinary incontinence, don't hesitate to speak with a healthcare provider. Remember, you're not alone, and effective treatments are available to help you manage this condition."
+  answer: "Talk with your doctor about it. Leakage is common, and effective treatments are available."
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Urinary Incontinence
@@ -99,7 +100,7 @@ I think about urinary incontinence in a few main categories:
 
 There's rarely a single cause. Most of the time, multiple factors are contributing:
 
-- **Pelvic floor muscle weakness,** whether from pregnancy, childbirth, or aging
+- **Pelvic floor muscle weakness or injury,** whether from pregnancy, childbirth, or aging
 - **Pregnancy and vaginal delivery,** especially with larger babies or prolonged pushing
 - **Menopause.** Declining estrogen affects the tissues of the urethra and vagina.
 - **Neurological conditions.** Stroke, MS, Parkinson's, and others can disrupt bladder control.
@@ -134,7 +135,7 @@ The evaluation is straightforward and starts with a conversation:
 
 5. **Urodynamic testing.** In some cases, we'll do more detailed testing to measure how your bladder stores and empties urine. This is especially helpful when the diagnosis isn't clear-cut or if surgery is being considered.
 
-6. **Cystoscopy.** A quick look inside the bladder with a small camera. Not always needed, but useful in certain situations.
+6. **Cystoscopy.** A quick look inside the bladder with a small camera. You won't always need it, but it helps in certain situations.
 
 ## Treatment Options
 
@@ -142,7 +143,7 @@ Treatment depends on the type and severity of your incontinence. I want patients
 
 ### Conservative Treatments
 
-1. **Pelvic floor physical therapy.** This is where I start for most patients. A specialized PT can work with you on strengthening, coordination, and behavioral strategies. It goes well beyond just doing Kegels.
+1. **Pelvic floor physical therapy.** This is where I start for most patients. A specialized PT can work with you on strengthening, coordination, and behavioral strategies.
 
 2. **Bladder training.** Techniques to gradually increase the time between voids and reduce urgency. Particularly helpful for urge incontinence.
 
@@ -158,13 +159,14 @@ Depending on the type of incontinence:
 
 ### Devices
 
-- **Pessaries.** A vaginal device that supports the bladder neck and urethra. Can be very effective for stress incontinence, no surgery required.
+- **Pessaries.** A vaginal device that supports the bladder neck and urethra. It can work very well for stress incontinence without surgery.
 
 ### Interventional Therapies
 
 - **Botox injections.** Injected into the bladder muscle to calm an overactive bladder. The effect typically lasts 6 to 9 months.
 - **Urethral bulking.** A gel injected around the urethra to improve closure. This can be done in the office or as an outpatient procedure, depending on the situation.
 - **Sacral neuromodulation.** An implanted device that modulates the nerves controlling the bladder. Think of it as a pacemaker for the bladder.
+- **Tibial nerve stimulation.** A small implant just above the ankle that stimulates a nerve connected to the bladder, treating urge leakage with no procedure inside the bladder itself. The battery is designed to last about 15 years.
 
 ### Surgical Options
 
@@ -175,7 +177,7 @@ When conservative treatments aren't enough:
 
 ## Choosing the Right Treatment
 
-There's no one-size-fits-all answer. The right treatment depends on:
+The right treatment depends on:
 
 - What type of incontinence you have
 - How much it's affecting your life
