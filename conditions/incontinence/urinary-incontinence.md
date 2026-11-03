@@ -166,7 +166,7 @@ Depending on the type of incontinence:
 - **Botox injections.** Injected into the bladder muscle to calm an overactive bladder. The effect typically lasts 6 to 9 months.
 - **Urethral bulking.** A gel injected around the urethra to improve closure. This can be done in the office or as an outpatient procedure, depending on the situation.
 - **Sacral neuromodulation.** An implanted device that modulates the nerves controlling the bladder. Think of it as a pacemaker for the bladder.
-- **Tibial nerve stimulation.** A small implant just above the ankle that stimulates a nerve connected to the bladder, treating urge leakage with no procedure inside the bladder itself. The battery is designed to last about 15 years.
+- **Tibial nerve stimulation.** A small implant just above the ankle that stimulates a nerve connected to the bladder, treating urge leakage with no procedure inside the bladder itself. The battery is designed to last about 15 years. See [Altaviva](/treatments/urinary-incontinence/altaviva).
 
 ### Surgical Options
 
