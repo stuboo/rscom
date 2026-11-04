@@ -4,26 +4,27 @@ title: Pelvic Floor Physical Therapy for Urinary Incontinence
 therapy_name: "Pelvic Floor Physical Therapy"
 parent: Urinary Incontinence Treatments
 nav_order: 3
-description: "Pelvic floor physical therapy treats urinary incontinence without surgery, and involves far more than Kegel exercises. Learn what a session involves and who benefits. Dr. Ryan Stewart, urogynecologist in Green Bay, WI."
+description: "Pelvic floor PT treats urinary incontinence without surgery. What a session involves and who benefits, from Green Bay urogynecologist Dr. Ryan Stewart."
 permalink: /treatments/urinary-incontinence/pelvic-floor-physical-therapy
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
 ---
 
 # Pelvic Floor Physical Therapy for Urinary Incontinence
 
-Pelvic floor physical therapy is a specialized form of treatment that goes far beyond simple Kegel exercises. It's a comprehensive approach to improving pelvic floor function and addressing urinary incontinence. At our practice, we highly recommend pelvic floor physical therapy as a cornerstone of conservative treatment for many patients.
+Pelvic floor physical therapy is a specialized treatment that improves how your pelvic floor works and can reduce urinary incontinence. At our practice, we highly recommend it as a cornerstone of conservative treatment for many patients.
 
-## More Than Just Kegels
+## What Your Therapist Works On
 
-While Kegel exercises are an important component of pelvic floor rehabilitation, they're just one piece of a much larger puzzle. A skilled pelvic floor physical therapist addresses multiple aspects of your physical well-being:
+Kegel exercises are an important part of pelvic floor rehab. A skilled pelvic floor physical therapist also works on:
 
-- **Breathing Techniques**: Proper breathing patterns can significantly impact pelvic floor function. Your therapist will teach you how to coordinate your breath with pelvic floor movements.
+- **Breathing Techniques**: How you breathe affects your pelvic floor. Your therapist will teach you to coordinate your breath with pelvic floor movements.
 
-- **Posture Correction**: Your posture affects the position and function of your pelvic organs. Improving posture can alleviate stress on the pelvic floor.
+- **Posture Correction**: Your posture affects the position and function of your pelvic organs. Better posture can take stress off the pelvic floor.
 
-- **Mobility Work**: Restrictions in your hips, lower back, or abdomen can affect pelvic floor function. Your therapist will work on improving overall mobility in these areas.
+- **Mobility Work**: Restrictions in your hips, lower back, or abdomen can affect pelvic floor function. Your therapist will work on mobility in these areas.
 
-- **Core Strength**: A strong core works in tandem with the pelvic floor. Your therapy will likely include exercises to improve core stability.
+- **Core Strength**: A strong core works together with the pelvic floor. Your therapy will likely include exercises to improve core stability.
 
 - **Relaxation Techniques**: Sometimes, the pelvic floor muscles are too tense. Learning to relax these muscles can be just as important as strengthening them.
 
@@ -31,15 +32,15 @@ While Kegel exercises are an important component of pelvic floor rehabilitation,
 
 ## What to Expect in a Session
 
-Each pelvic floor physical therapy session is tailored to your specific needs and comfort level. Here's what you might expect:
+Each session is tailored to your needs and comfort level. A typical course includes:
 
-1. **Initial Assessment**: Your first visit will involve a comprehensive evaluation of your pelvic floor strength, coordination, and overall physical condition.
+1. **Initial Assessment**: Your first visit includes a full evaluation of your pelvic floor strength, coordination, and overall physical condition.
 
 2. **Customized Treatment Plan**: Based on the assessment, your therapist will develop a personalized treatment plan.
 
 3. **Education**: You'll learn about pelvic floor anatomy and how it relates to your symptoms.
 
-4. **Exercises**: Your therapist will guide you through various exercises, both for in-session work and home practice.
+4. **Exercises**: Your therapist will guide you through exercises to do in the session and at home.
 
 5. **Manual Therapy**: This might include external techniques on your lower back, hips, or abdomen.
 
@@ -47,35 +48,45 @@ Each pelvic floor physical therapy session is tailored to your specific needs an
 
 ## Your Comfort is Priority
 
-It's crucial to understand that you are always in control during your physical therapy sessions. Here are some key points to remember:
+You are always in control during your sessions.
 
-- **Consent is Crucial**: Any internal work, such as internal pelvic floor muscle assessment or treatment, will only be done with your explicit consent.
+- **Consent**: Any internal work, such as internal pelvic floor muscle assessment or treatment, will only be done with your explicit consent.
 
-- **Communication is Key**: Feel free to express any discomfort or concerns to your therapist at any time.
+- **Communication**: Tell your therapist about any discomfort or concerns at any time.
 
-- **Flexibility in Treatment**: If you're not comfortable with certain aspects of treatment on any given day, your therapist can adjust the session accordingly.
+- **Flexibility**: If you're not comfortable with part of the treatment on a given day, your therapist can adjust the session.
 
-- **External Options**: Many beneficial techniques can be performed externally. You can still benefit greatly from physical therapy even if you prefer not to have internal work done.
+- **External Options**: Many helpful techniques are external. PT can still help you a lot if you'd rather not have internal work.
 
 > "Your comfort and consent are our top priorities. We want you to feel empowered and in control throughout the entire course of your treatment." - Dr. Ryan Stewart
 
 ## Benefits of Pelvic Floor Physical Therapy
 
-Patients often experience a wide range of benefits from pelvic floor physical therapy:
+Patients often notice:
 
 - Improved bladder control
 - Reduced urinary urgency and frequency
 - Better pelvic organ support
 - Decreased pelvic pain
 - Improved sexual function
-- Enhanced overall quality of life
+- Better quality of life
 
 ## Is Pelvic Floor Physical Therapy Right for You?
 
-Pelvic floor physical therapy can be beneficial for many types of urinary incontinence, including stress incontinence, urge incontinence, and mixed incontinence. It's often recommended as a first-line treatment or in conjunction with other therapies.
+Pelvic floor physical therapy can help with many types of urinary incontinence, including stress incontinence, urge incontinence, and mixed incontinence. It's often recommended as a first-line treatment or alongside other therapies.
 
-During your consultation with Dr. Stewart, we'll discuss whether pelvic floor physical therapy is appropriate for your specific situation. We work closely with skilled pelvic floor physical therapists and can provide referrals to trusted professionals in our network.
+During your consultation with Dr. Stewart, we'll talk about whether pelvic floor PT fits your situation. We work closely with pelvic floor physical therapists and can refer you to one we trust.
 
-Remember, healing takes time, and consistency is key. Most patients attend weekly or bi-weekly sessions for several weeks to months, with improvements often noticed within the first few weeks of dedicated practice.
+PT takes time and steady practice. Most patients attend weekly or bi-weekly sessions for several weeks to months, and many notice improvement within the first few weeks of regular practice.
 
-Ready to explore how pelvic floor physical therapy can help you regain control and improve your quality of life? Schedule a consultation with Dr. Stewart to discuss your personalized treatment plan.
+Schedule a consultation with Dr. Stewart to talk about whether pelvic floor PT belongs in your treatment plan.
+
+## References
+
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Bo K, Frawley HC, Haylen BT, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for the conservative and nonpharmacological management of female pelvic floor dysfunction. International Urogynecology Journal. 2017. [doi:10.1007/s00192-016-3123-4](https://doi.org/10.1007/s00192-016-3123-4)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. Current Opinion in Obstetrics and Gynecology. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Wu JM. Stress Incontinence in Women. New England Journal of Medicine. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Sung VW, Borello-France D, Newman DK, et al. Effect of Behavioral and Pelvic Floor Muscle Therapy Combined With Surgery vs Surgery Alone on Incontinence Symptoms Among Women With Mixed Urinary Incontinence: The ESTEEM Randomized Clinical Trial. JAMA. 2019. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. The Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Harm-Ernandes I, Boyle V, Hartmann D, et al. Assessment of the Pelvic Floor and Associated Musculoskeletal System: Guide for Medical Practitioners. Female Pelvic Medicine & Reconstructive Surgery. 2021. [doi:10.1097/SPV.0000000000001121](https://doi.org/10.1097/SPV.0000000000001121)
