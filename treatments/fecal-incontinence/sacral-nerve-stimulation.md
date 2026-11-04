@@ -4,94 +4,93 @@ title: Sacral Nerve Stimulation
 procedure_name: "Sacral Neuromodulation"
 parent: Fecal Incontinence Treatments
 nav_order: 6
-description: "Sacral Nerve Stimulation for Bowel Control"
+description: "Sacral neuromodulation is a small implant that helps bowel control. You try it for a week or more before deciding. How it works, devices, and results."
 permalink: /treatments/fecal-incontinence/sacral-nerve-stimulation
 redirect_from:
   - /sacral-nerve-stimulation-interstim/
   - /how-long-does-interstim-last/
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
+references:
+  - author: "Meyer I, Richter HE"
+    title: "Impact of Fecal Incontinence and Its Treatment on Quality of Life in Women"
+    journal: "Women's Health (Lond)"
+    year: 2015
+    doi: "https://doi.org/10.2217/whe.14.66"
+  - author: "Goldman HB, Lloyd JC, Noblett KL, et al."
+    title: "International Continence Society best practice statement for use of sacral neuromodulation"
+    journal: "Neurourology and Urodynamics"
+    year: 2018
+    doi: "https://doi.org/10.1002/nau.23596"
+  - author: "Brown HW, Dyer KY, Rogers RG"
+    title: "Management of Fecal Incontinence"
+    journal: "Obstetrics & Gynecology"
+    year: 2020
+    doi: "https://doi.org/10.1097/AOG.0000000000004054"
+  - author: "Meyer I, Richter HE"
+    title: "Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management"
+    journal: "Obstetrics and Gynecology Clinics of North America"
+    year: 2021
+    doi: "https://doi.org/10.1016/j.ogc.2021.05.003"
 ---
 
 # Sacral Neuromodulation for Fecal Incontinence
 
-Sacral Neuromodulation (SNM) is an advanced therapy option for patients with fecal incontinence who haven't found relief through more conservative treatments. This minimally invasive approach uses a small implanted device to modulate the nerves controlling bowel function, potentially restoring normal communication between the brain and the bowel.
+Sacral neuromodulation (SNM) is a small implanted device for women with fecal incontinence who haven't gotten enough help from diet changes, medicine, or pelvic floor therapy. It sends mild electrical pulses to the nerves that control the bowel. You try it for a week or more before you decide on a permanent implant, so you know whether it helps you first.
 
-## How Sacral Neuromodulation Works
+## How it works
 
-{: .important-title }
+The sacral nerves, low in your back, help control the bowel. With SNM, a thin wire sits next to these nerves. It connects to a small battery device placed under the skin of the upper buttock.
 
-> It seems like magic, but it's science
->
-> SNM targets the root cause of fecal incontinence by addressing the miscommunication between the brain and bowel.
+The device sends gentle pulses along the wire. The pulses seem to change the signals between the bowel and the nerves that control it, and for many women that means better control.
 
-1. A small device is implanted under the skin in the upper buttock area.
-2. The device sends gentle electrical pulses to the sacral nerves, which control bowel function.
-3. These pulses can help restore normal nerve activity, improving bowel control.
+## Why I like it
 
-## Benefits of Sacral Neuromodulation
+SNM is a minimally invasive procedure. You get to test it before anything permanent goes in. If you change your mind later, the device can be turned off or taken out.
 
-- Clinically proven effectiveness for long-term symptom relief
-- Minimally invasive procedure
-- Fully reversible therapy
-- Can be trialed before permanent implantation
-- May reduce or eliminate the need for medications or more invasive surgeries
+Studies have followed women with SNM for years, and the improvement tends to last. For some women, it means they can avoid a bigger operation.
 
-## The Sacral Neuromodulation Journey
+## What to expect
 
-### 1. Consultation
-Discuss with your doctor if SNM might be right for you. 
+It starts with a visit with me. We go over your symptoms and what you've already tried, and decide together whether SNM makes sense for you.
 
-### 2. Evaluation Period
-Before committing to long-term therapy, you'll undergo a trial period:
-- A temporary lead is placed near the sacral nerves.
-- You'll use an external device to control the stimulation.
-- This trial typically lasts about a week, allowing you to experience the potential benefits.
+Next comes the trial. I place a temporary wire near the sacral nerves, and you wear a small device outside the body that controls the stimulation. For bowel symptoms the trial usually lasts one to three weeks.
 
-### 3. Permanent Implantation
-If the trial is successful, you'll discuss with your doctor about proceeding with the full implant.
+If the trial helps, we talk about the permanent implant. If it doesn't, the temporary wire comes out.
 
-### 4. Long-Term Therapy
-After implantation, you'll work with your healthcare provider to optimize your settings for the best symptom control.
+After the implant, I adjust the settings over time to get the best control of your symptoms.
 
-## Device Options
+## Device options
 
-Two main systems are available for sacral neuromodulation:
+There are two main brands, Medtronic InterStim and Axonics. Each one comes in a rechargeable and a non-rechargeable version.
 
-### Medtronic InterStim™ System
+Medtronic's non-rechargeable InterStim X lasts 10 to 15 years, depending on your settings. The rechargeable InterStim Micro has a 15-year battery, and you charge it once a week for about 20 minutes.
 
-- Offers both rechargeable and non-rechargeable options
-- InterStim X™: Non-rechargeable, lasts 10-15 years depending on settings
-- InterStim™ Micro: Rechargeable, 15-year battery life, weekly 20-minute recharging
-- Both are MRI compatible under certain conditions
+The Axonics F15 doesn't need recharging and lasts 10 to 20 years. The rechargeable Axonics R20 is designed to last 20 years or more, and you charge it every 6 to 10 months.
 
-### Axonics® System
+Both InterStim devices are safe for MRI under certain conditions. Both Axonics devices allow full-body MRI under certain conditions.
 
-- AxonicsF15™: Non-rechargeable ("recharge-free"), lasts 10-20 years
-- AxonicsR20™: Rechargeable, designed to last 20+ years, 6-10 months between charges
-- Both allow for full-body MRI scans under certain conditions
+Picking rechargeable or non-rechargeable mostly comes down to your preferences and how you live. I go over both with you so you can choose the one that fits.
 
-{: .important-title }
+## How well it works
 
-> Important
-> 
-> The choice between rechargeable and non-rechargeable devices depends on your personal preferences and lifestyle. Discuss the options with your doctor to determine the best fit for you.
+In the main U.S. study, about 90% of patients who improved during the trial went on to get the permanent implant. More than 80% cut their weekly leaks at least in half. About 83% were still doing well one year after the implant.
 
-## Effectiveness
+The results hold up over time. At five years, about 89% were still doing well, and about 36% had no leaks at all. Longer follow-up has shown the benefit lasting.
 
-Clinical studies have shown significant improvements in fecal incontinence symptoms with sacral neuromodulation:
+## Is it right for you?
 
-- 84% of patients achieved clinically significant improvements at 2 years post-implantation
-- 93% of patients reported satisfaction with their therapy
+SNM may be a good fit if you've had fecal incontinence for a long time and diet changes, medicine, or pelvic floor therapy haven't been enough. It's also an option if you can't have, or don't want, a bigger operation.
 
-## Is Sacral Neuromodulation Right for You?
+A damaged anal sphincter doesn't rule you out. SNM can help even when the sphincter muscle is partly torn, and that includes some women who already had a sphincter repair that didn't stop the leaking.
 
-SNM may be an option if you:
-- Have chronic fecal incontinence
-- Have tried conservative treatments without success
-- Are not a candidate for, or prefer to avoid, more invasive surgical procedures
+## Next steps
 
-## Take the Next Step
+If you have fecal incontinence and want to know whether SNM could help, schedule a visit with me. I'll go over your symptoms and what you've tried, and if SNM fits, I'll set up the trial so you can see how it works for you before you commit to anything permanent.
 
-If you're struggling with fecal incontinence and are interested in learning more about sacral neuromodulation, schedule a consultation with Dr. Stewart. We can assess your condition, discuss whether SNM might be right for you, and guide you through the evaluation process if appropriate.
+## References
 
-Remember, sacral neuromodulation is a powerful tool in managing fecal incontinence, offering many patients significant improvement in their symptoms and quality of life. With the option to try the therapy before committing, you can make an informed decision about your long-term treatment plan.
+- Meyer I, Richter HE. Impact of Fecal Incontinence and Its Treatment on Quality of Life in Women. Women's Health (Lond). 2015. [doi:10.2217/whe.14.66](https://doi.org/10.2217/whe.14.66)
+- Goldman HB, Lloyd JC, Noblett KL, et al. International Continence Society best practice statement for use of sacral neuromodulation. Neurourology and Urodynamics. 2018. [doi:10.1002/nau.23596](https://doi.org/10.1002/nau.23596)
+- Brown HW, Dyer KY, Rogers RG. Management of Fecal Incontinence. Obstetrics & Gynecology. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
