@@ -7,49 +7,66 @@ nav_order: 3
 description: "Pelvic floor physical therapy is a non-surgical treatment option for pelvic organ prolapse. Learn what a session involves, how long treatment takes, and whether it's right for you. Dr. Ryan Stewart, urogynecologist in Green Bay, WI."
 permalink: /treatments/prolapse/pelvic-floor-physical-therapy
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
+references:
+  - author: "Hagen S, Stark D, Glazener C, et al."
+    title: "Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial"
+    journal: "The Lancet"
+    year: 2014
+    doi: "https://doi.org/10.1016/S0140-6736(13)61977-7"
+  - author: "Barber MD"
+    title: "Pelvic organ prolapse"
+    journal: "BMJ"
+    year: 2016
+    doi: "https://doi.org/10.1136/bmj.i3853"
+  - author: "Wallace SL, Miller LD, Mishra K"
+    title: "Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women"
+    journal: "Current Opinion in Obstetrics and Gynecology"
+    year: 2019
+    doi: "https://doi.org/10.1097/GCO.0000000000000584"
 ---
 
 # Pelvic Floor Physical Therapy for Prolapse
 
-Pelvic floor physical therapy is a highly effective, non-invasive treatment option for many women experiencing pelvic organ prolapse. This specialized form of physical therapy goes far beyond simple Kegel exercises, offering a comprehensive approach to pelvic health.
+Pelvic floor physical therapy is a highly effective, non-invasive treatment for many women with pelvic organ prolapse. A pelvic floor therapist works on your pelvic floor muscles along with your breathing, posture, and core.
 
 ## What is Pelvic Floor Physical Therapy?
 
-Pelvic floor physical therapy involves a range of techniques and exercises designed to:
+Pelvic floor physical therapy uses techniques and exercises to:
 
 - Strengthen and coordinate pelvic floor muscles
 - Improve overall pelvic function
-- Enhance breathing patterns
+- Improve breathing patterns
 - Correct and improve posture
 - Increase mobility and flexibility
 - Address any muscle imbalances or tensions in related areas
 
-These sessions are led by specially trained physical therapists who have expertise in pelvic health.
+Your sessions are with a physical therapist trained in pelvic health.
 
-## More Than Just Kegels
+## What PT Includes
 
-While Kegel exercises can be beneficial, pelvic floor physical therapy encompasses much more:
+Kegel exercises help, and your therapist will also work on:
 
-1. **Breathing techniques**: Proper breathing patterns can significantly impact pelvic floor function.
+1. **Breathing techniques**: How you breathe affects how your pelvic floor works.
 2. **Posture correction**: Your posture affects the positioning and functioning of your pelvic organs and pelvic floor.
-3. **Mobility exercises**: Improving flexibility in your hips, lower back, and abdomen can support better pelvic floor health.
-4. **Core strengthening**: A strong core works in tandem with your pelvic floor for better support.
-5. **Relaxation techniques**: Learning to fully relax your pelvic floor is just as important as strengthening it.
+3. **Mobility exercises**: More flexibility in your hips, lower back, and abdomen can help your pelvic floor.
+4. **Core strengthening**: Your core and pelvic floor work together to support your organs.
+5. **Relaxation techniques**: You need to be able to fully relax your pelvic floor, too, not only tighten it.
 
 {: .important-title }
 
 > Remember
 >
-> You are in control during your PT sessions. Any "internal work" is always optional and requires your explicit consent. You can benefit greatly from PT even if you choose not to have internal work done.
+> You are in control during your PT sessions. Any "internal work" is optional and needs your explicit consent. PT can still help you a great deal if you choose not to have internal work done.
 
 ## Benefits of Pelvic Floor PT for Prolapse
 
 1. Improves symptoms of prolapse
-2. May prevent worsening of the condition
-3. Enhances overall pelvic health
+2. May reduce the need for further prolapse treatment
+3. Improves overall pelvic health
 4. Can improve bladder and bowel control
 5. May improve sexual function
-6. Empowers you to take an active role in your treatment
+6. Gives you an active role in your treatment
 
 ## What to Expect in a Session
 
@@ -62,11 +79,11 @@ A typical pelvic floor physical therapy session may include:
 - Biofeedback training to help you visualize and understand your muscle activity
 - Manual therapy techniques to address any pelvic misalignments or tensions
 
-Remember, you're always in charge during your sessions. If you're uncomfortable with any aspect of the treatment, communicate this to your therapist. They can adjust their approach to ensure you're comfortable.
+You're in charge during your sessions. If any part of the treatment makes you uncomfortable, tell your therapist, and they'll change their approach.
 
 ## Duration and Frequency of Treatment
 
-The duration and frequency of pelvic floor physical therapy can vary based on individual needs. Typically, you might expect:
+How often you go and for how long depends on your needs. A typical course looks like this:
 
 - Initial sessions once or twice a week
 - Treatment duration of 6-12 weeks, sometimes longer
@@ -79,19 +96,27 @@ To get the most out of your pelvic floor physical therapy:
 
 1. Wear comfortable clothing that allows for easy movement
 2. Be prepared to discuss your symptoms and medical history in detail
-3. Don't be embarrassed – your therapist is a professional trained to discuss pelvic health
+3. Don't be embarrassed. Your therapist is trained to talk about pelvic health
 4. Bring any questions or concerns you have about the therapy process
 5. Remember that you can decline any part of the examination or treatment that makes you uncomfortable
 
 ## Is Pelvic Floor PT Right for You?
 
-Pelvic floor physical therapy can be an excellent option for many women with prolapse. It's particularly beneficial if:
+Pelvic floor physical therapy is a good option for many women with prolapse. It's especially helpful if:
 
 - You have mild to moderate prolapse
 - You want to avoid or delay surgical intervention
-- You're looking for a comprehensive, conservative treatment approach
-- You're motivated to participate actively in your treatment
+- You want a conservative treatment
+- You're motivated to do the work yourself
 
-Discuss with your urogynecologist whether pelvic floor physical therapy is appropriate for your specific situation.
+Physical therapy works best for mild to moderate prolapse and for relieving symptoms such as pelvic pressure or the feeling of something coming down. It strengthens and coordinates the muscles that support your pelvic organs, but it rarely moves the prolapse back into place, so it is often used alongside a pessary or before or after surgery when those are appropriate.
 
-Remember, consistency is key in pelvic floor physical therapy. Regular practice of prescribed exercises and techniques, both during sessions and at home, is crucial for achieving the best results.
+Ask your urogynecologist whether pelvic floor physical therapy makes sense for you.
+
+PT works best when you do your exercises regularly, at your sessions and at home.
+
+## References
+
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. The Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. Current Opinion in Obstetrics and Gynecology. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
