@@ -4,11 +4,12 @@ title: BOTOX® Injections
 procedure_name: "Bladder Botox Injection"
 parent: Urinary Incontinence Treatments
 nav_order: 6
-description: "Botox Injections for Bladder"
+description: "How bladder Botox treats overactive bladder and urge incontinence: the in-office procedure, how long it lasts, side effects, and who it suits."
 permalink: /treatments/urinary-incontinence/botox-injections
 redirect_from:
   - /bladder-botox-therapy/
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # BOTOX® Injections for Urinary Incontinence
@@ -17,18 +18,18 @@ BOTOX® (onabotulinumtoxinA) injections are one of the treatment options I offer
 
 ## How BOTOX® Works for Bladder Control
 
-BOTOX® works by relaxing the overactive muscles in the bladder that cause urgency, frequency, and urge incontinence.
+BOTOX® relaxes the overactive muscles in the bladder that cause urgency, frequency, and urge incontinence.
 
 - The medication is injected directly into the bladder muscle during an in-office procedure.
 - It reduces involuntary contractions of the bladder, giving you better control over urination.
-- Effects typically last 6-9 months before retreatment is needed.
+- Effects usually last about 6 months, sometimes less, and often wear off sooner in older patients.
 
 ## The BOTOX® Procedure
 
 The procedure is relatively quick and can usually be performed in the office:
 
 1. Your bladder is numbed with a local anesthetic.
-2. A cystoscope (a small camera placed into the bladder) is inserted through the urethra into your bladder.
+2. I pass a cystoscope (a small camera) through the urethra into your bladder.
 3. Using the scope, I inject small amounts of BOTOX® into multiple areas of the bladder muscle.
 4. The entire procedure typically takes about 30 minutes.
 
@@ -45,7 +46,7 @@ Most patients can return to their normal activities the same day, although you m
 BOTOX® for OAB does come with some risks:
 
 - Urinary tract infection
-- Difficulty urinating or inability to empty the bladder completely
+- Difficulty urinating or emptying the bladder completely. For a small number of women (about 1 in 20 at the dose I use), this means using a catheter for a little while until the effect wears off.
 - Blood in the urine
 - Fatigue
 
@@ -56,7 +57,7 @@ I discuss these risks with every patient beforehand so you know what to watch fo
 BOTOX® may be worth considering if you:
 - Have moderate to severe OAB symptoms
 - Are looking for an alternative to daily medication
-- Are comfortable with periodic injections (every 6-9 months)
+- Are comfortable with periodic injections (roughly every 6 months)
 - Don't have certain neurological conditions or other contraindications
 
 BOTOX® is one of several options for managing OAB, and it's not the right fit for everyone. We'll talk through your symptoms and goals to figure out what makes sense for you.
