@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Sling Procedures
+title: "Sling Surgery for Stress Incontinence"
+nav_title: Sling Procedures
 procedure_name: "Midurethral Sling"
 parent: Urinary Incontinence Treatments
 nav_order: 7
-description: "Sling Procedures for Incontinence"
+description: "A midurethral sling cures or greatly improves leaking with coughs and sneezes for 80 to 90% of women. Most go home the same day."
 permalink: /treatments/urinary-incontinence/sling-procedures
 redirect_from:
   - /mesh-sling-procedures/
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Sling Procedures for Urinary Incontinence
 
-Sling procedures are surgical treatments primarily used to address stress urinary incontinence (SUI) in women. These procedures involve placing a small strip of material to support the urethra, helping to prevent urine leakage during physical activities.
+Sling procedures are surgeries for stress urinary incontinence (SUI) in women. The surgeon places a small strip of material under the urethra to support it, so you don't leak when you cough, sneeze, or exercise.
 
 ## How Sling Procedures Work
 
@@ -23,7 +25,7 @@ Sling procedures work by:
 2. Providing compression to the urethra during moments of increased abdominal pressure
 3. Restoring the urethra to a more anatomically correct position
 
-Midurethral slings are the most commonly performed surgery for stress urinary incontinence worldwide, and for good reason — they're minimally invasive and have strong long-term data behind them.
+Midurethral slings are the most commonly performed surgery for stress urinary incontinence worldwide. They're minimally invasive and have strong long-term data behind them.
 
 ## Types of Sling Procedures
 
@@ -60,7 +62,7 @@ There are two main types of sling procedures:
 - Long-lasting results
 - Can be performed as an outpatient procedure
 
-Most patients are surprised by how quickly they recover and how well the sling works.
+Many of my patients tell me they recovered faster than they expected.
 
 ## Potential Risks and Complications
 
@@ -86,7 +88,7 @@ It's not the right fit for everyone, and we'll talk through whether it makes sen
 
 ## Recovery and long-term outlook
 
-Recovery is similar to my other minimally invasive procedures — let your body be your guide, and if it hurts, don't do it. Most patients are back to their normal routine within a few weeks. Success rates are high, with 80-90% of women experiencing cure or significant improvement in their leakage.
+Recovery is similar to my other minimally invasive procedures: let your body be your guide, and if it hurts, don't do it. Most patients are back to their normal routine within a few weeks. Success rates are high, with 80-90% of women experiencing cure or significant improvement in their leakage.
 
 One thing to know: sling procedures treat stress incontinence specifically. If you also have urge incontinence, we may need to address that separately.
 
