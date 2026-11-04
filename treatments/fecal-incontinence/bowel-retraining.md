@@ -1,79 +1,69 @@
 ---
 layout: page
-title: Bowel Retraining
+title: "Bowel Retraining: A Step-by-Step Program"
+nav_title: Bowel Retraining
 therapy_name: "Bowel Retraining"
 parent: Fecal Incontinence Treatments
 nav_order: 3
-description: "Bowel Retraining Techniques"
+description: "Bowel retraining builds bowel control with a set toilet schedule, diet changes and pelvic floor exercises. Here are the steps and how long it takes."
 permalink: /treatments/fecal-incontinence/bowel-retraining
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
 ---
+
 
 # Bowel Retraining for Fecal Incontinence
 
-Bowel retraining is a conservative, non-invasive approach to managing fecal incontinence. This technique aims to improve bowel control by establishing a regular, predictable pattern for bowel movements. With patience and consistency, many patients find significant improvement in their symptoms.
+Bowel retraining is a gentle, low-risk way to get more control over your bowels. It doesn't involve surgery or a procedure. You train your bowels to empty on a regular, predictable schedule, so you're on the toilet when stool is ready to come out instead of caught off guard. Many people who stick with it see real improvement. It takes patience, though. Most need several weeks to a few months before they notice a big difference.
 
-## What is Bowel Retraining?
+## What is bowel retraining?
 
-Bowel retraining involves a combination of dietary changes, scheduled toilet visits, and exercises to help regulate bowel movements and strengthen the muscles involved in defecation.
+It's three things done together: changes to what you eat and drink, trips to the toilet at set times, and exercises for the muscles that hold stool in. The diet and the schedule make your bowel movements more regular. The exercises make those muscles stronger.
 
-{: .important-title }
+## How it works
 
-> Key Point
->
-> Bowel retraining is not an overnight solution. It typically takes several weeks to months to see significant improvements.
+Your bowels naturally get more active after you eat. Doctors call this the gastrocolic reflex. It's strongest about 15 to 45 minutes after a meal, so that's usually the best time to sit on the toilet. If you go at the same time every day, your body starts to expect it.
 
-## How Bowel Retraining Works
+How you sit matters too. A good position makes stool come out more easily, without pushing hard. Fiber and fluids help you get stool that's well formed and regular, not too loose and not too hard. Pelvic floor exercises build up the muscles that keep stool in until you're ready.
 
-1. **Establishing a Schedule**: You'll work to have bowel movements at the same time each day, typically 15-45 minutes after meals when the gastrocolic reflex is strongest.
+Some people also do biofeedback. A sensor and a screen show you what your pelvic floor muscles are doing while you squeeze and relax, so you can learn to control them better.
 
-2. **Proper Positioning**: Learn the correct sitting position on the toilet to facilitate easier bowel movements.
+## The steps
 
-3. **Dietary Modifications**: Adjusting fiber and fluid intake to promote regular, well-formed stools.
+Start by keeping a bowel diary for at least a week. Write down when you have bowel movements, what you eat and drink, and any time you leak. That diary tells you when your bowels tend to be active.
 
-4. **Pelvic Floor Exercises**: Strengthening the muscles that control bowel movements.
+Then build your routine:
 
-5. **Biofeedback**: Using specialized equipment to help you learn to control the muscles involved in defecation.
+1. Pick one to three times each day to try for a bowel movement, based on what your diary shows. After a meal is usually a good choice.
+2. At those times, sit on the toilet for 10 to 15 minutes, even if nothing happens.
+3. Lean forward a little and keep your knees higher than your hips. Don't strain.
+4. Any time you feel the urge to go, head to the toilet right away. Don't hold it.
+5. Work with your doctor to get the right amount of fiber and fluid.
+6. Do Kegel exercises to strengthen your pelvic floor.
 
-## Steps in Bowel Retraining
+Keep the same schedule on weekends and holidays. Bowel retraining works best when you're consistent.
 
-{: .important-title }
+## Tips that help
 
-> Remember
->
-> Consistency is key in bowel retraining. Try to stick to your schedule as closely as possible, even on weekends and holidays.
+Give it time. You may not see much change for several weeks. Drink plenty of water and get regular exercise. If certain foods give you loose stools or make you constipated, cut back on them. A small step stool under your feet on the toilet makes it easier to get your knees above your hips.
 
-1. **Keep a Bowel Diary**: Track your bowel movements, diet, and any incontinence episodes for at least a week.
+## When it isn't enough
 
-2. **Set a Schedule**: Based on your diary, choose 1-3 times each day to attempt a bowel movement.
-
-3. **Sit on the Toilet**: At your scheduled times, sit on the toilet for 10-15 minutes, even if you don't have a bowel movement.
-
-4. **Use Proper Technique**: Lean forward slightly, keep your knees higher than your hips, and avoid straining.
-
-5. **Respond to Urges**: When you feel the urge to have a bowel movement, go to the toilet immediately.
-
-6. **Adjust Your Diet**: Work with your healthcare provider to optimize your fiber and fluid intake.
-
-7. **Practice Pelvic Floor Exercises**: Strengthen your pelvic floor muscles with Kegel exercises.
-
-## Tips for Success
-
-- Be patient. It may take several weeks to see improvements.
-- Stay hydrated by drinking plenty of water.
-- Incorporate regular physical activity into your routine.
-- Avoid foods that trigger loose stools or constipation.
-- Consider using a toilet stool to elevate your feet during bowel movements.
-
-## When to Seek Additional Help
-
-While bowel retraining is effective for many people, it may not be sufficient for everyone. If you don't see improvement after several weeks of consistent effort, or if your symptoms worsen, consult your healthcare provider. They may recommend additional treatments or therapies.
+Bowel retraining helps many people, but not everyone. If you've stuck with it for several weeks and you're not better, or your symptoms are getting worse, talk with your doctor about other treatments.
 
 {: .important-title }
-> Important
+> Before you start
 >
-> Always consult with a healthcare professional before starting a bowel retraining program, especially if you have any underlying medical conditions.
+> Check with a doctor before you begin a bowel retraining program, especially if you have other health problems.
 
-## Take the Next Step
+## Take the next step
 
-Bowel retraining can be a powerful tool in managing fecal incontinence, but it requires dedication and patience. If you're struggling with fecal incontinence and want to explore bowel retraining or other treatment options, don't hesitate to reach out to Dr. Stewart for personalized advice and care.
+If you have fecal incontinence and want help setting up bowel retraining, or want to talk about other options, schedule a visit with me. Bring your bowel diary if you've started one. It gives us a head start on figuring out your schedule.
+
+## References
+
+- Brown HW, Dyer KY, Rogers RG. Management of Fecal Incontinence. Obstetrics & Gynecology. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- Sultan AH, Monga A, Lee J, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for female anorectal dysfunction. International Urogynecology Journal. 2017. [doi:10.1007/s00192-016-3140-3](https://doi.org/10.1007/s00192-016-3140-3)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. Current Opinion in Obstetrics and Gynecology. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Jelovsek JE, Markland AD, Whitehead WE, et al. Controlling anal incontinence in women by performing anal exercises with biofeedback or loperamide: a randomised clinical trial. Lancet Gastroenterology & Hepatology. 2019. [doi:10.1016/S2468-1253(19)30193-1](https://doi.org/10.1016/S2468-1253(19)30193-1)
