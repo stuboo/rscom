@@ -4,97 +4,73 @@ title: Eclipse Device
 device_name: "Eclipse Device"
 parent: Fecal Incontinence Treatments
 nav_order: 5
-description: "Eclipse Device to Prevent Accidental Bowel Leakage"
+description: "The Eclipse System is a vaginal insert with a small balloon you inflate to help prevent bowel leakage. How it works, what studies show, and who it suits."
 permalink: /treatments/fecal-incontinence/eclipse-device
 published: false
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
+references:
+  - author: "Meyer I, Richter HE"
+    title: "Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management"
+    journal: "Obstetrics and Gynecology Clinics of North America"
+    year: 2021
+    doi: "https://doi.org/10.1016/j.ogc.2021.05.003"
+  - author: "Brown HW, Dyer KY, Rogers RG"
+    title: "Management of Fecal Incontinence"
+    journal: "Obstetrics & Gynecology"
+    year: 2020
+    doi: "https://doi.org/10.1097/AOG.0000000000004054"
 ---
 
-# Eclipse™ Device for Fecal Incontinence
+# Eclipse™ device for fecal incontinence
 
-The Eclipse™ System is an innovative, non-surgical solution for women suffering from fecal incontinence, also known as accidental bowel leakage. This vaginal insert offers a unique approach to managing bowel control issues without the need for surgery or medications.
+The Eclipse™ System is a vaginal insert for women with fecal incontinence, also called accidental bowel leakage. You put it in yourself, and you decide when it's on and when it's off. It doesn't involve surgery or medication.
 
-## What is the Eclipse Device?
+## What it is
 
-The Eclipse System is a vaginal insert designed to use your body's own anatomy to help prevent accidental bowel leakage. It's a removable device that can be inserted and removed by the user, similar to a tampon or diaphragm.
+The insert sits in the vagina, about where a tampon or diaphragm would. Like those, you put it in and take it out on your own. A small balloon on the insert does the work.
 
-{: .important-title }
+## How it works
 
-> Key Point
->
-> The Eclipse System allows you to actively control your bowels without surgery or drugs.
+The rectum sits right behind the back wall of the vagina. When you inflate the balloon, it presses gently on the rectum through that wall and helps keep stool from passing before you're ready. When you need to have a bowel movement, you let the air out and go as usual.
 
-## How the Eclipse Device Works
+You control the balloon with a small pump that attaches to the insert and comes off when you're done.
 
-1. **Vaginal Insert**: The device is placed in the vagina, in a similar location to a tampon or diaphragm.
+## What it offers
 
-2. **Inflatable Balloon**: The insert has a balloon that can be inflated or deflated.
+The main appeal is control. You aren't taking a pill every day or recovering from an operation. You choose when the balloon is up, and you can take the whole thing out whenever you want. In studies, most women who used it had fewer leaks.
 
-3. **Detachable Pump**: A small, discreet pump is used to control the balloon.
+## What the studies show
 
-4. **Bowel Control**: When inflated, the balloon puts gentle pressure on the rectum, helping to prevent stool from passing when you're not ready.
+The main study of the device, called LIBERATE, followed women with accidental bowel leakage who used it for a year. At 3 months, about 73% of the women had cut their leakage episodes at least in half. Among the women who finished the study, that number was closer to 84%.
 
-5. **User Control**: When you're ready to have a bowel movement, you simply deflate the balloon using the pump.
+Most women liked it. About 92% said they were satisfied at 3 months, and 94% at 12 months. After a year, around 80% rated themselves "much better" or "very much better" than before.
 
-{: .important-title }
-> Tip
->
-> The Eclipse System is designed to be comfortable. In clinical studies, the majority of women reported that they couldn't even feel the device when properly fitted.
+## Who it's for
 
-## Benefits of the Eclipse System
+The device is made for women with fecal incontinence. Most women start with simpler steps first: changing their diet, adding fiber, taking medicine, and doing pelvic floor therapy. The Eclipse is a good fit if those haven't helped enough and you'd rather not have surgery, or surgery isn't a good option for you. It also suits women who want a treatment they run themselves and can remove at any time.
 
-- Non-surgical and drug-free
-- Can be inserted and removed by the user
-- Allows for control over bowel movements
-- Clinically proven to reduce or eliminate accidents
-- Can be used alongside other therapies
+## Using it day to day
 
-## Clinical Evidence
+The first step is a fitting. The inserts come in different sizes, and your doctor finds the one that fits you. After that, you put the insert in yourself, much like a tampon. You pump up the balloon when you want protection from leaks and let it down when it's time for a bowel movement. You take the device out when it needs cleaning or replacing.
 
-Clinical studies have shown promising results for the Eclipse System:
+Your doctor will walk you through how to put it in, use it and care for it. Follow those instructions, and ask if anything feels off.
 
-- 86% of women reported the device was effective after 1 month of use
-- 41% of women reported zero accidents after 1 month
-- The average number of reported episodes decreased from 11.6 to 2.1 over a 2-week period
-- 96% of women reported the device was comfortable
-- 98% of women said they would recommend it to a friend
+## Side effects
 
-## Who Can Use the Eclipse System?
+Some women have discomfort when they put the insert in or take it out. Others get vaginal irritation or urinary symptoms. If you notice any of these, tell your doctor.
 
-The Eclipse System is designed for women who experience fecal incontinence. It may be particularly suitable for those who:
+## Is it right for you?
 
-- Have not found sufficient relief from conservative treatments
-- Want to avoid or are not candidates for surgical interventions
-- Desire a controllable, removable solution
+If you have bowel leakage and want something you control without surgery, the Eclipse is worth considering. It usually makes the most sense after diet changes, fiber, medicine and pelvic floor therapy haven't given you enough relief.
 
-## Using the Eclipse System
+## Next steps
 
-1. **Fitting**: A healthcare provider will fit you with the correct size insert.
-2. **Insertion**: You insert the device yourself, similar to a tampon.
-3. **Inflation**: Use the pump to inflate the balloon when you want to prevent accidents.
-4. **Deflation**: When you're ready for a bowel movement, deflate the balloon.
-5. **Removal**: You can remove the device as needed for cleaning or replacement.
+If you'd like to know whether the Eclipse could work for you, come see me. I'll examine you and talk through whether the device fits your situation. If it does, I'll fit you for it.
 
-{: .important-title }
+## References
 
-> Important
->
-> Always follow your healthcare provider's instructions for inserting, using, and caring for your Eclipse device.
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- Brown HW, Dyer KY, Rogers RG. Management of Fecal Incontinence. Obstetrics & Gynecology. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
 
-## Potential Side Effects
-
-As with any medical device, there may be potential side effects. These are typically mild and may include:
-
-- Discomfort during insertion or removal
-- Vaginal irritation
-- Urinary symptoms
-
-Discuss any concerns or side effects with your healthcare provider.
-
-## Is the Eclipse System Right for You?
-
-The Eclipse System offers a unique approach to managing fecal incontinence. It may be an excellent option if you're looking for a non-surgical, controllable solution. However, every patient's needs are different, and what works best for one person may not be ideal for another.
-
-## Take the Next Step
-
-If you're struggling with fecal incontinence and are interested in learning more about the Eclipse System, Dr. Stewart can help. He can assess your condition, discuss whether the Eclipse device might be right for you, and guide you through the fitting process if appropriate.
+*Last evidence review: 2026-09-23*
