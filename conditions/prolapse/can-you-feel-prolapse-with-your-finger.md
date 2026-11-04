@@ -1,9 +1,10 @@
 ---
 layout: question
-title: "Can You Feel Prolapse with Your Finger?"
+title: "Can You Feel Prolapse or a Rectocele With Your Finger?"
+nav_title: "Can You Feel Prolapse with Your Finger?"
 parent: Pelvic Organ Prolapse
 nav_order: 23
-description: "Usually, once it reaches the vaginal opening. How to check yourself, what a bulge on each wall means, what else it could be, and when to be seen."
+description: "Usually once it reaches the opening. A soft bulge on the front wall is often the bladder, on the back wall a rectocele. How to check, and when to be seen."
 permalink: /conditions/prolapse/can-you-feel-prolapse-with-your-finger
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

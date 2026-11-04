@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Enterocele
+title: "Enterocele: Symptoms, Diagnosis, and Treatment"
+nav_title: "Enterocele"
 nav_order: 4
 parent: Pelvic Organ Prolapse
 condition_name: Enterocele

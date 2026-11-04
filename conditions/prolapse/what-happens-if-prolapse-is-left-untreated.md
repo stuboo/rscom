@@ -1,9 +1,10 @@
 ---
 layout: question
-title: "Untreated Prolapse: Does It Get Worse?"
+title: "Is Prolapse Dangerous If Left Untreated?"
+nav_title: "Untreated Prolapse: Does It Get Worse?"
 parent: Pelvic Organ Prolapse
 nav_order: 25
-description: "Most prolapse changes slowly. In one study, 78% of untreated cases looked the same 16 months later. Learn what to expect and when treatment makes sense."
+description: "Rarely. Prolapse isn't cancer and usually changes slowly: 78% of untreated cases were unchanged at 16 months. The rare complications, and when to treat."
 permalink: /conditions/prolapse/what-happens-if-prolapse-is-left-untreated
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

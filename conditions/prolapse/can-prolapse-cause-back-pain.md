@@ -1,9 +1,10 @@
 ---
 layout: question
-title: "Can Pelvic Organ Prolapse Cause Back Pain?"
+title: "Can a Prolapsed Uterus or Bladder Cause Back Pain?"
+nav_title: "Can Pelvic Organ Prolapse Cause Back Pain?"
 parent: Pelvic Organ Prolapse
 nav_order: 22
-description: "Can Pelvic Organ Prolapse Cause Back Pain - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "It can. Stretched ligaments pull on the low back, so the ache drags, builds through the day, and eases when you lie down. A pessary trial can tell."
 permalink: /conditions/prolapse/can-prolapse-cause-back-pain
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

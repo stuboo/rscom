@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Vaginal Prolapse Repair
+title: "Vaginal Prolapse Repair: How Surgery Fixes Prolapse"
+nav_title: "Vaginal Prolapse Repair"
 procedure_name: "Vaginal Prolapse Repair"
 parent: Prolapse Treatments
 nav_order: 6
-description: "How I repair pelvic organ prolapse through the vagina: apical suspension, anterior and posterior repair, colpocleisis, and how I decide with you."
+description: "How I fix prolapse through the vagina, with no belly incision: apical suspension, front and back wall repair, success rates, and when surgery can wait."
 permalink: /treatments/prolapse/vaginal-prolapse-repair
 published: true
 last_modified_at: 2026-09-06

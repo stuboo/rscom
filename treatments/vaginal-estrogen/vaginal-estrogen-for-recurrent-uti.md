@@ -3,7 +3,7 @@ layout: question
 title: "Does Vaginal Estrogen Prevent UTIs?"
 parent: Vaginal Estrogen
 nav_order: 7
-description: "Vaginal estrogen for recurrent UTI - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Yes, after menopause. In one trial, estriol cream cut UTIs from 5.9 to 0.5 a year. How it works, which form to use, and how long before it helps."
 permalink: /treatments/vaginal-estrogen/vaginal-estrogen-for-recurrent-uti
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

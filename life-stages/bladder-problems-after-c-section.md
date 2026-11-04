@@ -1,9 +1,10 @@
 ---
 layout: persona
-title: "Can a C-Section Cause Bladder Problems?"
+title: "Incontinence After a C-Section: Why It Happens"
+nav_title: "Can a C-Section Cause Bladder Problems?"
 parent: Life Stages & Pelvic Health
 nav_order: 8
-description: "Yes. One in four women who had a C-section before labor still leaked urine 6 weeks later. Learn why pregnancy strains the bladder and what helps."
+description: "One in four women who had a C-section before labor still leaked urine at 6 weeks. Pregnancy itself strains the pelvic floor. What helps, and when to get checked."
 permalink: /life-stages/bladder-problems-after-c-section
 condition_name: Urinary Incontinence
 nav_exclude: true

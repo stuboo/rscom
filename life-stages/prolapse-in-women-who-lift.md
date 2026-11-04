@@ -1,9 +1,10 @@
 ---
 layout: persona
-title: "Pelvic Floor Health for Women Who Lift Weights"
+title: "Weightlifting and Prolapse: Can Lifting Cause It?"
+nav_title: "Pelvic Floor Health for Women Who Lift Weights"
 parent: Life Stages & Pelvic Health
 nav_order: 11
-description: "Heavy lifting can strain the pelvic floor. Learn how to protect your pelvic health while staying strong and active."
+description: "Lifting raises the pressure on your pelvic floor, but it isn't bad for it. The signs to watch for (leaking, pressure, a bulge) and how to keep lifting."
 permalink: /life-stages/prolapse-in-women-who-lift
 condition_name: Pelvic Organ Prolapse
 nav_exclude: true
