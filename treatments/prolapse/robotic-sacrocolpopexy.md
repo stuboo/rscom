@@ -1,15 +1,17 @@
 ---
 layout: page
-title: Robotic Sacrocolpopexy
+title: "Robotic Sacrocolpopexy: What to Expect"
+nav_title: Robotic Sacrocolpopexy
 procedure_name: "Robotic Sacrocolpopexy"
 parent: Prolapse Treatments
 nav_order: 5
-description: "Robotic Sacrocolpopexy for Pelvic Organ Prolapse"
+description: "About 95% of women never need another prolapse operation seven years after sacrocolpopexy. Most go home the same day or next morning and recover in 6 to 8 weeks."
 permalink: /treatments/prolapse/robotic-sacrocolpopexy
 published: true
 redirect_from:
   - /da-vinci-robotic-sacrocolpopexy/
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-09
 ---
 
 # Robotic Sacrocolpopexy for Pelvic Organ Prolapse
@@ -18,7 +20,7 @@ Robotic sacrocolpopexy is a minimally invasive surgical procedure used to treat 
 
 ## What is Robotic Sacrocolpopexy?
 
-Robotic sacrocolpopexy is performed using the da Vinci robotic surgical system, which allows for greater precision and control compared to traditional laparoscopic techniques. The procedure involves:
+Robotic sacrocolpopexy is performed using the da Vinci robotic surgical system. The procedure involves:
 
 1. Five small 8mm incisions are made in the abdomen
 2. A lightweight synthetic mesh is positioned to support the prolapsed organs
@@ -50,7 +52,7 @@ Sacrocolpopexy is widely considered the most durable surgical option for apical 
 
 Most patients go home the same day or after one night in the hospital. Pain is managed with medications, and your first follow-up visit is typically at 6 weeks.
 
-I don't give patients a long list of postoperative restrictions. Instead, I tell them to let their body be their guide — if it hurts, don't do it. Research by Mueller and Kenton has shown that strict activity restrictions after prolapse surgery don't improve outcomes, and most patients do well with a common-sense approach to getting back to their normal routine.
+I don't give patients a long list of postoperative restrictions. Instead, I tell them to let their body be their guide. If it hurts, don't do it. Research by Mueller and Kenton has shown that strict activity restrictions after prolapse surgery don't improve outcomes, and most patients do well with a common-sense approach to getting back to their normal routine.
 
 Full recovery takes about 6-8 weeks. Most patients tell me they're surprised by how quickly they bounce back compared to what they expected.
 
@@ -74,7 +76,7 @@ Like any surgery, robotic sacrocolpopexy carries risks. These include:
 - Changes in urination (temporary or, rarely, permanent)
 - Potential impact on sexual function
 
-I go through all of these risks and benefits with you before surgery so you know exactly what to expect.
+I go through all of these risks and benefits with you before surgery so you know what to expect.
 
 ## Alternative Treatments
 
@@ -88,7 +90,7 @@ You can read more about all treatment options on the [pelvic organ prolapse](/co
 
 ## Success Rates and Outcomes
 
-Studies show that 90-95% of patients achieve good anatomical correction after sacrocolpopexy, and long-term data supports the durability of the repair. Most patients see a real improvement in their symptoms.
+Sacrocolpopexy is one of the most durable prolapse repairs we have. In long-term follow-up, most women (around 95% at seven years) never need another prolapse operation. Strict anatomic success runs lower, roughly three-quarters, and it slips over the years, but recurrence is still less common than after a native-tissue vaginal repair. Most patients feel a real improvement in their symptoms.
 
 ## Is this the right surgery for you?
 
