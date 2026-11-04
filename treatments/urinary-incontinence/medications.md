@@ -1,17 +1,55 @@
 ---
 layout: page
-title: Medications
+title: "Overactive Bladder Medication Options"
+nav_title: Medications
 therapy_name: "Overactive Bladder Medication"
 parent: Urinary Incontinence Treatments
 nav_order: 4
-description: "Medications for Overactive Bladder"
+description: "Overactive bladder pills come in two types: anticholinergics like oxybutynin and beta-3 drugs like mirabegron. Learn how they differ and their side effects."
 permalink: /treatments/urinary-incontinence/medications
 last_modified_at: 2026-03-15
+last_evidence_review: 2026-09-23
+references:
+  - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
+    title: "Urinary Incontinence in Women: A Review"
+    journal: "JAMA"
+    year: 2017
+    doi: "https://doi.org/10.1001/jama.2017.12137"
+  - author: "ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al."
+    title: "Urinary Incontinence in Women (ACOG Practice Bulletin No. 155)"
+    journal: "Obstetrics & Gynecology"
+    year: 2015
+    doi: "https://doi.org/10.1097/AOG.0000000000001148"
+  - author: "White N, Iglesia CB."
+    title: "Overactive Bladder"
+    journal: "Obstetrics and Gynecology Clinics of North America"
+    year: 2016
+    doi: "https://doi.org/10.1016/j.ogc.2015.10.002"
+  - author: "Lightner DJ, Gomelsky A, Souter L, et al."
+    title: "Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019"
+    journal: "The Journal of Urology"
+    year: 2019
+    doi: "https://doi.org/10.1097/JU.0000000000000309"
+  - author: "AUGS Guidelines Committee, Thomas TN, Walters MD."
+    title: "Clinical Consensus Statement: Association of Anticholinergic Medication Use and Cognition in Women With Overactive Bladder"
+    journal: "Female Pelvic Medicine & Reconstructive Surgery"
+    year: 2021
+    doi: "https://doi.org/10.1097/SPV.0000000000001008"
+  - author: "Dengler KL, High RA, Moga DC, et al."
+    title: "Overactive Bladder and Cognitive Impairment: The American Urogynecologic Society and Pelvic Floor Disorders Research Foundation State-of-the-Science Conference Summary Report"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001272"
+  - author: "Sanses TVD, Zillioux J, High RA, et al."
+    title: "Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001274"
 ---
 
 # Medications for Overactive Bladder and Urge Incontinence
 
-Medications play a crucial role in managing certain types of urinary incontinence, particularly overactive bladder (OAB) and urge incontinence. It's important to note that while these medications can be highly effective for OAB and urge associated incontinence, there are currently no FDA-approved medications specifically indicated for stress urinary incontinence.
+Medications are a main treatment for overactive bladder (OAB) and urge incontinence, and they can be highly effective. They don't treat stress urinary incontinence: there are currently no FDA-approved medications for it.
 
 ## Understanding Medication Options
 
@@ -49,11 +87,11 @@ A newer class of medications for overactive bladder:
 
 ### Combination Therapies
 
-In some cases, a combination of an anticholinergic and a beta-3 agonist may be prescribed for enhanced efficacy.
+In some cases, you may be prescribed an anticholinergic and a beta-3 agonist together to improve results.
 
 ## Potential Side Effects and Risks
 
-While these medications can be very effective, they may cause side effects and carry certain risks:
+These medications can cause side effects and carry certain risks:
 
 - **Common side effects of antimuscarinics**:
   - Dry mouth
@@ -68,7 +106,7 @@ While these medications can be very effective, they may cause side effects and c
 
 ### Important Risk Consideration: Dementia
 
-Recent research has highlighted an important risk associated with long-term use of anticholinergic medications:
+Research points to a specific risk with long-term use of anticholinergic medications:
 
 - Chronic use (more than three months) of anticholinergic medications for OAB is likely associated with an increased risk of new-onset dementia.
 - Short-term use (less than four weeks) is generally considered safe for most individuals.
@@ -79,7 +117,7 @@ Recent research has highlighted an important risk associated with long-term use 
 
 ## Treatment Approach
 
-Given the potential risks associated with antimuscarinics medications, our treatment approach typically follows these guidelines:
+Because of these risks, we usually approach medication this way:
 
 1. We often recommend trying a beta-3 agonist before an anticholinergic medication when pharmacological therapy is indicated for OAB.
 2. If anticholinergics are used, we prefer options with more favorable risk profiles and monitor use closely.
@@ -87,10 +125,20 @@ Given the potential risks associated with antimuscarinics medications, our treat
 
 ## Shared Decision-Making
 
-Dr. Stewart believes in a shared decision-making process when it comes to medication choices. We'll discuss the potential benefits and risks of each option, considering your individual health profile and preferences.
+Dr. Stewart makes medication decisions with you. We'll go over the benefits and risks of each option in light of your health and your preferences.
 
 ## Next Steps
 
-If you're struggling with symptoms of overactive bladder or urge incontinence, schedule a consultation with Dr. Stewart. We'll perform a thorough evaluation, discuss your symptoms and medical history, and determine the most appropriate treatment options for you, always keeping in mind both effectiveness and long-term safety.
+If you have symptoms of overactive bladder or urge incontinence, schedule a consultation with Dr. Stewart. We'll do a thorough evaluation, go over your symptoms and medical history, and choose treatment options with both effectiveness and long-term safety in mind.
 
-Remember, while medication can be very effective, it's just one tool in our comprehensive approach to treating urinary incontinence. We're committed to finding the right combination of treatments to help you regain control and improve your quality of life, while also safeguarding your long-term health.
+Medication is one option among several. We'll look for the combination of treatments that controls your symptoms and protects your long-term health.
+
+## References
+
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- White N, Iglesia CB. Overactive Bladder. Obstetrics and Gynecology Clinics of North America. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
+- Lightner DJ, Gomelsky A, Souter L, et al. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. The Journal of Urology. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- AUGS Guidelines Committee, Thomas TN, Walters MD. Clinical Consensus Statement: Association of Anticholinergic Medication Use and Cognition in Women With Overactive Bladder. Female Pelvic Medicine & Reconstructive Surgery. 2021. [doi:10.1097/SPV.0000000000001008](https://doi.org/10.1097/SPV.0000000000001008)
+- Dengler KL, High RA, Moga DC, et al. Overactive Bladder and Cognitive Impairment: The American Urogynecologic Society and Pelvic Floor Disorders Research Foundation State-of-the-Science Conference Summary Report. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+- Sanses TVD, Zillioux J, High RA, et al. Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
