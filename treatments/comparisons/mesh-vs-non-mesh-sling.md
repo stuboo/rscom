@@ -111,11 +111,6 @@ PT and surgery aren't either/or. Some women try therapy first, some do it alongs
 
 The best treatment is the one that fits your symptoms, your health, and what matters to you. I'll walk you through each option, answer your questions, and we'll choose together. Most insurance plans cover these procedures; my office can help you check your coverage.
 
-## Related reading
-
-- [Sling procedures](/treatments/urinary-incontinence/sling-procedures)
-- [Urethral bulking](/treatments/urinary-incontinence/urethral-bulking)
-
 ## References
 
 1. American Urogynecologic Society and SUFU. Joint Position Statement on Midurethral Slings for Stress Urinary Incontinence. *Female Pelvic Med Reconstr Surg.* 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)

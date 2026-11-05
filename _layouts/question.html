@@ -9,6 +9,8 @@ layout: default
 
 {{ content }}
 
+{% include related-reading.html %}
+
 {% if page.parent_condition_url %}
 <p style="margin-top: 2rem;"><a href="{{ page.parent_condition_url }}">← Learn more about {{ page.condition_name | default: "this condition" }}</a></p>
 {% endif %}

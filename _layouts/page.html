@@ -7,6 +7,8 @@ layout: default
 {% endif %}
 
 {{ content }}
+{% include related-reading.html %}
+
 {% if page.faq %}
 {% include faq-schema-content.html %}
 {% include faq-schema-jsonld.html %}

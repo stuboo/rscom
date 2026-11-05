@@ -1,0 +1,26 @@
+{%- comment -%}
+  Cross-cluster "Related reading" links (T-0020). The site nav only links a
+  page to its own parent and siblings; this connects condition, treatment,
+  comparison, and life-stage pages that answer the same patient's next
+  question. Curated in _data/related.yml, keyed by page URL. An entry whose
+  target no longer exists is skipped rather than rendered as a dead link.
+{%- endcomment -%}
+{%- assign related_urls = site.data.related[page.url] -%}
+{%- if related_urls and related_urls.size > 0 -%}
+{%- capture related_items -%}
+{%- for u in related_urls -%}
+{%- assign target = site.html_pages | where: "url", u | first -%}
+{%- if target and target.title -%}
+<li><a href="{{ target.url | relative_url }}">{{ target.title }}</a></li>
+{%- endif -%}
+{%- endfor -%}
+{%- endcapture -%}
+{%- if related_items != "" -%}
+<nav class="related-reading" aria-labelledby="related-reading-heading">
+<h2 id="related-reading-heading">Related reading</h2>
+<ul>
+{{ related_items }}
+</ul>
+</nav>
+{%- endif -%}
+{%- endif -%}

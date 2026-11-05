@@ -1,0 +1,721 @@
+# Curated cross-cluster links (T-0020), rendered by _includes/related-reading.html.
+# Key = page URL exactly as Jekyll reports it (the page's permalink). Values = target URLs.
+# Never list a page's own parent hub (the layout links it) or the page itself.
+
+# Conditions: prolapse
+"/conditions/pelvic-organ-prolapse":
+  - "/treatments/prolapse"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/treatments/prolapse/watch-and-wait"
+"/conditions/cystocele":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/native-tissue-repair"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/prolapse/can-you-feel-prolapse-with-your-finger"
+"/conditions/rectocele":
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/conditions/prolapse/can-you-feel-prolapse-with-your-finger"
+"/conditions/enterocele":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/conditions/vaginal-prolapse"
+  - "/treatments/comparisons/pessary-vs-surgery"
+"/conditions/uterine-prolapse":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/conditions/prolapse/how-fast-does-uterine-prolapse-progress"
+"/conditions/vaginal-prolapse":
+  - "/life-stages/prolapse-after-hysterectomy"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/prolapse/native-tissue-repair"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/prolapse/pessary"
+"/conditions/prolapse/can-prolapse-cause-back-pain":
+  - "/conditions/prolapse/how-does-uterine-prolapse-feel"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/conditions/prolapse/what-happens-if-prolapse-is-left-untreated"
+"/conditions/prolapse/can-prolapse-come-back-after-surgery":
+  - "/life-stages/recurrent-prolapse"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/prolapse/native-tissue-repair"
+  - "/conditions/prolapse/how-long-is-recovery-from-prolapse-surgery"
+"/conditions/prolapse/can-uterine-prolapse-be-reversed":
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/conditions/uterine-prolapse"
+"/conditions/prolapse/can-uterine-prolapse-cause-bleeding":
+  - "/conditions/uterine-prolapse"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary"
+  - "/treatments/vaginal-estrogen/bleeding-on-vaginal-estrogen"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/prolapse/pessary"
+"/conditions/prolapse/can-uterine-prolapse-cause-cramping":
+  - "/conditions/uterine-prolapse"
+  - "/conditions/prolapse/how-does-uterine-prolapse-feel"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/conditions/prolapse/can-prolapse-cause-back-pain"
+"/conditions/prolapse/can-uterine-prolapse-happen-suddenly":
+  - "/conditions/uterine-prolapse"
+  - "/conditions/prolapse/how-fast-does-uterine-prolapse-progress"
+  - "/conditions/prolapse/what-causes-uterine-prolapse"
+  - "/life-stages/prolapse-in-women-who-lift"
+"/conditions/prolapse/can-you-feel-prolapse-with-your-finger":
+  - "/conditions/cystocele"
+  - "/conditions/rectocele"
+  - "/conditions/uterine-prolapse"
+  - "/treatments/prolapse/pessary"
+"/conditions/prolapse/does-prolapse-get-worse-over-time":
+  - "/treatments/prolapse/watch-and-wait"
+  - "/conditions/prolapse/what-happens-if-prolapse-is-left-untreated"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/pessary-vs-surgery"
+"/conditions/prolapse/how-common-is-pelvic-organ-prolapse":
+  - "/conditions/prolapse/what-causes-uterine-prolapse"
+  - "/conditions/prolapse/does-prolapse-get-worse-over-time"
+  - "/treatments/prolapse/watch-and-wait"
+  - "/treatments/prolapse"
+"/conditions/prolapse/how-does-uterine-prolapse-feel":
+  - "/conditions/uterine-prolapse"
+  - "/conditions/prolapse/can-you-feel-prolapse-with-your-finger"
+  - "/treatments/prolapse/pessary"
+  - "/life-stages/prolapse-and-sexual-function"
+"/conditions/prolapse/how-fast-does-uterine-prolapse-progress":
+  - "/conditions/uterine-prolapse"
+  - "/treatments/prolapse/watch-and-wait"
+  - "/conditions/prolapse/does-prolapse-get-worse-over-time"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+"/conditions/prolapse/how-long-is-recovery-from-prolapse-surgery":
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/conditions/prolapse/can-prolapse-come-back-after-surgery"
+"/conditions/prolapse/is-a-pessary-right-for-me":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary"
+  - "/treatments/prolapse/watch-and-wait"
+"/conditions/prolapse/what-causes-uterine-prolapse":
+  - "/conditions/uterine-prolapse"
+  - "/life-stages/prolapse-after-pregnancy"
+  - "/life-stages/prolapse-in-women-who-lift"
+  - "/conditions/prolapse/how-common-is-pelvic-organ-prolapse"
+"/conditions/prolapse/what-happens-if-prolapse-is-left-untreated":
+  - "/treatments/prolapse/watch-and-wait"
+  - "/conditions/prolapse/does-prolapse-get-worse-over-time"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/pessary-vs-surgery"
+"/conditions/prolapse/what-is-pelvic-floor-physical-therapy":
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/treatments/fecal-incontinence/physical-therapy"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+
+# Conditions: incontinence
+"/conditions/incontinence":
+  - "/treatments/urinary-incontinence"
+  - "/treatments/fecal-incontinence"
+  - "/conditions/incontinence/how-is-incontinence-diagnosed"
+  - "/conditions/incontinence/when-should-i-see-a-doctor-for-incontinence"
+  - "/conditions/overactive-bladder"
+"/conditions/urinary-incontinence":
+  - "/treatments/urinary-incontinence"
+  - "/conditions/incontinence/how-is-incontinence-diagnosed"
+  - "/conditions/incontinence/can-urinary-incontinence-be-cured"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/overactive-bladder"
+"/conditions/stress-urinary-incontinence":
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/urinary-incontinence/urethral-bulking"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/treatments/comparisons/mesh-vs-non-mesh-sling"
+"/conditions/urge-urinary-incontinence":
+  - "/treatments/urinary-incontinence/medications"
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+  - "/conditions/overactive-bladder"
+"/conditions/mixed-urinary-incontinence":
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/urge-urinary-incontinence"
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/urinary-incontinence/medications"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+"/conditions/fecal-incontinence":
+  - "/treatments/fecal-incontinence/dietary-adjustments"
+  - "/treatments/fecal-incontinence/physical-therapy"
+  - "/treatments/fecal-incontinence/sacral-nerve-stimulation"
+  - "/treatments/fecal-incontinence/bowel-retraining"
+  - "/conditions/incontinence/can-fecal-incontinence-be-cured"
+"/conditions/incontinence/can-diet-affect-bladder-control":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/conditions/overactive-bladder/does-caffeine-make-oab-worse"
+  - "/conditions/overactive-bladder/what-triggers-overactive-bladder"
+  - "/conditions/urge-urinary-incontinence"
+"/conditions/incontinence/can-fecal-incontinence-be-cured":
+  - "/conditions/fecal-incontinence"
+  - "/treatments/fecal-incontinence/dietary-adjustments"
+  - "/treatments/fecal-incontinence/physical-therapy"
+  - "/treatments/fecal-incontinence/sacral-nerve-stimulation"
+  - "/treatments/fecal-incontinence/surgical-options"
+"/conditions/incontinence/can-incontinence-get-worse-over-time":
+  - "/treatments/urinary-incontinence"
+  - "/conditions/incontinence/can-urinary-incontinence-be-cured"
+  - "/conditions/incontinence/when-should-i-see-a-doctor-for-incontinence"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+"/conditions/incontinence/can-physical-therapy-help-incontinence":
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/incontinence/do-kegels-help-with-incontinence"
+  - "/conditions/stress-urinary-incontinence"
+  - "/life-stages/incontinence-after-childbirth"
+"/conditions/incontinence/can-urinary-incontinence-be-cured":
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/urge-urinary-incontinence"
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+"/conditions/incontinence/does-diet-affect-fecal-incontinence":
+  - "/treatments/fecal-incontinence/dietary-adjustments"
+  - "/conditions/fecal-incontinence"
+  - "/treatments/fecal-incontinence/bowel-retraining"
+  - "/conditions/incontinence/what-causes-fecal-incontinence"
+"/conditions/incontinence/does-menopause-cause-incontinence":
+  - "/life-stages/incontinence-during-menopause"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-for-overactive-bladder"
+"/conditions/incontinence/does-sacral-neuromodulation-help-bowel-control":
+  - "/treatments/fecal-incontinence/sacral-nerve-stimulation"
+  - "/conditions/fecal-incontinence"
+  - "/conditions/overactive-bladder/what-is-sacral-neuromodulation"
+  - "/treatments/fecal-incontinence/surgical-options"
+"/conditions/incontinence/do-kegels-help-with-incontinence":
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/can-physical-therapy-help-incontinence"
+  - "/life-stages/bladder-leakage-during-exercise"
+"/conditions/incontinence/how-common-is-urinary-incontinence":
+  - "/conditions/incontinence/is-incontinence-a-normal-part-of-aging"
+  - "/conditions/incontinence/when-should-i-see-a-doctor-for-incontinence"
+  - "/treatments/urinary-incontinence"
+  - "/conditions/stress-urinary-incontinence"
+"/conditions/incontinence/how-is-incontinence-diagnosed":
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/mixed-urinary-incontinence"
+  - "/conditions/incontinence/what-is-a-urogynecologist"
+  - "/treatments/urinary-incontinence"
+"/conditions/incontinence/is-fecal-incontinence-common-after-childbirth":
+  - "/conditions/fecal-incontinence"
+  - "/treatments/fecal-incontinence/physical-therapy"
+  - "/life-stages/incontinence-after-childbirth"
+  - "/conditions/incontinence/what-causes-fecal-incontinence"
+  - "/treatments/fecal-incontinence/surgical-options"
+"/conditions/incontinence/is-incontinence-a-normal-part-of-aging":
+  - "/conditions/incontinence/how-common-is-urinary-incontinence"
+  - "/life-stages/incontinence-during-menopause"
+  - "/treatments/urinary-incontinence"
+  - "/conditions/incontinence/can-urinary-incontinence-be-cured"
+"/conditions/incontinence/is-urinary-incontinence-normal-after-childbirth":
+  - "/life-stages/incontinence-after-childbirth"
+  - "/life-stages/bladder-problems-after-c-section"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/stress-urinary-incontinence"
+  - "/life-stages/prolapse-after-pregnancy"
+"/conditions/incontinence/what-causes-fecal-incontinence":
+  - "/conditions/fecal-incontinence"
+  - "/conditions/incontinence/does-diet-affect-fecal-incontinence"
+  - "/conditions/incontinence/is-fecal-incontinence-common-after-childbirth"
+  - "/treatments/fecal-incontinence"
+  - "/conditions/incontinence/when-to-see-a-specialist-for-fecal-incontinence"
+"/conditions/incontinence/what-causes-stress-incontinence":
+  - "/conditions/stress-urinary-incontinence"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/life-stages/incontinence-after-weight-gain"
+  - "/life-stages/incontinence-after-childbirth"
+"/conditions/incontinence/what-is-a-bladder-sling":
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/comparisons/mesh-vs-non-mesh-sling"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/treatments/urinary-incontinence/non-mesh-sling-procedures"
+  - "/conditions/stress-urinary-incontinence"
+"/conditions/incontinence/what-is-a-urethral-bulking-agent":
+  - "/treatments/urinary-incontinence/urethral-bulking"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/what-is-a-bladder-sling"
+"/conditions/incontinence/what-is-a-urogynecologist":
+  - "/conditions/incontinence/when-should-i-see-a-doctor-for-incontinence"
+  - "/conditions/pelvic-organ-prolapse"
+  - "/conditions/incontinence/how-is-incontinence-diagnosed"
+  - "/conditions/overactive-bladder"
+  - "/conditions/fecal-incontinence"
+"/conditions/incontinence/what-is-biofeedback-for-fecal-incontinence":
+  - "/treatments/fecal-incontinence/physical-therapy"
+  - "/treatments/fecal-incontinence/bowel-retraining"
+  - "/conditions/fecal-incontinence"
+  - "/conditions/incontinence/can-fecal-incontinence-be-cured"
+"/conditions/incontinence/when-should-i-see-a-doctor-for-incontinence":
+  - "/conditions/incontinence/what-is-a-urogynecologist"
+  - "/conditions/incontinence/how-is-incontinence-diagnosed"
+  - "/treatments/urinary-incontinence"
+  - "/conditions/incontinence/can-urinary-incontinence-be-cured"
+"/conditions/incontinence/when-to-see-a-specialist-for-fecal-incontinence":
+  - "/conditions/fecal-incontinence"
+  - "/conditions/incontinence/what-is-a-urogynecologist"
+  - "/treatments/fecal-incontinence"
+  - "/conditions/incontinence/can-fecal-incontinence-be-cured"
+"/conditions/incontinence/why-do-i-leak-when-i-cough":
+  - "/conditions/stress-urinary-incontinence"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/urinary-incontinence/urethral-bulking"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+
+# Conditions: overactive bladder
+"/conditions/overactive-bladder":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/treatments/urinary-incontinence/medications"
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/comparisons/botox-vs-medication-oab"
+"/conditions/overactive-bladder/can-overactive-bladder-be-cured":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/treatments/urinary-incontinence/medications"
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+"/conditions/overactive-bladder/does-botox-help-overactive-bladder":
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/comparisons/botox-vs-medication-oab"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+  - "/conditions/urge-urinary-incontinence"
+"/conditions/overactive-bladder/does-caffeine-make-oab-worse":
+  - "/conditions/incontinence/can-diet-affect-bladder-control"
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/conditions/urge-urinary-incontinence"
+"/conditions/overactive-bladder/how-is-overactive-bladder-treated":
+  - "/treatments/urinary-incontinence/medications"
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/comparisons/botox-vs-medication-oab"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+"/conditions/overactive-bladder/is-oab-caused-by-stress":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/conditions/overactive-bladder/what-is-bladder-training"
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/overactive-bladder/how-is-overactive-bladder-treated"
+"/conditions/overactive-bladder/is-oab-the-same-as-incontinence":
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/mixed-urinary-incontinence"
+  - "/conditions/urinary-incontinence"
+"/conditions/overactive-bladder/what-is-bladder-training":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/urge-urinary-incontinence"
+  - "/treatments/urinary-incontinence/medications"
+"/conditions/overactive-bladder/what-is-sacral-neuromodulation":
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+  - "/conditions/incontinence/does-sacral-neuromodulation-help-bowel-control"
+  - "/treatments/fecal-incontinence/sacral-nerve-stimulation"
+"/conditions/overactive-bladder/what-triggers-overactive-bladder":
+  - "/conditions/incontinence/can-diet-affect-bladder-control"
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/conditions/urge-urinary-incontinence"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-for-overactive-bladder"
+"/conditions/overactive-bladder/why-do-i-wake-up-to-pee-at-night":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/treatments/urinary-incontinence/medications"
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/overactive-bladder/what-is-bladder-training"
+
+# Conditions: other
+"/conditions/genitourinary-syndrome-of-menopause":
+  - "/treatments/vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen"
+  - "/conditions/recurrent-urinary-tract-infections"
+  - "/life-stages/incontinence-during-menopause"
+"/conditions/recurrent-urinary-tract-infections":
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-for-recurrent-uti"
+  - "/treatments/vaginal-estrogen"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+"/conditions/vaginal-fistula":
+  - "/conditions/fecal-incontinence"
+  - "/conditions/urinary-incontinence"
+  - "/conditions/incontinence/what-is-a-urogynecologist"
+
+# Treatments: prolapse
+"/treatments/prolapse":
+  - "/conditions/pelvic-organ-prolapse"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+"/treatments/prolapse/mesh-augmented-repair":
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/prolapse/native-tissue-repair"
+  - "/life-stages/recurrent-prolapse"
+  - "/conditions/prolapse/can-prolapse-come-back-after-surgery"
+"/treatments/prolapse/native-tissue-repair":
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/conditions/cystocele"
+  - "/conditions/rectocele"
+"/treatments/prolapse/pelvic-floor-physical-therapy":
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/conditions/prolapse/what-is-pelvic-floor-physical-therapy"
+  - "/conditions/prolapse/can-uterine-prolapse-be-reversed"
+  - "/conditions/pelvic-organ-prolapse"
+  - "/life-stages/prolapse-after-pregnancy"
+"/treatments/prolapse/pessary":
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/conditions/prolapse/is-a-pessary-right-for-me"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/conditions/pelvic-organ-prolapse"
+"/treatments/prolapse/robotic-sacrocolpopexy":
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/conditions/prolapse/how-long-is-recovery-from-prolapse-surgery"
+"/treatments/prolapse/vaginal-prolapse-repair":
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/conditions/prolapse/how-long-is-recovery-from-prolapse-surgery"
+"/treatments/prolapse/watch-and-wait":
+  - "/conditions/prolapse/does-prolapse-get-worse-over-time"
+  - "/conditions/prolapse/what-happens-if-prolapse-is-left-untreated"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/comparisons/physical-therapy-vs-surgery-prolapse"
+  - "/conditions/prolapse/how-fast-does-uterine-prolapse-progress"
+
+# Treatments: urinary incontinence
+"/treatments/urinary-incontinence":
+  - "/conditions/urinary-incontinence"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/treatments/comparisons/mesh-vs-non-mesh-sling"
+  - "/treatments/comparisons/botox-vs-medication-oab"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+"/treatments/urinary-incontinence/altaviva":
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/overactive-bladder"
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/conditions/overactive-bladder/how-is-overactive-bladder-treated"
+"/treatments/urinary-incontinence/botox-injections":
+  - "/treatments/comparisons/botox-vs-medication-oab"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+  - "/conditions/overactive-bladder/does-botox-help-overactive-bladder"
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/overactive-bladder"
+"/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications":
+  - "/conditions/incontinence/can-diet-affect-bladder-control"
+  - "/conditions/overactive-bladder/what-is-bladder-training"
+  - "/conditions/overactive-bladder/does-caffeine-make-oab-worse"
+  - "/life-stages/incontinence-after-weight-gain"
+  - "/conditions/overactive-bladder/why-do-i-wake-up-to-pee-at-night"
+"/treatments/urinary-incontinence/medications":
+  - "/treatments/comparisons/botox-vs-medication-oab"
+  - "/conditions/overactive-bladder"
+  - "/conditions/urge-urinary-incontinence"
+  - "/conditions/overactive-bladder/how-is-overactive-bladder-treated"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-for-overactive-bladder"
+"/treatments/urinary-incontinence/neuromodulation":
+  - "/treatments/comparisons/snm-vs-botox-oab"
+  - "/conditions/overactive-bladder/what-is-sacral-neuromodulation"
+  - "/conditions/urge-urinary-incontinence"
+  - "/treatments/fecal-incontinence/sacral-nerve-stimulation"
+  - "/conditions/overactive-bladder"
+"/treatments/urinary-incontinence/non-mesh-sling-procedures":
+  - "/treatments/comparisons/mesh-vs-non-mesh-sling"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/what-is-a-bladder-sling"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+"/treatments/urinary-incontinence/pelvic-floor-physical-therapy":
+  - "/conditions/incontinence/can-physical-therapy-help-incontinence"
+  - "/conditions/incontinence/do-kegels-help-with-incontinence"
+  - "/conditions/stress-urinary-incontinence"
+  - "/life-stages/incontinence-after-childbirth"
+  - "/life-stages/bladder-leakage-during-exercise"
+"/treatments/urinary-incontinence/sling-procedures":
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/treatments/comparisons/mesh-vs-non-mesh-sling"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/what-is-a-bladder-sling"
+  - "/conditions/mixed-urinary-incontinence"
+"/treatments/urinary-incontinence/urethral-bulking":
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/conditions/incontinence/what-is-a-urethral-bulking-agent"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/why-do-i-leak-when-i-cough"
+
+# Treatments: fecal incontinence
+"/treatments/fecal-incontinence":
+  - "/conditions/fecal-incontinence"
+  - "/conditions/incontinence/what-causes-fecal-incontinence"
+  - "/conditions/incontinence/can-fecal-incontinence-be-cured"
+  - "/conditions/incontinence/when-to-see-a-specialist-for-fecal-incontinence"
+"/treatments/fecal-incontinence/bowel-retraining":
+  - "/conditions/fecal-incontinence"
+  - "/conditions/incontinence/what-is-biofeedback-for-fecal-incontinence"
+  - "/treatments/fecal-incontinence/physical-therapy"
+  - "/conditions/incontinence/does-diet-affect-fecal-incontinence"
+"/treatments/fecal-incontinence/dietary-adjustments":
+  - "/conditions/incontinence/does-diet-affect-fecal-incontinence"
+  - "/conditions/fecal-incontinence"
+  - "/treatments/fecal-incontinence/bowel-retraining"
+  - "/conditions/incontinence/what-causes-fecal-incontinence"
+"/treatments/fecal-incontinence/physical-therapy":
+  - "/conditions/incontinence/what-is-biofeedback-for-fecal-incontinence"
+  - "/conditions/fecal-incontinence"
+  - "/conditions/incontinence/is-fecal-incontinence-common-after-childbirth"
+  - "/treatments/fecal-incontinence/bowel-retraining"
+"/treatments/fecal-incontinence/sacral-nerve-stimulation":
+  - "/conditions/incontinence/does-sacral-neuromodulation-help-bowel-control"
+  - "/conditions/fecal-incontinence"
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/fecal-incontinence/surgical-options"
+"/treatments/fecal-incontinence/surgical-options":
+  - "/conditions/fecal-incontinence"
+  - "/treatments/fecal-incontinence/sacral-nerve-stimulation"
+  - "/conditions/incontinence/is-fecal-incontinence-common-after-childbirth"
+  - "/conditions/incontinence/can-fecal-incontinence-be-cured"
+
+# Treatments: vaginal estrogen
+"/treatments/vaginal-estrogen":
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/conditions/recurrent-urinary-tract-infections"
+  - "/life-stages/incontinence-during-menopause"
+  - "/treatments/prolapse/pessary"
+"/treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen":
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/laser-vs-vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-after-breast-cancer"
+  - "/treatments/vaginal-estrogen/can-you-buy-vaginal-estrogen-over-the-counter"
+"/treatments/vaginal-estrogen/bleeding-on-vaginal-estrogen":
+  - "/treatments/vaginal-estrogen/does-vaginal-estrogen-cause-endometrial-cancer"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-side-effects"
+  - "/conditions/prolapse/can-uterine-prolapse-cause-bleeding"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary"
+"/treatments/vaginal-estrogen/can-you-buy-vaginal-estrogen-over-the-counter":
+  - "/treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/cream-vs-ring-vs-tablet"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+"/treatments/vaginal-estrogen/cream-vs-ring-vs-tablet":
+  - "/treatments/vaginal-estrogen/how-to-apply-vaginal-estrogen-cream"
+  - "/treatments/vaginal-estrogen/how-much-vaginal-estrogen-to-use"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+"/treatments/vaginal-estrogen/does-vaginal-estrogen-cause-endometrial-cancer":
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/treatments/vaginal-estrogen/bleeding-on-vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-the-same-as-hrt"
+  - "/treatments/vaginal-estrogen/how-long-can-you-use-vaginal-estrogen"
+"/treatments/vaginal-estrogen/how-long-can-you-use-vaginal-estrogen":
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/treatments/vaginal-estrogen/does-vaginal-estrogen-cause-endometrial-cancer"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/conditions/recurrent-urinary-tract-infections"
+"/treatments/vaginal-estrogen/how-long-does-vaginal-estrogen-take-to-work":
+  - "/treatments/vaginal-estrogen/how-much-vaginal-estrogen-to-use"
+  - "/treatments/vaginal-estrogen/how-to-apply-vaginal-estrogen-cream"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-for-recurrent-uti"
+"/treatments/vaginal-estrogen/how-much-vaginal-estrogen-to-use":
+  - "/treatments/vaginal-estrogen/how-to-apply-vaginal-estrogen-cream"
+  - "/treatments/vaginal-estrogen/cream-vs-ring-vs-tablet"
+  - "/treatments/vaginal-estrogen/how-long-does-vaginal-estrogen-take-to-work"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+"/treatments/vaginal-estrogen/how-to-apply-vaginal-estrogen-cream":
+  - "/treatments/vaginal-estrogen/how-much-vaginal-estrogen-to-use"
+  - "/treatments/vaginal-estrogen/cream-vs-ring-vs-tablet"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-side-effects"
+"/treatments/vaginal-estrogen/is-vaginal-estrogen-safe":
+  - "/treatments/vaginal-estrogen/does-vaginal-estrogen-cause-endometrial-cancer"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-after-breast-cancer"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-the-same-as-hrt"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-side-effects"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+"/treatments/vaginal-estrogen/is-vaginal-estrogen-the-same-as-hrt":
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/life-stages/incontinence-during-menopause"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-after-breast-cancer"
+"/treatments/vaginal-estrogen/laser-vs-vaginal-estrogen":
+  - "/treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-after-breast-cancer"
+"/treatments/vaginal-estrogen/vaginal-estrogen-after-breast-cancer":
+  - "/treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/laser-vs-vaginal-estrogen"
+"/treatments/vaginal-estrogen/vaginal-estrogen-for-overactive-bladder":
+  - "/conditions/overactive-bladder"
+  - "/treatments/urinary-incontinence/medications"
+  - "/life-stages/incontinence-during-menopause"
+  - "/conditions/overactive-bladder/how-is-overactive-bladder-treated"
+"/treatments/vaginal-estrogen/vaginal-estrogen-for-recurrent-uti":
+  - "/conditions/recurrent-urinary-tract-infections"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/treatments/vaginal-estrogen/how-long-can-you-use-vaginal-estrogen"
+"/treatments/vaginal-estrogen/vaginal-estrogen-side-effects":
+  - "/treatments/vaginal-estrogen/bleeding-on-vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/is-vaginal-estrogen-safe"
+  - "/treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/cream-vs-ring-vs-tablet"
+"/treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary":
+  - "/treatments/prolapse/pessary"
+  - "/conditions/prolapse/is-a-pessary-right-for-me"
+  - "/conditions/pelvic-organ-prolapse"
+  - "/treatments/vaginal-estrogen/cream-vs-ring-vs-tablet"
+
+# Treatment comparisons
+"/treatments/comparisons/botox-vs-medication-oab":
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/urinary-incontinence/medications"
+  - "/treatments/comparisons/snm-vs-botox-oab"
+  - "/conditions/overactive-bladder"
+  - "/conditions/urge-urinary-incontinence"
+"/treatments/comparisons/mesh-vs-non-mesh-sling":
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/urinary-incontinence/non-mesh-sling-procedures"
+  - "/treatments/comparisons/sling-vs-bulking-agents"
+  - "/conditions/stress-urinary-incontinence"
+  - "/treatments/urinary-incontinence/urethral-bulking"
+"/treatments/comparisons/native-tissue-vs-sacrocolpopexy":
+  - "/treatments/prolapse/native-tissue-repair"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/comparisons/robotic-vs-vaginal-repair"
+  - "/conditions/vaginal-prolapse"
+  - "/life-stages/recurrent-prolapse"
+"/treatments/comparisons/pessary-vs-surgery":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/conditions/prolapse/is-a-pessary-right-for-me"
+  - "/conditions/pelvic-organ-prolapse"
+"/treatments/comparisons/physical-therapy-vs-surgery-prolapse":
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/pessary-vs-surgery"
+"/treatments/comparisons/robotic-vs-vaginal-repair":
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/prolapse/vaginal-prolapse-repair"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/conditions/prolapse/how-long-is-recovery-from-prolapse-surgery"
+  - "/conditions/uterine-prolapse"
+"/treatments/comparisons/sling-vs-bulking-agents":
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/treatments/urinary-incontinence/urethral-bulking"
+  - "/treatments/comparisons/mesh-vs-non-mesh-sling"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/what-is-a-urethral-bulking-agent"
+"/treatments/comparisons/snm-vs-botox-oab":
+  - "/treatments/urinary-incontinence/neuromodulation"
+  - "/treatments/urinary-incontinence/botox-injections"
+  - "/treatments/comparisons/botox-vs-medication-oab"
+  - "/conditions/overactive-bladder"
+  - "/conditions/overactive-bladder/what-is-sacral-neuromodulation"
+
+# Life stages
+"/life-stages/bladder-leakage-during-exercise":
+  - "/conditions/stress-urinary-incontinence"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/incontinence/do-kegels-help-with-incontinence"
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/life-stages/incontinence-in-athletes"
+"/life-stages/bladder-problems-after-c-section":
+  - "/conditions/incontinence/is-urinary-incontinence-normal-after-childbirth"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/urge-urinary-incontinence"
+  - "/life-stages/incontinence-after-childbirth"
+"/life-stages/incontinence-after-childbirth":
+  - "/conditions/incontinence/is-urinary-incontinence-normal-after-childbirth"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/is-fecal-incontinence-common-after-childbirth"
+  - "/life-stages/prolapse-after-pregnancy"
+"/life-stages/incontinence-after-weight-gain":
+  - "/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications"
+  - "/conditions/stress-urinary-incontinence"
+  - "/conditions/incontinence/what-causes-stress-incontinence"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/conditions/urge-urinary-incontinence"
+"/life-stages/incontinence-during-menopause":
+  - "/conditions/incontinence/does-menopause-cause-incontinence"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/vaginal-estrogen"
+  - "/treatments/vaginal-estrogen/vaginal-estrogen-for-overactive-bladder"
+  - "/conditions/overactive-bladder"
+"/life-stages/incontinence-in-athletes":
+  - "/conditions/stress-urinary-incontinence"
+  - "/treatments/urinary-incontinence/pelvic-floor-physical-therapy"
+  - "/treatments/urinary-incontinence/urethral-bulking"
+  - "/treatments/urinary-incontinence/sling-procedures"
+  - "/life-stages/bladder-leakage-during-exercise"
+"/life-stages/prolapse-after-hysterectomy":
+  - "/conditions/vaginal-prolapse"
+  - "/conditions/enterocele"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/prolapse/pessary"
+"/life-stages/prolapse-after-pregnancy":
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/conditions/pelvic-organ-prolapse"
+  - "/conditions/incontinence/is-urinary-incontinence-normal-after-childbirth"
+  - "/life-stages/incontinence-after-childbirth"
+  - "/treatments/prolapse/pessary"
+"/life-stages/prolapse-and-sexual-function":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/conditions/genitourinary-syndrome-of-menopause"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+"/life-stages/prolapse-in-women-who-lift":
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/prolapse/pessary"
+  - "/conditions/pelvic-organ-prolapse"
+  - "/life-stages/bladder-leakage-during-exercise"
+  - "/conditions/prolapse/does-prolapse-get-worse-over-time"
+"/life-stages/prolapse-in-younger-women":
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/pelvic-floor-physical-therapy"
+  - "/treatments/comparisons/pessary-vs-surgery"
+  - "/conditions/pelvic-organ-prolapse"
+  - "/life-stages/prolapse-after-pregnancy"
+"/life-stages/recurrent-prolapse":
+  - "/conditions/prolapse/can-prolapse-come-back-after-surgery"
+  - "/treatments/prolapse/robotic-sacrocolpopexy"
+  - "/treatments/comparisons/native-tissue-vs-sacrocolpopexy"
+  - "/treatments/prolapse/pessary"
+  - "/treatments/prolapse/mesh-augmented-repair"
