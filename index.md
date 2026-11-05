@@ -13,7 +13,7 @@ last_reviewed_date: 2026-03-15
 Welcome — I'm glad you're here. I'm a board-certified, fellowship-trained urogynecologist specializing in female pelvic floor disorders. I practice urogynecology and reconstructive pelvic surgery in Green Bay, Wisconsin.
 {: .fs-6 .fw-300 }
 
-<img src="/assets/images/ryan-stewart.jpg" alt="Dr. Ryan Stewart" style="float: right; margin: 0 0 1rem 1rem; width: 200px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);" />
+<picture style="float: right; margin: 0 0 1rem 1rem;"><source srcset="/assets/images/ryan-stewart.webp" type="image/webp" /><img src="/assets/images/ryan-stewart.jpg" alt="Dr. Ryan Stewart" width="200" height="267" fetchpriority="high" decoding="async" style="display: block; width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.15);" /></picture>
 ### My Expertise
 I specialize in treating:
 - [Pelvic organ prolapse](/conditions/pelvic-organ-prolapse)

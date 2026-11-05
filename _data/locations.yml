@@ -12,9 +12,9 @@
 - name: "Appleton"
   slug: "appleton"
   state: "WI"
-  drive_time: "30 minutes"
+  drive_time: "40 minutes"
   distance_miles: 30
-  context: "Fox Cities residents in Appleton are a short 30-minute drive from expert urogynecological care in Green Bay, making regular appointments convenient."
+  context: "Fox Cities residents in Appleton are a short 40-minute drive from expert urogynecological care in Green Bay, making regular appointments convenient."
   insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."
   telehealth: true
   region: "Fox Cities"
@@ -223,7 +223,7 @@
 - name: "Brillion"
   slug: "brillion"
   state: "WI"
-  drive_time: "30 minutes"
+  drive_time: "40 minutes"
   distance_miles: 25
   context: "Brillion residents enjoy a short commute to Green Bay for specialized pelvic floor care."
   insurance_notes: "Most Wisconsin insurance plans accepted, including Anthem, Dean, Quartz, Network Health, and UnitedHealthcare."

@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Overactive Bladder Treatment Near Appleton, WI"
-description: "Dr. Ryan Stewart provides expert overactive bladder treatment for patients near Appleton, WI. Fellowship-trained urogynecologist in Green Bay, WI. Telehealth available."
+description: "Care for overactive bladder near Appleton, WI from Dr. Ryan Stewart, a fellowship-trained urogynecologist in Green Bay. Telehealth visits available."
 permalink: /locations/appleton/overactive-bladder
 location_slug: appleton
 condition_slug: overactive-bladder
@@ -10,7 +10,7 @@ published: true
 last_modified_at: 2026-03-14
 faq:
   - question: "Is there a urogynecologist near Appleton, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 45 minutes from Appleton. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 40 minutes from Appleton. He treats overactive bladder and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for overactive bladder from Appleton?"
@@ -21,7 +21,7 @@ faq:
 
 # Overactive Bladder Treatment Near Appleton, WI
 
-For women in Appleton and the Fox Cities area dealing with urgency, frequency, and bladder control issues, expert care is available just 45 minutes away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
+For women in Appleton and the Fox Cities area dealing with urgency, frequency, and bladder control issues, expert care is available just 40 minutes away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for overactive bladder and other pelvic floor conditions.
 
 ## Understanding Overactive Bladder
 
@@ -50,7 +50,7 @@ Dr. Stewart notes: "I want patients to know about all of their options — behav
 
 ## Convenient Access from Appleton
 
-Appleton residents are just **45 minutes** from expert urogynecological care in Green Bay:
+Appleton residents are just **40 minutes** from expert urogynecological care in Green Bay:
 
 - **Easy commute** — a straightforward drive for appointments
 - **Telehealth available** — virtual visits for consultations and follow-ups
