@@ -7,7 +7,7 @@ location_slug: green-bay
 condition_slug: overactive-bladder
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-29
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
@@ -63,7 +63,7 @@ You have several good options for OAB. National guidelines do not require you to
 - Pelvic floor physical therapy: this is more than Kegels. A pelvic floor PT works on strength, relaxation, coordination, and the muscles around the pelvis (hips, buttocks, core), plus breathing and posture, to help calm urgency. We have pelvic floor physical therapists in our office.
 - Medications: there are two main types. Beta-3 agonists relax the bladder muscle. Anticholinergics also calm the bladder but carry a risk of memory and thinking side effects, especially with long-term use. Because of that risk, we usually prefer beta-3 agonists for women in their mid-50s and older, and we'll talk through the trade-offs before starting any medication.
 - Botox: a small amount injected into the bladder muscle during an office procedure. It calms the bladder for about 6 to 9 months, then can be repeated. The main risks are urinary tract infections and, less often, trouble emptying that may need a temporary catheter.
-- Sacral neuromodulation: a small implanted device that gently adjusts the nerve signals between the bladder and the brain. We test it first to see if it helps before placing the long-term device. Newer batteries last around 10 to 15 years.
+- Sacral neuromodulation: a small implanted device that gently adjusts the nerve signals between the bladder and the brain. We test it first to see if it helps before placing the long-term device. Newer rechargeable batteries last 15 years or more.
 - Tibial neuromodulation: gentle nerve stimulation through the ankle, done as a short office visit. It has no systemic side effects, which makes it a good fit for many women.
 
 The right choice depends on your symptoms, your health, and what matters to you. I'll walk you through each option so we can decide together.
@@ -78,3 +78,4 @@ The right choice depends on your symptoms, your health, and what matters to you.
 - Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs Sacral Neuromodulation on Refractory Urgency Urinary Incontinence in Women: A Randomized Clinical Trial. JAMA. 2016. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
 - Harvie HS, Amundsen CL, Neuwahl SJ, et al. Cost-Effectiveness of Sacral Neuromodulation versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: Results of the ROSETTA Randomized Trial. J Urol. 2020. [doi:10.1097/JU.0000000000000656](https://doi.org/10.1097/JU.0000000000000656)
 - Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. J Urol. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)

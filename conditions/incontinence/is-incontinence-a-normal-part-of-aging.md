@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-14
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-05-14
 faq:
   - question: "At what age does incontinence typically start?"
@@ -56,7 +56,7 @@ Here are your options, and we can talk through what fits your life:
 - Pelvic floor physical therapy, which goes beyond Kegels to include strength, coordination, relaxation, breathing, and work on the hips, core, and surrounding muscles. Our practice has in-office pelvic floor PTs.
 - Vaginal estrogen, which restores tissue health safely and does not raise breast or uterine cancer risk
 - Medications for overactive bladder, chosen carefully to avoid drugs that affect memory in older women
-- Minimally invasive procedures like Botox (lasts 6-9 months), sacral neuromodulation (battery lasts 10-15 years), urethral bulking for stress leaking (lasts 7+ years), or a bladder sling
+- Minimally invasive procedures like Botox (lasts 6-9 months), sacral neuromodulation (rechargeable models last 15 years or more), urethral bulking for stress leaking (lasts 7+ years), or a bladder sling
 
 I never let age alone determine what treatments we talk about. What matters is your overall health, your goals, and what is affecting your daily life.
 
@@ -67,4 +67,5 @@ I never let age alone determine what treatments we talk about. What matters is y
 - Hall EF, Biller DH, Buss JL, et al. Medium-term outcomes of conservative and surgical treatments for SUI: a Medicare claims analysis. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001362](https://doi.org/10.1097/SPV.0000000000001362)
 - Dengler KL, High RA, Moga DC, et al. OAB and cognitive impairment: AUGS SOS conference summary. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
 - ACOG/AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstetrics & Gynecology*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
 

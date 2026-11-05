@@ -7,7 +7,7 @@ location_slug: two-rivers
 condition_slug: urinary-incontinence
 nav_exclude: true
 published: false
-last_modified_at: 2026-03-14
+last_modified_at: 2026-11-05
 faq:
   - question: "Is there a urogynecologist near Two Rivers, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 50 minutes from Two Rivers. Telehealth consultations are available."
@@ -45,6 +45,6 @@ Two Rivers residents are just **50 minutes** from expert urogynecological care i
 
 ## Treatment Options
 
-Treatment options include pelvic floor physical therapy, behavioral strategies, medications, pessary devices, minimally invasive procedures (Botox, sacral neuromodulation), and surgical options like the midurethral sling with 85-95% success rates.
+Treatment options include pelvic floor physical therapy, behavioral strategies, medications, pessary devices, minimally invasive procedures (Botox, sacral neuromodulation), and surgical options like the midurethral sling.
 
 The right approach depends on your specific situation, severity, and personal goals. Dr. Stewart will walk you through each option so you can make an informed decision together.

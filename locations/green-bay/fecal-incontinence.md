@@ -7,7 +7,7 @@ location_slug: green-bay
 condition_slug: fecal-incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-29
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-05-29
 faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
@@ -65,7 +65,7 @@ Most women improve, and many get good control back. Here are the main options:
 - Bowel retraining. Simple habits, like timing trips to the bathroom, can give you more control.
 - Pelvic floor physical therapy. This is more than Kegels. A therapist works on strength, relaxation, coordination, endurance, and breathing, often using biofeedback so you can see your muscles working. We have pelvic floor physical therapists in the office.
 - Medications. Anti-diarrheal medicine like loperamide can firm up stool and cut down on leaks.
-- Sacral neuromodulation, sometimes called a bowel pacemaker. A small device gently stimulates the nerves that control your bowel. We test it first to make sure it helps you before placing the long-term device, and the battery lasts about 10 to 15 years. It works well even when the sphincter muscle is damaged.
+- Sacral neuromodulation, sometimes called a bowel pacemaker. A small device gently stimulates the nerves that control your bowel. We test it first to make sure it helps you before placing the long-term device, and rechargeable models last 15 years or more. It works well even when the sphincter muscle is damaged.
 
 Surgery to repair the anal sphincter is rarely the answer. It can help in select cases, usually a recent childbirth injury, but the benefit often fades over time. For most women, the bowel pacemaker works better and is far less invasive. I do not offer injectable bulking agents for this condition.
 

@@ -9,7 +9,7 @@ condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
-last_modified_at: 2026-10-12
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "Will I need treatment for OAB forever?"
@@ -45,7 +45,7 @@ Medications can help when behavioral changes aren't enough on their own:
 
 Advanced therapies work well when other options haven't met your goals:
 - Botox injections into the bladder muscle (effects last about 6 to 9 months per treatment)
-- Sacral neuromodulation, an implanted device that calms the nerve signals to your bladder (battery lasts 10 to 15 years with newer rechargeable devices)
+- Sacral neuromodulation, an implanted device that calms the nerve signals to your bladder (newer rechargeable devices last 15 years or more)
 - Tibial nerve stimulation, an office-based treatment done weekly at first, then about once a month for maintenance
 
 ## Most women improve
@@ -63,4 +63,5 @@ The key is finding the right fit. We almost always find something that works.
 5. Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized trial of percutaneous tibial nerve stimulation versus sham efficacy in the treatment of overactive bladder syndrome: results from the SUmiT trial. *J Urol*. 2010;183(4):1438-1443. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
 6. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Female Pelvic Med Reconstr Surg*. 2023;29(2):63-73. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
 7. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019;31(6):485-493. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+8. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
 

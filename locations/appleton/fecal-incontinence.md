@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Fecal Incontinence Treatment Near Appleton, WI"
-description: "Dr. Ryan Stewart provides expert fecal incontinence treatment for patients near Appleton, WI. Fellowship-trained urogynecologist in Green Bay, WI. Telehealth available."
+description: "Care for fecal incontinence near Appleton, WI from Dr. Ryan Stewart, a fellowship-trained urogynecologist in Green Bay. Telehealth visits available."
 permalink: /locations/appleton/fecal-incontinence
 location_slug: appleton
 condition_slug: fecal-incontinence
@@ -10,7 +10,7 @@ published: true
 last_modified_at: 2026-03-14
 faq:
   - question: "Is there a urogynecologist near Appleton, WI?"
-    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 45 minutes from Appleton. He treats fecal incontinence and other pelvic floor conditions. Telehealth consultations are also available."
+    answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 40 minutes from Appleton. He treats fecal incontinence and other pelvic floor conditions. Telehealth consultations are also available."
   - question: "Does Dr. Stewart accept Wisconsin insurance?"
     answer: "Yes. Dr. Stewart accepts most major insurance plans, including Medicare and Medicaid. Contact the office to confirm your specific plan."
   - question: "Can I do a telehealth visit for fecal incontinence from Appleton?"
@@ -21,7 +21,7 @@ faq:
 
 # Fecal Incontinence Treatment Near Appleton, WI
 
-For women in Appleton and the Fox Cities area dealing with accidental bowel leakage, expert care is available just 45 minutes away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for fecal incontinence and other pelvic floor conditions.
+For women in Appleton and the Fox Cities area dealing with accidental bowel leakage, expert care is available just 40 minutes away in Green Bay. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay offering comprehensive diagnosis and treatment for fecal incontinence and other pelvic floor conditions.
 
 ## Understanding Fecal Incontinence
 
@@ -50,7 +50,7 @@ Dr. Stewart notes: "Fecal incontinence often coexists with other pelvic floor co
 
 ## Convenient Access from Appleton
 
-Appleton residents are just **45 minutes** from expert urogynecological care in Green Bay:
+Appleton residents are just **40 minutes** from expert urogynecological care in Green Bay:
 
 - **Easy commute** — a straightforward drive for appointments
 - **Telehealth available** — virtual visits for consultations and follow-ups

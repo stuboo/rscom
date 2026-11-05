@@ -9,7 +9,7 @@ condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "Is sacral neuromodulation permanent?"
@@ -60,7 +60,7 @@ Current guidelines do not require you to try every other treatment first. Insura
 
 The ROSETTA trial compared sacral neuromodulation to Botox injections in women with urge incontinence. At two years, both treatments reduced leakage episodes by about the same amount. Botox worked a bit faster in the first six months, but the results evened out over time.
 
-One difference: Botox carries a higher risk of urinary tract infections (about 35% vs. 11% with sacral neuromodulation) and sometimes requires catheterization afterward. Sacral neuromodulation avoids those risks. On the other hand, Botox does not require surgery and costs less up front.
+One difference: Botox carries a higher risk of urinary tract infections (about 35% vs. 11% with sacral neuromodulation in ROSETTA, which used a 200-unit Botox dose) and sometimes requires catheterization afterward. Sacral neuromodulation avoids those risks. On the other hand, Botox does not require surgery and costs less up front.
 
 Tibial nerve stimulation is another option that works through a similar nerve pathway but does not require an implant. It involves weekly office visits for about 12 weeks, then monthly maintenance. We can discuss whether that approach might work for you.
 

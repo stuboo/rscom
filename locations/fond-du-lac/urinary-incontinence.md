@@ -7,7 +7,7 @@ location_slug: fond-du-lac
 condition_slug: urinary-incontinence
 nav_exclude: true
 published: false
-last_modified_at: 2026-03-14
+last_modified_at: 2026-11-05
 faq:
   - question: "Is there a urogynecologist near Fond du Lac, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 1 hour from Fond du Lac. He treats urinary incontinence and other pelvic floor conditions. Telehealth consultations are also available."
@@ -65,6 +65,6 @@ Treatment depends on the type and severity:
 - **Medications** — for urgency and overactive bladder symptoms
 - **Pessary devices** — removable support for stress incontinence
 - **Minimally invasive procedures** — Botox injections, sacral neuromodulation
-- **Surgery** — midurethral sling procedures with 85-95% success rates for stress incontinence
+- **Surgery** — midurethral sling procedures for stress incontinence
 
 The right approach depends on your specific situation, severity, and personal goals. Dr. Stewart will walk you through each option so you can make an informed decision together.

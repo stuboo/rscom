@@ -7,7 +7,7 @@ parent: Prolapse Treatments
 nav_order: 6
 description: "The FDA stopped sales of transvaginal prolapse mesh in 2019. Learn where mesh is still used, why it lasts longer, and the risk it can wear through the vaginal wall."
 permalink: /treatments/prolapse/mesh-augmented-repair
-last_modified_at: 2026-09-24
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 ---
 
@@ -48,7 +48,7 @@ Dr. Stewart trusts the science that led to the FDA's decision and does not place
 
 ## Potential Risks and Complications
 
-While mesh offers durability, it also comes with specific risks. We use mesh because it's durable. For that durability, though, we trade some risk. The biggest risk we worry about is that the mesh could work its way through the skin of the vagina. This is called exposure or erosion, and it accrues over the years after surgery: estimates range from about 2% in contemporary robotic repairs to roughly 10% at seven years in the older open-surgery trials.
+While mesh offers durability, it also comes with specific risks. We use mesh because it's durable. For that durability, though, we trade some risk. The biggest risk we worry about is that the mesh could work its way through the skin of the vagina. This is called exposure or erosion, and it accrues over the years after surgery: estimates range from about 4% when the uterus is kept in place to roughly 10% at seven years in the older open-surgery trial. The rate is higher when a vaginal hysterectomy is done at the same time.
 
 Other potential risks include:
 

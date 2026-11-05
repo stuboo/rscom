@@ -7,7 +7,7 @@ location_slug: green-bay
 condition_slug: urinary-incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-29
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "Is there a urogynecologist near Green Bay, WI?"
@@ -74,7 +74,7 @@ Some treatments help no matter the type:
 - Bladder training and pelvic floor PT, which work well as a first step.
 - Medications that calm the bladder muscle. We choose these carefully, and we generally avoid one older class (anticholinergics) in women 55 and older because of effects on memory and thinking. A different class (beta-3 agonists) is often a better fit.
 - Bladder Botox. A small amount relaxes the bladder muscle. It usually lasts 6 to 9 months, then is repeated.
-- Nerve treatments (neuromodulation). Tibial nerve stimulation works through a nerve near the ankle. Sacral neuromodulation uses a small implanted device; its battery lasts about 10 to 15 years.
+- Nerve treatments (neuromodulation). Tibial nerve stimulation works through a nerve near the ankle. Sacral neuromodulation uses a small implanted device; rechargeable models last 15 years or more.
 
 ### For mixed incontinence (both types)
 
@@ -92,3 +92,4 @@ Dr. Stewart will walk you through the choices that fit your type and your goals 
 - Richter HE, Albo ME, Zyczynski HM, et al. Retropubic versus Transobturator Midurethral Slings for Stress Incontinence. New England Journal of Medicine. 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
 - Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. The Journal of Urology. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
 - Sung VW, Borello-France D, Newman DK, et al. Effect of Behavioral and Pelvic Floor Muscle Therapy Combined With Surgery vs Surgery Alone on Incontinence Symptoms Among Women With Mixed Urinary Incontinence: The ESTEEM Randomized Clinical Trial. JAMA. 2019. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)

@@ -9,7 +9,7 @@ condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "What is the first treatment usually recommended for OAB?"
@@ -17,7 +17,7 @@ faq:
   - question: "Are OAB medications safe long-term?"
     answer: "Newer beta-3 agonists (like mirabegron and vibegron) have fewer side effects than older anticholinergics. With anticholinergics, long-term use has been linked to cognitive concerns in older adults. Your doctor can help you weigh the risks and benefits."
   - question: "How do I know which treatment is right for me?"
-    answer: "The best treatment depends on your symptoms, other medical conditions, and what matters most to you. It helps to see what each option actually buys and costs. Botox, for example, gets about 27% of women to complete resolution of leaking, with a urinary tract infection risk of about 33% and about a 5% chance of temporary trouble emptying the bladder. A urogynecologist can walk you through those trade-offs so you can make the decision together."
+    answer: "The best treatment depends on your symptoms, other medical conditions, and what matters most to you. It helps to see what each option actually buys and costs. Botox, for example, got about 27% of women to complete resolution of leaking in the ABC trial, with a urinary tract infection risk of about 33% and about a 5% chance of temporary trouble emptying the bladder. A urogynecologist can walk you through those trade-offs so you can make the decision together."
 ---
 
 # How is overactive bladder treated?
@@ -49,8 +49,8 @@ Medications usually take 2 to 4 weeks to reach full effect. You can keep doing b
 
 When medications aren't the right fit or aren't giving you enough relief, there are other options. You don't have to try medications first if they aren't a good match for you, though insurance sometimes requires it.
 
-- Botox injections — onabotulinumtoxinA is injected into your bladder muscle during a short office visit using a small camera. Effects last about 6 to 9 months, then the injection can be repeated. About 27% of women have complete resolution of leaking. The main risks are urinary tract infections (about 33%) and temporary trouble emptying your bladder (about 5%).
-- Sacral neuromodulation — a small device is placed near your tailbone. It sends gentle signals to the nerves that control your bladder. You get a test period first to see if it works before committing to the permanent device. The battery lasts 10 to 15 years with newer rechargeable models. It does not carry the UTI risk that Botox does.
+- Botox injections — onabotulinumtoxinA is injected into your bladder muscle during a short office visit using a small camera. Effects last about 6 to 9 months, then the injection can be repeated. In the ABC trial, about 27% of women had complete resolution of leaking. The main risks were urinary tract infections (about 33%) and temporary trouble emptying your bladder (about 5%).
+- Sacral neuromodulation — a small device is placed near your tailbone. It sends gentle signals to the nerves that control your bladder. You get a test period first to see if it works before committing to the permanent device. Newer rechargeable models last 15 years or more. It does not carry the UTI risk that Botox does.
 - Tibial nerve stimulation — a thin needle near your ankle delivers mild electrical pulses that travel to the nerves controlling your bladder. Sessions are done in the office, once a week for 12 weeks, then about once a month to maintain the effect. It has very few side effects.
 
 Research shows that Botox and sacral neuromodulation are similarly effective over two years, so the choice often comes down to what matters most to you. Some people prefer a quick office procedure they repeat every several months. Others prefer a device that works continuously. We talk through these trade-offs together.
@@ -66,3 +66,4 @@ Research shows that Botox and sacral neuromodulation are similarly effective ove
 7. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023;29(1):3-15. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
 8. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 9. AUGS Guidelines Committee, Thomas TN, Walters MD. Clinical consensus statement: association of anticholinergic medication use and cognition in women with overactive bladder. *Female Pelvic Med Reconstr Surg*. 2021;27(2):e249-e261. [doi:10.1097/SPV.0000000000001008](https://doi.org/10.1097/SPV.0000000000001008)
+10. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)

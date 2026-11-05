@@ -13,7 +13,7 @@ condition_name: Overactive Bladder
 parent_condition_url: /conditions/overactive-bladder
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "Will I always have OAB?"
@@ -53,7 +53,7 @@ There are several treatments that work for OAB. The right choice depends on your
 
 - Tibial nerve stimulation is an office procedure where a thin needle near your ankle sends a gentle signal to the nerves that control your bladder. It works for about 55% of women and has very few side effects.
 - Botox bladder injections block the nerve signals that cause the bladder muscle to squeeze on its own. About 27% of women achieve complete dryness. The effect lasts 6 to 9 months, and repeat injections stay effective long-term.
-- Sacral neuromodulation is an implanted device (sometimes called a "bladder pacemaker") that sends steady signals to the nerves controlling your bladder. About 60 to 90% of women improve, and newer rechargeable batteries last 10 to 15 years.
+- Sacral neuromodulation is an implanted device (sometimes called a "bladder pacemaker") that sends steady signals to the nerves controlling your bladder. About 60 to 90% of women improve, and newer rechargeable batteries last 15 years or more.
 
 You don't have to try one treatment before another. Some women start with behavioral therapy, others go straight to Botox or nerve stimulation. We decide together based on what matters most to you.
 
@@ -87,4 +87,5 @@ The women who do best are the ones who stay active with treatment, especially th
 6. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary action plan from the state-of-the-science conference on OAB and cognitive impairment. *Urogynecology*. 2023;29(1):60-73. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
 7. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 8. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019;31(6):485-493. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+9. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
 

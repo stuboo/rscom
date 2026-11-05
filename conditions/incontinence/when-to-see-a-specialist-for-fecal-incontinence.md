@@ -9,7 +9,7 @@ condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-05-15
 faq:
   - question: "What kind of doctor treats fecal incontinence?"
@@ -61,7 +61,7 @@ Most women see real improvement with treatment. We'll talk through the options t
 - Dietary changes to improve stool consistency
 - Fiber supplements or medications like loperamide
 - Pelvic floor physical therapy, which goes beyond Kegels to include strength, coordination, relaxation, and training the muscles around your hips, core, and pelvic floor. We have in-office pelvic floor physical therapists who work closely with me.
-- Sacral neuromodulation (sometimes called a "bowel pacemaker"), a small implanted device that sends gentle signals to the nerves controlling your bowel. It's the first-line surgical option for fecal incontinence. The battery lasts 10 to 15 years with newer rechargeable devices. Over 80% of patients see at least a 50% reduction in leakage episodes.
+- Sacral neuromodulation (sometimes called a "bowel pacemaker"), a small implanted device that sends gentle signals to the nerves controlling your bowel. It's the first-line surgical option for fecal incontinence. Newer rechargeable devices last 15 years or more. Over 80% of patients see at least a 50% reduction in leakage episodes.
 
 Sphincter repair surgery is rarely recommended today. Sacral neuromodulation has largely replaced it because results are better and last longer, even in women who have a sphincter tear.
 

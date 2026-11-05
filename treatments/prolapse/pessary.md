@@ -7,7 +7,7 @@ parent: Prolapse Treatments
 nav_order: 4
 description: "A removable silicone support that holds prolapse up without surgery. The main types, what a fitting involves, cleaning and care, and common problems."
 permalink: /treatments/prolapse/pessary
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-23
 ---
 
@@ -66,7 +66,7 @@ Getting the right fit is crucial for comfort and effectiveness. Here's what to e
 4. You'll provide feedback on comfort and fit
 5. Adjustments will be made as necessary
 
-It may take a few tries to find the perfect fit, so patience is key. In general, we're able to successfully fit about 90% of patients with a pessary, and roughly half are still wearing them a year later.
+It may take a few tries to find the perfect fit, so patience is key. Up to 92% of women can be fitted with a pessary. In a large national registry, about 62% of the women who were fitted were still using it a year later.
 
 ## Living with a Pessary
 

@@ -8,7 +8,7 @@ permalink: /life-stages/incontinence-during-menopause
 condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-16
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-05-16
 faq:
   - question: "Is vaginal estrogen safe?"
@@ -51,7 +51,7 @@ There's no single right answer here. I work with each patient to figure out whic
 - Pelvic floor physical therapy: this goes well beyond Kegels. A pelvic floor PT works on strength, relaxation, coordination, endurance, and surrounding muscles (hips, core, inner thighs). We have in-office pelvic floor PTs, and research shows PFMT combined with vaginal estrogen works better than either one alone for stress incontinence.
 - Behavioral strategies: bladder retraining, fluid management, and learning to brace your pelvic floor before a cough or sneeze.
 - Medications for urgency: if you have overactive bladder symptoms, medication may help. For women over 55, I avoid a class of drugs called anticholinergics because of their link to memory problems and dementia risk. Beta-3 agonists or non-medication options are safer choices for older adults.
-- Advanced treatments: Botox injections into the bladder last about 6-9 months per treatment. Sacral neuromodulation (a small nerve stimulator) has a battery that lasts 10-15 years. These are options when other approaches haven't been enough.
+- Advanced treatments: Botox injections into the bladder last about 6-9 months per treatment. Sacral neuromodulation (a small nerve stimulator) comes in rechargeable models that last 15 years or more. These are options when other approaches haven't been enough.
 
 ## Your next steps
 
@@ -67,3 +67,4 @@ You don't have to live with bladder problems just because you're going through m
 4. Mitchell CM, Reed SD, Diem S, et al. Efficacy of vaginal estradiol or vaginal moisturizer vs placebo for treating postmenopausal vulvovaginal symptoms. *JAMA Internal Medicine*. 2018. [doi:10.1001/jamainternmed.2018.0116](https://doi.org/10.1001/jamainternmed.2018.0116)
 5. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 6. Dengler KL, High RA, Moga DC, et al. Overactive bladder and cognitive impairment. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+7. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)

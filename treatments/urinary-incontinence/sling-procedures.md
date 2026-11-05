@@ -5,11 +5,11 @@ nav_title: Sling Procedures
 procedure_name: "Midurethral Sling"
 parent: Urinary Incontinence Treatments
 nav_order: 7
-description: "A midurethral sling cures or greatly improves leaking with coughs and sneezes for 80 to 90% of women. Most go home the same day."
+description: "In studies, a midurethral sling cures leaking with coughs and sneezes for about 84% of women at one year. Most go home the same day."
 permalink: /treatments/urinary-incontinence/sling-procedures
 redirect_from:
   - /mesh-sling-procedures/
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-09
 ---
 
@@ -57,7 +57,7 @@ There are two main types of sling procedures:
 
 ## Benefits of Sling Procedures
 
-- High success rates (80-90% cure or significant improvement)
+- High success rates (a median cure rate of about 84% at one year in studies)
 - Minimally invasive with quick recovery
 - Long-lasting results
 - Can be performed as an outpatient procedure
@@ -88,7 +88,7 @@ It's not the right fit for everyone, and we'll talk through whether it makes sen
 
 ## Recovery and long-term outlook
 
-Recovery is similar to my other minimally invasive procedures: let your body be your guide, and if it hurts, don't do it. Most patients are back to their normal routine within a few weeks. Success rates are high, with 80-90% of women experiencing cure or significant improvement in their leakage.
+Recovery is similar to my other minimally invasive procedures: let your body be your guide, and if it hurts, don't do it. Most patients are back to their normal routine within a few weeks. In studies, the median cure rate is about 84% at one year.
 
 One thing to know: sling procedures treat stress incontinence specifically. If you also have urge incontinence, we may need to address that separately.
 
@@ -98,3 +98,4 @@ One thing to know: sling procedures treat stress incontinence specifically. If y
 2. Brubaker L, Norton PA, Albo ME, et al. Adverse events over two years after retropubic or transobturator midurethral sling surgery: findings from the Trial of Midurethral Slings (TOMUS) study. *Am J Obstet Gynecol*. 2011;205(5):498.e1-6. [doi:10.1016/j.ajog.2011.07.011](https://doi.org/10.1016/j.ajog.2011.07.011)
 3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
 4. Stewart JR. Midurethral sling procedures for stress urinary incontinence. In: Pasic RP, Brill AI, eds. *Practical Manual of Minimally Invasive Gynecologic and Robotic Surgery: A Clinical Cook Book*. 3rd ed. CRC Press; 2018.
+5. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)

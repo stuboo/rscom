@@ -7,7 +7,7 @@ description: "Compare sacral neuromodulation (InterStim) and Botox for overactiv
 permalink: /treatments/comparisons/snm-vs-botox-oab
 nav_exclude: true
 published: true
-last_modified_at: 2026-06-07
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-08
 faq:
   - question: "Can I try both before deciding?"
@@ -36,7 +36,7 @@ A few details that tend to matter:
 
 - The test phase is the single best predictor of whether the implant will help you.
 - The device runs continuously and can be adjusted; many women need their settings reprogrammed at some point, usually a quick office visit.
-- Battery life is in the range of 10-15 years.
+- Rechargeable batteries last 15 years or more.
 - The device can be turned off or removed.
 - It can also improve fecal incontinence, so it's worth considering if you have both.
 - Most current devices are labeled for full-body MRI under specific conditions, but let any imaging team know you have an implant.
@@ -60,7 +60,7 @@ What to expect:
 | What it does | Adjusts the nerve signals controlling the bladder | Calms overactive bladder-muscle contractions |
 | Procedure | Test phase with a temporary wire, then an implant if it works | Office injection through a cystoscope, repeated over time |
 | Onset | Judged during the test phase | About 1 to 2 weeks |
-| How long it lasts | Continuous; batteries last about 10 to 15 years | About 6 to 9 months per injection |
+| How long it lasts | Continuous; rechargeable batteries last 15 years or more | About 6 to 9 months per injection |
 | Adjustable | Yes, settings can be reprogrammed | No, fixed until the effect fades |
 | Main trade-offs | Surgical risks, lead migration, occasional device revision | Incomplete emptying, sometimes temporary self-catheterization, higher UTI rate |
 | Reversibility | Device can be turned off or removed | Effect wears off on its own |
@@ -110,3 +110,4 @@ The best treatment is the one that fits your symptoms and your priorities. Dr. S
 - White N, Iglesia CB. Overactive Bladder. Obstetrics and Gynecology Clinics of North America. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
 - Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. The Journal of Urology. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
 - Peters KM, Carrico DJ, Wooldridge LS, Miller CJ, MacDiarmid SA. Percutaneous Tibial Nerve Stimulation for the Long-Term Treatment of Overactive Bladder: 3-Year Results of the STEP Study. The Journal of Urology. 2013. [doi:10.1016/j.juro.2012.11.175](https://doi.org/10.1016/j.juro.2012.11.175)
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
