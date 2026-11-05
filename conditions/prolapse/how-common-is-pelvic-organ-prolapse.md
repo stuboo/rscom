@@ -1,9 +1,10 @@
 ---
 layout: question
-title: "How Common Is Pelvic Organ Prolapse?"
+title: "How Many Women Get Pelvic Organ Prolapse?"
+nav_title: "How Common Is Pelvic Organ Prolapse?"
 parent: Pelvic Organ Prolapse
 nav_order: 27
-description: "How common is pelvic organ prolapse - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "On exam, 41 to 50% of women have some prolapse, but only 3 to 6% feel a bulge. About 1 in 8 has prolapse surgery by 80. Why the numbers differ."
 permalink: /conditions/prolapse/how-common-is-pelvic-organ-prolapse
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

@@ -1,9 +1,10 @@
 ---
 layout: question
-title: "Can Urinary Incontinence Be Cured?"
+title: "Can Urinary Incontinence Be Cured or Reversed?"
+nav_title: "Can Urinary Incontinence Be Cured?"
 parent: Urinary Incontinence
 nav_order: 12
-description: "Many types of urinary incontinence can be improved or cured. A urogynecologist explains the options for stress, urge, and mixed incontinence."
+description: "Often, yes. Stress leaking has the highest cure rates, with PT or a sling. Urge leaking is usually controlled rather than cured. How each type is treated."
 permalink: /conditions/incontinence/can-urinary-incontinence-be-cured
 condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence

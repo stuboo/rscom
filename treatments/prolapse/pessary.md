@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Pessary
+title: "Pessary for Prolapse: Types, Fitting, and Care"
+nav_title: "Pessary"
 device_name: "Pessary"
 parent: Prolapse Treatments
 nav_order: 4
-description: "Pessary Use for Prolapse"
+description: "A removable silicone support that holds prolapse up without surgery. The main types, what a fitting involves, cleaning and care, and common problems."
 permalink: /treatments/prolapse/pessary
 last_modified_at: 2026-03-15
 last_evidence_review: 2026-09-23
