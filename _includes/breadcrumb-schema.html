@@ -8,9 +8,9 @@
 
   It has to be a walk, not a fixed two lookups: a page usually declares only
   its immediate `parent`, and the deeper ancestors come from that parent's own
-  frontmatter. /conditions/incontinence/what-is-urge-incontinence declares
+  frontmatter. /conditions/incontinence/can-diet-affect-bladder-control declares
   `parent: Urinary Incontinence` and renders as
-  "Conditions > Incontinence > Urinary Incontinence > What Is Urge Incontinence?".
+  "Conditions > Incontinence > Urinary Incontinence > Can Diet and Drinks Affect Bladder Control?".
   Structured data must match what is on screen, so climb until there is no
   parent left. compare_breadcrumbs.py asserts the two agree on every page.
 

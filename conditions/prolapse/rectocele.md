@@ -9,6 +9,7 @@ description: "A rectocele is rarely dangerous. Learn the signs, like needing to 
 permalink: /conditions/rectocele
 redirect_from:
   - /rectocele/
+  - /conditions/prolapse/what-is-a-rectocele
 faq:
   - question: "What is a rectocele?"
     answer: "A rectocele, also known as posterior vaginal prolapse, is a type of pelvic organ prolapse where the rectum bulges into the back wall of the vagina due to weakening of the tissue between the rectum and vagina."
@@ -30,7 +31,13 @@ faq:
 
   - question: "How does constipation relate to rectocele?"
     answer: "Constipation can both cause and be caused by rectocele. Straining during bowel movements can worsen the prolapse, while the prolapse itself can make passing stools difficult. Managing constipation through diet, exercise, and good bowel habits is a central part of treating rectocele."
-last_modified_at: 2026-11-03
+
+  - question: "What is splinting for a rectocele?"
+    answer: "Splinting means pressing on the back wall of the vagina or on the perineum with a finger to help stool come out during a bowel movement. It works, and many women do it. Needing to splint is also a sign the rectocele may be worth treating."
+
+  - question: "Do all rectoceles need surgery?"
+    answer: "No. Many rectoceles cause few or no symptoms and don't need any treatment. When symptoms bother you, the options run from fiber and bowel habits to pelvic floor therapy, a pessary, and surgery, and we choose together."
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-23
 ---
 
@@ -42,11 +49,11 @@ A rectocele is a bulge of the back wall of the vagina. The rectum sits right beh
 
 The thin layer of connective tissue between the vaginal skin and the rectum is sometimes called the rectovaginal septum. Anatomy studies have shown it isn't a single, distinct sheet of tissue, which is why some experts prefer the broader term posterior vaginal wall prolapse. When this tissue stretches or weakens, the rectum (and sometimes other pelvic organs) can bulge into the vagina.
 
-Rectoceles are common. Depending on the group of women studied, posterior wall prolapse is found in roughly 18% to 40%, and small rectoceles turn up often in women who have no symptoms at all.
+Rectoceles are common. Depending on the group of women studied, posterior wall prolapse is found in roughly 18% to 40%, and small rectoceles turn up often in women who have no symptoms at all. On defecography, an x-ray taken while you empty your bowels, almost half of women who have never given birth and have no symptoms show a rectocele.
 
 ## Symptoms
 
-How much a rectocele bothers you depends mostly on its size. A small one may cause no symptoms. A large one can cause significant ones.
+A small rectocele may cause no symptoms, and a large one can cause significant ones. Still, the size on exam is a poor guide to how much a rectocele will bother you. Studies comparing the two find weak or no correlation, so I go by your symptoms rather than the measurement.
 
 The most telling symptom is needing to press on the vagina or perineum, or put a finger in the vagina, to finish a bowel movement. This is called splinting. Other bowel symptoms include:
 
@@ -54,7 +61,7 @@ The most telling symptom is needing to press on the vagina or perineum, or put a
 * Straining to pass stool
 * A bulge in the vagina that gets bigger during bowel movements
 
-Many women also feel, or sometimes see, a bulge in the vagina. It can feel like sitting on a ball or an egg.
+Many women also feel, or sometimes see, a bulge in the vagina. It can feel like sitting on a ball or an egg. Some women also notice pelvic pressure that builds the longer they stand, or discomfort during sex.
 
 {: .important-title }
 > What you see or feel is likely not your rectum...
@@ -118,7 +125,7 @@ Kegel exercises strengthen the pelvic floor muscles that support the rectum, bla
 
 ### Splinting
 
-Splinting means pressing on the back wall of the vagina, or on the perineum, during a bowel movement. Holding the bulge back lets the rectum empty more easily. It helps most if you have a large bulge and trouble finishing bowel movements, and some women use it while they wait for surgery.
+Splinting means pressing on the back wall of the vagina, or on the perineum, during a bowel movement. Holding the bulge back lets the rectum empty more easily. It helps most if you have a large bulge and trouble finishing bowel movements, and some women use it while they wait for surgery. Needing to splint is also a sign that the rectocele may be worth treating.
 
 ### Pessary
 
@@ -130,7 +137,7 @@ If the options above don't help enough, your doctor may recommend surgery.
 
 Before surgery, you'll go over your overall health, age, medical history, plans for future pregnancy, the details of your prolapse, and whether you want to stay sexually active. That conversation helps your surgeon choose the operation that fits you.
 
-Rectocele repair is most often done through the vagina. The procedure is called a posterior colporrhaphy, or posterior vaginal repair. The goal is to reduce the bulge and improve your symptoms. Most repairs use your own tissue and dissolvable stitches, which is called a native tissue repair. Adding synthetic mesh or a biologic graft to a posterior repair has not been shown to improve results and carries added risks, so it isn't routinely recommended. When prolapse involves more than one part of the vagina, a surgeon may use an abdominal or laparoscopic approach, sometimes combined with other repairs.
+Rectocele repair is most often done through the vagina. The procedure is called a posterior colporrhaphy, or posterior vaginal repair. The goal is to reduce the bulge and improve your symptoms. In published series, posterior colporrhaphy succeeds in 80% to 95% of women. Most repairs use your own tissue and dissolvable stitches, which is called a native tissue repair. Adding synthetic mesh or a biologic graft to a posterior repair has not been shown to improve results and carries added risks, so it isn't routinely recommended. When prolapse involves more than one part of the vagina, a surgeon may use an abdominal or laparoscopic approach, sometimes combined with other repairs.
 
 Most women go home the same day or after one night. How long you stay depends mostly on the type of surgery and your other medical problems.
 

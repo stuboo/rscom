@@ -58,7 +58,18 @@ faq:
     2. Keep a bladder diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open about your symptoms and how they affect your quality of life"
-last_modified_at: 2026-03-15
+
+- question: "What's the difference between urge and stress incontinence?"
+  answer: "Stress incontinence is leaking with physical effort, like coughing, sneezing, or exercise. Urge incontinence is a sudden, strong need to urinate followed by leaking before you get to the bathroom, often set off by things like running water or getting home."
+
+- question: "Is urge incontinence the same as overactive bladder?"
+  answer: "Not exactly. Overactive bladder (OAB) means urgency and frequency, with or without leaking. Urge incontinence is the form of OAB where the urgency comes with leaking. OAB symptoms get more common with age, passing 30% in women 65 and older."
+
+- question: "Can urge incontinence be treated without medication?"
+  answer: "Yes. Bladder training, cutting back on bladder irritants, and pelvic floor therapy are first-line treatments, and many women improve without ever taking a pill. That matters because the pills are hard to stay on: fewer than half of women are still taking an anticholinergic at six months. If behavioral treatment isn't enough, tibial nerve stimulation is the least invasive next step."
+redirect_from:
+  - /conditions/incontinence/what-is-urge-incontinence
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-23
 references:
   - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
@@ -101,6 +112,21 @@ references:
     journal: "Menopause"
     year: 2020
     doi: "https://doi.org/10.1097/GME.0000000000001609"
+  - author: "Visco AG, Brubaker L, Richter HE, et al."
+    title: "Anticholinergic Therapy vs. OnabotulinumtoxinA for Urgency Urinary Incontinence"
+    journal: "New England Journal of Medicine"
+    year: 2012
+    doi: "https://doi.org/10.1056/NEJMoa1208872"
+  - author: "Amundsen CL, Komesu YM, Chermansky C, et al."
+    title: "Two-Year Outcomes of Sacral Neuromodulation Versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: A Randomized Trial"
+    journal: "European Urology"
+    year: 2018
+    doi: "https://doi.org/10.1016/j.eururo.2018.02.011"
+  - author: "Sanses TVD, Zillioux J, High RA, et al."
+    title: "Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001274"
 ---
 
 # Understanding Urge Urinary Incontinence in Women
@@ -128,7 +154,7 @@ It is commonly associated with:
 UUI is more common than many women realize:
 
 - Affects approximately 17% of women over 40
-- Incidence increases with age
+- Incidence increases with age, and overactive bladder symptoms pass 30% in women 65 and older
 - Often coexists with stress urinary incontinence (known as mixed incontinence)
 
 UUI is common, but it is not a normal part of aging. It's a medical condition, and you can manage it effectively with treatment.
@@ -146,6 +172,8 @@ Urge urinary incontinence occurs when the bladder muscle (detrusor) contracts in
 7. **Obesity**: Excess weight can put pressure on the bladder
 8. **Aging**: Natural changes in the bladder can increase risk
 
+Most of the time no single cause turns up, which doctors call idiopathic. Not finding a cause doesn't change the treatment options.
+
 ## Symptoms of Urge Urinary Incontinence
 
 The primary symptoms of UUI include:
@@ -153,6 +181,8 @@ The primary symptoms of UUI include:
 - Sudden, strong urge to urinate that's difficult to control
 - Involuntary loss of urine immediately following or accompanied by an urgent need to urinate
 - Leaking large amounts of urine
+
+Certain triggers set it off for a lot of women: the sound of running water, cold weather, anxiety, or putting a key in the front door. That last one is common enough to have its own name, latchkey incontinence.
 
 {: .important-title }
 
@@ -183,6 +213,8 @@ Effective treatments include lifestyle changes, medications, and more advanced t
 3. **Double voiding**: Urinating, waiting a few moments, then trying again to empty the bladder more completely
 4. **Scheduled toilet trips (aka Timed voiding)**: Going to the bathroom at set times, rather than waiting for the urge
 
+When an urge hits, squeezing the pelvic floor muscles a few times can calm the bladder through a reflex. That buys time to walk to the bathroom instead of running.
+
 ### Lifestyle Changes
 
 1. **Fluid management**: Avoiding bladder irritants like caffeine and alcohol
@@ -195,11 +227,13 @@ Effective treatments include lifestyle changes, medications, and more advanced t
 2. **Beta-3 agonists**: Improve the bladder's ability to store urine (e.g., mirabegron, vibegron)
 3. **Topical estrogen**: For postmenopausal women, *may* help improve urethral and vaginal tissue health and decrease bladder irritation
 
+Fewer than half of women are still taking an anticholinergic at six months, mostly because of dry mouth and constipation. For women 65 and older I usually start with a beta-3 agonist, because anticholinergics are on the list of drugs older adults should avoid out of concern for memory and dementia risk.
+
 ### Advanced Therapies
 
-1. **BOTOX injections**: Your doctor injects botulinum toxin into the bladder muscle. It relaxes the muscle and reduces involuntary contractions, which improves symptoms of overactive bladder and urge urinary incontinence. The effect typically lasts about 6 to 9 months, and you can repeat the injections after that.
-2. **Percutaneous and implantable tibial nerve stimulation**: A minimally invasive treatment that uses electrical pulses to stimulate nerves in the ankle. This can improve bladder control by changing the nerve signals that control the bladder.
-3. **Sacral neuromodulation**: A small implanted device sends mild electrical pulses to the sacral nerves, which help control bladder and bowel function. It can improve symptoms of overactive bladder and difficulty emptying the bladder.
+1. **BOTOX injections**: Your doctor injects botulinum toxin into the bladder muscle. It relaxes the muscle and reduces involuntary contractions, which improves symptoms of overactive bladder and urge urinary incontinence. The effect typically lasts about 6 to 9 months, and you can repeat the injections after that. In a trial comparing it with daily anticholinergic pills, 27% of women who got Botox stopped leaking entirely, compared with 13% on pills. About a third got a urinary tract infection, and 5% needed to use a catheter for a while because the bladder didn't empty well.
+2. **Percutaneous and implantable tibial nerve stimulation**: A minimally invasive treatment that uses electrical pulses to stimulate nerves in the ankle. This can improve bladder control by changing the nerve signals that control the bladder. In the SUmiT trial, 55% of patients reported moderate or marked improvement after 12 weekly sessions, compared with 21% after a sham treatment.
+3. **Sacral neuromodulation**: A small implanted device sends mild electrical pulses to the sacral nerves, which help control bladder and bowel function. It can improve symptoms of overactive bladder and difficulty emptying the bladder. Over two years, sacral neuromodulation and Botox cut leaks by about the same amount, and urinary tract infections were less common with the implant (10% vs 24%).
 
 {: .important-title }
 
@@ -244,3 +278,6 @@ Urge urinary incontinence is common, but you don't have to accept it as a normal
 - Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs Sacral Neuromodulation on Refractory Urgency Urinary Incontinence in Women: A Randomized Clinical Trial. JAMA. 2016. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
 - Peters KM, Carrico DJ, Perez-Marrero RA, et al. Randomized Trial of Percutaneous Tibial Nerve Stimulation Versus Sham Efficacy in the Treatment of Overactive Bladder Syndrome: Results From the SUmiT Trial. The Journal of Urology. 2010. [doi:10.1016/j.juro.2009.12.036](https://doi.org/10.1016/j.juro.2009.12.036)
 - Faubion SS, Kingsberg SA, Clark AL, et al. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. Menopause. 2020. [doi:10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)
+- Visco AG, Brubaker L, Richter HE, et al. Anticholinergic Therapy vs. OnabotulinumtoxinA for Urgency Urinary Incontinence. New England Journal of Medicine. 2012. [doi:10.1056/NEJMoa1208872](https://doi.org/10.1056/NEJMoa1208872)
+- Amundsen CL, Komesu YM, Chermansky C, et al. Two-Year Outcomes of Sacral Neuromodulation Versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: A Randomized Trial. European Urology. 2018. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
+- Sanses TVD, Zillioux J, High RA, et al. Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)

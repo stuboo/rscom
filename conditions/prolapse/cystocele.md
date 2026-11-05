@@ -9,6 +9,7 @@ description: "A cystocele is a bladder that has sagged into the front wall of th
 permalink: /conditions/cystocele
 redirect_from:
   - /bladder-prolapse-cystocele/
+  - /conditions/prolapse/what-is-a-cystocele
 faq:
   - question: "What is a cystocele?"
     answer: "A cystocele, also known as bladder prolapse or anterior vaginal prolapse, is a condition where the front wall of the vagina bulges down toward the vaginal opening, often accompanied by the bladder."
@@ -30,7 +31,16 @@ faq:
 
   - question: "What should I expect during a consultation about cystocele?"
     answer: "During a consultation, your doctor will ask about your symptoms, perform a pelvic exam, discuss your treatment goals, explain the exam findings (often using drawings), and answer any questions you have about available treatments."
-last_modified_at: 2026-03-15
+
+  - question: "How common is a cystocele?"
+    answer: "Very common. It's the most frequent type of pelvic organ prolapse, found about twice as often as a rectocele and three times as often as apical (uterine or vaginal vault) prolapse."
+
+  - question: "Can a cystocele get worse?"
+    answer: "It can, but most don't change much. In one study, 78% of women with untreated prolapse had no change over 16 months. Chronic straining, coughing, and heavy lifting add pressure that can push it further."
+
+  - question: "Is a cystocele dangerous?"
+    answer: "No, though it can affect your quality of life. A large cystocele can make it hard to empty your bladder completely, which is something I check for on exam."
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-23
 references:
   - author: "Haylen BT, Maher CF, Barber MD, et al."
@@ -83,11 +93,13 @@ Do you experience any of the following symptoms?
 * A feeling that your bladder or vaginal area has "dropped"
 * A visible ball or bulge at the vaginal opening
 
-If so, you may be dealing with a cystocele, also known as bladder prolapse or anterior vaginal prolapse. Cystocele is one of the most common forms of pelvic organ prolapse. Below is how a cystocele develops, why it happens, and how it's treated.
+If so, you may be dealing with a cystocele, also known as bladder prolapse or anterior vaginal prolapse. Cystocele is the most common form of pelvic organ prolapse. It's found about twice as often as a rectocele and three times as often as prolapse of the uterus or the top of the vagina. Below is how a cystocele develops, why it happens, and how it's treated.
 
 ## Is That My Bladder?
 
 Patients with cystocele often visit their doctors with complaints of pelvic pressure or lower back discomfort. Some notice a bulge or ball at the opening of the vagina. You might also experience lower abdominal or low back pain and have trouble with intercourse (often described as "something getting in the way"). Mild cases may cause no symptoms at all.
+
+A cystocele can also cause urinary frequency and urgency. A large one that reaches past the vaginal opening can keep the bladder from emptying all the way.
 
 Cystocele occurs when the front wall of the vagina bulges down toward the vaginal opening. The bladder, which rests on the front wall of the vagina, often comes along with it, which is where the name "cystocele" comes from.
 
@@ -139,6 +151,10 @@ Because bladder prolapse is generally not dangerous, treatment decisions are gui
 3. **Home Exercises**: Such as Kegel exercises.
 4. **Pessary**: A device worn in the vagina to hold tissues in place.
 5. **Surgery**: For more severe cases or when other treatments haven't helped.
+
+Most cystoceles don't change much over time, which is why watching one is a reasonable plan if it isn't bothering you. In one study, 78% of women with untreated prolapse had no change over 16 months.
+
+Pelvic floor physical therapy has good evidence behind it. In the largest trial of pelvic floor muscle training for prolapse, 447 women, 70% of those who worked one-on-one with a physical therapist said their prolapse was better at 12 months, compared with 45% of women who got only advice. Up to 92% of women can be fitted with a pessary.
 
 ### A Closer Look at Surgery
 

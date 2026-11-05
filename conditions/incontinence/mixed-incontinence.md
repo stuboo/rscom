@@ -75,7 +75,15 @@ faq:
     2. Keep a detailed bladder diary to share with your healthcare provider
     3. Schedule an appointment with a urogynecologist or pelvic health specialist
     4. Be open about your symptoms and how they affect your quality of life"
-last_modified_at: 2026-09-23
+
+- question: "Is mixed incontinence harder to treat?"
+  answer: "Not necessarily, but it takes a tailored plan. Figuring out which part bothers you more, the stress leaks or the urge leaks, tells us where to start, and improving one often helps the other."
+
+- question: "Can surgery fix mixed incontinence?"
+  answer: "A sling works well for the stress part. The urgency may get better after surgery too, but sometimes it needs its own treatment, like pelvic floor therapy, medication, or nerve stimulation. In the ESTEEM trial, about 15% of women needed more treatment within a year of their sling, almost all of it for urgency."
+redirect_from:
+  - /conditions/incontinence/what-is-mixed-incontinence
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-23
 references:
 - author: "Sung VW, Borello-France D, Newman DK, et al."
@@ -168,6 +176,8 @@ The two types of incontinence often need different treatments, so the usual stra
 
 If you're not sure which type bothers you more, keep a detailed bladder diary. It shows how often each kind of leak happens and how bad it is.
 
+Improving one type often helps the other. Pelvic floor therapy is the clearest example: stronger support around the urethra helps the stress leaks, and contracting the same muscles can quiet an urge.
+
 ## Treatment Options
 
 Treatment often combines several of these:
@@ -213,6 +223,8 @@ Treatment often combines several of these:
 > A note on surgery and urge symptoms
 >
 > Surgery for the stress component does not always relieve urgency, and persistent urge symptoms are the most common reason women need further treatment after a sling. Adding pelvic floor muscle therapy around the time of sling surgery can reduce urgency symptoms and lower the chance of needing more treatment later.
+
+Before a sling, I tell every patient with mixed incontinence that the urgency may not go away with surgery. In the ESTEEM trial, symptom scores fell by about 80% a year after a sling. About 15% of women still needed more treatment in that year, almost all of it for urgency. Women who added pelvic floor muscle therapy and behavioral training around the time of surgery needed more treatment about half as often (8.5% vs 15.7%).
 
 {: .important-title }
 
