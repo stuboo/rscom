@@ -3,7 +3,7 @@ layout: question
 title: "Alternatives to Vaginal Estrogen"
 parent: Vaginal Estrogen
 nav_order: 15
-description: "Alternatives to vaginal estrogen - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Alternatives to vaginal estrogen for dryness and painful sex after menopause: moisturizers, lubricants, DHEA, ospemifene, and pelvic floor therapy compared."
 permalink: /treatments/vaginal-estrogen/alternatives-to-vaginal-estrogen
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

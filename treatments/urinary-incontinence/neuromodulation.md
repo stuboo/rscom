@@ -4,7 +4,7 @@ title: Neuromodulation
 procedure_name: "Sacral Neuromodulation"
 parent: Urinary Incontinence Treatments
 nav_order: 5
-description: "How sacral neuromodulation (InterStim, Axonics) and implanted tibial nerve stimulation (Altaviva) treat overactive bladder and urge incontinence when other treatments haven't helped enough."
+description: "How sacral neuromodulation (InterStim, Axonics) and implanted tibial nerve stimulation (Altaviva) treat overactive bladder when other treatments fall short."
 permalink: /treatments/urinary-incontinence/neuromodulation
 last_modified_at: 2026-11-03
 last_evidence_review: 2026-11-03

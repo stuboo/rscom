@@ -3,7 +3,7 @@ layout: question
 title: "How Much Vaginal Estrogen to Use"
 parent: Vaginal Estrogen
 nav_order: 12
-description: "How much vaginal estrogen to use - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Vaginal estrogen dosing: a daily loading dose for about two weeks, then a few times a week. How cream, tablet, and ring doses differ, and what to do if you miss one."
 permalink: /treatments/vaginal-estrogen/how-much-vaginal-estrogen-to-use
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

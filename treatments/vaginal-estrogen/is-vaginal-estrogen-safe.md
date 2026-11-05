@@ -3,7 +3,7 @@ layout: question
 title: "Is Vaginal Estrogen Safe?"
 parent: Vaginal Estrogen
 nav_order: 1
-description: "Is vaginal estrogen safe - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Low-dose vaginal estrogen is safe for most women. Blood estrogen levels stay in the postmenopausal range, and the studies behind that are reassuring."
 permalink: /treatments/vaginal-estrogen/is-vaginal-estrogen-safe
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

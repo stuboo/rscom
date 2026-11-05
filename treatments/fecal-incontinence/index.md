@@ -3,7 +3,7 @@ layout: page
 title: Fecal Incontinence Treatments
 parent: Treatments
 nav_order: 1
-description: "Overview of Fecal Incontinence Treatments"
+description: "Fecal incontinence treatments, from diet changes, fiber, and bowel retraining to pelvic floor therapy, sacral nerve stimulation, and surgical repair."
 permalink: /treatments/fecal-incontinence
 last_modified_at: 2026-03-15
 ---

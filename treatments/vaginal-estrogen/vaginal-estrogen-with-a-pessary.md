@@ -3,7 +3,7 @@ layout: question
 title: "Vaginal Estrogen With a Pessary or Prolapse"
 parent: Vaginal Estrogen
 nav_order: 9
-description: "Vaginal estrogen with a pessary - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Vaginal estrogen is often used with a pessary to keep the vaginal tissue healthy, and may help some women keep wearing it. What the evidence does and doesn't show."
 permalink: /treatments/vaginal-estrogen/vaginal-estrogen-with-a-pessary
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

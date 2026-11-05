@@ -3,7 +3,7 @@ layout: question
 title: "Does Vaginal Estrogen Affect the Uterine Lining?"
 parent: Vaginal Estrogen
 nav_order: 3
-description: "Vaginal estrogen and the uterine lining - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Low-dose vaginal estrogen does not raise the risk of endometrial cancer, needs no added progestogen, and needs no routine lining checks. What the trials show."
 permalink: /treatments/vaginal-estrogen/does-vaginal-estrogen-cause-endometrial-cancer
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

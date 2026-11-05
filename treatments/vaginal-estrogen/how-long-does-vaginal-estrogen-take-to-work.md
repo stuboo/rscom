@@ -3,7 +3,7 @@ layout: question
 title: "How Long Does Vaginal Estrogen Take to Work?"
 parent: Vaginal Estrogen
 nav_order: 4
-description: "How long vaginal estrogen takes to work - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Most women notice vaginal estrogen working within one to two months, with full benefit by eight to twelve weeks. What to expect and when to reassess."
 permalink: /treatments/vaginal-estrogen/how-long-does-vaginal-estrogen-take-to-work
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

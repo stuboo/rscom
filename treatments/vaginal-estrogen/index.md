@@ -4,7 +4,7 @@ title: Vaginal Estrogen
 parent: Treatments
 has_children: true
 nav_order: 5
-description: "Vaginal estrogen for genitourinary syndrome of menopause: what it treats, how it works, safety, and how it differs from systemic hormone therapy. By Dr. Ryan Stewart."
+description: "Vaginal estrogen for genitourinary syndrome of menopause: what it treats, how it works, how safe it is, and how it differs from systemic hormone therapy."
 permalink: /treatments/vaginal-estrogen
 published: true
 last_modified_at: 2026-09-03

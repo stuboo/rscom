@@ -4,7 +4,7 @@ title: Watch and Wait
 therapy_name: "Watchful Waiting"
 parent: Prolapse Treatments
 nav_order: 2
-description: "Watchful waiting is a valid option for prolapse depending on the degree of your symptoms. Who it suits, what follow-up looks like, and when to consider other treatment."
+description: "Watchful waiting is a reasonable choice for many women with prolapse. Who it suits, what follow-up looks like, and when to consider other treatment."
 permalink: /treatments/prolapse/watch-and-wait
 last_modified_at: 2026-09-23
 last_evidence_review: 2026-09-23

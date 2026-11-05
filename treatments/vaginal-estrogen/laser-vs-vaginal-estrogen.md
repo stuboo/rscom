@@ -3,7 +3,7 @@ layout: question
 title: "Vaginal Laser vs Vaginal Estrogen"
 parent: Vaginal Estrogen
 nav_order: 17
-description: "Vaginal laser vs vaginal estrogen - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Vaginal laser vs vaginal estrogen for menopause symptoms: estrogen has strong guideline support, while the evidence for CO2 and Er:YAG lasers falls short."
 permalink: /treatments/vaginal-estrogen/laser-vs-vaginal-estrogen
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

@@ -4,7 +4,7 @@ title: Altaviva Tibial Nerve Implant
 procedure_name: "Implantable Tibial Neuromodulation (Altaviva)"
 parent: Urinary Incontinence Treatments
 nav_order: 5
-description: "Altaviva is a small implant at the ankle that treats urge incontinence by stimulating the tibial nerve. How it works, who it's for, the procedure, and how it compares to InterStim, Axonics, and bladder Botox."
+description: "Altaviva is a small ankle implant that treats urge incontinence through the tibial nerve. How it works, who it's for, and how it compares to InterStim and Botox."
 permalink: /treatments/urinary-incontinence/altaviva
 published: true
 last_modified_at: 2026-11-03

@@ -3,7 +3,7 @@ layout: question
 title: "Is Vaginal Estrogen the Same as HRT?"
 parent: Vaginal Estrogen
 nav_order: 6
-description: "Vaginal estrogen vs systemic hormone therapy - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Low-dose vaginal estrogen is not the same as systemic HRT. It stays mostly local, keeps blood levels in the postmenopausal range, and carries different risks."
 permalink: /treatments/vaginal-estrogen/is-vaginal-estrogen-the-same-as-hrt
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

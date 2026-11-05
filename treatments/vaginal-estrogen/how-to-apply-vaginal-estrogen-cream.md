@@ -3,7 +3,7 @@ layout: question
 title: "How to Apply Vaginal Estrogen Cream"
 parent: Vaginal Estrogen
 nav_order: 11
-description: "How to apply vaginal estrogen cream - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "How to apply vaginal estrogen cream: where it goes, applicator or finger, the two-week loading schedule, maintenance dosing, and tips to reduce mess."
 permalink: /treatments/vaginal-estrogen/how-to-apply-vaginal-estrogen-cream
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

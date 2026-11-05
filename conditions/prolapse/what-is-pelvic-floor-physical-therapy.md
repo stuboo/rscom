@@ -3,7 +3,7 @@ layout: question
 title: "What Is Pelvic Floor Physical Therapy?"
 parent: Pelvic Organ Prolapse
 nav_order: 26
-description: "What Is Pelvic Floor Physical Therapy - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Pelvic floor physical therapy is rehab for the muscles that support the bladder, uterus, and rectum. What a therapist does, what it treats, and what to expect."
 permalink: /conditions/prolapse/what-is-pelvic-floor-physical-therapy
 condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse

@@ -3,7 +3,7 @@ layout: page
 title: Vaginal Fistulas
 condition_name: "Vaginal Fistulas"
 published: true
-description: "Vaginal fistulas including vesicovaginal and rectovaginal fistulas: causes, symptoms, diagnosis, and surgical repair. By Dr. Ryan Stewart, urogynecologist in Green Bay, WI."
+description: "Vaginal fistulas, including vesicovaginal and rectovaginal fistulas: causes, symptoms, diagnosis, and surgical repair, from a Green Bay urogynecologist."
 nav_order: 6
 parent: Conditions
 has_children: true

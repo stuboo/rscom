@@ -1,7 +1,7 @@
 ---
 layout: location
 title: "Pelvic Organ Prolapse Treatment Near Brillion, WI"
-description: "Dr. Ryan Stewart provides expert pelvic organ prolapse treatment for patients near Brillion, WI. Fellowship-trained urogynecologist in Green Bay, WI. Telehealth available."
+description: "Care for pelvic organ prolapse near Brillion, WI from Dr. Ryan Stewart, a fellowship-trained urogynecologist in Green Bay. Telehealth visits available."
 permalink: /locations/brillion/pelvic-organ-prolapse
 location_slug: brillion
 condition_slug: pelvic-organ-prolapse

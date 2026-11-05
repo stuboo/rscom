@@ -3,7 +3,7 @@ layout: question
 title: "Vaginal Estrogen Side Effects"
 parent: Vaginal Estrogen
 nav_order: 14
-description: "Vaginal estrogen side effects - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Low-dose vaginal estrogen is well tolerated, with side effects similar to placebo in trials. The common annoyances, like discharge and mess, and how to handle them."
 permalink: /treatments/vaginal-estrogen/vaginal-estrogen-side-effects
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

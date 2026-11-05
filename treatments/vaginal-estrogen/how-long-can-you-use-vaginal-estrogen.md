@@ -3,7 +3,7 @@ layout: question
 title: "How Long Can You Stay on Vaginal Estrogen?"
 parent: Vaginal Estrogen
 nav_order: 13
-description: "How long you can use vaginal estrogen - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "There is no fixed stop date for vaginal estrogen. Why most women use it long term, what happens if you stop, and how often to follow up with your doctor."
 permalink: /treatments/vaginal-estrogen/how-long-can-you-use-vaginal-estrogen
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

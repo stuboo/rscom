@@ -3,7 +3,7 @@ layout: question
 title: "What Causes Fecal Incontinence in Women?"
 parent: Incontinence
 nav_order: 30
-description: "What Causes Fecal Incontinence in Women - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Bowel leakage in women usually has more than one cause: childbirth injury, loose stool, nerve damage, and weak muscles. How I sort out which ones apply to you."
 permalink: /conditions/incontinence/what-causes-fecal-incontinence
 condition_name: Fecal Incontinence
 parent_condition_url: /conditions/fecal-incontinence

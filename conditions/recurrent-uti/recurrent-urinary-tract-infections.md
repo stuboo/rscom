@@ -3,7 +3,7 @@ layout: page
 title: Recurrent Urinary Tract Infections
 condition_name: "Recurrent Urinary Tract Infections"
 published: true
-description: "Recurrent UTIs in women: what counts as recurrent, why cultures matter, evidence-based prevention including vaginal estrogen, and when to see a urogynecologist. By Dr. Ryan Stewart."
+description: "Recurrent UTIs in women: what counts as recurrent, why urine cultures matter, prevention that works (including vaginal estrogen), and when to see a specialist."
 nav_order: 5
 parent: Conditions
 has_children: true

@@ -5,7 +5,7 @@ condition_name: "Incontinence"
 parent: Conditions
 has_children: true
 nav_order: 1
-description: "Urinary and fecal incontinence affect millions of women. Learn about types, causes, and treatment options from a board-certified, fellowship-trained urogynecologist in Green Bay, WI."
+description: "Urinary and fecal incontinence affect millions of women. The types, causes, and treatments, from a fellowship-trained urogynecologist in Green Bay, WI."
 permalink: /conditions/incontinence
 faq:
 - question: "What is urinary incontinence?"

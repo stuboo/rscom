@@ -3,7 +3,7 @@ layout: page
 title: Genitourinary Syndrome of Menopause
 condition_name: "Genitourinary Syndrome of Menopause"
 published: true
-description: "Genitourinary syndrome of menopause (GSM), formerly vaginal atrophy: symptoms, diagnosis, and treatment from vaginal estrogen to non-hormonal options. By Dr. Ryan Stewart."
+description: "Genitourinary syndrome of menopause (GSM), formerly vaginal atrophy: symptoms, diagnosis, and treatment from vaginal estrogen to non-hormonal options."
 nav_order: 4
 parent: Conditions
 has_children: true

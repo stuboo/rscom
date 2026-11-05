@@ -3,7 +3,7 @@ layout: question
 title: "Bleeding While Using Vaginal Estrogen"
 parent: Vaginal Estrogen
 nav_order: 10
-description: "Bleeding while using vaginal estrogen - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Any bleeding after menopause needs its own workup, even on vaginal estrogen. Why low-dose estrogen is rarely the cause, and what the evaluation involves."
 permalink: /treatments/vaginal-estrogen/bleeding-on-vaginal-estrogen
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

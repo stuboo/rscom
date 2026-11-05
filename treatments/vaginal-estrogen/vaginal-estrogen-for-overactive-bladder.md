@@ -3,7 +3,7 @@ layout: question
 title: "Does Vaginal Estrogen Help Overactive Bladder?"
 parent: Vaginal Estrogen
 nav_order: 8
-description: "Vaginal estrogen for overactive bladder - answered by Dr. Ryan Stewart, board-certified urogynecologist."
+description: "Vaginal estrogen can modestly ease urgency and frequency in postmenopausal women with overactive bladder. It works best alongside standard OAB treatment."
 permalink: /treatments/vaginal-estrogen/vaginal-estrogen-for-overactive-bladder
 condition_name: Vaginal Estrogen
 parent_condition_url: /treatments/vaginal-estrogen

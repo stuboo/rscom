@@ -3,7 +3,7 @@ layout: question
 title: "What Is a Bladder Sling Procedure?"
 parent: Urinary Incontinence
 nav_order: 17
-description: "A bladder sling (midurethral sling) is a minimally invasive outpatient surgery for stress urinary incontinence. Learn how it works, what to expect, and who is a candidate."
+description: "A bladder sling (midurethral sling) is an outpatient surgery for stress urinary incontinence. How it works, what recovery is like, and who is a candidate."
 permalink: /conditions/incontinence/what-is-a-bladder-sling
 condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
