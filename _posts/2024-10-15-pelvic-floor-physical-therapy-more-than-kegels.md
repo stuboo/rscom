@@ -3,7 +3,7 @@ last_modified_at: 2024-10-15
 layout: post
 title: "Pelvic Floor Physical Therapy: It's More Than Just Kegels"
 date: 2024-10-15
-author: Dr. Ryan Stewart
+author: ryan-stewart
 categories: 
   - Pelvic Health
   - Physical Therapy

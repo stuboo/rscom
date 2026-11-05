@@ -3,7 +3,7 @@ last_modified_at: 2025-05-24
 layout: post
 title: "The Human Touch in an AI World: Why I'm More Excited Than Scared"
 date: 2025-05-24
-author: Dr. Ryan Stewart
+author: ryan-stewart
 categories: 
   - Medical Journey
   - Technology

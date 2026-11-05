@@ -1,0 +1,7 @@
+# jekyll-seo-tag resolves a post's `author:` key against this file and emits
+# the name and url into the BlogPosting JSON-LD. It cannot emit an @id, so the
+# name and url mirror the canonical #physician node in _includes/schema.html
+# (name "Ryan Stewart, DO", url /about) to keep the entity joined.
+ryan-stewart:
+  name: "Ryan Stewart, DO"
+  url: "https://ryanstewart.com/about"

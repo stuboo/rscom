@@ -3,7 +3,7 @@ last_modified_at: 2024-12-02
 layout: post
 title: "Finding My People: A Journey to Urogynecology"
 date: 2024-12-02
-author: Dr. Ryan Stewart
+author: ryan-stewart
 categories: 
   - Career
   - Urogynecology

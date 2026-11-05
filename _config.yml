@@ -89,6 +89,12 @@ defaults:
       path: ""
     values:
       image: /assets/images/ryan-stewart.jpg
+  # Blog posts credit the canonical physician entity (see _data/authors.yml).
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author: ryan-stewart
 
 # Plugins
 plugins:

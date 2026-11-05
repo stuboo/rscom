@@ -3,7 +3,7 @@ last_modified_at: 2024-12-05
 layout: post
 title: "First Principles in Medicine: Finding the Patient’s Story"
 date: 2024-12-05
-author: Dr. Ryan Stewart
+author: ryan-stewart
 categories: 
   - Medical Journey
   - Patient Care
