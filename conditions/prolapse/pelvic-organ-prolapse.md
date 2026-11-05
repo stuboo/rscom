@@ -37,7 +37,7 @@ faq:
 
   - question: "How can I prepare for my initial consultation about pelvic organ prolapse?"
     answer: "To prepare for your initial consultation, consider the following steps: 1) Keep a symptom diary noting when and how your symptoms affect you. 2) Write down any questions you have about your condition and treatment options. 3) Make a list of your current medications and any previous treatments you've tried. 4) If possible, gather any relevant medical records (such as past surgeries) or test results. 5) Consider bringing a family member or friend for support and to help remember information."
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-09
 ---
 
@@ -47,15 +47,17 @@ Pelvic organ prolapse (POP) is a common condition in women where pelvic organs s
 
 ## Types of Pelvic Organ Prolapse
 
-POP is a general term that covers several specific types:
+POP is a general term that covers several specific types, each named for the organ that drops:
 
-1. **Cystocele**: Prolapse of the bladder
-2. **Rectocele**: Prolapse of the rectum
-3. **Enterocele**: Prolapse of the small intestine
-4. **Urethrocele**: Prolapse of the urethra
-5. **Uterine Prolapse**: Prolapse of the uterus
-6. **Cervical Prolapse**: Prolapse of the cervix
-7. **Vaginal Vault Prolapse**: Prolapse of the top of the vagina in women who have had a hysterectomy
+| Type | What drops | Part of the vagina affected | Symptoms patients often notice |
+|------|-----------|-----------------------------|--------------------------------|
+| [Cystocele](/conditions/cystocele) | Bladder | Front (anterior) wall | Bulge or pressure, urine leakage, spraying when you urinate |
+| Urethrocele | Urethra | Lower front wall, near the opening | Usually found along with a cystocele; urinary symptoms |
+| [Rectocele](/conditions/rectocele) | Rectum | Back (posterior) wall | Trouble emptying the bowels, pressing on or near the vagina to finish a bowel movement |
+| [Enterocele](/conditions/enterocele) | Small intestine | Top of the vagina, toward the back | Pressure at the top of the vagina, worse with standing or straining |
+| [Uterine prolapse](/conditions/uterine-prolapse) | Uterus | Top (apex) | Heaviness or pulling, a bulge; in advanced cases the cervix shows outside the vagina |
+| Cervical prolapse | Cervix | Top (apex) | Bulge or pressure, including after a hysterectomy that left the cervix in place |
+| [Vaginal vault prolapse](/conditions/vaginal-prolapse) | Top of the vagina after a hysterectomy | Top (apex) | Fullness or pressure, a bulge at the opening |
 
 {: .important-title }
 > Multiple Types of Prolapse Often Occur Together
@@ -88,6 +90,18 @@ We diagnose POP with a pelvic exam, which includes:
 3. Asking the patient to bear down, push, or cough to make the prolapse more pronounced
 
 I use the POP-Q (Pelvic Organ Prolapse Quantification) system to stage prolapse on a scale from 0 to 4, where 0 is no prolapse and 4 is complete prolapse.
+
+The stage depends on where the lowest point of the prolapse sits relative to the hymen, the ring of tissue at the vaginal opening, while you bear down:
+
+| POP-Q stage | Where the lowest point of the prolapse sits | In plain terms |
+|-------------|---------------------------------------------|----------------|
+| 0 | No descent | No prolapse |
+| I | More than 1 cm above the hymen | Inside the vagina, above the opening |
+| II | Between 1 cm above and 1 cm below the hymen | At the opening |
+| III | More than 1 cm below the hymen, but not complete | Outside the opening |
+| IV | Complete eversion, or within 2 cm of it | The whole vagina is turned outward |
+
+The stage describes anatomy. I decide whether to treat based on how much the prolapse bothers you.
 
 ## Treatment Options for Pelvic Organ Prolapse
 
@@ -149,3 +163,4 @@ To get started, schedule an appointment for an evaluation and a treatment plan b
 1. Barber MD, Maher C. Epidemiology and outcome assessment of pelvic organ prolapse. *Int Urogynecol J*. 2013;24(11):1783-1790. [doi:10.1007/s00192-013-2169-9](https://doi.org/10.1007/s00192-013-2169-9)
 2. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. Reaffirmed 2024. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
 3. Hagen S, Stark D. Conservative prevention and management of pelvic organ prolapse in women. *Cochrane Database Syst Rev*. 2011;(12):CD003882. [doi:10.1002/14651858.CD003882.pub4](https://doi.org/10.1002/14651858.CD003882.pub4)
+4. Haylen BT, Maher CF, Barber MD, et al. An IUGA/ICS joint report on the terminology for female pelvic organ prolapse (POP). *Neurourol Urodyn*. 2016;35(2):137-168. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)

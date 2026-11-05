@@ -72,7 +72,7 @@ faq:
 
 - question: "What should I do if I think I have urinary incontinence?"
   answer: "Talk with your doctor about it. Leakage is common, and effective treatments are available."
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-09-09
 ---
 
@@ -140,6 +140,16 @@ The evaluation is straightforward and starts with a conversation:
 ## Treatment Options
 
 Treatment depends on the type and severity of your incontinence. I want patients to know about all of their available options, including expectant management, medical and physical therapy, and surgery, so they can decide what's right for them. That's consistent with current AUA/SUFU guidelines, which moved away from mandatory stepwise treatment in favor of shared decision-making.
+
+Each type has its own trigger and cause, and I start treatment in a different place for each:
+
+| Type | When it leaks | What's going on | Where I usually start |
+|------|---------------|-----------------|-----------------------|
+| [Stress](/conditions/stress-urinary-incontinence) | Coughing, sneezing, laughing, lifting, exercise | The urethra doesn't stay closed when pressure in the abdomen rises | [Pelvic floor physical therapy](/treatments/urinary-incontinence/pelvic-floor-physical-therapy) |
+| [Urge](/conditions/urge-urinary-incontinence) | Right after a sudden urge you can't hold off | The bladder muscle squeezes before you're ready (overactive bladder) | [Bladder training](/conditions/overactive-bladder/what-is-bladder-training), cutting back on caffeine, and pelvic floor physical therapy |
+| [Mixed](/conditions/mixed-urinary-incontinence) | Both with activity and with urges | Both of the above | Treating whichever type bothers you more, usually the urge side |
+| Overflow | Frequent dribbling, a sense of not emptying | The bladder doesn't empty completely | Finding out why the bladder isn't emptying |
+| Functional | On the way to the bathroom | Mobility or memory problems slow the trip; the bladder may work fine | Making the bathroom easier to reach and going on a schedule |
 
 ### Conservative Treatments
 

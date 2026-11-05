@@ -3,9 +3,9 @@ layout: page
 title: Prolapse Treatments
 parent: Treatments
 nav_order: 1
-description: "Overview of Prolapse Treatments"
+description: "Prolapse treatment options from watchful waiting and pelvic floor therapy to pessaries and surgery, with a side-by-side table of who each one suits."
 permalink: /treatments/prolapse
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-05
 ---
 
 # Prolapse Treatments
@@ -22,6 +22,18 @@ Treatment for prolapse is not one-size-fits-all. The best approach depends on se
 - Your personal preferences and goals
 
 Your urogynecologist will work with you to create a personalized treatment plan that addresses your unique needs.
+
+I group prolapse treatment into four tiers, from watching it over time up to surgery:
+
+| Tier | Option | What it involves | Who it tends to suit |
+|------|--------|------------------|----------------------|
+| No treatment | [Watch and wait](/treatments/prolapse/watch-and-wait) | Periodic checkups, no treatment | Prolapse that isn't bothering you |
+| Conservative | [Pelvic floor physical therapy](/treatments/prolapse/pelvic-floor-physical-therapy) | Supervised pelvic floor strengthening, sometimes with biofeedback | Mild to moderate prolapse; anyone who wants to try nonsurgical care first |
+| Conservative | Lifestyle changes | Weight management, careful lifting, treating chronic cough or constipation | Anyone with prolapse, alone or with other treatment |
+| Office-based | [Pessary](/treatments/prolapse/pessary) | A removable vaginal support device, fitted in the office | Women who want to avoid or delay surgery |
+| Surgery (reconstructive) | [Vaginal prolapse repair](/treatments/prolapse/vaginal-prolapse-repair) | Repair through the vagina using [your own tissue](/treatments/prolapse/native-tissue-repair) | Women who want the prolapse fixed and prefer no abdominal incisions |
+| Surgery (reconstructive) | [Robotic sacrocolpopexy](/treatments/prolapse/robotic-sacrocolpopexy) | Small abdominal incisions; lightweight mesh attaches the top of the vagina to the sacrum | Women who want the most durable apical support |
+| Surgery (obliterative) | [Colpocleisis](/treatments/prolapse/vaginal-prolapse-repair#colpocleisis-closing-the-canal) | Narrows or closes the vaginal canal | Women who don't plan to have vaginal intercourse again |
 
 ## Conservative Treatments
 

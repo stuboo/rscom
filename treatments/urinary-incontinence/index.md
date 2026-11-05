@@ -3,9 +3,9 @@ layout: page
 title: Urinary Incontinence Treatments
 parent: Treatments
 nav_order: 1
-description: "Overview of Urinary Incontinence Treatments"
+description: "Urinary incontinence treatments from bladder training and PT to medications, Botox, bulking, nerve stimulation, and slings, with a table by tier."
 permalink: /treatments/urinary-incontinence
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-05
 ---
 
 # Urinary Incontinence Treatments
@@ -20,6 +20,24 @@ Treatment for urinary incontinence is highly personalized, taking into account t
 2. Medications
 3. Minimally Invasive Procedures
 4. Surgical Interventions
+
+Most of these treatments work best for one type of leakage, so I've listed them by tier with the type each one treats and where it's done:
+
+| Tier | Treatment | Mainly treats | Where it's done |
+|------|-----------|---------------|-----------------|
+| Conservative | [Pelvic floor physical therapy](/treatments/urinary-incontinence/pelvic-floor-physical-therapy) | Stress, urge, and mixed leakage | With a pelvic floor physical therapist, plus exercises at home |
+| Conservative | [Bladder training](/conditions/overactive-bladder/what-is-bladder-training) | Urge leakage and frequency | At home |
+| Conservative | [Lifestyle changes](/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications) | Stress and urge leakage | At home |
+| Device | Pessary | Stress leakage | Fitted in the office, then worn at home |
+| Medication | [Antimuscarinics and beta-3 agonists](/treatments/urinary-incontinence/medications) | Urge leakage and overactive bladder | Daily pills |
+| Medication | [Vaginal estrogen](/treatments/vaginal-estrogen) | Leakage and urgency linked to menopause | Applied at home |
+| Office procedure | [Botox injections](/treatments/urinary-incontinence/botox-injections) | Urge leakage | In the office, repeated about every 6 months |
+| Office procedure | [Urethral bulking](/treatments/urinary-incontinence/urethral-bulking) | Stress leakage | In the office under local anesthesia |
+| Implant | [Sacral neuromodulation](/treatments/urinary-incontinence/neuromodulation) | Urge leakage and trouble emptying | Outpatient procedure, after a test period |
+| Implant | [Tibial nerve implant (Altaviva)](/treatments/urinary-incontinence/altaviva) | Urge leakage | Small procedure at the ankle under local anesthetic |
+| Surgery | [Midurethral sling](/treatments/urinary-incontinence/sling-procedures) | Stress leakage | Operating room |
+| Surgery | [Non-mesh sling](/treatments/urinary-incontinence/non-mesh-sling-procedures) | Stress leakage | Operating room |
+| Surgery | Bladder neck suspension (colposuspension) | Stress leakage | Operating room |
 
 ### Conservative Treatments
 
