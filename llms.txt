@@ -1,36 +1,58 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+search_exclude: true
+nav_exclude: true
+---
+{%- comment -%}
+  Generated at build time so coverage tracks the site: every published page
+  under each section is listed, and a deleted or merged page drops out on its
+  own instead of leaving a dead link. Redirect stubs from jekyll-redirect-from
+  carry no title and are skipped. llms-full.txt (the full text of the same
+  pages) comes from _plugins/llms_full.rb.
+{%- endcomment -%}
+{%- assign live = site.html_pages | where_exp: "p", "p.title" | where_exp: "p", "p.sitemap != false" | sort: "url" -%}
 # Ryan Stewart, DO — Urogynecologist in Green Bay, WI
 
 > Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist practicing urogynecology and reconstructive pelvic surgery in Green Bay, Wisconsin. This site offers patient education on female pelvic floor disorders — pelvic organ prolapse, urinary and fecal incontinence, and overactive bladder — along with the treatment options for each.
 
-The information here is educational and is not a substitute for a consultation. Each condition and treatment page is written for patients and reviewed by Dr. Stewart. Dr. Stewart sees patients across Northeast Wisconsin and Michigan's Upper Peninsula; no referral is required, and in-person and virtual visits are available.
+The information here is educational and is not a substitute for a consultation. Each condition and treatment page is written for patients by Dr. Stewart, and evidence-reviewed pages cite their sources in a References section. Dr. Stewart sees patients across Northeast Wisconsin and Michigan's Upper Peninsula; no referral is required, and in-person and virtual visits are available.
 
 ## Main pages
 
-- [Home](https://ryanstewart.com/): Overview of Dr. Stewart's practice, expertise, and approach to care.
-- [About](https://ryanstewart.com/about): Background, training, and philosophy of care.
-- [Research](https://ryanstewart.com/research): Peer-reviewed publications in urogynecology and a book chapter on minimally invasive surgery.
-- [Blog](https://ryanstewart.com/blog): Articles on pelvic floor health and perspectives on urogynecology.
-- [Patient Testimonials](https://ryanstewart.com/testimonials): Reviews from patients across Google, Healthgrades, and US News.
-- [Areas We Serve](https://ryanstewart.com/locations): Cities and regions served across Northeast Wisconsin and the Upper Peninsula.
+- [Home]({{ site.url }}/): Overview of Dr. Stewart's practice, expertise, and approach to care.
+- [About]({{ site.url }}/about): Background, training, and philosophy of care.
+- [Research]({{ site.url }}/research): Peer-reviewed publications in urogynecology and a book chapter on minimally invasive surgery.
+- [Patient Testimonials]({{ site.url }}/testimonials): Reviews from patients across Google, Healthgrades, and US News.
+- [Contact]({{ site.url }}/contact): Phone number and online booking through Aurora BayCare.
 
 ## Conditions
-
-- [Conditions overview](https://ryanstewart.com/conditions): Index of the pelvic floor conditions treated.
-- [Pelvic organ prolapse](https://ryanstewart.com/conditions/pelvic-organ-prolapse): Cystocele, rectocele, enterocele, uterine and vaginal prolapse — causes, symptoms, and progression.
-- [Incontinence](https://ryanstewart.com/conditions/incontinence): Urinary and fecal incontinence — types, causes, and when to see a specialist.
-- [Urinary incontinence](https://ryanstewart.com/conditions/urinary-incontinence): Stress, urge, and mixed urinary incontinence explained.
-- [Fecal incontinence](https://ryanstewart.com/conditions/fecal-incontinence): Causes, diagnosis, and treatment of bowel control problems.
-- [Overactive bladder](https://ryanstewart.com/conditions/overactive-bladder): Urgency, frequency, and nighttime urination — triggers and treatment.
+{% for p in live %}{% if p.url contains "/conditions" %}
+- [{{ p.title }}]({{ p.url | absolute_url }}){% if p.description %}: {{ p.description | strip_newlines }}{% endif %}{% endif %}{% endfor %}
 
 ## Treatments
+{% for p in live %}{% if p.url contains "/treatments" %}{% unless p.url contains "/treatments/comparisons" %}
+- [{{ p.title }}]({{ p.url | absolute_url }}){% if p.description %}: {{ p.description | strip_newlines }}{% endif %}{% endunless %}{% endif %}{% endfor %}
 
-- [Treatments overview](https://ryanstewart.com/treatments): Index of treatment options, from conservative care to surgery.
-- [Prolapse treatments](https://ryanstewart.com/treatments/prolapse): Watch-and-wait, pelvic floor physical therapy, pessary, native-tissue repair, mesh-augmented repair, vaginal repair, and robotic sacrocolpopexy.
-- [Urinary incontinence treatments](https://ryanstewart.com/treatments/urinary-incontinence): Behavioral changes, physical therapy, medications, urethral bulking, sling procedures, Botox, and neuromodulation.
-- [Fecal incontinence treatments](https://ryanstewart.com/treatments/fecal-incontinence): Diet, bowel retraining, physical therapy, sacral nerve stimulation, and surgery.
-- [Treatment comparisons](https://ryanstewart.com/treatments/comparisons): Side-by-side comparisons such as pessary vs. surgery, sling vs. bulking agents, and Botox vs. neuromodulation.
+## Treatment comparisons
+{% for p in live %}{% if p.url contains "/treatments/comparisons" %}
+- [{{ p.title }}]({{ p.url | absolute_url }}){% if p.description %}: {{ p.description | strip_newlines }}{% endif %}{% endif %}{% endfor %}
+
+## Life stages
+{% for p in live %}{% if p.url contains "/life-stages" %}
+- [{{ p.title }}]({{ p.url | absolute_url }}){% if p.description %}: {{ p.description | strip_newlines }}{% endif %}{% endif %}{% endfor %}
+
+## Areas served
+{% for p in live %}{% if p.url contains "/locations" %}
+- [{{ p.title }}]({{ p.url | absolute_url }}){% if p.description %}: {{ p.description | strip_newlines }}{% endif %}{% endif %}{% endfor %}
 
 ## Optional
 
-- [Sitemap](https://ryanstewart.com/sitemap.xml): Complete list of all pages, including individual condition and treatment articles, location pages, and FAQs.
-- [Privacy Policy](https://ryanstewart.com/privacy-policy): Data collection, cookies, and HIPAA information.
+- [Full text of all patient pages]({{ site.url }}/llms-full.txt): Every condition, treatment, comparison, and life-stage page as plain markdown in one file.
+- [Blog]({{ site.url }}/blog): Articles on pelvic floor health and perspectives on urogynecology.
+{%- for post in site.posts %}
+- [{{ post.title }}]({{ post.url | absolute_url }}){% if post.description %}: {{ post.description | strip_newlines }}{% endif %}
+{%- endfor %}
+- [Sitemap]({{ site.url }}/sitemap.xml): Complete list of all pages.
+- [Privacy Policy]({{ site.url }}/privacy-policy): Data collection, cookies, and HIPAA information.
