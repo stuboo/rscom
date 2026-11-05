@@ -1,18 +1,19 @@
 ---
-last_modified_at: 2026-05-29
+last_modified_at: 2026-11-05
 layout: page
 title: Life Stages & Pelvic Health
 nav_order: 7
-description: "Pelvic floor conditions affect women differently depending on life stage. Dr. Ryan Stewart provides care tailored to your unique situation."
+description: "Pelvic floor problems show up differently after childbirth, during menopause, with heavy lifting, or after surgery. Find the page that fits your situation."
+last_evidence_review: 2026-11-05
 permalink: /life-stages
 has_children: true
 ---
 
-# Life Stages & Pelvic Health
+# Life stages and pelvic health
 
-Pelvic floor conditions don't affect every woman the same way. Your age, life stage, health history, and daily activities all shape how symptoms present and which treatments make the most sense. Dr. Stewart understands these differences and tailors his approach accordingly.
+The same pelvic floor problem can look different depending on where you are in life. Leakage that starts after a first delivery, leakage that shows up when you lift at the gym, and leakage that creeps in after menopause often have different causes, and they don't always need the same treatment. Your age, pregnancy history, past surgery, and the activities you want to get back to all shape the plan we choose together.
 
-## Find Your Situation
+## Find your situation
 
 <!-- Auto-generated from child pages. Drafts (published: false, pending medical review) are excluded automatically and appear here once approved. -->
 <ul>
@@ -22,4 +23,4 @@ Pelvic floor conditions don't affect every woman the same way. Your age, life st
 {%- endfor %}
 </ul>
 
-Whatever your situation, you don't have to figure this out alone. Dr. Stewart is here to listen, explain, and help you find a path forward.
+If you don't see your situation here, start with the [conditions](/conditions) and [treatments](/treatments) pages, or [contact my office](/contact) to set up a visit.
