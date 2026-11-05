@@ -8,7 +8,7 @@ permalink: /life-stages/incontinence-after-weight-gain
 condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-09-24
+last_modified_at: 2026-11-05
 last_evidence_review: 2026-05-16
 faq:
   - question: "How much weight loss helps incontinence?"
@@ -17,6 +17,8 @@ faq:
     answer: "No. Weight loss can help, but it should not delay your evaluation or treatment. We can address weight and incontinence at the same time."
   - question: "Does weight loss help all types of incontinence?"
     answer: "It helps stress incontinence the most. Research shows a 58% drop in stress leakage episodes with about 8% body weight loss. Urge incontinence may also improve, though the evidence there is less consistent."
+redirect_from:
+  - /conditions/incontinence/does-weight-affect-incontinence
 ---
 
 # Urinary incontinence and weight
@@ -25,13 +27,13 @@ If you've noticed bladder leakage that started or got worse with weight gain, th
 
 ## Why this happens
 
-Extra abdominal weight presses down on your bladder and pelvic floor all day long. Over time, this steady pressure strains the support structures and can worsen all types of incontinence, including stress, urge, and mixed.
+Extra abdominal weight presses down on your bladder and pelvic floor all day long. Over time, this steady pressure strains the support structures and can worsen all types of incontinence, including stress, urge, and mixed. It makes it harder for the urethra to stay closed when pressure spikes with a cough or a lift, and it raises baseline pressure on the bladder, which can add to urgency and frequency.
 
 There is a dose-response relationship between BMI and stress incontinence. Women with a BMI of 30-34 are about 3 times more likely to have stress leakage than women at a normal BMI. At a BMI over 40, the risk is about 5 times higher.
 
 ## What the research shows
 
-In a large trial (the PRIDE study), women who lost about 8% of their body weight saw a 47% drop in weekly leakage episodes over 6 months. Stress incontinence episodes fell by 58%. Women in the comparison group, who lost only about 1.6% of their weight, saw a 28% drop.
+In a large trial (the PRIDE study), women who lost about 8% of their body weight saw a 47% drop in weekly leakage episodes over 6 months. Stress incontinence episodes fell by 58%, and about 1 in 4 women had their stress leakage go away completely. Women in the comparison group, who lost only about 1.6% of their weight, saw a 28% drop.
 
 A 5-10% reduction in body weight is the threshold where benefits become clear. For a 200-pound woman, that's roughly 10-20 pounds.
 

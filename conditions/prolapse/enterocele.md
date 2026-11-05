@@ -9,7 +9,7 @@ description: "An enterocele is small bowel bulging into the top of the vagina. W
 permalink: /conditions/enterocele
 published: true
 last_evidence_review: 2026-09-06
-last_modified_at: 2026-09-06
+last_modified_at: 2026-11-05
 faq:
   - question: "What is an enterocele?"
     answer: "An enterocele is a bulge at the top of the vagina caused by a loop of small bowel pushing down into the cul-de-sac, the space between the vagina and the rectum. When the sigmoid colon drops there instead it's called a sigmoidocele; when the sac holds only fat or fluid it's a peritoneocele."
@@ -23,8 +23,13 @@ faq:
     answer: "Yes. Only a prolapse that bothers you needs treatment at all. A pessary, a support device worn in the vagina, is offered to everyone with symptomatic prolapse as a first option, and among women who keep using one about 78% report their symptoms are much or very much better at a year. Pelvic floor physical therapy can help with the pressure and bowel symptoms, though it doesn't lift the anatomy back into place."
   - question: "What does surgery for an enterocele involve?"
     answer: "Because an enterocele is a support problem at the top of the vagina, surgery restores that support, usually by suspending the vaginal apex (with your own tissue or with mesh through the abdomen) or, for women who don't want future vaginal penetration, by closing the vaginal canal. The key is fixing every compartment that's down at once."
+  - question: "Is an enterocele the same as a rectocele?"
+    answer: "No. A rectocele is the rectum pushing into the back wall of the vagina. An enterocele is small bowel dropping into the space between the vagina and rectum. They are different, but they often show up together."
+  - question: "Is an enterocele dangerous?"
+    answer: "Rarely. Most enteroceles cause pressure or discomfort and nothing more. Very rarely a loop of bowel can become trapped (incarcerated), which needs urgent care."
 redirect_from:
   - /enterocele-repair/
+  - /conditions/prolapse/what-is-enterocele
 ---
 
 # Enterocele
@@ -33,7 +38,9 @@ An enterocele is a bulge at the top of the vagina caused by a loop of small bowe
 
 Two related bulges get grouped with it: a sigmoidocele, where the sigmoid colon drops into the same space, and a peritoneocele, where the sac holds only fat or fluid and no bowel.
 
-An enterocele is what's known as an apical defect, a problem with support at the top of the vagina, and it usually travels with other kinds of prolapse rather than showing up alone.
+An enterocele is what's known as an apical defect, a problem with support at the top of the vagina, and it usually travels with other kinds of prolapse rather than showing up alone. It's most common after a hysterectomy, when the support at the top of the vagina has been disrupted.
+
+It isn't the same thing as a rectocele. A rectocele is the rectum pushing into the back wall of the vagina. An enterocele is small bowel dropping into the space above it. The two often show up together, which is part of why they're easy to confuse.
 
 ## When small bowel behind the vagina is normal
 
@@ -48,6 +55,10 @@ That's why I'm cautious about the labels on an imaging report. A cul-de-sac hern
 The main symptom is a bulge or a feeling of pressure at the top of the vagina. Many women notice it more with standing, lifting, or straining, and less when lying down.
 
 Because the bulge sits near the rectum, an enterocele can come with bowel symptoms: a sense of incomplete emptying, straining, or needing to press on or near the vagina to finish a bowel movement, which is called splinting. Splinting is the one bowel symptom that reliably tracks with posterior prolapse. The others correlate only weakly, and the size of a prolapse on exam doesn't predict how much trouble it causes.
+
+Some women also feel a dragging sensation or a low backache that builds through the day. Others have no symptoms at all, and the enterocele turns up during an exam for another kind of prolapse.
+
+An enterocele is rarely dangerous. Very rarely a loop of bowel can get trapped in it (incarcerated), and that needs urgent care.
 
 ## How I diagnose it
 
