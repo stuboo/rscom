@@ -7,8 +7,8 @@ parent: Fecal Incontinence Treatments
 nav_order: 2
 description: "Firmer stool is easier to control. Learn which foods and fiber help with bowel leakage, which make it worse, and how a food diary can find your triggers."
 permalink: /treatments/fecal-incontinence/dietary-adjustments
-last_modified_at: 2026-09-24
-last_evidence_review: 2026-09-23
+last_modified_at: 2026-11-06
+last_evidence_review: 2026-11-06
 references:
   - author: "Brown HW, Dyer KY, Rogers RG"
     title: "Management of Fecal Incontinence"
@@ -32,105 +32,86 @@ image:
   alt: "Bowl of oatmeal topped with sliced banana, chia seeds, and walnuts"
 ---
 
-# Dietary Adjustments for Fecal Incontinence
+# Dietary adjustments for fecal incontinence
 
-Making changes to your diet can be a powerful and non-invasive way to manage fecal incontinence. The right dietary adjustments can help regulate bowel movements, improve stool consistency, and reduce the frequency of accidents. Diet and stool-consistency changes are part of first-line, conservative care, and most women with mild symptoms improve with these measures.
+Stool that is soft but formed is the easiest kind to hold. Loose or watery stool is hard to keep in, and very hard stool can back up and leak around the edges. Most of what diet does for bowel leakage comes down to getting your stool into that middle range. For women with mild symptoms, diet, fiber, and stool-firming changes are often enough on their own.
 
 <img src="/assets/images/oatmeal-banana-bowel-incontinence-diet.jpg" width="1024" height="683" style="max-width:100%;height:auto;border-radius:8px" alt="Bowl of oatmeal topped with sliced banana, chia seeds, and walnuts. Oats and bananas are both sources of soluble fiber, which helps firm up stool.">
 
-## Why Diet Matters
+## Start with your stool
 
-What you eat and drink directly impacts your digestive system and bowel function. Certain foods can either exacerbate or alleviate symptoms of fecal incontinence. Because stool that is well-formed is easier to control than stool that is loose or watery, much of dietary management aims at getting your stool to a soft but formed consistency.
+The Bristol stool scale sorts stool into seven types, from hard lumps (type 1) to watery liquid (type 7). Types 3 and 4, a sausage shape that is smooth or slightly cracked, are the easiest to control. Which way you need to move decides what you change:
+
+- Loose stool (types 5 to 7): the goal is to firm it up. Soluble fiber, especially psyllium, is the main tool, and loperamide (Imodium) can help if fiber isn't enough.
+- Hard stool (types 1 and 2): the goal is to soften it. More fiber, more fluid, and sometimes a gentle laxative keep stool moving so it doesn't build up and seep out.
+
+<figure style="text-align:center;margin:1.5rem 0">
+<img src="/assets/images/bristol-stool-scale.png" width="262" height="529" style="max-width:100%;height:auto" alt="The Bristol stool scale: seven drawings of stool, from type 1, separate hard lumps, through type 4, a smooth soft sausage, to type 7, watery liquid with no solid pieces.">
+<figcaption style="font-size:0.85em">The Bristol stool scale. Image: <a href="https://commons.wikimedia.org/wiki/File:Bristol_stool_scale.png">Jaipasdepseudo</a>, based on a chart by Cabot Health, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption>
+</figure>
 
 {: .important-title }
-> Key Point:
+> Key point
 >
-> Everyone's body responds differently to foods. Keeping a food diary can help you identify which foods affect your symptoms.
+> Foods affect people differently. A food and bowel diary is the most reliable way to find your own triggers, and it tells us more than memory does.
 
-## Foods That May Help
+## Fiber
 
-1. **Fiber**: Gradually increase your fiber intake to add bulk and help firm up stool. Soluble fiber, which absorbs water and forms a gel, has the strongest evidence for firming loose stool and reducing the frequency of leakage.
-   - Psyllium and oats (soluble fiber)
-   - Whole grains
-   - Fruits with skins
-   - Vegetables
-   - Legumes
+Add fiber slowly, over a few weeks. Going from little fiber to a lot at once tends to cause gas and bloating.
 
-2. **Probiotic foods**: These can improve gut health and regularity.
-   - Yogurt
-   - Kefir
-   - Sauerkraut
+Soluble fiber absorbs water and forms a gel, which gives loose stool more body. In a randomized trial, a psyllium supplement reduced leakage episodes compared with placebo. Good sources include:
 
-3. **Foods with pectin**: Pectin is a soluble fiber that can help firm up loose stools.
-   - Applesauce
-   - Bananas
+- Psyllium (Metamucil and store brands)
+- Oats and oat bran
+- Bananas
+- Applesauce and peeled apples, which are rich in pectin
 
-## Foods to Avoid or Limit
+Insoluble fiber, the roughage in bran, fruit skins, raw vegetables, and whole grains, adds bulk and speeds stool along. That helps with hard stool. If your stool is already loose, large amounts of roughage can make it looser or bring on gas, so you may do better keeping these smaller and leaning on soluble fiber instead.
 
-1. **Caffeine**: Can stimulate bowel movements and act as a laxative.
-   - Coffee
-   - Tea
-   - Chocolate
+## Foods and drinks that can make leakage worse
 
-2. **Alcohol**: May irritate the digestive system and lead to loose stools.
+None of these is a problem for everyone. Use your diary to see which ones matter for you.
 
-3. **Dairy products**: If you're lactose intolerant, these can cause diarrhea.
-
-4. **Spicy foods**: Can irritate the digestive system.
-
-5. **Fatty or greasy foods**: May cause gas and diarrhea.
-
-6. **Artificial sweeteners**: Can have a laxative effect.
-
-7. **Carbonated drinks**: May increase gas and urgency.
+- Caffeine (coffee, tea, energy drinks, chocolate) speeds up the bowel
+- Alcohol can loosen stool
+- Dairy causes diarrhea if you are lactose intolerant
+- Spicy foods
+- Fatty, greasy, or fried foods
+- Artificial sweeteners, especially sugar alcohols like sorbitol, have a laxative effect
+- Carbonated drinks add gas, and gas leakage is part of the problem for many women
 
 {: .important-title }
-
 > Tip
-> 
-> Don't eliminate all these foods at once. Remove them one at a time to see which ones affect your symptoms.
-
-## Hydration is Key
-
-Proper hydration is crucial for maintaining healthy bowel function:
-
-- Aim for 6-8 glasses (48-64oz) of water per day
-- Limit caffeine and alcohol intake
-- Consider drinking water with meals to aid digestion
-
-## How to Implement Dietary Changes
-
-1. **Start a food diary**: Track what you eat and any symptoms you experience.
-
-2. **Make gradual changes**: Sudden dietary shifts can upset your digestive system.
-
-3. **Increase fiber slowly**: Too much fiber too quickly can cause gas and bloating.
-
-4. **Eat smaller, more frequent meals**: This can help regulate digestion.
-
-5. **Stick to a routine**: Try to eat meals at the same times each day.
-
-## The Role of Supplements
-
-In some cases, your healthcare provider may recommend supplements:
-
-- Fiber supplements, especially psyllium (a soluble fiber shown in trials to reduce the frequency of leakage episodes)
-- Probiotics
-- Vitamins or minerals
-
-{: .important-title }
-
-> Important
 >
-> Always consult with your healthcare provider before starting any new supplements.
+> Don't cut all of these at once. Remove one at a time for a week or two so you can tell which ones make a difference.
 
-## When to Seek Additional Help
+## Fluids
 
-If dietary changes alone don't sufficiently manage your symptoms, don't be discouraged. Fecal incontinence often requires a multi-faceted approach to treatment. Your healthcare provider can help you explore additional options.
+Drink fluids steadily through the day, and drink more as you add fiber. Fiber without enough fluid can leave stool hard. If constipation is your problem, more fluid matters even more. If caffeine or alcohol is one of your triggers, swap in water or decaf rather than cutting back on fluid overall.
 
-## Take the Next Step
+## Making the changes stick
 
-Dietary adjustments can be a powerful tool in managing fecal incontinence, but finding the right balance often requires professional guidance. If you're struggling with fecal incontinence and want to explore how dietary changes or other treatments could help, don't hesitate to reach out to Dr. Stewart for personalized advice and care.
+1. Keep a food and bowel diary for two to three weeks. Write down what you eat and drink, when you have a bowel movement, what the stool looks like, and any leaks.
+2. Change one thing at a time so you can tell what helped.
+3. Increase fiber gradually.
+4. Eat at regular times. If leaks tend to come after meals, smaller and more frequent meals may help.
+5. Bring the diary to your appointment.
+
+## Supplements and medicine
+
+- Psyllium is the fiber supplement with the best evidence for bowel leakage. Start low and build up.
+- Loperamide (Imodium) firms stool and reduces urgency. In a trial comparing the two, both psyllium and loperamide reduced leakage episodes, and constipation was more common with loperamide. It is sold over the counter, but ask before taking it every day so we can set the dose.
+- Probiotics are popular, but there isn't good evidence that they help bowel leakage.
+
+## When to get checked
+
+See a doctor before relying on diet changes if you have:
+
+- Bright red blood in your stool or black, tarry stools
+- Watery diarrhea that won't go away
+- No colon cancer screening and you are 45 or older
+
+You also don't have to finish a long trial of diet changes before looking at other treatments. Diet works well alongside [pelvic floor physical therapy](/treatments/fecal-incontinence/physical-therapy), [bowel retraining](/treatments/fecal-incontinence/bowel-retraining), and the other options on the [fecal incontinence treatments](/treatments/fecal-incontinence) page. If leakage is affecting your life, we can talk through those at the same visit.
 
 ## References
 
