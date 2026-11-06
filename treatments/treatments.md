@@ -2,34 +2,32 @@
 layout: page
 title: Treatments
 description: "Explore treatment options for pelvic floor disorders with Dr. Ryan Stewart in Green Bay, from physical therapy and pessaries to surgery."
+last_evidence_review: 2026-11-05
 nav_order: 3
 has_children: true
 permalink: treatments
 last_modified_at: 2026-03-15
 ---
 
-# Treatments for Pelvic Floor Disorders
+# Treatments for pelvic floor disorders
 
-Welcome to our comprehensive guide on treatments for various pelvic floor disorders. Dr. Stewart understands that each patient's journey is unique and is committed to providing you with clear, accessible information about the range of treatment options available for conditions such as pelvic organ prolapse, urinary incontinence, and fecal incontinence.
+This section covers the treatments I use for pelvic organ prolapse, urinary incontinence, and fecal incontinence. Each page explains how a treatment works, who it tends to help, what recovery looks like, and what the tradeoffs are.
 
-## Our Approach to Treatment
+## How I approach treatment
 
-We believe in a patient-centered approach that combines medical expertise with compassionate care. Our goal is to empower you with knowledge, allowing you to make informed decisions about your health. Whether you're exploring conservative management techniques or considering surgical interventions, we're here to guide you every step of the way.
+Most of these conditions have several reasonable options, from physical therapy and pessaries to medications, office procedures, and surgery. You don't have to try them in a fixed order. We choose together based on how much your symptoms bother you, what you want to get back to doing, your overall health, and how you feel about the risks and recovery of each option.
 
-## What You'll Find in This Section
+The type of problem matters too. Stress incontinence (leaking with coughing, laughing, or exercise) and urge incontinence (a sudden, strong need to go) respond to different treatments, so we sort out which one you have before picking a plan.
 
-- **Detailed Information**: Each treatment page provides in-depth explanations of available options, from lifestyle modifications to advanced surgical procedures.
-- **Balanced Perspective**: We present both non-surgical and surgical treatments, emphasizing that the best choice depends on your individual needs and circumstances.
-- **Expert Insights**: Benefit from Dr. Stewart's extensive experience in urogynecology and pelvic reconstructive surgery.
-- **Support and Guidance**: Find reassurance and practical advice to help you navigate your treatment journey.
+## Treatment sections
 
-## Your Path to Better Pelvic Health
-
-Remember, the path to improved pelvic health is a collaborative effort. We encourage you to explore the treatment options detailed in the following pages and to discuss any questions or concerns with Dr. Stewart during your consultation.
+- [Prolapse treatments](/treatments/prolapse): watchful waiting, pelvic floor physical therapy, pessaries, and surgical repair
+- [Urinary incontinence treatments](/treatments/urinary-incontinence): behavior changes, physical therapy, medications, Botox, nerve stimulation, urethral bulking, and slings
+- [Fecal incontinence treatments](/treatments/fecal-incontinence): diet changes, bowel retraining, physical therapy, the Eclipse device, and sacral nerve stimulation
+- [Vaginal estrogen](/treatments/vaginal-estrogen): how it's used, how safe it is, and how it works alongside other treatments
+- [Treatment comparisons](/treatments/comparisons): side-by-side looks at common choices, such as pessary vs surgery or sling vs bulking
 
 {: .important-title } 
 > Important Note
 > 
-> While this information is designed to be comprehensive, it's not a substitute for personalized medical advice. Always consult with Dr. Stewart or your healthcare provider before making decisions about your treatment plan.
-
-Ready to take the next step? Explore your treatment options below.
+> These pages are general information, not personal medical advice. Talk with me or your own clinician before deciding on a treatment.
