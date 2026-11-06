@@ -4,24 +4,24 @@ title: Urinary Incontinence Treatments
 parent: Treatments
 nav_order: 1
 description: "Urinary incontinence treatments from bladder training and PT to medications, Botox, bulking, nerve stimulation, and slings, with a table by tier."
+last_evidence_review: 2026-11-05
 permalink: /treatments/urinary-incontinence
 last_modified_at: 2026-11-05
 ---
 
-# Urinary Incontinence Treatments
+# Urinary incontinence treatments
 
-Urinary incontinence can significantly impact a person's quality of life, but there are numerous effective treatment options available. Dr. Stewart specializes in helping women manage and overcome urinary incontinence through a range of conservative and surgical approaches.
+I treat women with most types of bladder leakage, using everything from physical therapy and medication to office procedures, implants, and surgery. Which option fits you depends on the type of leakage you have, how much it bothers you, your health, and what you're willing to do to fix it.
 
-## Understanding Your Options
+## Start with the type of leakage
 
-Treatment for urinary incontinence is highly personalized, taking into account the type and severity of incontinence, as well as individual patient preferences and overall health. Options typically fall into four main categories:
+Most of these treatments work for one type of leakage and do little for the other, so the first step is figuring out which type you have.
 
-1. Conservative Treatments
-2. Medications
-3. Minimally Invasive Procedures
-4. Surgical Interventions
+- Stress incontinence is leakage when you cough, sneeze, laugh, lift, or exercise. The urethra doesn't stay closed when pressure in your belly goes up. Treatments that support or bulk up the urethra (pessary, bulking, slings) are aimed at stress leakage.
+- Urge incontinence is leakage that comes with a sudden, strong need to go, often before you reach the bathroom. The bladder muscle squeezes when it shouldn't. Bladder training, medications, Botox, and nerve stimulation are aimed at urge leakage.
+- Mixed incontinence is both. It's common, and it takes more planning. I usually treat whichever type bothers you most first. A sling treats the stress part. It may or may not help the urge part, and it can sometimes make urgency worse for a while, so we talk that through before any surgery. In a large trial of women with mixed leakage, adding pelvic floor therapy and bladder training around the time of sling surgery led to fewer urge leaks and less need for more treatment afterward.
 
-Most of these treatments work best for one type of leakage, so I've listed them by tier with the type each one treats and where it's done:
+Here are the options by tier, with the type each one treats and where it's done:
 
 | Tier | Treatment | Mainly treats | Where it's done |
 |------|-----------|---------------|-----------------|
@@ -31,7 +31,7 @@ Most of these treatments work best for one type of leakage, so I've listed them 
 | Device | Pessary | Stress leakage | Fitted in the office, then worn at home |
 | Medication | [Antimuscarinics and beta-3 agonists](/treatments/urinary-incontinence/medications) | Urge leakage and overactive bladder | Daily pills |
 | Medication | [Vaginal estrogen](/treatments/vaginal-estrogen) | Leakage and urgency linked to menopause | Applied at home |
-| Office procedure | [Botox injections](/treatments/urinary-incontinence/botox-injections) | Urge leakage | In the office, repeated about every 6 months |
+| Office procedure | [Botox injections](/treatments/urinary-incontinence/botox-injections) | Urge leakage | In the office, repeated about every 6 to 9 months |
 | Office procedure | [Urethral bulking](/treatments/urinary-incontinence/urethral-bulking) | Stress leakage | In the office under local anesthesia |
 | Implant | [Sacral neuromodulation](/treatments/urinary-incontinence/neuromodulation) | Urge leakage and trouble emptying | Outpatient procedure, after a test period |
 | Implant | [Tibial nerve implant (Altaviva)](/treatments/urinary-incontinence/altaviva) | Urge leakage | Small procedure at the ankle under local anesthetic |
@@ -39,86 +39,88 @@ Most of these treatments work best for one type of leakage, so I've listed them 
 | Surgery | [Non-mesh sling](/treatments/urinary-incontinence/non-mesh-sling-procedures) | Stress leakage | Operating room |
 | Surgery | Bladder neck suspension (colposuspension) | Stress leakage | Operating room |
 
-### Conservative Treatments
+The tiers describe how involved each treatment is, not an order you have to follow. You don't have to fail physical therapy and two medications before you can choose Botox, an implant, or a sling. Professional guidelines don't require that. Some insurance plans do, so we'll check your coverage before we commit to a plan.
 
-These non-surgical approaches are often the first line of defense:
+### Conservative treatments
 
-- **Pelvic Floor Exercises**: Also known as Kegel exercises, these can strengthen the muscles that support the bladder and urethra. Regular practice can significantly improve bladder control and reduce leakage. Dr. Stewart or a pelvic floor physical therapist can guide you on proper technique and establish an effective exercise regimen.
+- Pelvic floor physical therapy: A pelvic floor physical therapist works on strength, relaxation, coordination, and endurance of the pelvic floor, along with the hips, core, breathing, and posture. You'll also learn to brace before a cough or a lift. PT helps stress, urge, and mixed leakage, and it's an excellent first choice for many women.
 
-- **Bladder Training**: This involves techniques to increase the time between feeling the urge to urinate and passing urine. By gradually extending the intervals between bathroom visits, you can train your bladder to hold more urine and reduce frequency. This may include scheduled bathroom breaks and urge suppression techniques.
+- Bladder training: You gradually stretch the time between bathroom trips and learn urge-suppression techniques so the bladder can hold more. It's mainly for urge leakage and frequency.
 
-- **Lifestyle Modifications**: Simple changes can often lead to significant improvement in symptoms:
-  - Diet: Avoiding bladder irritants like caffeine, alcohol, and spicy foods.
-  - Fluid Management: Balancing adequate hydration with avoiding excessive fluid intake, especially before bedtime.
-  - Weight Management: Losing excess weight can reduce pressure on the pelvic floor and improve continence.
-  - Smoking Cessation: Quitting smoking can reduce coughing, which often exacerbates incontinence.
+- Lifestyle changes: A few habits make a real difference.
+  - Diet: Cutting back on bladder irritants like caffeine, alcohol, and spicy foods.
+  - Fluids: Drinking enough without overdoing it, and tapering fluids before bed.
+  - Weight: In one trial of overweight women, losing about 8% of body weight cut stress leaks by more than half over six months.
+  - Smoking: Quitting reduces the chronic cough that drives stress leakage.
 
-- **Biofeedback**: This technique uses sensors to help you become more aware of and learn to control your pelvic floor muscles. By visualizing muscle activity on a monitor, you can improve the effectiveness of your pelvic floor exercises and gain better control over bladder function.
+- Biofeedback: Sensors show your pelvic floor muscle activity on a screen, so you can see whether you're contracting and relaxing the right muscles. It's often part of pelvic floor PT.
 
-- **Pessaries**: These removable devices are inserted into the vagina to support the bladder neck and urethra. They can be particularly helpful for stress incontinence and pelvic organ prolapse. Dr. Stewart can fit you with the right type and size of pessary for your needs.
+- Pessaries: A continence pessary is a removable silicone device worn in the vagina. It supports the urethra and helps stress leakage, and it can also hold up prolapse if you have both. I fit pessaries in the office. In a large trial, a pessary and behavioral therapy both helped stress leakage, and behavioral therapy did somewhat better on some measures.
 
 ### Medications
 
-For certain types of urinary incontinence, especially urge incontinence (and overactive bladder), medications can be an effective treatment option:
+The pills below treat urge leakage and overactive bladder. They don't help stress leakage.
 
-- **Antimuscarinics**: These drugs help calm an overactive bladder by reducing involuntary contractions. Examples include oxybutynin, tolterodine, and solifenacin.
+- Antimuscarinics: These calm the bladder muscle and reduce sudden contractions. Examples include oxybutynin, tolterodine, and solifenacin. Long-term use of these drugs has been linked to a higher risk of dementia in older adults, so I weigh that carefully, especially if you're older or already take other medications with similar effects.
 
-- **Beta-3 Agonists**: Medications like mirabegron and vibegron work by relaxing the bladder muscle, increasing its capacity to hold urine.
+- Beta-3 agonists: Mirabegron and vibegron relax the bladder muscle so it holds more urine. They haven't been linked to the same memory concerns.
 
-- **Topical Estrogen**: For postmenopausal women, vaginal estrogen can help improve urethral and vaginal tissue health, potentially reducing incontinence symptoms.
+- Vaginal estrogen: After menopause, vaginal estrogen can improve the health of the urethral and vaginal tissue and may modestly reduce leakage and urgency. Estrogen taken as a pill doesn't help incontinence and may make it worse.
 
-Dr. Stewart will carefully consider your overall health, potential side effects, and other medications you may be taking before recommending any pharmaceutical treatments.
+I'll review your other medications and health conditions before recommending any of these. More detail is on the [medications page](/treatments/urinary-incontinence/medications).
 
-### Minimally Invasive Procedures
+### Office procedures and implants
 
-For patients who need more than conservative measures but aren't ready for major surgery, several minimally invasive options are available:
+- Botox injections: I inject Botox (onabotulinumtoxinA) into the bladder muscle in the office to relax an overactive bladder. It reduces urgency, frequency, and urge leaks. The effect usually lasts 6 to 9 months, and then we repeat it. The main downsides are a higher chance of a urinary tract infection and a small chance you'll need to use a catheter to empty your bladder for a few weeks.
 
-- **Botox Injections**: Botulinum toxin A (Botox) can be injected directly into the bladder muscle to help relax an overactive bladder. This treatment can significantly reduce urgency, frequency, and urge incontinence episodes. Effects typically last 6-9 months, after which the procedure can be repeated.
+- Urethral bulking: For stress leakage, I inject a bulking gel (I use Bulkamid) into the wall of the urethra so it closes better. It's a quick office procedure under local anesthesia, and it can be topped up later. Bulking is less likely to make you completely dry than a sling, but many women improve, and in a 7-year follow-up about two-thirds still had improvement or cure.
 
-- **Bulking Agents**: These are substances injected around the urethra to provide additional support and help prevent leakage, particularly for stress incontinence. The procedure is quick, often performed in the office, and can be repeated if necessary.
+- Sacral neuromodulation: A small implanted device sends mild electrical pulses to the sacral nerves that control the bladder. It treats urge leakage and some kinds of trouble emptying the bladder. You get a test period first, and you only get the permanent device if it works for you. I implant both InterStim and Axonics systems. Rechargeable models are designed to last 15 years or more. In a large trial comparing sacral neuromodulation with Botox, both worked about equally well at two years.
 
-- **Sacral Neuromodulation**: This therapy involves implanting a small device that sends mild electrical pulses to the sacral nerves, which control the bladder and muscles related to urinary function. It can be effective for both urge incontinence and retention issues. A test stimulation period allows patients to assess the treatment's effectiveness before permanent implantation.
+- Tibial nerve stimulation: The tibial nerve at the ankle connects to the nerves that control the bladder, so stimulating it can calm urge leakage.
+  - Percutaneous tibial nerve stimulation (PTNS) uses a thin needle electrode at the ankle for 12 weekly 30-minute office sessions, then roughly monthly maintenance visits. I don't offer PTNS in my office.
+  - An implanted tibial nerve stimulator (Altaviva) goes in under the skin near the ankle under local anesthetic. It stimulates on a set schedule at home, so you skip the weekly visits. I use Altaviva for patients who want tibial nerve stimulation.
 
-- **Tibial Nerve Stimulation**: 
-  - **Percutaneous Tibial Nerve Stimulation (PTNS)**: This non-surgical option involves inserting a thin needle electrode near the tibial nerve at the ankle. The electrode is connected to a device that sends electrical pulses to the nerve, which then travels to the nerves controlling the bladder. Treatment typically involves 12 weekly 30-minute sessions, followed by periodic maintenance treatments.
-  - **Implanted Tibial Nerve Stimulation**: A newer option where a small electrical stimulator is implanted near the ankle to provide continuous stimulation to the tibial nerve. This can offer a more convenient long-term solution compared to repeated PTNS sessions.
+During your visit, we'll go over the benefits, risks, and likely results of each option that fits your type of leakage.
 
-- **Pessaries**: While previously listed under conservative treatments, pessaries can also be considered a minimally invasive option. These removable devices are inserted into the vagina to support the bladder neck and urethra, helping to prevent leakage, especially in cases of stress incontinence or pelvic organ prolapse. 
+### Surgery for stress leakage
 
-> "Minimally invasive procedures offer an excellent middle ground for many patients. They can provide significant relief with less risk and downtime compared to traditional surgery." - Dr. Ryan Stewart
+Surgery treats stress leakage only.
 
-During your consultation, we'll explore these options in detail, discussing the potential benefits, risks, and expected outcomes of each procedure. Our goal is to find the treatment approach that best addresses your symptoms and aligns with your lifestyle and health goals.
+- Sling procedures: A strip of synthetic mesh or your own tissue goes under the urethra to support it. The [midurethral sling](/treatments/urinary-incontinence/sling-procedures) is the most common stress incontinence surgery and has strong long-term data. A [non-mesh sling](/treatments/urinary-incontinence/non-mesh-sling-procedures) uses your own tissue instead.
+- Bladder neck suspension (Burch colposuspension): Stitches lift and support the bladder neck and urethra.
 
-### Surgical Interventions
+## Choosing a treatment
 
-When conservative treatments aren't sufficient, surgical options may be considered:
+We decide together. The things that matter most are:
 
-- **Sling Procedures**: Using synthetic mesh or your own tissue to support the urethra.
-- **Bladder Neck Suspension**: Lifting and securing the bladder neck and urethra.
+- Which type of leakage you have, and which bothers you more
+- How much it affects your daily life
+- Your overall health
+- How you feel about daily pills, repeat procedures, an implant, or surgery
+- The risks and benefits of each option
 
-> "Every patient's journey with urinary incontinence is unique. Our goal is to find the treatment approach that best fits your lifestyle and provides the most effective relief." - Dr. Ryan Stewart
+### What to expect at your visit
 
-## Making an Informed Decision
+1. History and exam: I'll ask about your symptoms and examine you, often including a cough test with a full bladder.
+2. Testing if needed: This may include a bladder diary, a check of how well you empty, or urodynamic testing.
+3. Options: I'll go through every treatment that fits your type of leakage, including ones I don't offer myself.
+4. A plan: We pick a starting point together, based on your goals.
 
-Choosing the right treatment involves careful consideration of various factors:
+## Next step
 
-- Severity of symptoms
-- Impact on daily life
-- Overall health status
-- Personal preferences
-- Potential risks and benefits of each option
+If leakage is getting in the way of your life, schedule a visit and we'll sort out which type you have and what to try first.
 
-Dr. Stewart and his team will guide you through a comprehensive evaluation to determine the most appropriate treatment plan for your specific situation.
+## References
 
-### What to Expect During Your Consultation
-
-1. **Thorough Assessment**: Dr. Stewart will conduct a detailed medical history and physical examination.
-2. **Diagnostic Tests**: May include urodynamic studies, bladder diary analysis, or imaging tests.
-3. **Discussion of Options**: You'll receive a clear explanation of all suitable treatment options.
-4. **Shared Decision-Making**: Your input is crucial in developing a treatment plan that aligns with your goals and comfort level.
-
-## Taking the Next Step
-
-Living with urinary incontinence isn't something you have to accept. With the right treatment approach, many women experience significant improvement in their symptoms and quality of life.
-
-**Ready to explore your treatment options?** Schedule a consultation with Dr. Stewart today. Whether you're seeking conservative management or considering surgical intervention, we're here to provide expert care and support every step of the way.
+- Sung VW, Borello-France D, Newman DK, et al. Effect of Behavioral and Pelvic Floor Muscle Therapy Combined With Surgery vs Surgery Alone on Incontinence Symptoms Among Women With Mixed Urinary Incontinence: The ESTEEM Randomized Clinical Trial. JAMA. 2019. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
+- Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical Treatment of Female Stress Urinary Incontinence: AUA/SUFU Guideline. The Journal of Urology. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
+- Subak LL, Wing R, West DS, et al. Weight Loss to Treat Urinary Incontinence in Overweight and Obese Women. New England Journal of Medicine. 2009. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
+- Richter HE, Burgio KL, Brubaker L, et al. A Trial of Continence Pessary vs. Behavioral Therapy vs. Combined Therapy for Stress Incontinence. Obstetrics & Gynecology. 2010. [doi:10.1097/AOG.0b013e3181d055d4](https://doi.org/10.1097/AOG.0b013e3181d055d4)
+- Dengler KL, High RA, Moga DC, et al. Overactive Bladder and Cognitive Impairment: The American Urogynecologic Society and Pelvic Floor Disorders Research Foundation State-of-the-Science Conference Summary Report. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- White N, Iglesia CB. Overactive Bladder. Obstetrics and Gynecology Clinics of North America. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
+- Fleischmann N, Chughtai B, Plair A, et al. Urethral Bulking. Urogynecology. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- Amundsen CL, Komesu YM, Chermansky C, et al. Two-Year Outcomes of Sacral Neuromodulation Versus OnabotulinumtoxinA for Refractory Urgency Urinary Incontinence: A Randomized Trial. European Urology. 2018. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
+- Meyer I, Richter HE. Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management. Obstetrics and Gynecology Clinics of North America. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- Lee U, Xavier K, Carey J, et al. Implantable Tibial Neuromodulation Therapy Improves Symptoms of Urge Urinary Incontinence From the TITAN 2 Pivotal Study. The Journal of Urology. 2026. [doi:10.1097/JU.0000000000004958](https://doi.org/10.1097/JU.0000000000004958)
