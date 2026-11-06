@@ -10,8 +10,8 @@ condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
-last_modified_at: 2026-10-17
-last_evidence_review: 2026-10-17
+last_modified_at: 2026-11-06
+last_evidence_review: 2026-11-06
 faq:
   - question: "Is it normal to feel something at the vaginal opening?"
     answer: "Often, yes. On exam, 41% to 50% of women have some loss of vaginal support, but only about 3% notice a bulge. If what you feel is new, getting bigger, or bothering you, have it checked."
@@ -38,20 +38,20 @@ Check later in the day or after you've been on your feet for a while. Prolapse i
 Where the bulge is tells you what's dropping:
 
 - Front wall, toward the bladder: usually a cystocele, the most common type of prolapse
-- Back wall, toward the rectum: usually a rectocele
+- Back wall, toward the rectum: usually a rectocele. A rectocele often bulges up into the vagina rather than out toward the opening, so you may not feel it even when it's causing trouble with bowel movements.
 - Firm, rounded tissue at the top with a small opening in the center: the cervix, which means the uterus has come down. After a hysterectomy, a bulge from the top is the vaginal vault.
 
 Most women with symptoms have more than one area involved, so it's common to feel more than one of these.
 
 ## Using a finger to empty your bladder or bowels
 
-Some women find prolapse a different way. They have to press on the back wall of the vagina, or the skin between the vagina and anus, to finish a bowel movement, or push the bulge up to start urinating. This is called splinting. It's a recognized prolapse symptom, especially with a rectocele, and a reason to get evaluated.
+Some women find prolapse a different way. They have to press on the back wall of the vagina, or the skin between the vagina and anus, to finish a bowel movement, or push the bulge up to start urinating. This is called splinting. It's a recognized prolapse symptom and a reason to get evaluated. Of all the bowel symptoms, splinting is the one most closely tied to a rectocele. Constipation and straining are common with or without one, and they don't track with how big the rectocele is.
 
 ## What else it could be
 
 Much of what women feel at the opening is normal. Mild descent is common and isn't a problem unless it causes symptoms.
 
-A few other things can feel like a bulge: cysts in the vaginal wall, a pocket off the urethra (urethral diverticulum), and rectal prolapse, which comes out of the anus rather than the vagina. In some women a normal cervix also sits low enough to reach. 
+A few other things can feel like a bulge: cysts in the vaginal wall, a pocket off the urethra (urethral diverticulum), and rectal prolapse, which comes out of the anus rather than the vagina. In some women a normal cervix also sits low enough to reach.
 
 ## Does what you feel tell you how bad it is?
 
@@ -70,11 +70,13 @@ Get seen sooner if:
 - You can't push the bulge back in
 - You have any bleeding after menopause
 
-Treatment options include pelvic floor physical therapy, which improves symptoms in mild to moderate prolapse, a pessary (a removable support device worn in the vagina), and surgery. The right one depends on your symptoms and what you want to be able to do.
+[Treatment options](/treatments/prolapse) include [pelvic floor physical therapy](/treatments/prolapse/pelvic-floor-physical-therapy), which improves symptoms in mild to moderate prolapse, a [pessary](/treatments/prolapse/pessary) (a removable support device worn in the vagina), and surgery. The right one depends on your symptoms and what you want to be able to do.
 
 ## References
 
-1. ACOG and AUGS. Pelvic organ prolapse. ACOG Practice Bulletin No. 214. *Obstetrics & Gynecology*. 2019.
-2. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
-3. Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS best practice statement: evaluation and counseling of patients with pelvic organ prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-4. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *The Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- American College of Obstetricians and Gynecologists, American Urogynecologic Society. Pelvic organ prolapse. ACOG Practice Bulletin No. 214. Obstetrics & Gynecology. 2019.
+- Barber MD. Pelvic organ prolapse. BMJ. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. The Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA) / International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). Neurourology and Urodynamics. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+- Ridgeway BM, Weinstein MM, Tunitsky-Bitton E. American Urogynecologic Society Best-Practice Statement on Evaluation of Obstructed Defecation. Female Pelvic Medicine & Reconstructive Surgery. 2018. [doi:10.1097/SPV.0000000000000635](https://doi.org/10.1097/SPV.0000000000000635)
