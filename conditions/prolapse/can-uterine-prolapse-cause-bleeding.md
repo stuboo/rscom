@@ -12,8 +12,8 @@ condition_name: Pelvic Organ Prolapse
 parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
-last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_modified_at: 2026-11-06
+last_evidence_review: 2026-11-06
 faq:
   - question: "Is bleeding a normal symptom of uterine prolapse?"
     answer: "Not usually. The typical symptoms are a bulge, pressure, low backache, and changes in bladder or bowel habits. Prolapsed tissue that sits outside the body can get dry and raw enough to spot, but that stays uncommon even in women whose tissue is under constant pressure: in a registry that followed 166 pessary users for three years, about 30% developed at least one vaginal ulcer, yet only 2 women reported any bleeding across the whole period. Bleeding should never just be blamed on the prolapse."
@@ -25,7 +25,7 @@ faq:
 
 # Can uterine prolapse cause bleeding?
 
-Usually not. Prolapse is a support problem. The uterus and vaginal walls sit lower than they should, and what you feel is a bulge, pressure, a low backache, and changes in how your bladder and bowels work. The international terminology for prolapse does list bleeding as a possible symptom, but only when the prolapsed tissue has developed a sore, and it sits well behind everything else on that list.
+Usually not. Prolapse is a support problem. The uterus and vaginal walls sit lower than they should, and what you feel is a bulge, pressure, a low backache, and changes in how your bladder and bowels work. The international terminology for prolapse does list bleeding as a possible symptom, but only when the prolapsed tissue has developed a sore.
 
 So if you have prolapse and you're bleeding, the safe starting point is that these are two separate problems until we've looked at the bleeding on its own.
 
@@ -37,32 +37,32 @@ Bleeding from this cause is light, and it settles once the tissue is supported a
 
 ## If you use a pessary
 
-A pessary rests against the vaginal wall, and steady pressure there can wear on the surface. Urogynecologists grade this in four levels: redness, a shallow abrasion that may spot a little, a deeper erosion or ulcer that bleeds, and, rarely, a fistula. Redness and abrasions can stay in place. A true ulcer means the pessary comes out for four to six weeks so the tissue can heal, then we refit, often with a different size or shape.
+A pessary rests against the vaginal wall, and steady pressure there can wear on the surface. Urogynecologists grade this in four levels: redness, a shallow abrasion that may spot a little, a deeper erosion or ulcer that bleeds, and, rarely, a fistula. Redness and abrasions can stay in place. A true ulcer means the pessary comes out for four to six weeks so the tissue can heal. When it has healed, the pessary can go back in, sometimes in a smaller size or a different type that puts less pressure on that spot.
 
-Sores like this are more common than people expect and yet rarely show up as bleeding. In a multicenter registry that followed 166 pessary users for three years, about 30% had at least one vaginal ulcer, but only 2 women reported vaginal bleeding over the entire period. So new bleeding after a pessary is placed should still be evaluated rather than written off as friction, and undiagnosed bleeding before a fitting is a reason to sort out the bleeding first. Blood thinners can make pessary spotting more likely, but they're not a reason to avoid one.
+These sores are common, but they rarely show up as bleeding. In a multicenter registry that followed 166 pessary users for three years, about 30% had at least one vaginal ulcer, but only 2 women reported vaginal bleeding over the entire period. So new bleeding after a pessary is placed should still be evaluated rather than written off as friction, and undiagnosed bleeding before a fitting is a reason to sort out the bleeding first. Blood thinners can make pessary spotting more likely, but they're not a reason to avoid one.
 
 ## Bleeding after menopause always needs evaluation
 
-If you've been through menopause and you have any bleeding at all, even one episode of spotting, it needs an evaluation. That's true whether or not you have prolapse. Checking for abnormal vaginal bleeding is a standard part of the prolapse workup, precisely because prolapse doesn't explain it.
+If you've been through menopause and you have any bleeding at all, even one episode of spotting, it needs an evaluation. That's true whether or not you have prolapse. Asking about abnormal vaginal bleeding is a standard part of the prolapse workup, because bleeding can be the first sign of a precancer or cancer of the uterus or cervix.
 
-Most postmenopausal bleeding turns out to be something benign. Cancer of the uterine lining is what we're ruling out, and it's far more treatable when it's found early. For a sense of scale, when the uterus is removed during prolapse surgery, an unsuspected cancer is found in about 0.22% of cases, roughly 2 in 1,000, and that risk climbs with age and with a history of postmenopausal bleeding.
+Most postmenopausal bleeding turns out to be something benign. Cancer of the uterine lining is what we're ruling out, and it's far more treatable when it's found early. When the uterus is removed during prolapse surgery, an unsuspected cancer is found in about 0.22% of cases, roughly 2 in 1,000, and that risk climbs with age and with a history of postmenopausal bleeding. If you keep your uterus during prolapse surgery, nothing changes afterward: cervical cancer screening continues, and new bleeding gets the same workup it always would.
 
 ## Other reasons you might bleed when you have prolapse
 
 - Thin, fragile vaginal tissue after menopause, which can bleed with sex or with an exam
 - Polyps of the cervix or the uterine lining
-- Fibroids or other changes in the lining of the uterus
+- Fibroids, or a thickened lining of the uterus
 - Cervical causes, which is one reason to stay current on cervical cancer screening
 - Blood thinners, which make any small irritated spot bleed more than it otherwise would
 - Hormone therapy, including a dose change or a missed dose
 
-If we're talking about vaginal tissue health, we have to talk about [topical vaginal estrogen](/life-stages/incontinence-during-menopause). It treats the fragile tissue behind a lot of this bleeding, and using it doesn't require routine checks of the uterine lining. But bleeding that happens while you're on it is still evaluated the same way as any other bleeding.
+[Topical vaginal estrogen](/life-stages/incontinence-during-menopause) treats the fragile tissue behind a lot of this bleeding, and using it doesn't require routine checks of the uterine lining. Bleeding that happens while you're on it still gets evaluated the same way as any other bleeding.
 
 ## How I approach it
 
 The bleeding workup and the prolapse conversation run side by side. I take a history of the bleeding, look directly at the vaginal walls and cervix, and depending on what I see, order an ultrasound or sample the uterine lining in the office. None of that has to wait on a decision about the prolapse.
 
-Once the bleeding has an answer, the prolapse decision is yours. A pessary, pelvic floor physical therapy, surgery, and watchful waiting are all reasonable, and the right one depends on how much the prolapse bothers you and what you want from treatment.
+I never let a prolapse explain away bleeding. Once the bleeding has an answer, the prolapse decision is yours. A pessary, pelvic floor physical therapy, surgery, and watchful waiting are all reasonable, and the right one depends on how much the prolapse bothers you and what you want from treatment.
 
 ## References
 
