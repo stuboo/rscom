@@ -57,3 +57,11 @@
 html {
   font-size: 1rem !important;
 }
+
+// Compact tables (e.g. the Bristol stool scale on the fecal incontinence diet
+// page). The theme gives every cell min-width: 120px, so a three-column table
+// overflows a 375px phone. Tag the table with `{: .compact-table }`.
+.compact-table th,
+.compact-table td {
+  min-width: 0;
+}

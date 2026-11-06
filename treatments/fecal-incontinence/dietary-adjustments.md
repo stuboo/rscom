@@ -51,6 +51,7 @@ The Bristol stool scale sorts stool into seven types, from hard lumps (type 1) t
 | <img src="/assets/images/bristol-type-5.png" width="123" height="52" style="width:80px;height:auto" alt="Drawing of type 5 stool: soft blobs with clear-cut edges"><br>Type 5 | Soft blobs with clear-cut edges | Firm it up |
 | <img src="/assets/images/bristol-type-6.png" width="123" height="52" style="width:80px;height:auto" alt="Drawing of type 6 stool: fluffy, mushy pieces with ragged edges"><br>Type 6 | Fluffy, mushy pieces with ragged edges | Firm it up |
 | <img src="/assets/images/bristol-type-7.png" width="123" height="52" style="width:80px;height:auto" alt="Drawing of type 7 stool: watery, no solid pieces"><br>Type 7 | Watery, no solid pieces | Firm it up |
+{: .compact-table }
 
 <small>Drawings from the Bristol stool scale by <a href="https://commons.wikimedia.org/wiki/File:BristoStool_1.png">Jmarchn</a>, based on a chart by Cabot Health, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</small>
 
