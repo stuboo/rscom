@@ -40,15 +40,24 @@ Stool that is soft but formed is the easiest kind to hold. Loose or watery stool
 
 ## Start with your stool
 
-The Bristol stool scale sorts stool into seven types, from hard lumps (type 1) to watery liquid (type 7). Types 3 and 4, a sausage shape that is smooth or slightly cracked, are the easiest to control. Which way you need to move decides what you change:
+The Bristol stool scale sorts stool into seven types, from hard lumps (type 1) to watery liquid (type 7). Types 3 and 4, a sausage shape that is smooth or slightly cracked, are the easiest to control.
+
+| Stool | Type | What it looks like | What it means for you |
+|:---:|:---:|---|---|
+| <img src="/assets/images/bristol-type-1.png" width="123" height="52" alt="Drawing of type 1 stool: separate hard lumps, like nuts"> | 1 | Separate hard lumps, like nuts | Hard: soften it |
+| <img src="/assets/images/bristol-type-2.png" width="123" height="52" alt="Drawing of type 2 stool: sausage-shaped but lumpy"> | 2 | Sausage-shaped but lumpy | Hard: soften it |
+| <img src="/assets/images/bristol-type-3.png" width="123" height="52" alt="Drawing of type 3 stool: sausage-shaped with cracks on the surface"> | 3 | Sausage-shaped with cracks on the surface | The goal |
+| <img src="/assets/images/bristol-type-4.png" width="123" height="52" alt="Drawing of type 4 stool: smooth, soft sausage or snake"> | 4 | Smooth, soft sausage or snake | The goal |
+| <img src="/assets/images/bristol-type-5.png" width="123" height="52" alt="Drawing of type 5 stool: soft blobs with clear-cut edges"> | 5 | Soft blobs with clear-cut edges | Loose: firm it up |
+| <img src="/assets/images/bristol-type-6.png" width="123" height="52" alt="Drawing of type 6 stool: fluffy, mushy pieces with ragged edges"> | 6 | Fluffy, mushy pieces with ragged edges | Loose: firm it up |
+| <img src="/assets/images/bristol-type-7.png" width="123" height="52" alt="Drawing of type 7 stool: watery, no solid pieces"> | 7 | Watery, no solid pieces | Loose: firm it up |
+
+<small>Drawings from the Bristol stool scale by <a href="https://commons.wikimedia.org/wiki/File:BristoStool_1.png">Jmarchn</a>, based on a chart by Cabot Health, <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>.</small>
+
+Which way you need to move decides what you change:
 
 - Loose stool (types 5 to 7): the goal is to firm it up. Soluble fiber, especially psyllium, is the main tool, and loperamide (Imodium) can help if fiber isn't enough.
 - Hard stool (types 1 and 2): the goal is to soften it. More fiber, more fluid, and sometimes a gentle laxative keep stool moving so it doesn't build up and seep out.
-
-<figure style="text-align:center;margin:1.5rem 0">
-<img src="/assets/images/bristol-stool-scale.png" width="262" height="529" style="max-width:100%;height:auto" alt="The Bristol stool scale: seven drawings of stool, from type 1, separate hard lumps, through type 4, a smooth soft sausage, to type 7, watery liquid with no solid pieces.">
-<figcaption style="font-size:0.85em">The Bristol stool scale. Image: <a href="https://commons.wikimedia.org/wiki/File:Bristol_stool_scale.png">Jaipasdepseudo</a>, based on a chart by Cabot Health, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>.</figcaption>
-</figure>
 
 {: .important-title }
 > Key point
