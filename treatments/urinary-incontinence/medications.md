@@ -7,8 +7,8 @@ parent: Urinary Incontinence Treatments
 nav_order: 4
 description: "Overactive bladder pills come in two types: anticholinergics like oxybutynin and beta-3 drugs like mirabegron. Learn how they differ and their side effects."
 permalink: /treatments/urinary-incontinence/medications
-last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_modified_at: 2026-11-06
+last_evidence_review: 2026-11-06
 references:
   - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
     title: "Urinary Incontinence in Women: A Review"
@@ -30,6 +30,11 @@ references:
     journal: "The Journal of Urology"
     year: 2019
     doi: "https://doi.org/10.1097/JU.0000000000000309"
+  - author: "Visco AG, Brubaker L, Richter HE, et al."
+    title: "Anticholinergic Therapy vs. OnabotulinumtoxinA for Urgency Urinary Incontinence"
+    journal: "New England Journal of Medicine"
+    year: 2012
+    doi: "https://doi.org/10.1056/NEJMoa1208872"
   - author: "AUGS Guidelines Committee, Thomas TN, Walters MD."
     title: "Clinical Consensus Statement: Association of Anticholinergic Medication Use and Cognition in Women With Overactive Bladder"
     journal: "Female Pelvic Medicine & Reconstructive Surgery"
@@ -47,91 +52,86 @@ references:
     doi: "https://doi.org/10.1097/SPV.0000000000001274"
 ---
 
-# Medications for Overactive Bladder and Urge Incontinence
+# Medications for overactive bladder and urge incontinence
 
-Medications are a main treatment for overactive bladder (OAB) and urge incontinence, and they can be highly effective. They don't treat stress urinary incontinence: there are currently no FDA-approved medications for it.
+Medications are a main treatment for overactive bladder (OAB) and urge incontinence. They don't treat stress urinary incontinence, the leaking that happens when you cough, sneeze, or exercise. There are no FDA-approved medications for stress incontinence.
 
-## Understanding Medication Options
+## What these medications do
 
-Dr. Stewart may offer medication as part of your treatment plan if you're experiencing symptoms of overactive bladder, such as frequent urges to urinate, difficulty postponing urination, or urge incontinence. The primary goals of these medications are to:
+I may offer medication if you have overactive bladder symptoms: sudden urges to urinate, trouble holding it once the urge hits, going often, or leaking on the way to the bathroom. OAB medications calm the bladder muscle so it squeezes less often on its own and holds more urine before the urge starts.
 
-1. Reduce bladder muscle contractions
-2. Increase bladder capacity
-3. Delay the initial urge to urinate
+They help, but the effect is moderate. In large reviews, about half of women taking an anticholinergic reported their symptoms were under control. Few women become completely dry on medication alone.
 
-## Types of Medications
+## Types of medications
 
-### Antimuscarinics (a.k.a. Anticholinergics)
+### Anticholinergics (also called antimuscarinics)
 
-Antimuscarinics are a commonly prescribed class of medications for overactive bladder:
+These drugs block the nerve signals that make the bladder muscle contract when it shouldn't. Six are FDA-approved for urge incontinence, and they work about equally well. The main differences between them are side effects.
 
-- **How they work**: These drugs block the nerve signals that trigger involuntary bladder muscle contractions.
-- **Common examples**: 
-  - Oxybutynin (Ditropan XL™, Oxytrol™)
-  - Tolterodine (Detrol™)
-  - Darifenacin (Enablex™)
-  - Solifenacin (Vesicare™)
-  - Trospium (Sanctura™)
-  - Fesoterodine (Toviaz™)
+- Oxybutynin (Ditropan XL™, Oxytrol™)
+- Tolterodine (Detrol™)
+- Darifenacin (Enablex™)
+- Solifenacin (Vesicare™)
+- Trospium (Sanctura™)
+- Fesoterodine (Toviaz™)
 
-> "Anticholinergics can significantly reduce the frequency and urgency of urination for many patients with overactive bladder. However, it's crucial to consider both the benefits and potential risks, especially with long-term use." - Dr. Ryan Stewart
+Extended-release versions, taken once a day, cause less dry mouth than the immediate-release forms. Anticholinergics are not safe for people with untreated narrow-angle glaucoma, and they can make it harder to empty your bladder.
 
-### Beta-3 Adrenergic Agonists
+### Beta-3 agonists
 
-A newer class of medications for overactive bladder:
+This newer class relaxes the bladder muscle during filling so it can hold more urine. They work about as well as anticholinergics with much less dry mouth and constipation, and they don't carry the same concerns about memory and thinking.
 
-- **How they work**: These drugs relax the bladder muscle, increasing its capacity to hold urine.
-- **Examples**: 
-  - Mirabegron (Myrbetriq™)
-  - Vibegron (Gemtesa™)
+- Mirabegron (Myrbetriq™)
+- Vibegron (Gemtesa™)
 
-### Combination Therapies
+Mirabegron can raise blood pressure, so I check yours before and during treatment. It isn't used in people whose high blood pressure is not under control. Beta-3 agonists can also change the levels of some heart medications, including digoxin and metoprolol, so tell me everything you take.
 
-In some cases, you may be prescribed an anticholinergic and a beta-3 agonist together to improve results.
+### Combination therapy
 
-## Potential Side Effects and Risks
+If one medication helps but not enough, adding a drug from the other class is a guideline-supported option. In large trials, solifenacin plus mirabegron reduced leaks more than either drug alone. Side effects such as dry mouth and constipation were slightly more common, and so was trouble emptying the bladder.
 
-These medications can cause side effects and carry certain risks:
+## Side effects
 
-- **Common side effects of antimuscarinics**:
-  - Dry mouth
-  - Constipation
-  - Blurred vision
-  - Drowsiness
+Anticholinergics commonly cause:
 
-- **Common side effects of beta-3 agonists**:
-  - Increased blood pressure
-  - Headache
-  - Nasopharyngitis
+- Dry mouth
+- Constipation
+- Blurry vision
+- Drowsiness
 
-### Important Risk Consideration: Dementia
+Beta-3 agonists can cause:
 
-Research points to a specific risk with long-term use of anticholinergic medications:
+- Higher blood pressure
+- Headache
+- Cold-like symptoms such as a stuffy nose or sore throat
+- Urinary tract infections
 
-- Chronic use (more than three months) of anticholinergic medications for OAB is likely associated with an increased risk of new-onset dementia.
-- Short-term use (less than four weeks) is generally considered safe for most individuals.
-- When anticholinergics are indicated, extended-release formulations of trospium, darifenacin, and fesoterodine are preferred due to their more favorable neuropharmacological profiles.
-- Oxybutynin IR should be avoided when possible due to its higher risk profile.
+Side effects are the main reason women stop. Fewer than half are still taking an anticholinergic six months after starting it.
 
-> "We carefully consider the potential cognitive risks for all patients when prescribing antimuscarinics for chronic use. Our goal is to balance symptom relief with long-term health considerations." - Dr. Ryan Stewart
+## Anticholinergics and dementia risk
 
-## Treatment Approach
+Long-term use of anticholinergic medications has been linked to a higher risk of dementia.
 
-Because of these risks, we usually approach medication this way:
+- In pooled studies, the risk rose with longer use. It was higher after 3 months of use and higher still after a year.
+- These studies show an association. They can't prove the medication causes dementia, partly because bladder symptoms and dementia share risk factors.
+- Oxybutynin, especially the immediate-release form, has the most consistent evidence of short-term effects on memory and thinking. I avoid it for long-term use.
+- Trospium, darifenacin, and fesoterodine cross into the brain less, and studies have not shown cognitive decline with them. If an anticholinergic is the right choice, I use one of these.
+- The American Urogynecologic Society recommends avoiding anticholinergics for OAB where possible in women over 70.
+- Many other common medications have anticholinergic effects, including some antidepressants, allergy pills, and sleep aids. The total load matters, so I review your full medication list.
 
-1. We often recommend trying a beta-3 agonist before an anticholinergic medication when pharmacological therapy is indicated for OAB.
-2. If anticholinergics are used, we prefer options with more favorable risk profiles and monitor use closely.
-3. For some patients, we may consider progressing to advanced therapies like botulinum toxin injections or neuromodulation earlier in the treatment process.
+## How I approach it
 
-## Shared Decision-Making
+I start with a beta-3 agonist when medication makes sense, and I use anticholinergics with the lower-risk profiles at the lowest dose that works. I see you back within 4 to 8 weeks to check whether it's helping. If it isn't working or the side effects are too much, we stop it.
 
-Dr. Stewart makes medication decisions with you. We'll go over the benefits and risks of each option in light of your health and your preferences.
+You don't have to fail one or two pills before moving on. AUA guidelines don't require you to try medication before [Botox injections](/treatments/urinary-incontinence/botox-injections) or [neuromodulation](/treatments/urinary-incontinence/neuromodulation), though some insurance plans do. In a large randomized trial, a single Botox injection reduced urge leaks as much as daily anticholinergic pills over six months, and more women became completely dry with Botox. Some women would rather skip daily pills altogether, and that's a reasonable choice.
 
-## Next Steps
+[Lifestyle and behavioral changes](/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications) and [pelvic floor physical therapy](/treatments/urinary-incontinence/pelvic-floor-physical-therapy) stay part of the plan alongside any medication.
 
-If you have symptoms of overactive bladder or urge incontinence, schedule a consultation with Dr. Stewart. We'll do a thorough evaluation, go over your symptoms and medical history, and choose treatment options with both effectiveness and long-term safety in mind.
+A bladder pill only makes sense if you'll take it every day, so the side effects have to be ones you can live with.
 
-Medication is one option among several. We'll look for the combination of treatments that controls your symptoms and protects your long-term health.
+## Next steps
+
+If you have overactive bladder or urge incontinence, schedule a consultation. Bring a list of every medication and supplement you take, and a few days of notes on how often you go and when you leak.
 
 ## References
 
@@ -139,6 +139,7 @@ Medication is one option among several. We'll look for the combination of treatm
 - ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 - White N, Iglesia CB. Overactive Bladder. Obstetrics and Gynecology Clinics of North America. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
 - Lightner DJ, Gomelsky A, Souter L, et al. Diagnosis and Treatment of Overactive Bladder (Non-Neurogenic) in Adults: AUA/SUFU Guideline Amendment 2019. The Journal of Urology. 2019. [doi:10.1097/JU.0000000000000309](https://doi.org/10.1097/JU.0000000000000309)
+- Visco AG, Brubaker L, Richter HE, et al. Anticholinergic Therapy vs. OnabotulinumtoxinA for Urgency Urinary Incontinence. New England Journal of Medicine. 2012. [doi:10.1056/NEJMoa1208872](https://doi.org/10.1056/NEJMoa1208872)
 - AUGS Guidelines Committee, Thomas TN, Walters MD. Clinical Consensus Statement: Association of Anticholinergic Medication Use and Cognition in Women With Overactive Bladder. Female Pelvic Medicine & Reconstructive Surgery. 2021. [doi:10.1097/SPV.0000000000001008](https://doi.org/10.1097/SPV.0000000000001008)
 - Dengler KL, High RA, Moga DC, et al. Overactive Bladder and Cognitive Impairment: The American Urogynecologic Society and Pelvic Floor Disorders Research Foundation State-of-the-Science Conference Summary Report. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
 - Sanses TVD, Zillioux J, High RA, et al. Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
