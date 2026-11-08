@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-05-14
+last_evidence_review: 2026-11-08
 faq:
   - question: "At what age does incontinence typically start?"
     answer: "Incontinence can occur at any age. Many women first notice symptoms after childbirth, while others develop them during perimenopause or later. Age alone does not cause incontinence."
@@ -54,7 +54,7 @@ A study of over 13,000 Medicare patients (age 66 and older) found that pelvic fl
 Here are your options, and we can talk through what fits your life:
 
 - Pelvic floor physical therapy, which goes beyond Kegels to include strength, coordination, relaxation, breathing, and work on the hips, core, and surrounding muscles. Our practice has in-office pelvic floor PTs.
-- Vaginal estrogen, which restores tissue health safely and does not raise breast or uterine cancer risk
+- Vaginal estrogen, which restores tissue health. Large studies of low-dose vaginal estrogen haven't found a higher risk of breast or uterine cancer. If you've had breast cancer, we'd decide on it together with your oncologist. More on this: [is vaginal estrogen safe?](/treatments/vaginal-estrogen/is-vaginal-estrogen-safe)
 - Medications for overactive bladder, chosen carefully to avoid drugs that affect memory in older women
 - Minimally invasive procedures like Botox (lasts 6-9 months), sacral neuromodulation (rechargeable models last 15 years or more), urethral bulking for stress leaking (lasts 7+ years), or a bladder sling
 
