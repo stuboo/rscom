@@ -41,7 +41,9 @@ A pessary works by:
 
 ## Types of Pessaries
 
-<img src="/assets/images/pessary-types.jpg" width="1280" height="960" loading="lazy" style="max-width:100%;height:auto;border-radius:8px" alt="An assortment of silicone pessaries in different shapes: rings with and without a support membrane, a Gellhorn, a donut, cubes with removal strings, and lever-style pessaries">
+<img src="/assets/images/pessary-types.jpg" width="1280" height="960" loading="lazy" style="max-width:100%;height:auto;border-radius:8px;margin-bottom:0" alt="An assortment of silicone pessaries in different shapes: rings with and without a support membrane, a Gellhorn, a donut, cubes with removal strings, and lever-style pessaries">
+
+<p style="font-size:0.8em;color:#6b6b6b;margin-top:-0.75em">Photo: Huckfinne / <a href="https://commons.wikimedia.org/wiki/File:Pessaries.JPG">Wikimedia Commons</a>, public domain</p>
 
 There are many types of pessaries, including:
 
