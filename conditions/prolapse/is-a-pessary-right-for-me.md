@@ -56,6 +56,11 @@ faq:
     answer: "This varies. Some women learn to take out and clean their pessary at home, anywhere from nightly to weekly. Others have it cleaned in the office every 3 to 6 months. Both approaches work well."
   - question: "Can a pessary cause bladder leaking?"
     answer: "About 1 in 5 women notice new bladder leaking after a pessary is placed. The prolapse can kink the urethra and hide leaking, and the pessary straightens it out. If it bothers you, we can change the pessary or talk about other options."
+image:
+  path: /assets/images/pessary-types-og.jpg
+  width: 1200
+  height: 628
+  alt: "An assortment of silicone pessaries in different shapes: rings with and without a support membrane, a Gellhorn, a donut, cubes with removal strings, and lever-style pessaries"
 ---
 # Is a pessary right for me?
 
@@ -85,6 +90,8 @@ Here's what happens:
 Finding the right fit sometimes takes 2 or 3 tries with different sizes or types. That's normal. About 15% of women switch to a different pessary type in the first year.
 
 ## Types of pessaries
+
+<img src="/assets/images/pessary-types.jpg" width="1280" height="960" loading="lazy" style="max-width:100%;height:auto;border-radius:8px" alt="An assortment of silicone pessaries in different shapes: rings with and without a support membrane, a Gellhorn, a donut, cubes with removal strings, and lever-style pessaries">
 
 The most common types are:
 

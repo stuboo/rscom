@@ -7,8 +7,13 @@ parent: Prolapse Treatments
 nav_order: 4
 description: "A removable silicone support that holds prolapse up without surgery. The main types, what a fitting involves, cleaning and care, and common problems."
 permalink: /treatments/prolapse/pessary
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-08
 last_evidence_review: 2026-09-23
+image:
+  path: /assets/images/pessary-types-og.jpg
+  width: 1200
+  height: 628
+  alt: "An assortment of silicone pessaries in different shapes: rings with and without a support membrane, a Gellhorn, a donut, cubes with removal strings, and lever-style pessaries"
 ---
 
 # Pessary for Prolapse Treatment
@@ -35,6 +40,8 @@ A pessary works by:
 4. Reducing or eliminating symptoms associated with prolapse
 
 ## Types of Pessaries
+
+<img src="/assets/images/pessary-types.jpg" width="1280" height="960" loading="lazy" style="max-width:100%;height:auto;border-radius:8px" alt="An assortment of silicone pessaries in different shapes: rings with and without a support membrane, a Gellhorn, a donut, cubes with removal strings, and lever-style pessaries">
 
 There are many types of pessaries, including:
 
