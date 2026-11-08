@@ -10,7 +10,7 @@ redirect_from:
   - /sacral-nerve-stimulation-interstim/
   - /how-long-does-interstim-last/
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-08
 references:
   - author: "Meyer I, Richter HE"
     title: "Impact of Fecal Incontinence and Its Treatment on Quality of Life in Women"
@@ -76,7 +76,7 @@ Picking rechargeable or non-rechargeable mostly comes down to your preferences a
 
 In the main U.S. study, about 90% of patients who improved during the trial went on to get the permanent implant. More than 80% cut their weekly leaks at least in half. About 83% were still doing well one year after the implant.
 
-The results hold up over time. At five years, about 89% were still doing well, and about 36% had no leaks at all. Longer follow-up has shown the benefit lasting.
+The results hold up over time. At five years, about 89% were still doing well, and about 36% had no leaks at all. Longer follow-up has shown the benefit lasting. Over those years, though, more than a third of patients in the main study needed another surgery to adjust, replace, or remove the device.
 
 ## Is it right for you?
 
