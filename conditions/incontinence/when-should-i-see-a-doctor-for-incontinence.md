@@ -9,20 +9,41 @@ condition_name: Urinary Incontinence
 parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-05-15
-last_evidence_review: 2026-05-15
+last_modified_at: 2026-11-08
+last_evidence_review: 2026-11-08
 faq:
   - question: "Do I need a referral to see a urogynecologist?"
-    answer: "No. You can schedule directly with a urogynecologist without a referral. If you're experiencing bladder leakage, you don't need to go through your primary care doctor first."
+    answer: "Often not. Many insurance plans let you schedule directly with a urogynecologist, but some require a referral from your primary care doctor. Check with your plan before you book."
   - question: "What should I expect at my first appointment?"
-    answer: "Your first visit includes a conversation about your symptoms, a physical exam, and possibly a urine test. You may be asked to keep a bladder diary before your visit."
+    answer: "Your first visit includes a conversation about your symptoms, a pelvic exam, and a urine test. You may be asked to keep a bladder diary for a few days before your visit."
   - question: "Is it worth seeing a specialist for mild leaking?"
-    answer: "Yes. Even mild incontinence often responds well to pelvic floor therapy. Seeing a specialist early gives you more treatment options."
+    answer: "Yes. Mild leaking often improves with pelvic floor physical therapy and changes to daily habits. Coming in early gives you more choices."
+references:
+  - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
+    title: "Urinary Incontinence in Women: A Review"
+    journal: "JAMA"
+    year: 2017
+    doi: "https://doi.org/10.1001/jama.2017.12137"
+  - author: "ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al."
+    title: "Urinary Incontinence in Women (ACOG Practice Bulletin No. 155)"
+    journal: "Obstetrics & Gynecology"
+    year: 2015
+    doi: "https://doi.org/10.1097/AOG.0000000000001148"
+  - author: "Sanses TVD, Zillioux J, High RA, et al."
+    title: "Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001274"
+  - author: "Erekson E, Whitcomb EL, Kamdar N, et al."
+    title: "Performance of Perioperative Tasks for Women Undergoing Anti-incontinence Surgery"
+    journal: "Urogynecology"
+    year: 2023
+    doi: "https://doi.org/10.1097/SPV.0000000000001392"
 ---
 
 # When should I see a doctor for urinary incontinence?
 
-If bladder leakage is bothering you, it's worth talking to a specialist. There's no minimum amount of leaking that "qualifies." If it affects your daily life, your confidence, or what you choose to do, you deserve help.
+If bladder leakage bothers you, see a specialist. No amount of leaking is too small to count. If it affects your daily life, your confidence, or what you choose to do, you deserve help.
 
 ## Signs it's time to seek help
 
@@ -35,37 +56,51 @@ If bladder leakage is bothering you, it's worth talking to a specialist. There's
 - You keep getting urinary tract infections
 - Leaking is affecting your relationships or self-confidence
 
+## Symptoms that need a prompt visit
+
+Some symptoms point to a problem beyond ordinary leaking. Make an appointment soon if you have bladder symptoms along with any of these:
+
+- Blood in your urine
+- Pelvic or bladder pain that's your main symptom
+- Trouble emptying your bladder, or a feeling that you never empty all the way
+- A bulge or heavy feeling in the vagina
+- New numbness, weakness, or other nerve symptoms
+- Leaking you've had your whole life
+- Leaking that hasn't improved with treatment you've already tried
+
 ## Why sooner is better than later
 
-Up to 75% of women with incontinence never bring it up with a doctor. That's a lot of people living with something treatable. Over time, symptoms usually get worse. A problem that might respond to pelvic floor physical therapy today could need more involved treatment down the road.
+Only about 1 in 4 women with incontinence ever gets care for it. That leaves a lot of women living with something treatable. Leaking often gets worse when nobody treats it, and a problem that might respond to pelvic floor physical therapy today could need more involved treatment later.
 
-The earlier we evaluate your symptoms, the more options you have. I've had patients tell me they wish they'd come in years earlier. Not because they needed surgery, but because a few sessions of physical therapy changed their daily life.
+I've had patients tell me they wish they'd come in years earlier. Many of them didn't need surgery. A few sessions of physical therapy changed their daily life.
 
 ## What kind of doctor should you see?
 
-Your primary care doctor or OB/GYN can talk with you about incontinence. But a urogynecologist has the most focused training in this area. We complete a 3-year fellowship after OB/GYN residency (or a 2-year fellowship after urology residency) dedicated to pelvic floor problems, including all types of incontinence. Fellowship-trained urogynecologists are more likely to offer the full range of treatment options and perform quality-of-care steps like a complete pelvic exam, bladder testing, and cystoscopy when needed.
+Your primary care doctor or OB/GYN can talk with you about incontinence. A [urogynecologist](/conditions/incontinence/what-is-a-urogynecologist) has the most focused training. We complete a 3-year fellowship after OB/GYN residency, or a 2-year fellowship after urology residency, focused on pelvic floor problems, including all types of incontinence.
 
-We don't follow a one-size-fits-all approach. Treatment is a conversation. We talk through your goals, your symptoms, and what matters most to you, then build a plan together.
+In one study of women having surgery for stress leaking, board-certified urogynecologists were more likely to offer nonsurgical options first. They were also more likely to do the full set of standard checks: a complete prolapse exam, a cough test, a check of how well the bladder empties, and a look inside the bladder during surgery.
+
+The right treatment depends on the type of leaking. For stress leaking, the kind that happens when you cough, sneeze, or exercise, options include [pelvic floor physical therapy](/treatments/urinary-incontinence/pelvic-floor-physical-therapy), a pessary, [urethral bulking](/treatments/urinary-incontinence/urethral-bulking), and a [sling](/treatments/urinary-incontinence/sling-procedures). For urge leaking, options include [lifestyle changes](/treatments/urinary-incontinence/lifestyle-and-behavioral-modifications), [medication](/treatments/urinary-incontinence/medications), [Botox](/treatments/urinary-incontinence/botox-injections), [sacral neuromodulation](/treatments/urinary-incontinence/neuromodulation), and the [Altaviva tibial implant](/treatments/urinary-incontinence/altaviva). If you have both types, I usually start with whichever one bothers you more.
+
+You don't have to try these in a set order. We pick together based on your symptoms, your goals, and how much treatment you want. 
 
 ## What happens at your first visit
 
 It's normal to feel nervous, and we go at your pace. A typical first appointment includes:
 
 - A conversation about your symptoms, health history, and goals
-- A pelvic exam
-- Sometimes a urine test
-- A discussion of what's going on and what your options are
+- A pelvic exam, including a check for prolapse and of how your pelvic floor muscles work
+- A urine test to look for infection or blood
+- Sometimes a cough test or a quick bladder scan to see how well you empty
+- A talk about what's going on and what your options are
 
-You may be asked to fill out a bladder diary before your visit. This is a simple log of when you drink, when you go to the bathroom, and when you leak. It gives us a clear picture of your pattern.
+I may ask you to keep a bladder diary for 1 to 3 days before your visit. It's a simple log of what you drink, when you go to the bathroom, and when you leak. It shows me your pattern.
 
-I know it takes courage to make that first call. Most of my patients feel relieved once they're here. They feel heard, and they learn that real options exist.
-
-No referral is needed. You can schedule directly.
+Many insurance plans let you schedule with a urogynecologist without a referral. Some require one from your primary care doctor, so check with your plan before you call.
 
 ## References
 
-1. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
-2. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-3. ACOG Committee on Practice Bulletins-Gynecology, American Urogynecologic Society. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
-4. Erekson E, Whitcomb EL, Kamdar N, et al. Performance of perioperative tasks for women undergoing anti-incontinence surgery. *Female Pelvic Med Reconstr Surg*. 2023. [doi:10.1097/SPV.0000000000001392](https://doi.org/10.1097/SPV.0000000000001392)
-
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary Incontinence in Women: A Review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary Incontinence in Women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Sanses TVD, Zillioux J, High RA, et al. Evidence-Informed, Interdisciplinary, Multidimensional Action Plan to Advance Overactive Bladder Research and Treatment Initiatives: Directives From State-of-the-Science Conference on Overactive Bladder and Cognitive Impairment. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
+- Erekson E, Whitcomb EL, Kamdar N, et al. Performance of Perioperative Tasks for Women Undergoing Anti-incontinence Surgery. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001392](https://doi.org/10.1097/SPV.0000000000001392)
