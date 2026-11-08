@@ -58,8 +58,8 @@ You don't have to wait it out alone, especially during a time that's already ful
 
 ## References
 
-1. Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. Int Urogynecol J. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
-2. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. Curr Opin Obstet Gynecol. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-3. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
-4. Barber MD. Pelvic organ prolapse. BMJ. 2016;354:i3853. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
-5. Carberry CL, et al. AUGS Best Practice Statement: evaluation and counseling of patients with pelvic organ prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. Int Urogynecol J. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. Curr Opin Obstet Gynecol. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. Lancet. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016;354:i3853. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Carberry CL, et al. AUGS Best Practice Statement: evaluation and counseling of patients with pelvic organ prolapse. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)

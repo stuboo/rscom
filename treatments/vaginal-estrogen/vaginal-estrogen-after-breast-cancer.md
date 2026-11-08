@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-11-04
 faq:
   - question: "Is vaginal estrogen safe if I had breast cancer?"
     answer: "Often it can be used, but as a shared decision rather than an automatic yes. Nonhormonal moisturizers and lubricants come first, and if symptoms persist, the guideline says a clinician may recommend low-dose vaginal estrogen after multidisciplinary shared decision-making that includes your oncologist. Observational studies have not shown increased recurrence with local estrogen, though a definitive trial in survivors is still lacking."

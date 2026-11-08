@@ -75,11 +75,11 @@ I find the trial period is what gives patients the most confidence. You experien
 
 ## References
 
-1. Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs sacral neuromodulation on refractory urgency urinary incontinence in women: a randomized clinical trial. *JAMA*. 2016;316(13):1366-1374. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
-2. Amundsen CL, Komesu YM, Chermansky C, et al. Two-year outcomes of sacral neuromodulation versus onabotulinumtoxinA for refractory urgency urinary incontinence. *Eur Urol*. 2018;74(1):66-73. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
-3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
-4. Goldman HB, Lloyd JC, Noblett KL, et al. International Continence Society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018;37(5):1823-1848. [doi:10.1002/nau.23596](https://doi.org/10.1002/nau.23596)
-5. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023;29(1):1-12. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
-6. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021;48(3):557-575. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
-7. ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015;126(5):e66-e81. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Amundsen CL, Richter HE, Menefee SA, et al. OnabotulinumtoxinA vs sacral neuromodulation on refractory urgency urinary incontinence in women: a randomized clinical trial. *JAMA*. 2016;316(13):1366-1374. [doi:10.1001/jama.2016.14617](https://doi.org/10.1001/jama.2016.14617)
+- Amundsen CL, Komesu YM, Chermansky C, et al. Two-year outcomes of sacral neuromodulation versus onabotulinumtoxinA for refractory urgency urinary incontinence. *Eur Urol*. 2018;74(1):66-73. [doi:10.1016/j.eururo.2018.02.011](https://doi.org/10.1016/j.eururo.2018.02.011)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Goldman HB, Lloyd JC, Noblett KL, et al. International Continence Society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018;37(5):1823-1848. [doi:10.1002/nau.23596](https://doi.org/10.1002/nau.23596)
+- Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023;29(1):1-12. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
+- Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021;48(3):557-575. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015;126(5):e66-e81. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 

@@ -7,7 +7,7 @@ nav_order: 5
 description: "How native tissue prolapse repair uses your own tissue to restore pelvic support, plus the types of repair, recovery, success rates, and risks."
 permalink: /treatments/prolapse/native-tissue-repair
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 references:
   - author: "Barber MD, Brubaker L, Burgio KL, et al."
     title: "Factorial comparison of two transvaginal surgical approaches and of perioperative behavioral therapy for women with apical vaginal prolapse: the OPTIMAL randomized trial"

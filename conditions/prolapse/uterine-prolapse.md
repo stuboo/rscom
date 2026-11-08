@@ -34,7 +34,7 @@ faq:
   - question: "Does uterine prolapse always get worse over time?"
     answer: "No. About 78% of women with untreated prolapse had no change over roughly 16 months, and in one study about 1 in 5 got better within a year without any treatment."
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 references:
   - author: "Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Tulikangas P"
     title: "Pelvic organ prolapse. Practice Bulletin No. 214"

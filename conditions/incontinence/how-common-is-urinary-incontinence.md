@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 references:
   - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
     title: "Urinary Incontinence in Women: A Review"

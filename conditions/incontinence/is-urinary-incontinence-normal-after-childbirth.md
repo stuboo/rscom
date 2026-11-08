@@ -55,9 +55,9 @@ If therapy alone is not enough, we can talk about other options together. I see 
 
 ## References
 
-1. Burgio KL, Borello-France D, Richter HE, et al. Risk factors for fecal and urinary incontinence after childbirth. *Am J Gastroenterol*. 2007. [doi:10.1111/j.1572-0241.2007.01364.x](https://doi.org/10.1111/j.1572-0241.2007.01364.x)
-2. Borello-France D, Burgio KL, Richter HE, et al. Fecal and urinary incontinence in primiparous women. *Obstet Gynecol*. 2006. [doi:10.1097/01.AOG.0000232592.82165.78](https://doi.org/10.1097/01.AOG.0000232592.82165.78)
-3. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-4. Hilton P. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
-5. Nygaard I. Stress urinary incontinence. *Obstet Gynecol*. 2004. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
+- Burgio KL, Borello-France D, Richter HE, et al. Risk factors for fecal and urinary incontinence after childbirth. *Am J Gastroenterol*. 2007. [doi:10.1111/j.1572-0241.2007.01364.x](https://doi.org/10.1111/j.1572-0241.2007.01364.x)
+- Borello-France D, Burgio KL, Richter HE, et al. Fecal and urinary incontinence in primiparous women. *Obstet Gynecol*. 2006. [doi:10.1097/01.AOG.0000232592.82165.78](https://doi.org/10.1097/01.AOG.0000232592.82165.78)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Hilton P. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
+- Nygaard I. Stress urinary incontinence. *Obstet Gynecol*. 2004. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
 

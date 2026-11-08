@@ -62,13 +62,13 @@ If leaking is changing how you live your life, it's worth talking to a specialis
 
 ## References
 
-1. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
-2. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
-4. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-5. Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
-6. ACOG/AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
-7. Richter HE, Albo ME, Zyczynski HM, et al. Retropubic versus transobturator midurethral slings for stress incontinence. *N Engl J Med*. 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
-8. Subak LL, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. *N Engl J Med*. 2009. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
-9. AUGS/SUFU. Joint position statement on midurethral slings. *Female Pelvic Med Reconstr Surg*. 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
+- Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- ACOG/AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Richter HE, Albo ME, Zyczynski HM, et al. Retropubic versus transobturator midurethral slings for stress incontinence. *N Engl J Med*. 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
+- Subak LL, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. *N Engl J Med*. 2009. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
+- AUGS/SUFU. Joint position statement on midurethral slings. *Female Pelvic Med Reconstr Surg*. 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
 

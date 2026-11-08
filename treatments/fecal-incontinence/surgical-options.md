@@ -7,7 +7,7 @@ nav_order: 7
 description: "Surgery for fecal incontinence is rarely needed. Why I start with diet, therapy, and sacral neuromodulation, and what the operations involve."
 permalink: /treatments/fecal-incontinence/surgical-options
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 references:
   - author: "Brown HW, Dyer KY, Rogers RG."
     title: "Management of Fecal Incontinence."

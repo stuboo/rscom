@@ -4,7 +4,7 @@ title: Urinary Incontinence Treatments
 parent: Treatments
 nav_order: 1
 description: "Urinary incontinence treatments from bladder training and PT to medications, Botox, bulking, nerve stimulation, and slings, with a table by tier."
-last_evidence_review: 2026-11-05
+last_evidence_review: 2026-11-06
 permalink: /treatments/urinary-incontinence
 last_modified_at: 2026-11-05
 ---

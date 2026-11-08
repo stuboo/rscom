@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-06
 faq:
   - question: "Is Premarin cream the same as estradiol cream?"
     answer: "No, but both are low-dose vaginal estrogen creams and both relieve GSM symptoms. Premarin uses conjugated estrogens and Estrace uses estradiol. Studies comparing vaginal estrogen products against each other have not found a meaningful difference in how well they work."

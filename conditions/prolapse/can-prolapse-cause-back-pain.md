@@ -11,7 +11,7 @@ parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 references:
   - author: "Haylen BT, Maher CF, Barber MD, et al."
     title: "An International Urogynecological Association (IUGA) / International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP)"

@@ -10,7 +10,7 @@ parent_condition_url: /conditions/fecal-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-10-19
 faq:
   - question: "What foods should I avoid with fecal incontinence?"
     answer: "The usual suspects are caffeine, alcohol, spicy food, fatty or greasy food, artificial sweeteners like sorbitol, high-fructose foods, and dairy if you're lactose intolerant. Not everyone reacts to all of them. A food diary is the best way to find your own triggers."

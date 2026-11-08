@@ -84,7 +84,7 @@ faq:
 redirect_from:
   - /conditions/incontinence/what-is-mixed-incontinence
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-10-20
 references:
 - author: "Sung VW, Borello-France D, Newman DK, et al."
   title: "Effect of Behavioral and Pelvic Floor Muscle Therapy Combined With Surgery vs Surgery Alone on Incontinence Symptoms Among Women With Mixed Urinary Incontinence: The ESTEEM Randomized Clinical Trial"

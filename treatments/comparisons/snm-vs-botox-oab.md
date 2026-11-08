@@ -8,7 +8,7 @@ permalink: /treatments/comparisons/snm-vs-botox-oab
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-08
+last_evidence_review: 2026-06-07
 faq:
   - question: "Can I try both before deciding?"
     answer: "In a sense, yes. Many women start with Botox because it's less invasive and wears off on its own. Sacral neuromodulation has a built-in test phase, so you experience the therapy for a couple of weeks before committing to the implant. These aren't either/or for life. If one doesn't suit you, the other is still on the table."

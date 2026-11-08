@@ -7,7 +7,7 @@ nav_order: 4
 description: "How pelvic floor physical therapy helps bowel leakage: what happens at visits, the exercises you do at home, and how long it takes to help."
 permalink: /treatments/fecal-incontinence/physical-therapy
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 references:
   - author: "Wallace SL, Miller LD, Mishra K"
     title: "Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women"

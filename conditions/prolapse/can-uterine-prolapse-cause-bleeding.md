@@ -66,9 +66,9 @@ I never let a prolapse explain away bleeding. Once the bleeding has an answer, t
 
 ## References
 
-1. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-2. Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). *Neurourology and Urodynamics*. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
-3. Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
-4. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
-5. Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
-6. Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary Syndrome of Menopause: AUA/SUFU/AUGS Guideline. *American Urological Association*. 2025.
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Haylen BT, Maher CF, Barber MD, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP). *Neurourology and Urodynamics*. 2016. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+- Hooper GL, Moynihan L, Leegant A, et al. Vaginal Pessary Use and Management for Pelvic Organ Prolapse. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001293](https://doi.org/10.1097/SPV.0000000000001293)
+- Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 Months in Women Treated for Pelvic Organ Prolapse With Pessary or Surgery: Results From the Multicenter Pelvic Floor Disorders Registry. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Chang OH, Carter Ramirez A, Edwards A, et al. The Role of Uterine Preservation at the Time of Pelvic Organ Prolapse Surgery. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001667](https://doi.org/10.1097/SPV.0000000000001667)
+- Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary Syndrome of Menopause: AUA/SUFU/AUGS Guideline. *American Urological Association*. 2025.

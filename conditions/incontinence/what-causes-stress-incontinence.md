@@ -76,12 +76,12 @@ There's no rule that says you have to try conservative options before considerin
 
 ## References
 
-1. DeLancey JOL. The pathophysiology of stress urinary incontinence in women and its implications for surgical treatment. *World J Urol*. 1997;15(5):268-274.
-2. Ashton-Miller JA, Howard D, DeLancey JOL. The functional anatomy of the female pelvic floor and stress continence control system. *Scand J Urol Nephrol Suppl*. 2001;(207):1-7.
-3. Nygaard IE, Heit M. Stress urinary incontinence. *Obstet Gynecol*. 2004;104(3):607-620. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
-4. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
-5. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019;31(6):485-493. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-6. Subak LL, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. *N Engl J Med*. 2009;360(5):481-490. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
-7. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021;384(25):2428-2436. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
-8. Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Female Pelvic Med Reconstr Surg*. 2024;30(11):658-666. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- DeLancey JOL. The pathophysiology of stress urinary incontinence in women and its implications for surgical treatment. *World J Urol*. 1997;15(5):268-274.
+- Ashton-Miller JA, Howard D, DeLancey JOL. The functional anatomy of the female pelvic floor and stress continence control system. *Scand J Urol Nephrol Suppl*. 2001;(207):1-7.
+- Nygaard IE, Heit M. Stress urinary incontinence. *Obstet Gynecol*. 2004;104(3):607-620. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019;31(6):485-493. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Subak LL, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. *N Engl J Med*. 2009;360(5):481-490. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
+- Wu JM. Stress incontinence in women. *N Engl J Med*. 2021;384(25):2428-2436. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Female Pelvic Med Reconstr Surg*. 2024;30(11):658-666. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
 

@@ -73,7 +73,7 @@ faq:
 - question: "What should I do if I think I have urinary incontinence?"
   answer: "Talk with your doctor about it. Leakage is common, and effective treatments are available."
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-09
+last_evidence_review: 2026-11-03
 ---
 
 # Urinary Incontinence
@@ -202,8 +202,8 @@ Urinary incontinence is common, but it's not something you have to accept. Most 
 
 ## References
 
-1. Aoki Y, Brown HW, Brubaker L, Cornu JN, Daly JO, Cartwright R. Urinary incontinence in women. *Nat Rev Dis Primers*. 2017;3:17042. [doi:10.1038/nrdp.2017.42](https://doi.org/10.1038/nrdp.2017.42)
-2. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-3. Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic floor muscle training versus no treatment, or inactive control treatments, for urinary incontinence in women. *Cochrane Database Syst Rev*. 2018;10(10):CD005654. [doi:10.1002/14651858.CD005654.pub4](https://doi.org/10.1002/14651858.CD005654.pub4)
-4. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
-5. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
+- Aoki Y, Brown HW, Brubaker L, Cornu JN, Daly JO, Cartwright R. Urinary incontinence in women. *Nat Rev Dis Primers*. 2017;3:17042. [doi:10.1038/nrdp.2017.42](https://doi.org/10.1038/nrdp.2017.42)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Dumoulin C, Cacciari LP, Hay-Smith EJC. Pelvic floor muscle training versus no treatment, or inactive control treatments, for urinary incontinence in women. *Cochrane Database Syst Rev*. 2018;10(10):CD005654. [doi:10.1002/14651858.CD005654.pub4](https://doi.org/10.1002/14651858.CD005654.pub4)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)

@@ -67,10 +67,10 @@ I discuss these results openly with my patients. Biofeedback has very little dow
 
 ## References
 
-1. Jelovsek JE, Markland AD, Whitehead WE, et al. Controlling anal incontinence in women by performing anal exercises with biofeedback or loperamide: a randomized clinical trial. *Lancet Gastroenterol Hepatol*. 2019. [doi:10.1016/S2468-1253(19)30193-1](https://doi.org/10.1016/S2468-1253(19)30193-1)
-2. Richter HE, Jelovsek JE, Iyer P, et al. Characteristics associated with clinically important treatment responses in women undergoing non-surgical therapy for fecal incontinence. *Am J Gastroenterol*. 2020. [doi:10.14309/ajg.0000000000000482](https://doi.org/10.14309/ajg.0000000000000482)
-3. Brown HW, Dyer KY, Rogers RG. Management of fecal incontinence. *Obstet Gynecol*. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
-4. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
-5. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-6. Sultan AH, Monga A, Lee J, et al. An IUGA/ICS joint report on the terminology for female anorectal dysfunction. *Int Urogynecol J*. 2017. [doi:10.1007/s00192-016-3140-3](https://doi.org/10.1007/s00192-016-3140-3)
+- Jelovsek JE, Markland AD, Whitehead WE, et al. Controlling anal incontinence in women by performing anal exercises with biofeedback or loperamide: a randomized clinical trial. *Lancet Gastroenterol Hepatol*. 2019. [doi:10.1016/S2468-1253(19)30193-1](https://doi.org/10.1016/S2468-1253(19)30193-1)
+- Richter HE, Jelovsek JE, Iyer P, et al. Characteristics associated with clinically important treatment responses in women undergoing non-surgical therapy for fecal incontinence. *Am J Gastroenterol*. 2020. [doi:10.14309/ajg.0000000000000482](https://doi.org/10.14309/ajg.0000000000000482)
+- Brown HW, Dyer KY, Rogers RG. Management of fecal incontinence. *Obstet Gynecol*. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
+- Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Sultan AH, Monga A, Lee J, et al. An IUGA/ICS joint report on the terminology for female anorectal dysfunction. *Int Urogynecol J*. 2017. [doi:10.1007/s00192-016-3140-3](https://doi.org/10.1007/s00192-016-3140-3)
 

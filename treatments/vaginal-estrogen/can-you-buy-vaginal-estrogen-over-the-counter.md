@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-06
 faq:
   - question: "Is there an over-the-counter version of estradiol?"
     answer: "No. In the United States, estradiol vaginal products, including creams, tablets, inserts, and the ring, are government-approved prescription therapies. Over the counter you can buy nonhormonal moisturizers and lubricants, not estradiol."

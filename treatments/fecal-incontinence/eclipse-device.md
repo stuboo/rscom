@@ -8,7 +8,7 @@ description: "The Eclipse System is a vaginal insert with a small balloon you in
 permalink: /treatments/fecal-incontinence/eclipse-device
 published: false
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 references:
   - author: "Meyer I, Richter HE"
     title: "Accidental Bowel Leakage/Fecal Incontinence: Evidence-Based Management"

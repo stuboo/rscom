@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "Is vaginal laser better than estrogen?"
     answer: "No. The 2025 AUA/SUFU/AUGS guideline gives low-dose vaginal estrogen a strong recommendation for the vaginal symptoms of GSM, while concluding that the evidence does not support CO2 laser, Er:YAG laser, or radiofrequency for GSM. In trials that compared laser directly with vaginal estrogen, no treatment was superior to another."

@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 faq:
   - question: "Do I need a referral to see a urogynecologist?"
     answer: "Often not. Many insurance plans let you schedule directly with a urogynecologist, but some require a referral from your primary care doctor. Check with your plan before you book."

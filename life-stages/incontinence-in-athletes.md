@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 faq:
   - question: "Do I need to stop exercising if I'm leaking?"
     answer: "No. Leaking during exercise is far more common than most athletes realize. About 40% of healthy women who have never given birth leak during vigorous exercise. You can keep training while you work on your pelvic floor, and a pelvic floor therapist can help you adjust activities while you build strength and coordination."

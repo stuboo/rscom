@@ -99,16 +99,16 @@ The best repair is the one that fits your symptoms, your health, and what you va
 
 ## References
 
-1. Ferrando CA, Bradley CS, Meyn LA, et al. Twelve-month outcomes of pelvic organ prolapse surgery in patients with uterovaginal or posthysterectomy vaginal prolapse enrolled in the multicenter Pelvic Floor Disorders Registry. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
+- Ferrando CA, Bradley CS, Meyn LA, et al. Twelve-month outcomes of pelvic organ prolapse surgery in patients with uterovaginal or posthysterectomy vaginal prolapse enrolled in the multicenter Pelvic Floor Disorders Registry. Urogynecology. 2023. [doi:10.1097/SPV.0000000000001410](https://doi.org/10.1097/SPV.0000000000001410)
 
-2. Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery: results from the multicenter Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
+- Andy UU, Meyn L, Brown HW, et al. Outcomes at 12, 24, and 36 months in women treated for pelvic organ prolapse with pessary or surgery: results from the multicenter Pelvic Floor Disorders Registry. Urogynecology. 2025. [doi:10.1097/SPV.0000000000001669](https://doi.org/10.1097/SPV.0000000000001669)
 
-3. Barber MD, Brubaker L, Burgio KL, et al. Comparison of two transvaginal surgical approaches and perioperative behavioral therapy for apical vaginal prolapse: the OPTIMAL randomized trial. JAMA. 2014;311(10):1023-1034. [doi:10.1001/jama.2014.1719](https://doi.org/10.1001/jama.2014.1719)
+- Barber MD, Brubaker L, Burgio KL, et al. Comparison of two transvaginal surgical approaches and perioperative behavioral therapy for apical vaginal prolapse: the OPTIMAL randomized trial. JAMA. 2014;311(10):1023-1034. [doi:10.1001/jama.2014.1719](https://doi.org/10.1001/jama.2014.1719)
 
-4. Jelovsek JE, Barber MD, Brubaker L, et al. Effect of uterosacral ligament suspension vs sacrospinous ligament fixation on surgical outcomes and prolapse symptoms at 5 years in the OPTIMAL randomized clinical trial. JAMA. 2018;319(15):1554-1565. [doi:10.1001/jama.2018.2827](https://doi.org/10.1001/jama.2018.2827)
+- Jelovsek JE, Barber MD, Brubaker L, et al. Effect of uterosacral ligament suspension vs sacrospinous ligament fixation on surgical outcomes and prolapse symptoms at 5 years in the OPTIMAL randomized clinical trial. JAMA. 2018;319(15):1554-1565. [doi:10.1001/jama.2018.2827](https://doi.org/10.1001/jama.2018.2827)
 
-5. Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. JAMA. 2013;309(19):2016-2024. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919)
+- Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. JAMA. 2013;309(19):2016-2024. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919)
 
-6. Committee on Practice Bulletins—Gynecology and the American Urogynecologic Society. Pelvic organ prolapse. ACOG Practice Bulletin No. 214. Obstet Gynecol. 2019;134(5):e126-e142. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
+- Committee on Practice Bulletins—Gynecology and the American Urogynecologic Society. Pelvic organ prolapse. ACOG Practice Bulletin No. 214. Obstet Gynecol. 2019;134(5):e126-e142. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
 
-7. Barber MD. Pelvic organ prolapse. BMJ. 2016;354:i3853. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Barber MD. Pelvic organ prolapse. BMJ. 2016;354:i3853. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)

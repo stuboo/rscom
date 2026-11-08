@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-06
 faq:
   - question: "How long can you stay on Premarin cream?"
     answer: "There is no fixed stop date. Premarin vaginal cream is a low-dose vaginal estrogen, and because genitourinary syndrome of menopause is chronic and symptoms recur when treatment stops, most women use it long term with periodic follow-up."

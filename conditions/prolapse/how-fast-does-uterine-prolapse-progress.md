@@ -98,7 +98,7 @@ None of these mean something has gone badly wrong, but they're the signals that 
 
 ## References
 
-1. Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse (ACOG Practice Bulletin No. 214). *Obstetrics & Gynecology*. 2019.
-2. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
-3. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-4. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *The Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse (ACOG Practice Bulletin No. 214). *Obstetrics & Gynecology*. 2019.
+- Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *The Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)

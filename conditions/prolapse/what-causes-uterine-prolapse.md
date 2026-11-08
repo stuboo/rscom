@@ -83,7 +83,7 @@ Diagnosing prolapse takes a history and a pelvic exam, not a scan. Finding it ea
 
 ## References
 
-1. Hilton P, Dolan LM. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG: an International Journal of Obstetrics and Gynaecology*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
-2. Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. *International Urogynecology Journal*. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
-3. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
-4. Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse (Practice Bulletin No. 214). *Obstetrics & Gynecology*. 2019.
+- Hilton P, Dolan LM. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG: an International Journal of Obstetrics and Gynaecology*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
+- Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. *International Urogynecology Journal*. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
+- Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society. Pelvic Organ Prolapse (Practice Bulletin No. 214). *Obstetrics & Gynecology*. 2019.

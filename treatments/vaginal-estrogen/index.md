@@ -8,7 +8,7 @@ description: "Vaginal estrogen for genitourinary syndrome of menopause: what it 
 permalink: /treatments/vaginal-estrogen
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "What does vaginal estrogen cream do?"
     answer: "Vaginal estrogen cream delivers a low dose of estrogen directly to the vaginal tissue, where it reverses the thinning and dryness of genitourinary syndrome of menopause and relieves vaginal dryness, discomfort or irritation, and pain with sex. In women with recurrent urinary tract infections, it also lowers the risk of future infections."

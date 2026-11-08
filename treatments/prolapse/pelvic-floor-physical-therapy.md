@@ -7,7 +7,7 @@ nav_order: 3
 description: "Pelvic floor physical therapy is a non-surgical treatment for pelvic organ prolapse. What a session involves, how long it takes, and whether it's right for you."
 permalink: /treatments/prolapse/pelvic-floor-physical-therapy
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 references:
   - author: "Hagen S, Stark D, Glazener C, et al."
     title: "Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial"

@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 faq:
   - question: "How much weight loss helps incontinence?"
     answer: "In the largest trial, women who lost about 8% of their body weight cut their weekly leaks almost in half. Most of the benefit shows up once you've lost at least 5%. For a 200-pound woman, 5 to 10% is about 10 to 20 pounds."

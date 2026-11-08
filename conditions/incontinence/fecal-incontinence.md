@@ -30,7 +30,7 @@ faq:
 - question: "When should I see a doctor about fecal incontinence?"
   answer: "If you have any bowel leakage, even a little, bring it up with your doctor. Many women wait years before they mention it, and most get better with treatment."
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-09
+last_evidence_review: 2026-10-19
 ---
 
 # Fecal Incontinence
@@ -120,6 +120,6 @@ If you have any bowel leakage, even a little, bring it up with your doctor or ma
 
 ## References
 
-1. Whitehead WE, Borrud L, Goode PS, et al. Fecal incontinence in US adults: epidemiology and risk factors. *Gastroenterology*. 2009;137(2):512-517. [doi:10.1053/j.gastro.2009.04.054](https://doi.org/10.1053/j.gastro.2009.04.054)
-2. Bharucha AE, Dunivan G, Goode PS, et al. Epidemiology, pathophysiology, and classification of fecal incontinence: state of the science summary for the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) workshop. *Am J Gastroenterol*. 2015;110(1):127-136. [doi:10.1038/ajg.2014.396](https://doi.org/10.1038/ajg.2014.396)
-3. Bordeianou LG, Thorsen AJ, Hawkins AT, et al. The ASCRS clinical practice guideline for the management of fecal incontinence. *Dis Colon Rectum*. 2023;66(5):647-661. [doi:10.1097/DCR.0000000000002796](https://doi.org/10.1097/DCR.0000000000002796)
+- Whitehead WE, Borrud L, Goode PS, et al. Fecal incontinence in US adults: epidemiology and risk factors. *Gastroenterology*. 2009;137(2):512-517. [doi:10.1053/j.gastro.2009.04.054](https://doi.org/10.1053/j.gastro.2009.04.054)
+- Bharucha AE, Dunivan G, Goode PS, et al. Epidemiology, pathophysiology, and classification of fecal incontinence: state of the science summary for the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK) workshop. *Am J Gastroenterol*. 2015;110(1):127-136. [doi:10.1038/ajg.2014.396](https://doi.org/10.1038/ajg.2014.396)
+- Bordeianou LG, Thorsen AJ, Hawkins AT, et al. The ASCRS clinical practice guideline for the management of fecal incontinence. *Dis Colon Rectum*. 2023;66(5):647-661. [doi:10.1097/DCR.0000000000002796](https://doi.org/10.1097/DCR.0000000000002796)

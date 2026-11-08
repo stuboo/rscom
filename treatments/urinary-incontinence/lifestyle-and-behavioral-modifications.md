@@ -7,7 +7,7 @@ nav_order: 2
 description: "Fluid timing, diet, weight loss, bladder training, and pelvic floor exercises: lifestyle and behavior changes that can reduce urinary incontinence."
 permalink: /treatments/urinary-incontinence/lifestyle-and-behavioral-modifications
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 ---
 
 # Lifestyle and Behavioral Modifications for Urinary Incontinence

@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "Is estradiol 0.01% cream a low dose?"
     answer: "Yes. Estradiol 0.01% cream contains 0.1 mg of estradiol per gram and is one of the FDA-approved low-dose vaginal estrogen creams for genitourinary syndrome of menopause. The 0.01% is the concentration, not a sign that it is too weak, and at standard doses it keeps blood estradiol within the normal postmenopausal range."

@@ -41,7 +41,7 @@ faq:
   - question: "Is a cystocele dangerous?"
     answer: "No, though it can affect your quality of life. A large cystocele can make it hard to empty your bladder completely, which is something I check for on exam."
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 references:
   - author: "Haylen BT, Maher CF, Barber MD, et al."
     title: "An International Urogynecological Association (IUGA)/International Continence Society (ICS) Joint Report on the Terminology for Female Pelvic Organ Prolapse (POP)"

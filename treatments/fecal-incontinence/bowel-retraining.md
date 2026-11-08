@@ -8,7 +8,7 @@ nav_order: 3
 description: "Bowel retraining builds bowel control with a set toilet schedule, diet changes and pelvic floor exercises. Here are the steps and how long it takes."
 permalink: /treatments/fecal-incontinence/bowel-retraining
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 ---
 
 

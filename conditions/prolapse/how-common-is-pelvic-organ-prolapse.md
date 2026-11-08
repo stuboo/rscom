@@ -68,7 +68,7 @@ But because so much prolapse causes no symptoms, finding it on an exam is not by
 
 ## References
 
-1. Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-2. ACOG/AUGS Practice Bulletin No. 214: Pelvic Organ Prolapse. *Obstetrics & Gynecology*. 2019.
-3. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
-4. Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. *International Urogynecology Journal and Pelvic Floor Dysfunction*. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- ACOG/AUGS Practice Bulletin No. 214: Pelvic Organ Prolapse. *Obstetrics & Gynecology*. 2019.
+- Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Handa VL, Nygaard I, Kenton K, et al. Pelvic organ support among primiparous women in the first year after childbirth. *International Urogynecology Journal and Pelvic Floor Dysfunction*. 2009. [doi:10.1007/s00192-009-0937-3](https://doi.org/10.1007/s00192-009-0937-3)

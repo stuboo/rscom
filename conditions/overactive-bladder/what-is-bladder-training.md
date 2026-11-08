@@ -67,11 +67,11 @@ In one study, women who combined bladder training with pelvic floor muscle thera
 
 ## References
 
-1. Bo K, Frawley HC, Haylen BT, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for the conservative and nonpharmacological management of female pelvic floor dysfunction. *Int Urogynecol J*. 2017;28(2):191-213. [doi:10.1007/s00192-016-3123-4](https://doi.org/10.1007/s00192-016-3123-4)
+- Bo K, Frawley HC, Haylen BT, et al. An International Urogynecological Association (IUGA)/International Continence Society (ICS) joint report on the terminology for the conservative and nonpharmacological management of female pelvic floor dysfunction. *Int Urogynecol J*. 2017;28(2):191-213. [doi:10.1007/s00192-016-3123-4](https://doi.org/10.1007/s00192-016-3123-4)
 
-2. Sung VW, Borello-France D, Newman DK, et al. Effect of behavioral and pelvic floor muscle therapy combined with surgery vs surgery alone on incontinence symptoms among women with mixed urinary incontinence: the ESTEEM randomized clinical trial. *JAMA*. 2019;322(11):1066-1076. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
+- Sung VW, Borello-France D, Newman DK, et al. Effect of behavioral and pelvic floor muscle therapy combined with surgery vs surgery alone on incontinence symptoms among women with mixed urinary incontinence: the ESTEEM randomized clinical trial. *JAMA*. 2019;322(11):1066-1076. [doi:10.1001/jama.2019.12467](https://doi.org/10.1001/jama.2019.12467)
 
-3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 
-4. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 

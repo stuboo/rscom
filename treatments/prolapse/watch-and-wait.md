@@ -7,7 +7,7 @@ nav_order: 2
 description: "Watchful waiting is a reasonable choice for many women with prolapse. Who it suits, what follow-up looks like, and when to consider other treatment."
 permalink: /treatments/prolapse/watch-and-wait
 last_modified_at: 2026-09-23
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 ---
 
 # Watch and Wait for Prolapse

@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-10-17
 faq:
   - question: "How quickly does incontinence progress?"
     answer: "The rate of progression varies widely. Some women have stable mild symptoms for years, while others experience gradual worsening over months. Factors like menopause, weight changes, and activity level can influence how quickly symptoms change."

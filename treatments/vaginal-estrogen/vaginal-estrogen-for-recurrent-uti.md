@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "Does vaginal estrogen stop recurring UTIs?"
     answer: "It reduces how often they come back rather than guaranteeing they stop. In pooled trials of postmenopausal women the relative risk of another UTI was about 0.59, and a Kaiser Permanente review found mean infections fell from 3.9 to 1.8 per year."

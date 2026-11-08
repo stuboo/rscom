@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 faq:
   - question: "Will the leaking get worse if I keep exercising?"
     answer: "Not necessarily, but it won't fix itself either. Continuing to exercise while working with a pelvic floor therapist is the best approach. You fix the weakness without losing fitness."
@@ -58,16 +58,16 @@ Don't let leakage take exercise away from you. Whether you start with pelvic flo
 
 ## References
 
-1. Nygaard IE, Heit M. Stress urinary incontinence. *Obstet Gynecol*. 2004. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
+- Nygaard IE, Heit M. Stress urinary incontinence. *Obstet Gynecol*. 2004. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
 
-2. American Urogynecologic Society (AUGS), Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction (SUFU). Joint position statement on midurethral slings for stress urinary incontinence. *Female Pelvic Med Reconstr Surg*. 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
+- American Urogynecologic Society (AUGS), Society of Urodynamics, Female Pelvic Medicine and Urogenital Reconstruction (SUFU). Joint position statement on midurethral slings for stress urinary incontinence. *Female Pelvic Med Reconstr Surg*. 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
 
-3. ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 
-4. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
 
-5. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
 
-6. Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 
-7. Ashton-Miller JA, Howard D, DeLancey JOL. The functional anatomy of the female pelvic floor and stress continence control system. *Scand J Urol Nephrol Suppl*. 2001.
+- Ashton-Miller JA, Howard D, DeLancey JOL. The functional anatomy of the female pelvic floor and stress continence control system. *Scand J Urol Nephrol Suppl*. 2001.

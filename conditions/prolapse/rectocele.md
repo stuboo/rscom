@@ -38,7 +38,7 @@ faq:
   - question: "Do all rectoceles need surgery?"
     answer: "No. Many rectoceles cause few or no symptoms and don't need any treatment. When symptoms bother you, the options run from fiber and bowel habits to pelvic floor therapy, a pessary, and surgery, and we choose together."
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 ---
 
 # Rectocele (posterior vaginal wall prolapse)

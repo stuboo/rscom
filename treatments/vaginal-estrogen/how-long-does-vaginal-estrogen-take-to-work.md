@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "How quickly does Estrace cream work?"
     answer: "Estrace, an estradiol vaginal cream, follows the same timeline as other low-dose vaginal estrogen. It is typically used nightly for about two weeks, then one to three times a week, with symptoms improving over the first one to two months and full benefit generally by eight to twelve weeks."

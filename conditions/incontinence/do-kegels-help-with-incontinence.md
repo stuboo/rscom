@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-10-19
 faq:
   - question: "How long does it take for Kegels to work?"
     answer: "If you do them correctly and consistently, most women notice improvement in 6-12 weeks. Technique matters, because many women squeeze the wrong muscles without realizing it."

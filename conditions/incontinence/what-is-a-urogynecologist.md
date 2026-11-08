@@ -60,6 +60,6 @@ The word "doctor" comes from the Latin word "docere," meaning "to teach." I want
 
 ## References
 
-1. Erekson EA, Whitcomb EL, Kamdar N, et al. Performance of perioperative tasks for women undergoing anti-incontinence surgery. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001392](https://doi.org/10.1097/SPV.0000000000001392)
-2. Tarnay CM, Ferzandi TR, Northington GM, et al. Information and guidance on the adoption of surgical innovation and technology in urogynecology. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001321](https://doi.org/10.1097/SPV.0000000000001321)
+- Erekson EA, Whitcomb EL, Kamdar N, et al. Performance of perioperative tasks for women undergoing anti-incontinence surgery. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001392](https://doi.org/10.1097/SPV.0000000000001392)
+- Tarnay CM, Ferzandi TR, Northington GM, et al. Information and guidance on the adoption of surgical innovation and technology in urogynecology. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001321](https://doi.org/10.1097/SPV.0000000000001321)
 

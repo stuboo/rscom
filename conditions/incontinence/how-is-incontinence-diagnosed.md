@@ -74,9 +74,9 @@ I try to keep the evaluation as simple as possible. For most women, we can make 
 
 ## References
 
-1. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. doi:10.1001/jama.2017.12137
-2. Nager CW, Brubaker L, Litman HJ, et al. A randomized trial of urodynamic testing before stress-incontinence surgery. *N Engl J Med*. 2012;366(21):1987-1997. doi:10.1056/NEJMoa1113595
-3. ACOG Committee on Gynecologic Practice; American Urogynecologic Society. Evaluation of uncomplicated stress urinary incontinence in women before surgical treatment. *Female Pelvic Med Reconstr Surg*. 2014;20(5):248-251. doi:10.1097/SPV.0000000000000113
-4. ACOG Committee on Practice Bulletins; American Urogynecologic Society. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015;126(5):e66-e81. doi:10.1097/AOG.0000000000001148
-5. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. *Neurourol Urodyn*. 2019;38(2):499-508. doi:10.1002/nau.23917
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. doi:10.1001/jama.2017.12137
+- Nager CW, Brubaker L, Litman HJ, et al. A randomized trial of urodynamic testing before stress-incontinence surgery. *N Engl J Med*. 2012;366(21):1987-1997. doi:10.1056/NEJMoa1113595
+- ACOG Committee on Gynecologic Practice; American Urogynecologic Society. Evaluation of uncomplicated stress urinary incontinence in women before surgical treatment. *Female Pelvic Med Reconstr Surg*. 2014;20(5):248-251. doi:10.1097/SPV.0000000000000113
+- ACOG Committee on Practice Bulletins; American Urogynecologic Society. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015;126(5):e66-e81. doi:10.1097/AOG.0000000000001148
+- Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. *Neurourol Urodyn*. 2019;38(2):499-508. doi:10.1002/nau.23917
 

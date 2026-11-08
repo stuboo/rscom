@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "Should I use vaginal estrogen with my pessary?"
     answer: "Most often, yes. Vaginal estrogen may be considered to help you keep the pessary long term, and one study found women using it were less likely to stop their pessary."

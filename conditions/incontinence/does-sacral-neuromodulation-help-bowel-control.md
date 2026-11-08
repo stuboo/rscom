@@ -50,8 +50,8 @@ For women dealing with both bladder and bowel leakage, the fact that one device 
 
 ## References
 
-1. Meyer I, Richter HE. Evidence-based update on treatments of fecal incontinence in women. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.009](https://doi.org/10.1016/j.ogc.2021.05.009)
-2. Brown HW, et al. Fecal incontinence. In: *Walters & Karram Urogynecology and Reconstructive Pelvic Surgery*. 5th ed. 2020.
-3. Meyer I, Richter HE. Impact of fecal incontinence and its treatment on quality of life in women. *Womens Health*. 2015. [doi:10.2217/whe.14.66](https://doi.org/10.2217/whe.14.66)
-4. Goldman HB, et al. International Continence Society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018. [doi:10.1002/nau.23515](https://doi.org/10.1002/nau.23515)
+- Meyer I, Richter HE. Evidence-based update on treatments of fecal incontinence in women. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.009](https://doi.org/10.1016/j.ogc.2021.05.009)
+- Brown HW, et al. Fecal incontinence. In: *Walters & Karram Urogynecology and Reconstructive Pelvic Surgery*. 5th ed. 2020.
+- Meyer I, Richter HE. Impact of fecal incontinence and its treatment on quality of life in women. *Womens Health*. 2015. [doi:10.2217/whe.14.66](https://doi.org/10.2217/whe.14.66)
+- Goldman HB, et al. International Continence Society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018. [doi:10.1002/nau.23515](https://doi.org/10.1002/nau.23515)
 

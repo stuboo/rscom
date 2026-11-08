@@ -10,7 +10,7 @@ parent_condition_url: /conditions/urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-03-14
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-10-19
 faq:
   - question: "How many physical therapy sessions are needed for incontinence?"
     answer: "Most treatment plans involve 6-12 sessions over 2-3 months, combined with daily home exercises. Many women notice improvement within the first few weeks, with continued gains as muscles strengthen."

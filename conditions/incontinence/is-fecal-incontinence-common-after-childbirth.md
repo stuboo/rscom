@@ -57,12 +57,12 @@ I treat fecal incontinence regularly. I take it seriously, and I can help.
 
 ## References
 
-1. Borello-France D, Burgio KL, Richter HE, et al. Fecal and urinary incontinence in primiparous women. *Obstet Gynecol*. 2006;108(4):863-872. doi:10.1097/01.AOG.0000232592.82165.78
-2. Richter HE, Fielding JR, Bradley CS, et al. Endoanal ultrasound findings and fecal incontinence symptoms in women with and without recognized anal sphincter tears. *Obstet Gynecol*. 2006;108(6):1394-1401. doi:10.1097/01.AOG.0000243776.23210.11
-3. FitzGerald MP, Weber AM, Howden N, Cundiff GW, Brown MB. Risk factors for anal sphincter tear during vaginal delivery. *Obstet Gynecol*. 2007;109(1):29-34. doi:10.1097/01.AOG.0000242611.56491.21
-4. Richter HE, Nager CW, Burgio KL, et al. Incidence and predictors of anal incontinence after obstetric anal sphincter injury in primiparous women. *Female Pelvic Med Reconstr Surg*. 2015;21(4):182-189. doi:10.1097/SPV.0000000000000160
-5. Meyer I, Richter HE. Impact of fecal incontinence and its treatment on quality of life in women. *Womens Health (Lond)*. 2015;11(2):225-238. doi:10.2217/whe.14.66
-6. Goldman HB, Lloyd JC, Noblett KL, et al. International continence society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018;37(4):1823-1848. doi:10.1002/nau.23596
-7. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019;31(6):485-493. doi:10.1097/GCO.0000000000000584
-8. Brown HW, Dyer KY, Rogers RG. Management of fecal incontinence. *Obstet Gynecol*. 2020;136(4):921-936. doi:10.1097/AOG.0000000000004054
+- Borello-France D, Burgio KL, Richter HE, et al. Fecal and urinary incontinence in primiparous women. *Obstet Gynecol*. 2006;108(4):863-872. doi:10.1097/01.AOG.0000232592.82165.78
+- Richter HE, Fielding JR, Bradley CS, et al. Endoanal ultrasound findings and fecal incontinence symptoms in women with and without recognized anal sphincter tears. *Obstet Gynecol*. 2006;108(6):1394-1401. doi:10.1097/01.AOG.0000243776.23210.11
+- FitzGerald MP, Weber AM, Howden N, Cundiff GW, Brown MB. Risk factors for anal sphincter tear during vaginal delivery. *Obstet Gynecol*. 2007;109(1):29-34. doi:10.1097/01.AOG.0000242611.56491.21
+- Richter HE, Nager CW, Burgio KL, et al. Incidence and predictors of anal incontinence after obstetric anal sphincter injury in primiparous women. *Female Pelvic Med Reconstr Surg*. 2015;21(4):182-189. doi:10.1097/SPV.0000000000000160
+- Meyer I, Richter HE. Impact of fecal incontinence and its treatment on quality of life in women. *Womens Health (Lond)*. 2015;11(2):225-238. doi:10.2217/whe.14.66
+- Goldman HB, Lloyd JC, Noblett KL, et al. International continence society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018;37(4):1823-1848. doi:10.1002/nau.23596
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019;31(6):485-493. doi:10.1097/GCO.0000000000000584
+- Brown HW, Dyer KY, Rogers RG. Management of fecal incontinence. *Obstet Gynecol*. 2020;136(4):921-936. doi:10.1097/AOG.0000000000004054
 

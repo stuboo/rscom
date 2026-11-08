@@ -9,7 +9,7 @@ permalink: /treatments/urinary-incontinence/urethral-bulking
 redirect_from:
   - /urethral-bulking-bulkamid/
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-09
+last_evidence_review: 2026-11-03
 ---
 
 # Urethral Bulking for Stress Urinary Incontinence
@@ -84,6 +84,6 @@ If you have stress urinary incontinence and want to talk about whether Bulkamid�
 
 ## References
 
-1. Lose G, Sørensen HC, Axelsen SM, Falconer C, Lobodasch K, Safwat T. An open multicenter study of polyacrylamide hydrogel (Bulkamid®) for female stress and mixed urinary incontinence. *Int Urogynecol J*. 2010;21(12):1471-1477. [doi:10.1007/s00192-010-1220-x](https://doi.org/10.1007/s00192-010-1220-x)
-2. Brosche T, Kuhn A, Gygax B, Hagmann B, Raio L. Seven-year efficacy and safety outcomes of Bulkamid for the treatment of stress urinary incontinence. *Neurourol Urodyn*. 2021;40(1):502-508. [doi:10.1002/nau.24589](https://doi.org/10.1002/nau.24589)
-3. Kasi AD, Pergialiotis V, Perrea DN, Khunda A, Doumouchtsis SK. Polyacrylamide hydrogel (Bulkamid®) for stress urinary incontinence in women: a systematic review of the literature. *Int Urogynecol J*. 2016;27(3):367-375. [doi:10.1007/s00192-015-2781-y](https://doi.org/10.1007/s00192-015-2781-y)
+- Lose G, Sørensen HC, Axelsen SM, Falconer C, Lobodasch K, Safwat T. An open multicenter study of polyacrylamide hydrogel (Bulkamid®) for female stress and mixed urinary incontinence. *Int Urogynecol J*. 2010;21(12):1471-1477. [doi:10.1007/s00192-010-1220-x](https://doi.org/10.1007/s00192-010-1220-x)
+- Brosche T, Kuhn A, Gygax B, Hagmann B, Raio L. Seven-year efficacy and safety outcomes of Bulkamid for the treatment of stress urinary incontinence. *Neurourol Urodyn*. 2021;40(1):502-508. [doi:10.1002/nau.24589](https://doi.org/10.1002/nau.24589)
+- Kasi AD, Pergialiotis V, Perrea DN, Khunda A, Doumouchtsis SK. Polyacrylamide hydrogel (Bulkamid®) for stress urinary incontinence in women: a systematic review of the literature. *Int Urogynecol J*. 2016;27(3):367-375. [doi:10.1007/s00192-015-2781-y](https://doi.org/10.1007/s00192-015-2781-y)

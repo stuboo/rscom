@@ -88,12 +88,12 @@ Not all physical therapists have training in pelvic floor rehab. I recommend loo
 
 ## References
 
-1. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-2. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
-3. Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
-4. ACOG Committee on Practice Bulletins—Gynecology; AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
-5. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-6. Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS best practice statement: evaluation and counseling of patients with pelvic organ prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-7. Richter HE, Burgio KL, Brubaker L, et al. Continence pessary compared with behavioral therapy or combined therapy for stress incontinence. *Obstet Gynecol*. 2010. [doi:10.1097/AOG.0b013e3181d055d4](https://doi.org/10.1097/AOG.0b013e3181d055d4)
-8. Borello-France D, Burgio KL, Goode PS, et al. Adherence to behavioral interventions for stress incontinence: rates, barriers, and predictors. *Phys Ther*. 2013. [doi:10.2522/ptj.20120072](https://doi.org/10.2522/ptj.20120072)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Hagen S, Stark D, Glazener C, et al. Individualised pelvic floor muscle training in women with pelvic organ prolapse (POPPY): a multicentre randomised controlled trial. *Lancet*. 2014. [doi:10.1016/S0140-6736(13)61977-7](https://doi.org/10.1016/S0140-6736(13)61977-7)
+- ACOG Committee on Practice Bulletins—Gynecology; AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. AUGS best practice statement: evaluation and counseling of patients with pelvic organ prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Richter HE, Burgio KL, Brubaker L, et al. Continence pessary compared with behavioral therapy or combined therapy for stress incontinence. *Obstet Gynecol*. 2010. [doi:10.1097/AOG.0b013e3181d055d4](https://doi.org/10.1097/AOG.0b013e3181d055d4)
+- Borello-France D, Burgio KL, Goode PS, et al. Adherence to behavioral interventions for stress incontinence: rates, barriers, and predictors. *Phys Ther*. 2013. [doi:10.2522/ptj.20120072](https://doi.org/10.2522/ptj.20120072)
 

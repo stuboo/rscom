@@ -80,7 +80,7 @@ Patient satisfaction tends to be high even when full cure is not achieved. For m
 
 ## References
 
-1. Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
-2. Collins SA, Swift S, Jha S, et al. Joint report on terminology for surgical procedures to treat stress urinary incontinence in women. *Female Pelvic Med Reconstr Surg*. 2020. [doi:10.1097/SPV.0000000000000831](https://doi.org/10.1097/SPV.0000000000000831)
-3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
-4. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Fleischmann N, Chughtai B, Plair A, et al. Urethral bulking. *Urogynecology*. 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- Collins SA, Swift S, Jha S, et al. Joint report on terminology for surgical procedures to treat stress urinary incontinence in women. *Female Pelvic Med Reconstr Surg*. 2020. [doi:10.1097/SPV.0000000000000831](https://doi.org/10.1097/SPV.0000000000000831)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
+- Wu JM. Stress incontinence in women. *N Engl J Med*. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)

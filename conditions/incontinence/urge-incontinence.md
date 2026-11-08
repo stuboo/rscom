@@ -70,7 +70,7 @@ faq:
 redirect_from:
   - /conditions/incontinence/what-is-urge-incontinence
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 references:
   - author: "Lukacz ES, Santiago-Lastra Y, Albo ME, et al."
     title: "Urinary Incontinence in Women: A Review"

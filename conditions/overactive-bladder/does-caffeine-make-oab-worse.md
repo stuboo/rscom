@@ -67,11 +67,11 @@ I never ask patients to give up everything they enjoy. But caffeine is one of th
 
 ## References
 
-1. ACOG Committee on Practice Bulletins, AUGS, Kenton KS, Smilen SW. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- ACOG Committee on Practice Bulletins, AUGS, Kenton KS, Smilen SW. Urinary incontinence in women (ACOG Practice Bulletin No. 155). *Obstet Gynecol*. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
 
-2. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 
-3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
 
-4. White N, Iglesia CB. Overactive bladder. *Obstet Gynecol Clin North Am*. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
+- White N, Iglesia CB. Overactive bladder. *Obstet Gynecol Clin North Am*. 2016. [doi:10.1016/j.ogc.2015.10.002](https://doi.org/10.1016/j.ogc.2015.10.002)
 

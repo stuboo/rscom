@@ -10,7 +10,7 @@ parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 faq:
   - question: "How fast does prolapse progress?"
     answer: "Most prolapse changes slowly, if at all. In one study, 78% of women with untreated prolapse had no change at 16 months. In a large study of women past menopause, only 11% had their prolapse drop 2 centimeters or more over 3 years, and about 1 in 5 saw it go away on its own."

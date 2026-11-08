@@ -60,7 +60,7 @@ Sleep disruption from nocturia has real consequences: fatigue, mood changes, tro
 
 ## References
 
-1. Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. *Neurourol Urodyn*. 2019;38(2):499-508. [doi:10.1002/nau.23917](https://doi.org/10.1002/nau.23917)
-2. Everaert K, Herve F, Bosch R, et al. International Continence Society consensus on the diagnosis and treatment of nocturia. *Neurourol Urodyn*. 2019;38(2):478-498. [doi:10.1002/nau.23939](https://doi.org/10.1002/nau.23939)
-3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Hashim H, Blanker MH, Drake MJ, et al. International Continence Society (ICS) report on the terminology for nocturia and nocturnal lower urinary tract function. *Neurourol Urodyn*. 2019;38(2):499-508. [doi:10.1002/nau.23917](https://doi.org/10.1002/nau.23917)
+- Everaert K, Herve F, Bosch R, et al. International Continence Society consensus on the diagnosis and treatment of nocturia. *Neurourol Urodyn*. 2019;38(2):478-498. [doi:10.1002/nau.23939](https://doi.org/10.1002/nau.23939)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 

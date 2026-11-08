@@ -63,9 +63,9 @@ Combining these approaches often works better than tackling either one alone. Wh
 
 ## References
 
-1. Dengler KL, High RA, Moga DC, et al. Overactive bladder and cognitive impairment: the AUGS and PFD Research Foundation State-of-the-Science Conference summary report. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
-2. Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
-3. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
-4. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-5. Birder LA. Pathophysiology of interstitial cystitis. *Int J Urol*. 2019. [doi:10.1111/iju.13985](https://doi.org/10.1111/iju.13985)
+- Dengler KL, High RA, Moga DC, et al. Overactive bladder and cognitive impairment: the AUGS and PFD Research Foundation State-of-the-Science Conference summary report. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+- Sanses TVD, Zillioux J, High RA, et al. Evidence-informed, interdisciplinary, multidimensional action plan to advance overactive bladder research and treatment initiatives. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001274](https://doi.org/10.1097/SPV.0000000000001274)
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Birder LA. Pathophysiology of interstitial cystitis. *Int J Urol*. 2019. [doi:10.1111/iju.13985](https://doi.org/10.1111/iju.13985)
 

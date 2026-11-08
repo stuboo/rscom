@@ -7,7 +7,7 @@ nav_order: 3
 description: "Pelvic floor PT treats urinary incontinence without surgery. What a session involves and who benefits, from Green Bay urogynecologist Dr. Ryan Stewart."
 permalink: /treatments/urinary-incontinence/pelvic-floor-physical-therapy
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-04
 ---
 
 # Pelvic Floor Physical Therapy for Urinary Incontinence

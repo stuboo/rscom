@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-07
 faq:
   - question: "Does vaginal estrogen help urge incontinence?"
     answer: "It can, modestly. A large systematic review found vaginal estrogen improved urge urinary incontinence, with moderate-quality evidence. The benefit is real but limited, and it is best used alongside standard overactive bladder care rather than on its own."

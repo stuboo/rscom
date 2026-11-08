@@ -113,10 +113,10 @@ The best treatment is the one that fits your symptoms, your health, and what mat
 
 ## References
 
-1. American Urogynecologic Society and SUFU. Joint Position Statement on Midurethral Slings for Stress Urinary Incontinence. *Female Pelvic Med Reconstr Surg.* 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
-2. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
-3. Richter HE, et al. Retropubic versus Transobturator Midurethral Slings for Stress Incontinence. *N Engl J Med.* 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
-4. Albo ME, et al. Burch Colposuspension versus Fascial Sling to Reduce Urinary Stress Incontinence. *N Engl J Med.* 2007. [doi:10.1056/NEJMoa070218](https://doi.org/10.1056/NEJMoa070218)
-5. Fleischmann N, et al. Urethral Bulking. *Urogynecology.* 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
-6. Wu JM. Stress Incontinence in Women. *N Engl J Med.* 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
-7. ACOG/AUGS. Urinary Incontinence in Women (Practice Bulletin No. 155). *Obstet Gynecol.* 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- American Urogynecologic Society and SUFU. Joint Position Statement on Midurethral Slings for Stress Urinary Incontinence. *Female Pelvic Med Reconstr Surg.* 2021. [doi:10.1097/SPV.0000000000001096](https://doi.org/10.1097/SPV.0000000000001096)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
+- Richter HE, et al. Retropubic versus Transobturator Midurethral Slings for Stress Incontinence. *N Engl J Med.* 2010. [doi:10.1056/NEJMoa0912658](https://doi.org/10.1056/NEJMoa0912658)
+- Albo ME, et al. Burch Colposuspension versus Fascial Sling to Reduce Urinary Stress Incontinence. *N Engl J Med.* 2007. [doi:10.1056/NEJMoa070218](https://doi.org/10.1056/NEJMoa070218)
+- Fleischmann N, et al. Urethral Bulking. *Urogynecology.* 2024. [doi:10.1097/SPV.0000000000001548](https://doi.org/10.1097/SPV.0000000000001548)
+- Wu JM. Stress Incontinence in Women. *N Engl J Med.* 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- ACOG/AUGS. Urinary Incontinence in Women (Practice Bulletin No. 155). *Obstet Gynecol.* 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)

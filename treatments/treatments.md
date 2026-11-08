@@ -2,7 +2,7 @@
 layout: page
 title: Treatments
 description: "Explore treatment options for pelvic floor disorders with Dr. Ryan Stewart in Green Bay, from physical therapy and pessaries to surgery."
-last_evidence_review: 2026-11-05
+last_evidence_review: 2026-11-06
 nav_order: 3
 has_children: true
 permalink: treatments

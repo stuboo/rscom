@@ -10,7 +10,7 @@ permalink: /treatments/urinary-incontinence/sling-procedures
 redirect_from:
   - /mesh-sling-procedures/
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-09
+last_evidence_review: 2026-11-04
 ---
 
 # Sling Procedures for Urinary Incontinence
@@ -94,8 +94,8 @@ One thing to know: sling procedures treat stress incontinence specifically. If y
 
 ## References
 
-1. Ford AA, Rogerson L, Cody JD, Aluko P. Mid-urethral sling operations for stress urinary incontinence in women. *Cochrane Database Syst Rev*. 2017;7(7):CD006375. [doi:10.1002/14651858.CD006375.pub4](https://doi.org/10.1002/14651858.CD006375.pub4)
-2. Brubaker L, Norton PA, Albo ME, et al. Adverse events over two years after retropubic or transobturator midurethral sling surgery: findings from the Trial of Midurethral Slings (TOMUS) study. *Am J Obstet Gynecol*. 2011;205(5):498.e1-6. [doi:10.1016/j.ajog.2011.07.011](https://doi.org/10.1016/j.ajog.2011.07.011)
-3. Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
-4. Stewart JR. Midurethral sling procedures for stress urinary incontinence. In: Pasic RP, Brill AI, eds. *Practical Manual of Minimally Invasive Gynecologic and Robotic Surgery: A Clinical Cook Book*. 3rd ed. CRC Press; 2018.
-5. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Ford AA, Rogerson L, Cody JD, Aluko P. Mid-urethral sling operations for stress urinary incontinence in women. *Cochrane Database Syst Rev*. 2017;7(7):CD006375. [doi:10.1002/14651858.CD006375.pub4](https://doi.org/10.1002/14651858.CD006375.pub4)
+- Brubaker L, Norton PA, Albo ME, et al. Adverse events over two years after retropubic or transobturator midurethral sling surgery: findings from the Trial of Midurethral Slings (TOMUS) study. *Am J Obstet Gynecol*. 2011;205(5):498.e1-6. [doi:10.1016/j.ajog.2011.07.011](https://doi.org/10.1016/j.ajog.2011.07.011)
+- Kobashi KC, Vasavada S, Bloschichak A, et al. Updates to surgical treatment of female stress urinary incontinence (SUI): AUA/SUFU guideline (2023). *J Urol*. 2023;209(6):1091-1098. [doi:10.1097/JU.0000000000003435](https://doi.org/10.1097/JU.0000000000003435)
+- Stewart JR. Midurethral sling procedures for stress urinary incontinence. In: Pasic RP, Brill AI, eds. *Practical Manual of Minimally Invasive Gynecologic and Robotic Surgery: A Clinical Cook Book*. 3rd ed. CRC Press; 2018.
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)

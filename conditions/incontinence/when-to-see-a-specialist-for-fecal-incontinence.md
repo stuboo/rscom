@@ -69,10 +69,10 @@ Fecal incontinence is one of the most undertreated conditions I see. Not because
 
 ## References
 
-1. Brown HW, Dyer KY, Rogers RG. Management of fecal incontinence. *Obstet Gynecol*. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
-2. Meyer I, Richter HE. Impact of fecal incontinence and its treatment on quality of life in women. *Womens Health (Lond)*. 2015. [doi:10.2217/whe.14.66](https://doi.org/10.2217/whe.14.66)
-3. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
-4. Goldman HB, Lloyd JC, Noblett KL, et al. International Continence Society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018. [doi:10.1002/nau.23596](https://doi.org/10.1002/nau.23596)
-5. Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
-6. Jelovsek JE, Markland AD, Whitehead WE, et al. Controlling anal incontinence in women by performing anal exercises with biofeedback or loperamide (CAPABLe). *Lancet Gastroenterol Hepatol*. 2019. [doi:10.1016/S2468-1253(19)30193-1](https://doi.org/10.1016/S2468-1253(19)30193-1)
+- Brown HW, Dyer KY, Rogers RG. Management of fecal incontinence. *Obstet Gynecol*. 2020. [doi:10.1097/AOG.0000000000004054](https://doi.org/10.1097/AOG.0000000000004054)
+- Meyer I, Richter HE. Impact of fecal incontinence and its treatment on quality of life in women. *Womens Health (Lond)*. 2015. [doi:10.2217/whe.14.66](https://doi.org/10.2217/whe.14.66)
+- Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- Goldman HB, Lloyd JC, Noblett KL, et al. International Continence Society best practice statement for use of sacral neuromodulation. *Neurourol Urodyn*. 2018. [doi:10.1002/nau.23596](https://doi.org/10.1002/nau.23596)
+- Wallace SL, Miller LD, Mishra K. Pelvic floor physical therapy in the treatment of pelvic floor dysfunction in women. *Curr Opin Obstet Gynecol*. 2019. [doi:10.1097/GCO.0000000000000584](https://doi.org/10.1097/GCO.0000000000000584)
+- Jelovsek JE, Markland AD, Whitehead WE, et al. Controlling anal incontinence in women by performing anal exercises with biofeedback or loperamide (CAPABLe). *Lancet Gastroenterol Hepatol*. 2019. [doi:10.1016/S2468-1253(19)30193-1](https://doi.org/10.1016/S2468-1253(19)30193-1)
 

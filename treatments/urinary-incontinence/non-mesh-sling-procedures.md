@@ -8,7 +8,7 @@ description: "A non-mesh (autologous fascial) sling uses your own tissue to trea
 permalink: /treatments/urinary-incontinence/non-mesh-sling-procedures
 published: true
 last_modified_at: 2026-09-06
-last_evidence_review: 2026-09-08
+last_evidence_review: 2026-09-06
 faq:
   - question: "How well do non-mesh slings work?"
     answer: "In the SISTEr trial, an autologous fascial sling cured stress leakage in 66% of women at two years, compared with 49% for a Burch colposuspension, and only 2% needed repeat surgery for stress incontinence versus 11%. Single-center series report 85 to 92% success over 3 to 15 years. Cure rates are close to a mesh sling's, roughly 67% versus 74%."

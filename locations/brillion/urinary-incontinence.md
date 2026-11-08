@@ -8,7 +8,7 @@ condition_slug: urinary-incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-08
+last_evidence_review: 2026-06-07
 faq:
   - question: "Is there a urogynecologist near Brillion, WI?"
     answer: "Yes. Dr. Ryan Stewart is a board-certified, fellowship-trained urogynecologist in Green Bay, approximately 30 minutes from Brillion. Telehealth consultations are available."

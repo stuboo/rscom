@@ -38,7 +38,7 @@ faq:
   - question: "How can I prepare for my initial consultation about pelvic organ prolapse?"
     answer: "To prepare for your initial consultation, consider the following steps: 1) Keep a symptom diary noting when and how your symptoms affect you. 2) Write down any questions you have about your condition and treatment options. 3) Make a list of your current medications and any previous treatments you've tried. 4) If possible, gather any relevant medical records (such as past surgeries) or test results. 5) Consider bringing a family member or friend for support and to help remember information."
 last_modified_at: 2026-11-05
-last_evidence_review: 2026-09-09
+last_evidence_review: 2026-11-03
 ---
 
 # Understanding Pelvic Organ Prolapse (POP)
@@ -160,7 +160,7 @@ To get started, schedule an appointment for an evaluation and a treatment plan b
 
 ## References
 
-1. Barber MD, Maher C. Epidemiology and outcome assessment of pelvic organ prolapse. *Int Urogynecol J*. 2013;24(11):1783-1790. [doi:10.1007/s00192-013-2169-9](https://doi.org/10.1007/s00192-013-2169-9)
-2. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. Reaffirmed 2024. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
-3. Hagen S, Stark D. Conservative prevention and management of pelvic organ prolapse in women. *Cochrane Database Syst Rev*. 2011;(12):CD003882. [doi:10.1002/14651858.CD003882.pub4](https://doi.org/10.1002/14651858.CD003882.pub4)
-4. Haylen BT, Maher CF, Barber MD, et al. An IUGA/ICS joint report on the terminology for female pelvic organ prolapse (POP). *Neurourol Urodyn*. 2016;35(2):137-168. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)
+- Barber MD, Maher C. Epidemiology and outcome assessment of pelvic organ prolapse. *Int Urogynecol J*. 2013;24(11):1783-1790. [doi:10.1007/s00192-013-2169-9](https://doi.org/10.1007/s00192-013-2169-9)
+- American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. Reaffirmed 2024. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
+- Hagen S, Stark D. Conservative prevention and management of pelvic organ prolapse in women. *Cochrane Database Syst Rev*. 2011;(12):CD003882. [doi:10.1002/14651858.CD003882.pub4](https://doi.org/10.1002/14651858.CD003882.pub4)
+- Haylen BT, Maher CF, Barber MD, et al. An IUGA/ICS joint report on the terminology for female pelvic organ prolapse (POP). *Neurourol Urodyn*. 2016;35(2):137-168. [doi:10.1002/nau.22922](https://doi.org/10.1002/nau.22922)

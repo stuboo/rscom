@@ -28,7 +28,7 @@ faq:
   - question: "When should I seek medical help for potential vaginal prolapse?"
     answer: "See your healthcare provider if you notice a bulge in or protruding from your vagina, experience persistent pelvic pressure or discomfort, or have difficulty with urination or bowel movements. Early intervention can often lead to better outcomes and may help avoid more invasive treatments."
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 redirect_from:
   - /vaginal-prolapse-symptoms-diagnosis-treatment/
 references:

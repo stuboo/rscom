@@ -61,10 +61,10 @@ You don't have to live with bladder problems just because you're going through m
 
 ## References
 
-1. Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary syndrome of menopause: AUA/SUFU/AUGS guideline. *American Urological Association*. 2025.
-2. Faubion SS, Kingsberg SA, Clark AL, et al. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. *Menopause*. 2020. [doi:10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)
-3. Rahn DD, Carberry C, Sanses TV, et al. Vaginal estrogen for genitourinary syndrome of menopause: a systematic review. *Obstetrics & Gynecology*. 2014. [doi:10.1097/AOG.0000000000000526](https://doi.org/10.1097/AOG.0000000000000526)
-4. Mitchell CM, Reed SD, Diem S, et al. Efficacy of vaginal estradiol or vaginal moisturizer vs placebo for treating postmenopausal vulvovaginal symptoms. *JAMA Internal Medicine*. 2018. [doi:10.1001/jamainternmed.2018.0116](https://doi.org/10.1001/jamainternmed.2018.0116)
-5. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-6. Dengler KL, High RA, Moga DC, et al. Overactive bladder and cognitive impairment. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
-7. Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)
+- Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary syndrome of menopause: AUA/SUFU/AUGS guideline. *American Urological Association*. 2025.
+- Faubion SS, Kingsberg SA, Clark AL, et al. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. *Menopause*. 2020. [doi:10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)
+- Rahn DD, Carberry C, Sanses TV, et al. Vaginal estrogen for genitourinary syndrome of menopause: a systematic review. *Obstetrics & Gynecology*. 2014. [doi:10.1097/AOG.0000000000000526](https://doi.org/10.1097/AOG.0000000000000526)
+- Mitchell CM, Reed SD, Diem S, et al. Efficacy of vaginal estradiol or vaginal moisturizer vs placebo for treating postmenopausal vulvovaginal symptoms. *JAMA Internal Medicine*. 2018. [doi:10.1001/jamainternmed.2018.0116](https://doi.org/10.1001/jamainternmed.2018.0116)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Dengler KL, High RA, Moga DC, et al. Overactive bladder and cognitive impairment. *Urogynecology*. 2023. [doi:10.1097/SPV.0000000000001272](https://doi.org/10.1097/SPV.0000000000001272)
+- Meyer I, Richter HE. Accidental bowel leakage/fecal incontinence: evidence-based management. *Obstet Gynecol Clin North Am*. 2021. [doi:10.1016/j.ogc.2021.05.003](https://doi.org/10.1016/j.ogc.2021.05.003)

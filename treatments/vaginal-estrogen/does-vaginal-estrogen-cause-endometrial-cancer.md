@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-03
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-06
 faq:
   - question: "Do I need progesterone with vaginal estrogen?"
     answer: "No. When low-dose vaginal estrogen is used, a progestogen is not indicated. Absorption into the bloodstream is minimal, so the estrogen acts on the vaginal tissue rather than building up the uterine lining."

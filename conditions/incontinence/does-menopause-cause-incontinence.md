@@ -61,9 +61,9 @@ A lot of my menopausal patients are surprised by how much better things get with
 
 ## References
 
-1. Faubion SS, Kingsberg SA, Clark AL, et al. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. *Menopause*. 2020. [doi:10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)
-2. Rahn DD, Carberry C, Sanses TV, et al. Vaginal estrogen for genitourinary syndrome of menopause: a systematic review. *Obstet Gynecol*. 2014. [doi:10.1097/AOG.0000000000000526](https://doi.org/10.1097/AOG.0000000000000526)
-3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-4. Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary syndrome of menopause: AUA/SUFU/AUGS guideline. *American Urological Association*. 2025.
-5. Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
+- Faubion SS, Kingsberg SA, Clark AL, et al. The 2020 genitourinary syndrome of menopause position statement of The North American Menopause Society. *Menopause*. 2020. [doi:10.1097/GME.0000000000001609](https://doi.org/10.1097/GME.0000000000001609)
+- Rahn DD, Carberry C, Sanses TV, et al. Vaginal estrogen for genitourinary syndrome of menopause: a systematic review. *Obstet Gynecol*. 2014. [doi:10.1097/AOG.0000000000000526](https://doi.org/10.1097/AOG.0000000000000526)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Kaufman MR, Ackerman AL, Amin KA, et al. Genitourinary syndrome of menopause: AUA/SUFU/AUGS guideline. *American Urological Association*. 2025.
+- Cameron AP, Chung DE, Dielubanza EJ, et al. The AUA/SUFU guideline on the diagnosis and treatment of idiopathic overactive bladder. *J Urol*. 2024;212(1):11-20. [doi:10.1097/JU.0000000000003985](https://doi.org/10.1097/JU.0000000000003985)
 

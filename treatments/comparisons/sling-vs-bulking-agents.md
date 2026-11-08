@@ -8,7 +8,7 @@ permalink: /treatments/comparisons/sling-vs-bulking-agents
 nav_exclude: true
 published: true
 last_modified_at: 2026-06-07
-last_evidence_review: 2026-09-08
+last_evidence_review: 2026-06-07
 faq:
   - question: "Which procedure has a higher success rate?"
     answer: "The midurethral sling has higher cure rates than bulking agents. Slings cure most women and the support holds up for years. Bulking is less likely to make you fully dry, but many women still feel much improved, and it can be repeated."

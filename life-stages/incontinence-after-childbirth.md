@@ -9,7 +9,7 @@ condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 faq:
   - question: "Will postpartum incontinence go away on its own?"
     answer: "Sometimes. Up to 34% of women leak urine after giving birth, and some get better over the first year as the tissues heal. But leaking that is still there a few months out tends to stay. In one long-term study, 92% of women who leaked 3 months after delivery were still leaking 5 years later. If you're still leaking at 3 months, it probably won't go away without treatment."

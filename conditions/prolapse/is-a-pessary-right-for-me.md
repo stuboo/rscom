@@ -10,7 +10,7 @@ parent_condition_url: /conditions/pelvic-organ-prolapse
 nav_exclude: true
 published: true
 last_modified_at: 2026-11-08
-last_evidence_review: 2026-11-08
+last_evidence_review: 2026-11-07
 references:
   - author: "Hooper GL, Moynihan L, Leegant A, et al."
     title: "Vaginal Pessary Use and Management for Pelvic Organ Prolapse"

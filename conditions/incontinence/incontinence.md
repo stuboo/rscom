@@ -84,6 +84,6 @@ Every patient is different, so we work together to figure out what makes sense f
 
 ## References
 
-1. Aoki Y, Brown HW, Brubaker L, Cornu JN, Daly JO, Cartwright R. Urinary incontinence in women. *Nat Rev Dis Primers*. 2017;3:17042. [doi:10.1038/nrdp.2017.42](https://doi.org/10.1038/nrdp.2017.42)
-2. Whitehead WE, Borrud L, Goode PS, et al. Fecal incontinence in US adults: epidemiology and risk factors. *Gastroenterology*. 2009;137(2):512-517. [doi:10.1053/j.gastro.2009.04.054](https://doi.org/10.1053/j.gastro.2009.04.054)
-3. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Aoki Y, Brown HW, Brubaker L, Cornu JN, Daly JO, Cartwright R. Urinary incontinence in women. *Nat Rev Dis Primers*. 2017;3:17042. [doi:10.1038/nrdp.2017.42](https://doi.org/10.1038/nrdp.2017.42)
+- Whitehead WE, Borrud L, Goode PS, et al. Fecal incontinence in US adults: epidemiology and risk factors. *Gastroenterology*. 2009;137(2):512-517. [doi:10.1053/j.gastro.2009.04.054](https://doi.org/10.1053/j.gastro.2009.04.054)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)

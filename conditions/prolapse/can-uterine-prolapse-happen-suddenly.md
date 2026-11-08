@@ -11,7 +11,7 @@ nav_exclude: true
 redirect_from:
   - /can-uterine-prolapse-happen-suddenly/
 last_modified_at: 2026-09-23
-last_evidence_review: 2026-09-23
+last_evidence_review: 2026-11-03
 ---
 
 
@@ -94,7 +94,7 @@ You don't need to wait until symptoms are bad. Make an appointment if you have p
 
 ## References
 
-1. Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Tulikangas P. Pelvic Organ Prolapse: ACOG Practice Bulletin No. 214 (Interim Update). *Obstetrics & Gynecology*. 2019.
-2. Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
-3. Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
-4. Hilton P, Dolan LM. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG: An International Journal of Obstetrics and Gynaecology*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)
+- Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Tulikangas P. Pelvic Organ Prolapse: ACOG Practice Bulletin No. 214 (Interim Update). *Obstetrics & Gynecology*. 2019.
+- Carberry CL, Tulikangas PK, Ridgeway BM, et al. American Urogynecologic Society Best Practice Statement: Evaluation and Counseling of Patients With Pelvic Organ Prolapse. *Urogynecology*. 2025. [doi:10.1097/SPV.0000000000001641](https://doi.org/10.1097/SPV.0000000000001641)
+- Barber MD. Pelvic organ prolapse. *BMJ*. 2016. [doi:10.1136/bmj.i3853](https://doi.org/10.1136/bmj.i3853)
+- Hilton P, Dolan LM. Pathophysiology of urinary incontinence and pelvic organ prolapse. *BJOG: An International Journal of Obstetrics and Gynaecology*. 2004. [doi:10.1111/j.1471-0528.2004.00505.x](https://doi.org/10.1111/j.1471-0528.2004.00505.x)

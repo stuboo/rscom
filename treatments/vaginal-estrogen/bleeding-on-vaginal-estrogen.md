@@ -10,7 +10,7 @@ parent_condition_url: /treatments/vaginal-estrogen
 nav_exclude: true
 published: true
 last_modified_at: 2026-09-06
-last_evidence_review: 2026-09-03
+last_evidence_review: 2026-09-06
 faq:
   - question: "Can vaginal estrogen cause bleeding?"
     answer: "Not in the way people worry about. It's a local treatment with very little absorbed into the bloodstream, so it doesn't raise the risk of endometrial hyperplasia or cancer and isn't an expected cause of uterine bleeding. Fragile tissue can spot when it's touched, but any bleeding after menopause should be evaluated on its own rather than blamed on the estrogen."
