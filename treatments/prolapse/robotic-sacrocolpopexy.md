@@ -11,7 +11,7 @@ published: true
 redirect_from:
   - /da-vinci-robotic-sacrocolpopexy/
 last_modified_at: 2026-03-15
-last_evidence_review: 2026-09-09
+last_evidence_review: 2026-11-08
 ---
 
 # Robotic Sacrocolpopexy for Pelvic Organ Prolapse
@@ -52,7 +52,7 @@ Sacrocolpopexy is widely considered the most durable surgical option for apical 
 
 Most patients go home the same day or after one night in the hospital. Pain is managed with medications, and your first follow-up visit is typically at 6 weeks.
 
-I don't give patients a long list of postoperative restrictions. Instead, I tell them to let their body be their guide. If it hurts, don't do it. Research by Mueller and Kenton has shown that strict activity restrictions after prolapse surgery don't improve outcomes, and most patients do well with a common-sense approach to getting back to their normal routine.
+I don't give patients a long list of postoperative restrictions. Instead, I tell them to let their body be their guide. If it hurts, don't do it. A randomized trial by Mueller and colleagues found that strict activity restrictions after prolapse surgery don't improve outcomes, and most patients do well with a common-sense approach to getting back to their normal routine.
 
 Full recovery takes about 6-8 weeks. Most patients tell me they're surprised by how quickly they bounce back compared to what they expected.
 
@@ -98,7 +98,7 @@ That depends on the type and degree of your prolapse, your symptoms, your health
 
 ## References
 
-1. Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. *JAMA*. 2013;309(19):2016-2024. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919)
-2. Anger JT, Mueller ER, Tarnay C, et al. Robotic compared with laparoscopic sacrocolpopexy: a randomized controlled trial. *Obstet Gynecol*. 2014;123(1):5-12. [doi:10.1097/AOG.0000000000000006](https://doi.org/10.1097/AOG.0000000000000006)
-3. Mueller MG, Lewicky-Gaupp C, Collins SA, et al. Activity restriction recommendations and outcomes after reconstructive pelvic surgery: a randomized controlled trial. *Obstet Gynecol*. 2017;129(4):608-614. [doi:10.1097/AOG.0000000000001940](https://doi.org/10.1097/AOG.0000000000001940)
-4. American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. Reaffirmed 2024. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
+- Nygaard I, Brubaker L, Zyczynski HM, et al. Long-term outcomes following abdominal sacrocolpopexy for pelvic organ prolapse. *JAMA*. 2013;309(19):2016-2024. [doi:10.1001/jama.2013.4919](https://doi.org/10.1001/jama.2013.4919)
+- Anger JT, Mueller ER, Tarnay C, et al. Robotic compared with laparoscopic sacrocolpopexy: a randomized controlled trial. *Obstet Gynecol*. 2014;123(1):5-12. [doi:10.1097/AOG.0000000000000006](https://doi.org/10.1097/AOG.0000000000000006)
+- Mueller MG, Lewicky-Gaupp C, Collins SA, et al. Activity restriction recommendations and outcomes after reconstructive pelvic surgery: a randomized controlled trial. *Obstet Gynecol*. 2017;129(4):608-614. [doi:10.1097/AOG.0000000000001924](https://doi.org/10.1097/AOG.0000000000001924)
+- American College of Obstetricians and Gynecologists/American Urogynecologic Society. Pelvic Organ Prolapse. ACOG Practice Bulletin No. 214. *Obstet Gynecol*. 2019;134(5):e126-e142. Reaffirmed 2024. [doi:10.1097/AOG.0000000000003519](https://doi.org/10.1097/AOG.0000000000003519)
