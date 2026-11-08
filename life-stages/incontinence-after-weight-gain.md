@@ -3,68 +3,92 @@ layout: persona
 title: "Can Weight Gain Cause Bladder Leakage?"
 parent: Life Stages & Pelvic Health
 nav_order: 10
-description: "Extra weight presses on your bladder all day. Women with a BMI of 30 to 34 are about 3 times as likely to leak, and losing 5 to 10% can cut leaks nearly in half."
+description: "Extra weight presses on your bladder all day. Women with a BMI of 30 to 34 are about 3 times as likely to have severe stress leaks, and losing about 8% can cut leaks nearly in half."
 permalink: /life-stages/incontinence-after-weight-gain
 condition_name: Urinary Incontinence
 nav_exclude: true
 published: true
-last_modified_at: 2026-11-05
-last_evidence_review: 2026-05-16
+last_modified_at: 2026-11-08
+last_evidence_review: 2026-11-08
 faq:
   - question: "How much weight loss helps incontinence?"
-    answer: "A 5-10% reduction in body weight can cut incontinence episodes roughly in half. For a 200-pound woman, that's about 10-20 pounds."
+    answer: "In the largest trial, women who lost about 8% of their body weight cut their weekly leaks almost in half. Most of the benefit shows up once you've lost at least 5%. For a 200-pound woman, 5 to 10% is about 10 to 20 pounds."
   - question: "Should I lose weight before surgery?"
-    answer: "No. Weight loss can help, but it should not delay your evaluation or treatment. We can address weight and incontinence at the same time."
+    answer: "No. Weight loss can help, but the benefit is modest and often fades within a year or two. It should not delay your evaluation or treatment. We can work on weight and leakage at the same time."
   - question: "Does weight loss help all types of incontinence?"
-    answer: "It helps stress incontinence the most. Research shows a 58% drop in stress leakage episodes with about 8% body weight loss. Urge incontinence may also improve, though the evidence there is less consistent."
+    answer: "It helps stress incontinence the most. In the largest trial, stress leaks dropped 58% with about 8% weight loss. Urge leaks dropped too, but not clearly more than in women who lost very little weight."
 redirect_from:
   - /conditions/incontinence/does-weight-affect-incontinence
 ---
 
 # Urinary incontinence and weight
 
-If you've noticed bladder leakage that started or got worse with weight gain, there's a direct connection. Extra weight puts ongoing pressure on your pelvic floor. It's one of the most common modifiable risk factors for leakage. The good news: even modest weight loss can make a real difference.
+If your bladder leaks started or got worse as you gained weight, the two are connected. Extra weight puts steady pressure on your pelvic floor. Weight is also one of the few risk factors for leaking that you can change, and even a modest loss can help.
 
 ## Why this happens
 
-Extra abdominal weight presses down on your bladder and pelvic floor all day long. Over time, this steady pressure strains the support structures and can worsen all types of incontinence, including stress, urge, and mixed. It makes it harder for the urethra to stay closed when pressure spikes with a cough or a lift, and it raises baseline pressure on the bladder, which can add to urgency and frequency.
+Extra weight around your belly presses down on your bladder and pelvic floor all day long. That makes it harder for the urethra to stay closed when pressure spikes with a cough, a sneeze, or a lift. This is stress incontinence, and it's the type most tied to weight. Extra weight may add to urgency too, though the link with urge leaking is less clear.
 
-There is a dose-response relationship between BMI and stress incontinence. Women with a BMI of 30-34 are about 3 times more likely to have stress leakage than women at a normal BMI. At a BMI over 40, the risk is about 5 times higher.
+The more weight, the higher the risk. In a large Norwegian survey, women with a BMI of 30 to 34 were about 3 times as likely to have severe stress leaks as women with a BMI under 25. At a BMI of 40 or more, the risk was about 5 times higher.
 
 ## What the research shows
 
-In a large trial (the PRIDE study), women who lost about 8% of their body weight saw a 47% drop in weekly leakage episodes over 6 months. Stress incontinence episodes fell by 58%, and about 1 in 4 women had their stress leakage go away completely. Women in the comparison group, who lost only about 1.6% of their weight, saw a 28% drop.
+In the largest trial, called PRIDE, women who lost about 8% of their body weight over 6 months had 47% fewer leaks per week. Women in the comparison group lost only about 1.6% of their weight and had 28% fewer leaks.
 
-A 5-10% reduction in body weight is the threshold where benefits become clear. For a 200-pound woman, that's roughly 10-20 pounds.
+Stress leaks dropped the most, by 58%, and about 1 in 4 women stopped having stress leaks completely (compared with about 1 in 5 in the comparison group). Urge leaks dropped by 42%, but that wasn't clearly better than the comparison group.
 
-One important thing to know: these benefits can fade over time if weight is regained. In follow-up studies, the improvement in leakage was no longer different between groups at 18 months to 5 years when weight crept back up. Maintaining the weight loss matters.
+Most of the benefit shows up once you've lost at least 5% of your body weight. For a 200-pound woman, 5 to 10% is about 10 to 20 pounds.
+
+The benefit tends to fade. In PRIDE, the gap in stress leaks between the two groups had closed by 18 months, even though the weight-loss group had kept off more weight. Other long-term studies found no difference at 5 years. Most people regain 1 to 2 kilograms (2 to 4 pounds) a year after a weight-loss program, which may explain part of it.
+
+Weight-loss surgery may help too, but the evidence is weaker because no randomized trials exist. In one large study, 5 years after surgery, 38% of women had leaking, compared with 58% of women with obesity who didn't have surgery.
 
 ## Signs you should seek help
 
-- Bladder leaking that started or worsened with weight gain
-- Leakage that keeps you from exercising or being active
-- Symptoms that haven't improved with weight changes alone
+- Bladder leaking that started or got worse with weight gain
+- Leaking that keeps you from exercising or being active
+- Leaking that hasn't improved after losing weight
 
 ## Treatment options
 
-We don't use a one-size-fits-all approach. Together, we figure out which combination of options makes sense for you.
+Weight loss is one option. You don't have to lose weight, or try and fail any other treatment, before you choose the one you want. The right treatment depends on the type of leaking. Stress leaking happens when you cough, sneeze, laugh, or exercise. Urge leaking comes with a sudden need to go. Many women have both, and then we start with whichever bothers you more. We decide together based on your symptoms and goals.
 
-- Weight management: even 10-20 pounds of loss can cut leakage episodes roughly in half
-- Pelvic floor physical therapy: this goes beyond Kegels to include strength, coordination, endurance, relaxation, and work on your hips, core, and breathing patterns. We have in-office pelvic floor PTs who can guide you through a full program.
-- Combined approach: addressing weight alongside other incontinence treatments often works better than either alone
-- Evaluation by a specialist: you do not need to lose weight before getting help. We can start treatment right away while working on weight together.
+For any type of leaking:
+
+- Weight loss: losing about 5 to 10% of your body weight can cut leaks, though the effect may not last
+- [Pelvic floor physical therapy](/treatments/urinary-incontinence/pelvic-floor-physical-therapy): a pelvic floor PT works on strength, relaxation, and coordination of the pelvic floor, along with your hips, core, and breathing. We have in-office pelvic floor physical therapists who work closely with our team.
+
+For stress leaking:
+
+- A pessary or vaginal insert that supports the urethra during exercise
+- [Urethral bulking](/treatments/urinary-incontinence/urethral-bulking), an in-office injection that helps the urethra close
+- A [midurethral sling](/treatments/urinary-incontinence/sling-procedures). Expert guidance says a sling may work a little less well in women with obesity, but it's still a good option.
+
+For urge leaking:
+
+- Bladder training: spacing out bathroom trips and adjusting fluids and caffeine
+- [Medication](/treatments/urinary-incontinence/medications)
+- [Botox](/treatments/urinary-incontinence/botox-injections) injected into the bladder, which lasts about 6 to 9 months
+- [Nerve stimulation](/treatments/urinary-incontinence/neuromodulation): sacral neuromodulation, a small implanted device whose battery lasts 10 to 15 years, or a [tibial nerve implant](/treatments/urinary-incontinence/altaviva) placed near the ankle
+
+## How I approach it
+
+When a patient tells me her leaks got worse as she gained weight, I bring it up, because it's one thing she can change. I don't make weight loss a condition of treatment. If you want to work on weight, we can start PT or another treatment at the same time, and we'll see how much better you get from each.
+
+Your weight shouldn't decide whether you get help for leaking.
 
 ## Your next steps
 
-If leakage is bothering you, it's worth getting an evaluation no matter where you are with your weight. A urogynecologist can help you sort through what's contributing and build a plan that fits your life.
+If leaking bothers you, get it evaluated wherever you are with your weight. A urogynecologist can sort out what type of leaking you have and what's driving it, and build a plan that fits your life.
 
 [Learn more about urinary incontinence](/conditions/urinary-incontinence)
 
 ## References
 
-1. Subak LL, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. *N Engl J Med*. 2009;360(5):481-490. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
-2. Yazdany T, Jakus-Waldman S, Jeppson PC, et al. American Urogynecologic Society systematic review: the impact of weight loss intervention on lower urinary tract symptoms and urinary incontinence in overweight and obese women. *Female Pelvic Med Reconstr Surg*. 2020;26(1):16-29. [doi:10.1097/SPV.0000000000000802](https://doi.org/10.1097/SPV.0000000000000802)
-3. ACOG/AUGS. Urinary incontinence in women (Practice Bulletin No. 155). *Obstet Gynecol*. 2015;126(5):e66-e81. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
-4. Lukacz ES, Santiago-Lastra Y, Albo ME, Brubaker L. Urinary incontinence in women: a review. *JAMA*. 2017;318(16):1592-1604. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
-5. Wu JM. Stress incontinence in women. *N Engl J Med*. 2021;384(25):2428-2436. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
-6. Nygaard IE, Heit M. Stress urinary incontinence. *Obstet Gynecol*. 2004;104(3):607-620. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
+- Subak LL, Wing R, West DS, et al. Weight loss to treat urinary incontinence in overweight and obese women. New England Journal of Medicine. 2009. [doi:10.1056/NEJMoa0806375](https://doi.org/10.1056/NEJMoa0806375)
+- Yazdany T, Jakus-Waldman S, Jeppson PC, et al. American Urogynecologic Society systematic review: the impact of weight loss intervention on lower urinary tract symptoms and urinary incontinence in overweight and obese women. Female Pelvic Medicine & Reconstructive Surgery. 2020. [doi:10.1097/SPV.0000000000000802](https://doi.org/10.1097/SPV.0000000000000802)
+- ACOG Committee on Practice Bulletins—Gynecology, American Urogynecologic Society, Kenton KS, et al. Urinary incontinence in women (ACOG Practice Bulletin No. 155). Obstetrics & Gynecology. 2015. [doi:10.1097/AOG.0000000000001148](https://doi.org/10.1097/AOG.0000000000001148)
+- Lukacz ES, Santiago-Lastra Y, Albo ME, et al. Urinary incontinence in women: a review. JAMA. 2017. [doi:10.1001/jama.2017.12137](https://doi.org/10.1001/jama.2017.12137)
+- Wu JM. Stress incontinence in women. New England Journal of Medicine. 2021. [doi:10.1056/NEJMcp1914037](https://doi.org/10.1056/NEJMcp1914037)
+- Nygaard IE, Heit M. Stress urinary incontinence. Obstetrics & Gynecology. 2004. [doi:10.1097/01.AOG.0000137874.84862.94](https://doi.org/10.1097/01.AOG.0000137874.84862.94)
+- Kobashi KC, Albo ME, Dmochowski RR, et al. Surgical treatment of female stress urinary incontinence: AUA/SUFU guideline. The Journal of Urology. 2017. [doi:10.1016/j.juro.2017.06.061](https://doi.org/10.1016/j.juro.2017.06.061)
