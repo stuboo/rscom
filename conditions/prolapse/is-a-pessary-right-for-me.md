@@ -100,7 +100,7 @@ The most common types are:
 - Ring pessary: the most popular choice. It can usually stay in during sex, and it's easy to take out and clean on your own.
 - Ring with support: adds a membrane across the center for more support.
 - Gellhorn: fills more space and gives stronger support. It's hard to take out on your own, so it usually isn't a good fit if you're sexually active.
-- Cube: holds on with gentle suction. It has to come out often, so it can require frequent visits to the office or self management.
+- Cube: holds on with gentle suction. If you can take it out and put it back yourself, you can manage it at home. If you can't, I'll see you on a regular schedule to check the vaginal tissue.
 
 Ring and Gellhorn pessaries relieve symptoms equally well in research studies. I usually start with a ring because most women find it the easiest to live with.
 
