@@ -9,7 +9,7 @@ permalink: /treatments/fecal-incontinence/sacral-nerve-stimulation
 redirect_from:
   - /sacral-nerve-stimulation-interstim/
   - /how-long-does-interstim-last/
-last_modified_at: 2026-03-15
+last_modified_at: 2026-11-21
 last_evidence_review: 2026-11-08
 references:
   - author: "Meyer I, Richter HE"
@@ -49,6 +49,19 @@ The device sends gentle pulses along the wire. The pulses seem to change the sig
 SNM is a minimally invasive procedure. You get to test it before anything permanent goes in. If you change your mind later, the device can be turned off or taken out.
 
 Studies have followed women with SNM for years, and the improvement tends to last. For some women, it means they can avoid a bigger operation.
+
+If you leak urine as well as stool, SNM moves up the list. One device can treat both.
+
+In November 2026, one of my patients told her story to WFRV Local 5 in Green Bay. She'd had urinary and bowel leakage for about 30 years. After SNM, she made the two-hour drive to my office without stopping once.
+
+{% include video-facade.html
+   id="wfrv-snm"
+   title="HealthWatch: How a nerve stimulator helped Upper Peninsula woman with urinary and bowel incontinence"
+   embed="https://redir1.wfrv.com/nxs-video/vid-anvato-12385147/embed/"
+   thumb="https://www.wfrv.com/wp-content/uploads/sites/70/2026/11/snapshot-2026-11-18T174817.266.jpg?w=1280"
+   href="https://www.wfrv.com/healthwatch/sacral-nerve-stimulator-treatment/"
+   source="WFRV Local 5"
+   caption="WFRV Local 5 HealthWatch, November 18, 2026." %}
 
 ## What to expect
 
