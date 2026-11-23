@@ -76,7 +76,7 @@ So when I name a specific device or medication on this site, it's because it's o
 My work and commentary have been covered by national and regional outlets:
 
 - [WFRV Local 5](https://www.wfrv.com/healthwatch/sacral-nerve-stimulator-treatment/) — "HealthWatch: How a nerve stimulator helped Upper Peninsula woman with urinary and bowel incontinence" (Green Bay)
-- [FOX 11 Field House](https://www.facebook.com/AuroraBayCare/videos/stress-urinary-incontinence/2286470308542034/) — "Stress urinary incontinence" (with Aurora BayCare, Green Bay)
+- [FOX 11 Field House](https://fox11online.com/on-fox-11/fox-11-field-house/field-house-friday-november-21-2025) — "Stress urinary incontinence" (with Aurora BayCare, Green Bay)
 - [The New York Times](https://www.nytimes.com/2023/01/12/well/doctors-office-design.html) — "How Would You Redesign Your Doctor's Office?"
 - [The Washington Post](https://www.washingtonpost.com/gender-identity/how-would-you-change-your-obgyn-visits-this-tweet-got-3000-responses/) — "How would you change your OB/GYN visits? This tweet got 3,000 responses."
 - [Fortune](https://fortune.com/2021/12/07/gynecologist-twitter-question/) — "A gynecologist asked Twitter for office design help. The answers he got were about a troubled health care system."

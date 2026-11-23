@@ -60,10 +60,12 @@
   Most of these are Indianapolis/Louisville-era coverage that was resolving him
   off-site to the wrong city; naming the article without a geo keeps the brand-
   authority signal while denying it a location claim, so the Aurora BayCare NPI
-  entry in sameAs stays the dominant Green Bay corroborator. The FOX 11 Field
-  House VideoObject is the exception and the reason it leads the array: it is
-  current Green Bay coverage whose publisher is Aurora BayCare, so it reinforces
-  the correct location and practice rather than muddying them.
+  entry in sameAs stays the dominant Green Bay corroborator. The WFRV and FOX 11
+  Field House pieces are the exception and the reason they lead the array: they
+  are current Green Bay coverage that names Aurora BayCare, so they reinforce
+  the correct location and practice rather than muddying them. The FOX 11 node
+  points at WLUK's own story page; Aurora BayCare's Facebook repost of the same
+  clip rides along as the video's sameAs.
 {%- endcomment -%}
 <script type="application/ld+json">
 {
@@ -146,11 +148,22 @@
       }
     },
     {
-      "@type": "VideoObject",
-      "name": "Stress urinary incontinence — FOX 11 Field House",
-      "description": "Dr. Ryan Stewart, a urogynecologist at Aurora BayCare Medical Center in Green Bay, discusses stress urinary incontinence on the FOX 11 Field House: how common it is, its causes, and treatment options from pelvic floor therapy to minimally invasive surgery.",
-      "url": "https://www.facebook.com/AuroraBayCare/videos/stress-urinary-incontinence/2286470308542034/",
-      "publisher": { "@type": "Organization", "name": "Aurora BayCare Medical Center" }
+      "@type": "NewsArticle",
+      "headline": "Field House Friday: November 21, 2025",
+      "url": "https://fox11online.com/on-fox-11/fox-11-field-house/field-house-friday-november-21-2025",
+      "datePublished": "2025-11-21",
+      "publisher": { "@type": "Organization", "name": "WLUK FOX 11" },
+      "video": {
+        "@type": "VideoObject",
+        "name": "Stress urinary incontinence — FOX 11 Field House",
+        "description": "Dr. Ryan Stewart, a urogynecologist at Aurora BayCare Medical Center in Green Bay, discusses stress urinary incontinence on the FOX 11 Field House: how common it is, its causes, and treatment options from pelvic floor therapy to minimally invasive surgery.",
+        "uploadDate": "2025-11-21T14:17:24-06:00",
+        "duration": "PT1M21S",
+        "thumbnailUrl": "https://fox11online.com/resources/media2/16x9/1280/1320/center/90/32967195-bfee-4ee3-bf7a-0ab62f3e08eb-d4589a01f4e742abb0952bb63f87dbef.png",
+        "contentUrl": "https://harvest-media-clips.sinclairstoryline.com/UPLOAD/2025-11-21T20:11:44.927Z/Live-DVR/0e6423d4-1fbd-4abc-a476-646a60df5318/mp4/index.mp4",
+        "sameAs": "https://www.facebook.com/AuroraBayCare/videos/stress-urinary-incontinence/2286470308542034/",
+        "publisher": { "@type": "Organization", "name": "WLUK FOX 11" }
+      }
     },
     {
       "@type": "NewsArticle",
